@@ -1,9 +1,27 @@
-from typing import List
+from typing import List, Dict
 from fastapi import Depends, FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
 
-from . import crud, models, schemas
+from . import crud, models, schemas, meal_planner, calendar_sync
 from .database import SessionLocal
+
+app = FastAPI()
+
+origins = [
+    "http://localhost:3000",
+    "http://localhost:8000",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Dependency
 def get_db():
     db = SessionLocal()
     try:
@@ -37,3 +55,25 @@ def create_ingredient_for_recipe(
 def read_ingredients_for_recipe(recipe_id: int, db: Session = Depends(get_db)):
     ingredients = crud.get_ingredients_by_recipe(db, recipe_id=recipe_id)
     return ingredients
+
+@app.get("/meal-plan/", response_model=Dict[str, schemas.Recipe])
+def get_meal_plan(db: Session = Depends(get_db)):
+    plan = meal_planner.generate_weekly_plan(db)
+    return plan
+
+@app.post("/meal-plan/sync/")
+def sync_meal_plan(db: Session = Depends(get_db)):
+    # Note: Full Google OAuth2 flow is required here to get the 'service' object.
+    # For now, this is a placeholder for the sync logic.
+    plan = meal_planner.generate_weekly_plan(db)
+    # calendar_sync.sync_plan_to_calendar(plan, google_service)
+    return {"status": "Sync feature implemented. OAuth2 configuration required."}
+
+@app.get("/pantry/", response_model=List[schemas.PantryItem])
+def read_pantry_items(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
+    items = crud.get_pantry_items(db, skip=skip, limit=limit)
+    return items
+
+@app.post("/pantry/", response_model=schemas.PantryItem)
+def create_pantry_item(item: schemas.PantryItemCreate, db: Session = Depends(get_db)):
+    return crud.create_pantry_item(db=db, item=item)

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Pressure-Cooker Bolognase</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+            <p itemprop="recipeCategory" class="categories">Italian</p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Difficulty: </b><span itemprop="difficulty">Medium</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Makes 5 to 6 Cups</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://smile.amazon.com/Try-This-Home-Recipes-Plate-ebook/dp/B009JU6UPQ">
+                        <span itemprop="author">Richard Blais</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>3</strong> tablespoons olive oil</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> pound boneless pork or veal shoulder, chopped into 1/2-inch pieces</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> pound sweet or spicy Italian bulk sausage</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> large yellow onion, finely chopped</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> carrots, finely diced</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> stalk celery, finely diced</p><p class="line" itemprop="recipeIngredient"><strong>6</strong> garlic cloves, minced</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> bay leaf</p><p class="line" itemprop="recipeIngredient">Kosher salt and freshly ground black pepper to taste</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons tomato paste</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup dry red wine</p><p class="line" itemprop="recipeIngredient">One 28-ouce can San Marzano tomatoes, crushed with your hands</p><p class="line" itemprop="recipeIngredient"><strong>20</strong> fresh basil leaves</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons balsamic vinegar, or more to taste</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">1. Heat olive oil in a pressure cooker over medium-high heat. Add the pork and cook, stirring, until well browned, 5 to 6 minutes. Remove the meat from the pot with a slotted spoon and set aside. Add the sausage to the pot and cook, stirring, and breaking it up into very small clumps until browned, 4 to 5 minutes. Use a slotted spoon to remove the sausage and set aside with the pork.<br/>2. Add the onion, carrots and celery to the pot and cook, stirring, until very soft, about 5 minutes. Add the garlic and bay leaf, stir, and cook for 2 minutes more. Season the vegetables with salt and pepper, add the tomato paste, and stir until the paste begins to caramelize, 2 to 3 minutes.<br/>3. Carefully pour the wine into the pot and bring to a simmer, scraping up any browned bits on the bottom of the pot. Cook until the liquid is reduced by half, 2 to 3 minutes. Add the crushed tomatoes, crushing more in a pot, return the browned meat and sausage to the pot, and stir well.<br/>4. Attache the pressure cooker lid, reduce the hat to medium, and cook until the pot begins to hiss. Reduce the heat to medium-low and cook for 45 minutes. If the pot is not hissing, raise the temperature slightly until it does.<br/>5. Remove the pot from the heat and let stand until the pressure has released ad the lid unlocks. Remove the lid, return the pot to low heat, and simmer for 20 minutes, uncovered, to thicken the sauce. Stir in the basil and balsamic vinegar. Taste and adjust the seasoning with salt, pepper and/or vinegar.<br/>6. Allow the Bolognese to cool completely. Use right away or transfer to airtight containers and refrigerate for up to 1 week or freeze for up to 3 months.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

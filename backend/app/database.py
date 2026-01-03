@@ -1,8 +1,11 @@
 from sqlalchemy import create_engine
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import declarative_base
 from sqlalchemy.orm import sessionmaker
+import os
 
-SQLALCHEMY_DATABASE_URL = "postgresql://user:password@postgresserver/db"
+# Default to local postgres on Mac (Homebrew)
+# If this fails, try: "postgresql://jsilton@localhost/silton_mise"
+SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://localhost/silton_mise")
 
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL

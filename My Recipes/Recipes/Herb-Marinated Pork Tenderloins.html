@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/4/1/BX0205_herb-marinated-pork-tenderloins_s4x3.jpg.rend.hgtvcom.826.620.suffix/1405369799969.jpeg">
+                <img src="Images/DC5CD8EE-6A16-4454-A081-EA5B350B4D02-53164-0000135D5F27AF52/2B951C42-F0E9-47D2-9534-1797E6B059E0-53164-0000135ED5888B19.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Herb-Marinated Pork Tenderloins</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">10 min</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">15 min</span>
+            
+            <b>Difficulty: </b><span itemprop="difficulty">Easy</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Yield: 6 servings</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://www.foodnetwork.com/recipes/ina-garten/herb-marinated-pork-tenderloins-recipe-1948375">
+                        <span itemprop="author">foodnetwork.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>1</strong> lemon, zest grated</p><p class="line" itemprop="recipeIngredient"><strong>3/4</strong> cup freshly squeezed lemon juice (4 to 6 lemons)</p><p class="line" itemprop="recipeIngredient">Good olive oil</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons minced garlic (6 cloves)</p><p class="line" itemprop="recipeIngredient"><strong>1 1/2</strong> tablespoons minced fresh rosemary leaves</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tablespoon chopped fresh thyme leaves</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> teaspoons Dijon mustard</p><p class="line" itemprop="recipeIngredient">Kosher salt</p><p class="line" itemprop="recipeIngredient"><strong>3</strong> pork tenderloins (about 1 pound each)</p><p class="line" itemprop="recipeIngredient">Freshly ground black pepper</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Combine the lemon zest, lemon juice, 1/2 cup olive oil, garlic, rosemary, thyme, mustard, and 2 teaspoons salt in a sturdy 1-gallon resealable plastic bag. Add the pork tenderloins and turn to coat with the marinade. Squeeze out the air and seal the bag. Marinate the pork in the refrigerator for at least 3 hours but preferably overnight.</p><p class="line">Preheat the oven to 400 degrees F.</p><p class="line">Remove the tenderloins from the marinade and discard the marinade but leave the herbs that cling to the meat. Sprinkle the tenderloins generously with salt and pepper. Heat 3 tablespoons olive oil in a large oven-proof saute pan over medium-high heat. Sear the pork tenderloins on all sides until golden brown. Place the saute pan in the oven and roast the tenderloins for 10 to 15 minutes or until the meat registers 137 degrees F at the thickest part. Transfer the tenderloins to a platter and cover tightly with aluminum foil. Allow to rest for 10 minutes. Carve in 1/2-inch-thick diagonal slices. The thickest part of the tenderloin will be quite pink (it&apos;s just fine!) and the thinnest part will be well done. Season with salt and pepper and serve warm, or at room temperature with the juices that collect in the platter.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+<div class="nutritionbox textbox">
+    <h3 class="subhead">Nutrition</h3>
+    <div itemprop="nutrition" class="nutrition text">
+        <p>Calories: 335 calorie<br/>Total Fat: 14 grams<br/>Saturated Fat: 3 grams<br/>Cholesterol: 147 milligrams<br/>Sodium: 461 milligrams<br/>Carbohydrates: 2 grams<br/>Protein: 48 grams<br/>Sugar: 0 grams</p>
+    </div>
+</div>
+
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>
