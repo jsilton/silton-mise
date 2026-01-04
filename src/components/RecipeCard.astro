@@ -13,6 +13,7 @@ interface Recipe {
     dietary?: string[];
     cookingMethods?: string[];
     occasions?: string[];
+    flavorProfile?: string[];
     prepTime?: string;
     cookTime?: string;
     ingredients?: string[];
@@ -41,6 +42,7 @@ const primaryDietaryTag = recipe.data.dietary?.find((d) => d === 'vegetarian' ||
   data-dietary={recipe.data.dietary?.join(',')}
   data-cooking-methods={recipe.data.cookingMethods?.join(',')}
   data-occasions={recipe.data.occasions?.join(',')}
+  data-flavor-profile={recipe.data.flavorProfile?.join(',')}
   data-prep-time={recipe.data.prepTime}
 >
   <div class="p-4 flex flex-col h-full">

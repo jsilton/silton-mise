@@ -23,6 +23,8 @@ const uniqueFilters = {
   dietary: Array.from(new Set(recipes.flatMap(r => r.data.dietary || []))).sort(),
   cookingMethods: Array.from(new Set(recipes.flatMap(r => r.data.cookingMethods || []))).sort(),
   occasions: Array.from(new Set(recipes.flatMap(r => r.data.occasions || []))).sort(),
+  flavorProfiles: Array.from(new Set(recipes.flatMap(r => r.data.flavorProfile || []))).sort(),
+  seasons: Array.from(new Set(recipes.flatMap(r => r.data.seasons || []))).sort(),
 };
 
 // Format values for display (capitalize)
@@ -43,7 +45,7 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
     </div>
 
     <!-- Filter Controls Grid -->
-    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-7 gap-3">
       <!-- Difficulty Filter -->
       <div class="flex flex-col gap-1">
         <label for="filterDifficulty" class="text-xs font-medium text-slate-600">Difficulty</label>
@@ -102,6 +104,17 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
         </select>
       </div>
 
+      <!-- Flavor Profile Filter -->
+      <div class="flex flex-col gap-1">
+        <label for="filterFlavor" class="text-xs font-medium text-slate-600">Flavor</label>
+        <select
+          id="filterFlavor"
+          class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+        >
+          <option value="">All</option>
+        </select>
+      </div>
+
       <!-- Sort By -->
       <div class="flex flex-col gap-1">
         <label for="sortBy" class="text-xs font-medium text-slate-600">Sort By</label>
@@ -126,6 +139,7 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
       dietary: document.getElementById('filterDietary'),
       cookingMethod: document.getElementById('filterCookingMethod'),
       occasion: document.getElementById('filterOccasion'),
+      flavor: document.getElementById('filterFlavor'),
     };
 
     if (selects.cuisine && uniqueFilters.cuisines.length > 0) {
@@ -159,8 +173,17 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
       uniqueFilters.occasions.forEach((occasion) => {
         const option = document.createElement('option');
         option.value = occasion;
-        option.textContent = occasion.charAt(0).toUpperCase() + occasion.slice(1);
+        option.textContent = occasion.charAt(0).toUpperCase() + occasion.slice(1).replace(/-/g, ' ');
         selects.occasion.appendChild(option);
+      });
+    }
+
+    if (selects.flavor && uniqueFilters.flavorProfiles.length > 0) {
+      uniqueFilters.flavorProfiles.forEach((flavor) => {
+        const option = document.createElement('option');
+        option.value = flavor;
+        option.textContent = flavor.charAt(0).toUpperCase() + flavor.slice(1);
+        selects.flavor.appendChild(option);
       });
     }
   }
@@ -172,6 +195,7 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
     dietary: '',
     cookingMethod: '',
     occasion: '',
+    flavor: '',
     sortMode: 'title',
   };
 
@@ -181,6 +205,7 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
     window.filterState.dietary = document.getElementById('filterDietary').value;
     window.filterState.cookingMethod = document.getElementById('filterCookingMethod').value;
     window.filterState.occasion = document.getElementById('filterOccasion').value;
+    window.filterState.flavor = document.getElementById('filterFlavor').value;
     window.filterState.sortMode = document.getElementById('sortBy').value;
   };
 
@@ -205,6 +230,10 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
     window.updateFilterState();
     window.applyFiltersAndSort?.();
   });
+  document.getElementById('filterFlavor')?.addEventListener('change', () => {
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
   document.getElementById('sortBy')?.addEventListener('change', () => {
     window.updateFilterState();
     window.applyFiltersAndSort?.();
@@ -213,6 +242,11 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
   document.getElementById('resetFilters')?.addEventListener('click', () => {
     document.getElementById('filterDifficulty').value = '';
     document.getElementById('filterCuisine').value = '';
+    document.getElementById('filterDietary').value = '';
+    document.getElementById('filterCookingMethod').value = '';
+    document.getElementById('filterOccasion').value = '';
+    document.getElementById('filterFlavor').value = '';
+    document.getElementById('sortBy').value = 'title';
     document.getElementById('filterDietary').value = '';
     document.getElementById('filterCookingMethod').value = '';
     document.getElementById('filterOccasion').value = '';
