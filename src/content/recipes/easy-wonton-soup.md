@@ -1,43 +1,37 @@
 ---
 title: Easy Wonton Soup
-prepTime: 15 min
-cookTime: 15 min
-servings: 'Yield: 4'
-ingredients:
-  - 6 cups chicken broth low sodium
-  - '1- inch piece fresh ginger, sliced thin'
-  - 1 clove minced garlic
-  - '20 mini frozen wontons, I love the Chicken Cilantro one’s from Trader Joe’s'
-  - 1 1/2 cups sliced shiitake mushrooms
-  - '4 baby bok choy, halved lengthwise and halved'
-  - 1 tablespoon soy sauce
-  - 1 teaspoon sesame oil
-  - 'scallions, sliced green parts only for garnish'
-totalTime: 30 min
 role: main
-vibe: project
+vibe: speed
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '4'
+ingredients:
+  - '20 Mini Frozen Wontons (Trader Joe’s or H-Mart)'
+  - '6 cups Low-sodium Chicken Broth'
+  - '1-inch piece Fresh Ginger, smashed'
+  - '1 clove Garlic, smashed'
+  - '4 Baby Bok Choy, halved'
+  - '1 1/2 cups Shiitake Mushrooms, sliced'
+  - '1 tbsp Soy Sauce'
+  - '1 tsp Toasted Sesame Oil'
+  - '--- For Garnish ---'
+  - 'Scallions, sliced green parts only'
+  - 'White Pepper'
 ---
+
+## Chef's Note
+This is the ultimate 25-minute "Speed" meal. The secret to making store-bought broth taste like a restaurant version is **The Aromatic Smasher Pattern**: instead of mincing ginger and garlic, we smash them with the side of a knife. This releases the essential oils into the broth during the simmer without adding gritty textures. We maintain **Texture Integrity** by adding the wontons and bok choy together at the end; this ensures the greens stay vibrant and the wonton skins keep their "Snap."
 
 ## Directions
 
-1. Bring chicken broth to a boil in a large pot.
-2. Smash the sliced ginger with the side of a knife to bring out the flavor and add to the pot with the garlic, cover and cook 5 minutes.
-3. Add the bok choy and partially cook 5 minutes, then add the frozen wontons and mushroom, simmer for 2 to 3 minutes, until the wontons are heated through and bok choy is tender and wilted.
-4. Stir in soy sauce and sesame oil.
-5. Divide soup in four bowls. Garnish with fresh scallions.
-
-## Nutrition
-
-- Calories: 136kcal
-- Carbohydrates: 22.5g
-- Protein: 9g
-- Fat: 2g
-- Saturated Fat: 0.5g
-- Cholesterol: 6.5mg
-- Sodium: 1218mg
-- Fiber: 2.5g
-- Sugar: 5g
+1.  **Infuse:** In a large pot, bring the chicken broth to a boil. Add the smashed ginger and garlic. Reduce heat and simmer for 5 minutes.
+2.  **Add Veg:** Add the halved bok choy and sliced mushrooms. Simmer for 3 minutes until the mushrooms begin to soften.
+3.  **Wontons:** Add the frozen wontons. Simmer for 2-3 minutes until they float and are heated through.
+4.  **Finish:** Stir in the soy sauce and toasted sesame oil. Add a pinch of white pepper for the mandatory **High Note**.
+5.  **Serve:** Divide into bowls, ensuring everyone gets 5 wontons. Garnish with fresh scallions.
 
 ## Serving Suggestions
-
-Grilled Cheese, Crusty Bread
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)

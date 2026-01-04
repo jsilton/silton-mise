@@ -1,71 +1,37 @@
 ---
-title: Easy Overnight Oats
-prepTime: 5 min
-cookTime: 485 min
-servings: 'Servings: 1'
-ingredients:
-  - BASE OVERNIGHT OATS
-  - 1/2 cup rolled oats
-  - '1/2 cup milk, dairy or dairy-free'
-  - '1/4 cup Greek yogurt, or dairy-free yogurt'
-  - 1 tablespoon chia seeds
-  - 1 tablespoon honey or maple syrup
-  - BANANA BREAD
-  - '1/2 banana, mashed'
-  - 2 tablespoon chopped walnuts
-  - 1/2 teaspoon vanilla extract
-  - 1/2 teaspoon cinnamon
-  - pinch of ground flaxseed
-  - SPICED PEAR
-  - '1/2 pear, diced'
-  - 1 tablespoon chopped pecans
-  - 1/2 teaspoon cinnamon
-  - pinch of nutmeg
-  - PB&J
-  - 2 tablespoon raspberry jam or puree
-  - '1 tablespoon peanut butter , or almond butter'
-  - 1 teaspoon chopped pistachios
-  - PINA COLADA
-  - 1/4 cup small diced pineapple
-  - 1 tablespoon shredded coconut
-  - 1/4 teaspoon vanilla extract
-  - CARROT CAKE
-  - 1/4 cup shredded carrot
-  - 1 tablespoon shredded coconut
-  - 1 tablespoon raisins
-  - 1/2 teaspoon vanilla extract
-  - 1/2 teaspoon cinnamon
-  - STRAWBERRY PROTEIN
-  - 1/4 cup small diced strawberry
-  - 1 scoop protein powder or collagen powder
-  - 1 tablespoon sliced almonds
-  - 1/2 teaspoon vanilla extract
-totalTime: 490 min
+title: Easy Overnight Oats (The Base Standard)
 role: main
 vibe: fuel
+prepTime: 5 min
+cookTime: 480 min
+totalTime: 485 min
+servings: '1'
+ingredients:
+  - '--- The Gold Standard Base ---'
+  - '1/2 cup Rolled Oats'
+  - '1/2 cup Milk of choice (Coconut or Soy preferred)'
+  - '1/4 cup Greek Yogurt (The "Bounce" Hack)'
+  - '1 tbsp Chia Seeds'
+  - '1 tbsp Maple Syrup or Honey'
+  - '--- Optional Flavor Stacks ---'
+  - '**Banana Bread:** 1/2 Banana + Walnuts + Cinnamon'
+  - '**PB&J:** 1 tbsp Peanut Butter + Raspberry Jam'
+  - '**Carrot Cake:** 1/4 cup Shredded Carrot + Raisins'
 ---
+
+## Chef's Note
+Overnight oats are the foundation of **Modularity** in our kitchen. The secret to the Silton Standard is the **8-Hour Hydration Pattern**: while 2 hours will work in a pinch, a full 8-hour soak allows the beta-glucans in the oats to fully emulsify with the yogurt and milk, creating a "Bounce" that is creamy rather than chalky. We use **The Greek Yogurt Hack** to provide sustained "Fuel" and a thick, pudding-like consistency. Always add your "Snap" ingredients (nuts, fresh fruit) just before eating to maintain **Texture Integrity**.
 
 ## Directions
 
-1. Add all the ingredients into a sealable jar or bowl and give it a stir until it's all combined.
-2. Let it soak in the fridge for at least 2 hours, but it's best to soak overnight for 8 hours. This will yield a creamier consistency.
-3. Top your overnight oats with your favorite toppings and enjoy!
-4. LISA'S TIPS
-5. If you make a large batch in a bowl, once it's set and thickened overnight scoop out 1 cup for a single serving.
+1.  **The Base:** In a 16-oz mason jar or sealable container, combine oats, milk, yogurt, chia seeds, and sweetener.
+2.  **Flavor Stack:** Stir in your chosen flavor ingredients (mashed banana, spices, nut butters).
+3.  **Shake:** Seal the lid and shake vigorously for 10 seconds to ensure the chia seeds are evenly distributed.
+4.  **The Long Set:** Refrigerate for **at least 8 hours** (overnight is best).
+5.  **The Snap:** In the morning, give it one final stir. Top with fresh berries, nuts, or granola just before serving.
+6.  **Store:** These will keep in the fridge for up to 5 days—perfect for Batch Cooking.
 
-## Notes
-
-\*note: use coconut milk in the base recipe
-
-## Nutrition
-
-- Calories: 308kcal
-- Carbohydrates: 48g
-- Protein: 12g
-- Fat: 8g
-- Saturated Fat: 1g
-- Trans Fat: 1g
-- Cholesterol: 3mg
-- Sodium: 104mg
-- Fiber: 8g
-- Sugar: 14g
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Fresh Sliced Fruit
+-   [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)

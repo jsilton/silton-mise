@@ -1,23 +1,34 @@
 ---
-title: Easy Spinach Gnocchi
-prepTime: 15 min
-cookTime: 5 min
-servings: '4'
-ingredients:
-  - 1 10-pz package frozen spinach
-  - 1 ½ cups ricotta cheese whole-milk
-  - ¾ cup parmesan cheese grated
-  - 1 1/4 cup whole-wheat flour + more for dusting
-  - 1 egg
-  - salt to taste
-  - pepper to taste
-totalTime: 20 min
+title: Easy Spinach Gnocchi (Gnudi)
 role: main
 vibe: speed
+prepTime: 15 min
+cookTime: 5 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '10 oz Frozen Spinach, defrosted'
+  - '1 1/2 cups Whole-Milk Ricotta'
+  - '3/4 cup Parmesan, freshly grated'
+  - '1 1/4 cups Whole-Wheat Flour (plus extra for dusting)'
+  - '1 large Egg'
+  - 'Salt and Black Pepper'
+  - 'Pinch of Nutmeg (The "High Note")'
 ---
+
+## Chef's Note
+These "Gnudi" are the lighter, pillowy cousin of the potato gnocchi. The secret to the Silton Standard is **Texture Integrity** through the **Dry Squeeze Pattern**: you must squeeze the defrosted spinach in a towel until it is **bone-dry**. Any excess moisture will require more flour, which turns the gnocchi into leaden pucks. We use **Whole-Milk Ricotta** for a rich "Bounce" and a pinch of **Nutmeg** as the mandatory high note to bridge the cheese and greens.
 
 ## Directions
 
-1. Defrost the frozen spinach and squeeze out ALL excess liquid. Put the spinach, ricotta, parmesan, flour and egg in the food processor and pulse until well combined.
-2. Plop the dough in one pile on a floured cutting board. Sprinkle more flour on top until the dough no longer sticks to your hands. Divide into 3 or 4 pieces and roll each one into a thin log about 1-inch in diameter. Cut the logs into 1 to 1 ½” sized chunks and toss with a little more flour.
-3. Bring a large pot of water to a boil and slide in the pieces of dough. Cook until all are floating and done all the way through when cut in half, about 3 to 5 minutes. Drain and toss with salt and pepper, to taste. Serve with either a high quality store bought tomato sauce or a homemade one.
+1.  **The Squeeze:** Defrost spinach and squeeze in a kitchen towel until no liquid remains. 
+2.  **The Mix:** In a food processor, pulse the dry spinach, ricotta, Parmesan, flour, egg, nutmeg, and salt until a sticky dough forms. Do not over-process.
+3.  **The Shape:** Transfer dough to a floured board. Sprinkle with more flour until it no longer sticks to your hands. Divide into 4 logs (1-inch thick). 
+4.  **Cut:** Slice logs into 1-inch chunks. Toss lightly with flour.
+5.  **Boil:** Bring a large pot of salted water to a boil. Drop gnocchi in. They are done when they float to the surface (3-5 mins).
+6.  **Serve:** Drain gently. Serve immediately with a high-quality tomato sauce or brown butter and sage.
+
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+-   [Garlic Bread](/recipes/garlic-bread)

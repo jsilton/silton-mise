@@ -1,29 +1,35 @@
 ---
-title: Elderberry Syrup
+title: Elderberry Syrup (The Immune Standard)
+role: drink
+vibe: project
 prepTime: 5 min
 cookTime: 60 min
-servings: Yield 1 quart
-ingredients:
-  - 2/3 cup dried black elderberries (about 3 ounces)
-  - 3 1/2 cups of water
-  - 2 Tablespoons fresh or dried ginger root
-  - 1 teaspoon cinnamon powder
-  - 1/2 teaspoon cloves or clove powder
-  - 1 cup raw honey (we get from our farmer's market)
 totalTime: 65 min
-role: drink
-vibe: comfort
+servings: '1 quart'
+ingredients:
+  - '2/3 cup Dried Black Elderberries'
+  - '3 1/2 cups Water'
+  - '2 tbsp Fresh Ginger, minced'
+  - '1 tsp Ground Cinnamon'
+  - '1/2 tsp Whole Cloves'
+  - '--- The Raw Stabilizer ---'
+  - '1 cup Raw Honey (Local preferred)'
 ---
+
+## Chef's Note
+This is a baseline **Modularity** component for seasonal wellness. The secret to the Silton Standard is the **Reduction Cycle Pattern**: we simmer the berries until the liquid has decreased by exactly half, concentrating the anthocyanins into a potent base. The most critical step is the **Honey Stabilization**: you must wait until the syrup is lukewarm before adding the honey. This preserves the natural enzymes and probiotics in the raw honey that would be destroyed by heat.
 
 ## Directions
 
-1. Pour water into medium saucepan and add elderberries, ginger, cinnamon and cloves (do not add honey!)
-2. Bring to a boil and then cover and reduce to a simmer for about 45 minutes to an hour until the liquid has reduced by almost half. At that point, remove from heat and let cool enough to be handled. Mash the berries carefully using a spoon or other flat utensil. Pour through a strainer into a glass jar or bowl.
-3. Discard the elderberries (or compost them!) and let the liquid cool to lukewarm. When it is no longer hot, add 1 cup of honey and stir well.
-4. When honey is well mixed into the elderberry mixture, pour the syrup into a quart sized mason jar or 16 ounce glass bottle of some kind.
-5. Ta Da! You just made homemade elderberry syrup! Store in the fridge and take daily for its immune boosting properties. Some sources recommend taking only during the week and not on the weekends to boost immunity.
-6. Standard dose is ½ tsp to 1 tsp for kids and ½ Tbsp to 1 Tbsp for adults. If the flu does strike, take the normal dose every 2-3 hours instead of once a day until symptoms disappear.
+1.  **Concentrate:** In a medium saucepan, combine water, elderberries, ginger, cinnamon, and cloves. 
+2.  **Simmer:** Bring to a boil, then reduce heat to low and cover. Simmer for 45-60 minutes until the liquid has reduced by half.
+3.  **Mash:** Remove from heat. Use a flat utensil or potato masher to crush the berries, releasing any remaining juice.
+4.  **Strain:** Pour the mixture through a fine-mesh sieve or cheesecloth into a clean glass jar. Press firmly on the solids. Discard the berries.
+5.  **Stabilize:** Let the liquid cool until it is lukewarm (below 110°F). Stir in the raw honey until completely dissolved and integrated.
+6.  **Store:** Seal the jar and store in the refrigerator for up to 2 months. 
+7.  **Dose:** Standard Silton dose is 1 tsp daily for kids, 1 tbsp for adults.
 
-## Notes
-
-Instant Pot option: Put all ingredients in pot, seal lid, and set manually for 9 minutes on high pressure. Vent pressure and strain.
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
+-   Stirred into Seltzer or Tea

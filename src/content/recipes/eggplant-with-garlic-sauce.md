@@ -1,45 +1,40 @@
 ---
-title: Eggplant with Garlic Sauce
-prepTime: 5 min
-cookTime: 5 min
-servings: 'Yield: 2 people'
-ingredients:
-  - '2–3 long Japanese or Chinese eggplant, sliced in half lengthwise and chopped'
-  - 2 tablespoons peanut oil
-  - '4 large cloves garlic, peeled and minced'
-  - '1 tablespoon ginger, peeled and minced'
-  - '2–3 Chinese dried red chilis, chopped'
-  - '4 scallions, finely chopped on the bias'
-  - 2 tablespoons soy sauce
-  - 2 teaspoons granulated sugar
-  - 1 tablespoon chinkiang vinegar
-  - 1 tablespoon shaoxing wine or dry sherry
-  - 1 teaspoon sesame oil
-totalTime: 10 min
-role: base
+title: Chinese Eggplant with Garlic Sauce
+role: side
 vibe: speed
+prepTime: 5 min
+cookTime: 10 min
+totalTime: 15 min
+servings: '2'
+ingredients:
+  - '3 Chinese Eggplants, cut into 2-inch sticks'
+  - '--- The Garlic Sauce ---'
+  - '4 cloves Garlic, minced'
+  - '1 tbsp Fresh Ginger, minced'
+  - '2 tbsp Light Soy Sauce'
+  - '2 tsp Granulated Sugar'
+  - '1 tbsp Chinkiang Vinegar (Black Vinegar)'
+  - '1 tbsp Shaoxing Wine'
+  - '1 tsp Toasted Sesame Oil'
+  - '--- The Stir-Fry ---'
+  - '2 tbsp Peanut Oil'
+  - '3 Dried Red Chilies, chopped'
+  - '4 Scallions, chopped on the bias'
 ---
+
+## Chef's Note
+This is a 15-minute "Speed" masterclass. The secret to the Silton Standard is **Texture Integrity** through the **Golden-Side Pattern**: stir-fry the eggplant alone until the white flesh turns a deep golden brown and the skin is purple-gold—this creates a smoky sweetness that boiling or steaming misses. The mandatory **Acid Finish** comes from **Chinkiang Vinegar**; its deep, malty acidity provides the "High Note" that balances the richness of the peanut oil and the savory garlic.
 
 ## Directions
 
-1. Whisk all the ingredients for the sauce into a bowl and set aside.
-2. In a large pan over medium high heat, add 1 tablespoon peanut oil and eggplant. Stir fry for a few minutes (about 5 minutes) until the sides are golden brown and the center is tender.
-3. Transfer eggplant to a plate and add remaining 1 tablespoon peanut oil to the pan. Add garlic, ginger, red chilis and cook for 1 minute.
-4. Add eggplant and scallions, toss and pour the sauce. Stir fry for 1 minute, until all the vegetables are coated.
-5. Turn the heat off and serve with white or brown rice.
+1.  **The Sauce:** In a small bowl, whisk together soy sauce, sugar, black vinegar, Shaoxing wine, and sesame oil.
+2.  **The Sear:** Heat 1 tbsp peanut oil in a large skillet or wok over medium-high. Add eggplant. Stir-fry for 5 minutes until the edges are golden and the center is soft but holds its shape. Remove to a plate.
+3.  **Aromatics:** Add the remaining 1 tbsp oil to the pan. Add garlic, ginger, and dried chilies. Sauté for 1 minute until fragrant.
+4.  **Glaze:** Add the eggplant and scallions back to the pan. Pour the sauce over the vegetables.
+5.  **Bind:** Toss vigorously for 1 minute until every piece of eggplant is coated in a glossy, thick glaze.
+6.  **Serve:** Serve immediately over steamed rice.
 
-## Notes
-
-Leftovers: Store the leftovers in an airtight storage container and refrigerate for up to 3 days.
-
-## Nutrition
-
-- Serving Size: 2 Calories: 194 Sugar: 6.2g
-- Sodium: 883.8mg
-- Fat: 16.5g
-- Saturated Fat: 1.4g
-- saturated Fat: 5g
-- Carbohydrates: 10.1g
-- Fiber: 1.7g
-- Protein: 2.2g
-- Cholesterol: 0mg
+## Serving Suggestions
+-   [Basmati Rice](/recipes/basmati-rice)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
