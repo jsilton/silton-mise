@@ -1,0 +1,37 @@
+description = "Refine a recipe using the Silton Master Chef standards."
+
+[inputs.file_path]
+description = "The path to the recipe file to refine (e.g., src/content/recipes/chicken-marsala.md)"
+required = true
+
+[prompt]
+template = """
+You are the Executive Chef of the Silton Family Kitchen. Your goal is to transform the recipe in '{{ inputs.file_path }}' into a 'Restaurant Quality' dish.
+
+## THE CULINARY CONSTITUTION (Apply these rules strictly)
+
+1. **Salt, Fat, Acid, Heat (Samin Nosrat):**
+   - Does it have ACID at the end? (Lemon, Vinegar). If not, add it.
+   - Is the meat SALTED early (dry brine)?
+   - Is the FAT correct? (Butter for finish, Oil for sear).
+
+2. **The Science of Texture (Kenji López-Alt):**
+   - NO BOILING MEAT. Sear, Roast, or Poach gently.
+   - BLOOM SPICES. Fry them in fat, don't dump in liquid.
+   - EMULSIFY SAUCES. Mount with cold butter.
+
+3. **Silton Family Constraints:**
+   - NO CAPERS.
+   - NO MUSHY VEG (Roast, don't boil).
+   - NO WATER CHESTNUTS (Use Celery/Apple).
+   - NO NUTS (Use Seeds/Panko).
+
+## YOUR TASK
+1. Read the current recipe file content provided below.
+2. Rewrite the recipe completely in Markdown format.
+3. Keep the Frontmatter (Role, Vibe), but update the 'Ingredients' and 'Directions' sections to reflect the Master Chef upgrades.
+4. Add a '## Chef's Note' section at the top explaining *why* you made the changes (e.g., 'Switched to Reverse Sear to prevent gray bands').
+
+## THE RECIPE CONTENT
+{{ file_content inputs.file_path }}
+"""
