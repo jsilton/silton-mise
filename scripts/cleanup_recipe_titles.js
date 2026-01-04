@@ -26,7 +26,9 @@ function cleanupRecipeTitles() {
       const originalTitle = data.title;
       // Regex to find and remove parenthetical expressions (e.g., "(The Sunday Feast)", "(the crunch Standard)")
       // It handles various capitalizations and content within the parentheses.
-      const cleanedTitle = originalTitle.replace(/\s*\([\w\s'-]+\s*(?:Standard|Feast|Base|Hack|Method)\)\s*/gi, '').trim();
+      const cleanedTitle = originalTitle
+        .replace(/\s*\([\w\s'-]+\s*(?:Standard|Feast|Base|Hack|Method)\)\s*/gi, '')
+        .trim();
 
       if (cleanedTitle !== originalTitle) {
         data.title = cleanedTitle;
