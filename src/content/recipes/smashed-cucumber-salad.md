@@ -19,6 +19,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to this "Street Standard" side is **Structural Science** through **The Smash Pattern**. By smacking the cucumbers with a knife blade, you create irregular, jagged surface areas that act as a trap for the dressing—clean slices are too smooth to hold the oil. We maintain **Texture Integrity** through **The 30-Minute Salt Lock**: salting the chunks first draws out the internal moisture, ensuring the cucumbers stay "Snappy" and the dressing remains a concentrated emulsion rather than a thin soup.
 
 ## Directions
@@ -30,6 +31,7 @@ The secret to this "Street Standard" side is **Structural Science** through **Th
 5.  **Serve:** Top with sesame seeds. Serve immediately or marinate for up to 4 hours.
 
 ## Serving Suggestions
+
 - [Thai Basil Noodles](/recipes/thai-basil-noodles)
 - [Sesame Chicken](/recipes/honey-sesame-chicken)
 - [Tuna Poke Bowls](/recipes/tuna-poke-bowls)
