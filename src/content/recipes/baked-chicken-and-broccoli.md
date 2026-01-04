@@ -1,22 +1,38 @@
 ---
-title: Baked Chicken and Broccoli
-servings: '2'
+title: Baked Chicken and Broccoli (The Non-Mushy Standard)
+role: main
+vibe: speed
+prepTime: 15 min
+cookTime: 30 min
+totalTime: 45 min
+servings: '4'
 ingredients:
-  - '2 whole chicken breasts, split'
-  - '2 tbsp butter, melted'
-  - 1 (10 oz) bag frozen broccoli
-  - '1 (10 3/4 oz) can cream of mushroom soup, undiluted'
-  - 1/2 cup milk
-  - 1/2 cup shredded cheddar cheese
-  - 1/4 cup breadcrumbs
-  - Paprika
-role: side
-vibe: fuel
+  - '1.5 lbs Chicken Thighs, boneless/skinless'
+  - '1 lb Fresh Broccoli Florets (cut small)'
+  - '--- The Pan Sauce ---'
+  - '2 tbsp Butter'
+  - '2 tbsp All-Purpose Flour'
+  - '1.5 cups Chicken Broth'
+  - '1 cup Sharp Cheddar, shredded'
+  - '1/2 tsp Garlic Powder'
+  - '--- The Topping ---'
+  - '1/2 cup Panko Breadcrumbs'
+  - '1 tbsp Olive Oil'
 ---
+
+## Chef's Note
+
+The tragedy of the standard "Chicken and Broccoli Bake" is the mushy, gray broccoli and the canned soup base. We apply the **Silton Texture Pattern**: we **Sear** the chicken and **Roast** the broccoli at high heat to get charred edges _before_ adding our scratch-made cheese sauce. This ensures every component maintains its integrity rather than turning into a uniform paste.
 
 ## Directions
 
-1. Place chicken in a 9-inch square pan and drizzle with butter. Bake at 375 degrees for 40 minutes.
-2. While chicken is cooking, cook broccoli according to package directions; drain. Arrange around chicken.
-3. Combine soup, milk and cheese; pour over chicken and broccoli. Sprinkle with bread crumbs and paprika.
-4. Bake an additional 20 minutes.
+1.  **The Roast:** Preheat oven to 425°F. On a large sheet pan, toss the broccoli florets and chicken chunks with oil, salt, and pepper. Roast for 15 minutes until chicken is golden and broccoli is charred at the tips.
+2.  **The Sauce (The Roux):** While roasting, melt butter in a small pot. Whisk in flour and cook for 1 minute (The Roux). Gradually whisk in broth until a thick gravy forms. Remove from heat and stir in the cheese and garlic powder.
+3.  **Combine:** Transfer the roasted chicken and broccoli to a small baking dish. Pour the cheese sauce over the top.
+4.  **The Crunch:** Toss panko with a little oil and sprinkle over the sauce.
+5.  **Finish:** Bake for 10 minutes (or broil for 2 mins) until the top is bubbling and brown.
+
+## Serving Suggestions
+
+- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)

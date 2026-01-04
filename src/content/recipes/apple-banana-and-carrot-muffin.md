@@ -1,40 +1,39 @@
 ---
-title: Apple Banana and Carrot Muffin
-prepTime: 10 min
-cookTime: 15 min
-servings: Yield 30 mini muffins
+title: Apple Banana and Carrot Muffins (The Fuel Muffin)
+role: side
+vibe: fuel
+prepTime: 15 min
+cookTime: 20 min
+totalTime: 35 min
+servings: '12 muffins'
 ingredients:
-  - '1 Apple peeled, cored and diced'
-  - 1 medium carrot
-  - 1Banana
-  - 2 eggs
-  - 1 teaspoon vanilla
-  - 3 Tbsp melted butter or oil
-  - 1 1/4 cup standard flour
-  - 1.5 tsp baking powder
-totalTime: 25 min
-role: main
-vibe: speed
+  - '1 Apple, finely grated (not pureed)'
+  - '1 large Carrot, finely grated'
+  - '1 large Banana, mashed'
+  - '2 large Eggs'
+  - '3 tbsp Unsalted Butter, melted'
+  - '1 1/4 cups All-Purpose Flour'
+  - '1 1/2 tsp Baking Powder'
+  - '1 tsp Vanilla Extract'
+  - '1/2 tsp Cinnamon'
+  - 'Pinch of Salt'
 ---
+
+## Chef's Note
+
+The common flaw in "Healthy" muffins is a gummy, dense texture. We solve this by **Grating, not Simmering**. The original recipe suggested boiling the apple and carrot; we have upgraded this to fresh grating. This preserves the structural integrity of the fruit and veg, providing a lighter crumb and a fresher flavor profile.
 
 ## Directions
 
-1. Watch the quick recipe video before you get started, scroll up a little to find it
-2. Check the notes at the bottom of the recipe for little bits of extra info and help
-3. Peel and grate carrot, place apple and carrot in a pot with a little water, pop a lid on and simmer until apple soft. Usually 5-6 mins
-4. While apple and carrot cooking, place banana in a large bowl, mash with a fork
-5. Add eggs, vanilla, and butter/oil
-6. Puree the cooked apple and carrot, I use a stick blender
-7. Add apple and carrot to the other wet ingredients
-8. Beat these wet ingredients together with a hand-held beater, should become smooth, yellow and a little frothy
-9. Add the flour and baking powder
-10. Beat for a further 30-60 seconds to make a well-mixed batter
-11. Portion into an oiled muffin tin (I use a non-stick silicon tray sprayed with oil) Mix makes 12 standard sized muffins or 30 mini muffins
-12. Bake at 180 degrees Celsius for 15 mins (350 Fahrenheit) 15 min cook time is based on making mini muffins, the mix makes approx 30 mini muffins. If you are using a standard muffin tray and making approx 12 muffins the cook time will be longer, approx 25-30 mins
-13. Cool
-14. Serve
-15. These muffins can be stored in an airtight container for 3 days, or they can be frozen.
+1.  **Prep:** Preheat oven to 350°F. Grease a 12-cup muffin tin.
+2.  **The Veg:** Grate the apple and carrot using the fine holes of a box grater. Squeeze out any excess juice (drink it!).
+3.  **Wet:** In a large bowl, whisk the mashed banana, eggs, melted butter, vanilla, grated apple, and grated carrot.
+4.  **Dry:** In a separate bowl, whisk the flour, baking powder, cinnamon, and salt.
+5.  **Fold:** Gently fold the dry ingredients into the wet until **just combined**. Do not over-mix, or the muffins will be tough.
+6.  **Bake:** Portion into the tin. Bake for 20-25 minutes (standard) or 15 minutes (mini) until a tester comes out clean.
+7.  **Rest:** Cool on a wire rack.
 
-## Notes
+## Serving Suggestions
 
-This recipe is successful without the butter/oil, but you getter a softer muffin with it, and they remain softer for longer with the added butter or oilTo make the recipe dairy free, substitute the melted butter for a mild tasting vegetable oil.15 min cook time is based on making mini muffins, the mix makes approx 30 mini muffins. If you are using a standard muffin tray and making approx 12 muffins the cook time will be longer, approx 25-30 mins
+- [Old-Fashioned Fresh Peach Ice Cream](/recipes/old-fashioned-fresh-peach-ice-cream) (for a dessert twist)
+- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)

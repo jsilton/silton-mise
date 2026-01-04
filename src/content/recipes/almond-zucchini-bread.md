@@ -1,35 +1,38 @@
 ---
-title: Almond Zucchini Bread
-prepTime: 8 min
-cookTime: 35 min
+title: Almond Zucchini Bread (The Moist Standard)
+role: side
+vibe: fuel
+prepTime: 10 min
+cookTime: 40 min
+totalTime: 50 min
 servings: '10'
 ingredients:
-  - 1 1/2 cups almond flour (or a combination of almond and cashew flour)
-  - 1 1/2 teaspoons baking soda
-  - 1/2 teaspoon salt
-  - 1 teaspoon cinnamon
-  - '1 cup grated zucchini, squeezed of excess water then measured to 1 cup'
-  - 3 eggs
-  - 3 tablespoons maple syrup
-  - '1 large banana, mashed'
-  - 1 tablespoon melted coconut oil
-totalTime: 43 min
-role: main
-vibe: fuel
+  - '1 1/2 cups Almond Flour'
+  - '1 cup Grated Zucchini (packed, squeezed bone-dry)'
+  - '1 large Banana, mashed (about 1/2 cup)'
+  - '3 large Eggs, room temperature'
+  - '3 tbsp Maple Syrup'
+  - '1 tbsp Coconut Oil, melted'
+  - '1 tsp Ground Cinnamon'
+  - '1 1/2 tsp Baking Soda'
+  - '1/2 tsp Kosher Salt'
 ---
+
+## Chef's Note
+
+The secret to zucchini bread that isn't gummy is **The Squeeze**. Zucchini is mostly water; you must grate it and then squeeze it in a kitchen towel until it is absolutely dry before measuring. This ensures the bread stays moist from the banana and almond flour, but doesn't turn into a mushy mess.
 
 ## Directions
 
-1. 1. Preheat oven to 350 degrees and line a loaf pan with parchment paper.2. Whisk together dry ingredients in a large bowl.3. Add wet ingredients except zucchini and whisk until thoroughly combined.4. Add zucchini and stir until combined.5. Pour batter into parchment lined loaf pan.6. Bake for about 35 - 40 minutes until top is browned and center of the bread is set.7. Remove from oven and let cool in the pan on a wire rack for 5 minutes.8. Remove bread from loaf pan by pulling on the sides of the parchment paper and place back on the wire rack to cool fully before slicing.
+1.  **Prep:** Preheat oven to 350°F. Line a loaf pan with parchment paper.
+2.  **The Squeeze:** Grate the zucchini. Place in a towel and squeeze vigorously until no more water comes out. Measure 1 cup of the dry shreds.
+3.  **Dry:** In a large bowl, whisk the almond flour, baking soda, salt, and cinnamon.
+4.  **Wet:** In a separate bowl, whisk the eggs, maple syrup, mashed banana, and coconut oil.
+5.  **Mix:** Fold the wet ingredients into the dry. Stir in the zucchini shreds.
+6.  **Bake:** Pour into the pan. Bake for 35-40 minutes until the top is dark golden brown and a tester comes out clean.
+7.  **Rest:** Let cool in the pan for 10 minutes before lifting out via the parchment paper.
 
-## Nutrition
+## Serving Suggestions
 
-- CALORIES: 203KCAL
-- CARBOHYDRATES: 15G
-- PROTEIN: 7G
-- FAT: 14G
-- SATURATED FAT: 3G
-- CHOLESTEROL: 70MG
-- SODIUM: 398MG
-- FIBER: 4G
-- SUGAR: 8G
+- Salted Butter
+- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)

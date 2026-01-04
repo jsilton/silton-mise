@@ -1,31 +1,37 @@
 ---
-title: Balsamic Peach Pork Chops with Feta and Basil
+title: Balsamic Peach Pork Chops
+role: main
+vibe: fuel
 prepTime: 10 min
 cookTime: 15 min
-ingredients:
-  - 2 bone-in pork chops
-  - Kosher salt and black pepper
-  - 2 tablespoons extra virgin olive oil
-  - ½ cup balsamic vinegar
-  - 1 tablespoon honey
-  - 1 tablespoon chopped fresh oregano or thyme leaves
-  - '2 peaches, sliced'
-  - '6 ounces feta cheese, cubed or crumbled'
-  - 1/2 cup fresh basil
-  - crushed red pepper flakes
 totalTime: 25 min
-role: main
-vibe: speed
-servings: Unknown
+servings: '4'
+ingredients:
+  - '4 Bone-in Pork Chops (1-inch thick)'
+  - '2 Fresh Peaches, sliced'
+  - '6 oz Feta Cheese, crumbled'
+  - '--- The Balsamic Glaze ---'
+  - '1/2 cup Balsamic Vinegar'
+  - '1 tbsp Honey'
+  - '1 tbsp Fresh Thyme'
+  - '1/2 cup Fresh Basil, torn'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+
+This dish is a masterclass in **Flavor Balancing**: the sweetness of the peaches, the funk of the feta, and the sharp acid of the balsamic glaze work together to elevate the humble pork chop. The secret is the **Broiler Char**: we sear the pork in a skillet first, then finish it under the broiler with the peach slices to caramelize the fruit sugars and melt the cheese simultaneously.
 
 ## Directions
 
-1. 1. Preheat the broiler to high.
-2. 2. Heat a large skillet over medium high heat. Season the pork chops all over with kosher salt and pepper. Add the olive oil to the skillet, when the oil shimmers, add the pork and sear on both sides for 3-4 minutes. Reduce the heat to medium and continue cooking for about 8-10 minutes, or until the pork chops are cooked through.
-3. 3. In a small bowl, whisk together the balsamic vinegar, honey, and oregano. During the last 2 minutes of cooking, pour the balsamic sauce over the pork chops. Remove from the heat and add the peaches. Transfer the skillet to the oven and broil for 4-5 minutes or until the peaches are lightly charred. If the balsamic sauce starts getting too thick, add ¼ cup of water to keep it saucy.
-4. 4. Remove from the oven and top with feta, fresh basil, and chili flakes. Serve the pork with the peaches and balsamic sauce from the pan. Enjoy!
+1.  **Sear:** Heat oil in a large cast-iron skillet over high heat. Season pork with salt and pepper. Sear for 3-4 minutes per side until golden.
+2.  **The Glaze:** Reduce heat to medium. Pour in the balsamic vinegar, honey, and thyme. Simmer for 3 minutes until the liquid is thick and syrupy.
+3.  **Peaches:** Place peach slices on top of and around the pork chops.
+4.  **Broil:** Transfer the skillet to the oven (under the broiler). Broil for 4-5 minutes until the peaches are charred at the edges and the pork hits 145°F.
+5.  **Finish:** Remove from oven. Sprinkle with feta, fresh basil, and chili flakes. Let rest for 5 minutes.
 
-## Nutrition
+## Serving Suggestions
 
-- calories: 392 kcal
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Cilantro Lime Rice](/recipes/cilantro-lime-rice) or [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+- Glass of Rosé

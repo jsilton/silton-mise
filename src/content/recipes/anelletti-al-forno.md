@@ -1,42 +1,45 @@
 ---
-title: Anelletti Al Forno
-cookTime: 180 min
-servings: 6-8
-ingredients:
-  - '2 Tbsp. extra-virgin olive oil or lard, plus more for greasing'
-  - '1 medium carrot, peeled and finely chopped'
-  - '1 medium celery stalk, finely chopped'
-  - '½ medium onion, finely chopped'
-  - Sea salt and freshly ground black pepper
-  - 8 oz. ground beef
-  - 8 oz. ground pork
-  - ½ cup dry red wine
-  - ½ tsp. ground cinnamon
-  - Pinch finely grated nutmeg
-  - >-
-    1½ (28-oz.) cans whole peeled tomatoes, tomatoes coarsely chopped, juice
-    reserved
-  - '¾ cup peas, frozen or fresh'
-  - '1 medium eggplant (12 oz.), cut into ½-in. cubes'
-  - 'Vegetable oil, for frying'
-  - 2 Tbsp. bread crumbs
-  - '2 lb. dried anelletti, or other small pasta'
-  - '4 large hard-boiled eggs, coarsely chopped'
-  - 'One 6-oz. slice deli ham, cut into ¼-in. cubes'
-  - '12 oz. primosale or provolone cheese, cut into ¼-in. cubes'
-  - ½ cup finely grated caciocavallo or Pecorino Romano cheese
-totalTime: 180 min
+title: Anelletti Al Forno (The Sicilian Pasta Bake)
 role: main
-vibe: comfort
+vibe: project
+prepTime: 45 min
+cookTime: 3 hours
+totalTime: 4 hours
+servings: '8'
+ingredients:
+  - '2 lbs Anelletti Pasta (or small rings/ditalini)'
+  - '1/2 lb Ground Beef + 1/2 lb Ground Pork'
+  - '2 oz Pancetta or Ham, diced'
+  - '--- The Ragu Base ---'
+  - '1 Carrot, 1 Celery stalk, 1 small Onion (finely minced)'
+  - '3 tbsp Tomato Paste'
+  - '1 (28 oz) can Whole Peeled Tomatoes, crushed'
+  - '1/2 cup Dry Red Wine'
+  - '1/2 tsp Cinnamon + Pinch of Nutmeg'
+  - '--- The Texture Layers ---'
+  - '1 Eggplant, cubed and fried ([Garlic Sauce](/recipes/chinese-garlic-sauce-base) style technique)'
+  - '3/4 cup Frozen Peas'
+  - '12 oz Provolone or Caciocavallo, cubed'
+  - '1/2 cup Parmesan, grated'
+  - '4 Hard-boiled Eggs, chopped (traditional)'
 ---
+
+## Chef's Note
+
+Anelletti al Forno is the crown jewel of Sicilian Sunday dinners. Unlike American pasta bakes, this relies on a **Long-Simmered Ragu** flavored with a hint of cinnamon and nutmeg. The secret to **Texture Integrity** is the eggplant: it must be salted, drained, and fried separately to become meaty nuggets that don't disappear into the sauce. The inclusion of chopped eggs and ham creates a treasure-chest effect in every bite.
 
 ## Directions
 
-1. To a large pot set over medium heat, add the olive oil, carrot, celery, and onion and season with salt. Cook, stirring occasionally, until the vegetables are soft but not beginning to brown, about 20 minutes.
-2. Add the beef and pork, season generously with salt and black pepper, and turn the heat to medium-high. Cook, using a spoon to break up any large chunks, until browned, 5–8 minutes. Add the wine and stir, scraping up any browned bits from the bottom of the pot, and cook until most of the liquid has evaporated, about 6 minutes. Stir in the cinnamon and nutmeg, then add the tomatoes and their juices and bring to a simmer. Turn the heat to low, partially cover, and cook at a bare simmer until the meat is very tender and the sauce has thickened, about 2 hours. Stir in the peas and season with salt and black pepper.
-3. While the ragù cooks, place the eggplant in a colander in the sink. Sprinkle generously with salt and toss to coat. Place a plate atop the eggplant and top it with a heavy jar, then set aside to drain for 1 hour.
-4. Into a deep skillet set over medium-high heat, pour 1 inch of vegetable oil. When it’s shimmering but not yet smoking, add enough eggplant to fit in a single layer without crowding the pan and fry, stirring and turning the eggplant occasionally, until deep golden brown, 8–10 minutes. Transfer to a paper-towel-lined plate, then repeat with the remaining eggplant, adding more oil as needed.
-5. Position a rack in the center of the oven and preheat to 350°F. Oil a 9-by-13-inch baking dish, then add the bread crumbs and shake to coat the pan (shake out any leftover crumbs and reserve); set aside.
-6. Bring a large pot of generously salted water to a boil, then add the pasta and cook until al dente, about 8 minutes. Drain, then transfer back to the pot and stir in 4 cups of the ragù (reserve any left over for another use) and the eggplant.
-7. Spoon half of the pasta into the baking dish, then top evenly with the eggs, ham, half of the primosale, and half of the caciocavallo. Top with the remaining pasta, spread it in an even layer, and sprinkle with the remaining primosale, caciocavallo, and (if any remain) breadcrumbs.
-8. Bake until the cheese is melted about 30 minutes. Set aside for at least 15 minutes before serving.
+1.  **The Ragu:** Sauté the carrot, celery, and onion in oil until soft (15 mins). Brown the beef and pork. Deglaze with red wine. Stir in tomato paste, tomatoes, cinnamon, and nutmeg. Simmer on **LOW** for 2 hours until thick and dark. Stir in peas at the end.
+2.  **The Eggplant:** Salt eggplant cubes for 30 mins, rinse, and pat dry. Fry in 1 inch of oil until deep golden. Drain on paper towels.
+3.  **The Pasta:** Boil anelletti in salted water until **very al dente** (2 minutes less than package). Drain.
+4.  **Toss:** In a massive bowl, toss the pasta with 4 cups of the ragu and the fried eggplant.
+5.  **Layer:** In a greased 9x13 dish, layer half the pasta. Top with chopped eggs, ham, and half the cheeses. Cover with remaining pasta.
+6.  **The Crown:** Top with remaining cheese and breadcrumbs.
+7.  **Bake:** Bake at 350°F for 30 minutes until bubbling.
+8.  **Rest (Critical):** Let sit for 15 minutes before slicing. This allows the pasta "cake" to set so it doesn't collapse.
+
+## Serving Suggestions
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Glass of Sicilian Nero d'Avola
