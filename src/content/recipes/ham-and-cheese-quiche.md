@@ -24,18 +24,20 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a "Gold Standard" quiche is **Structural Science** through **The Blind Bake Pattern**. You must pre-bake the crust for 5 minutes before adding the wet custard; this creates a moisture barrier that prevents the dreaded "soggy bottom." We use **The Silk Custard Ratio** (5 eggs to 1/2 cup cream) to ensure a firm, sliceable "Bounce" that remains creamy rather than rubbery. The minced onions are sautéed in butter first to develop their sweetness, providing a natural **Acid/Sugar Finish** to contrast the salty ham.
 
 ## Directions
 
 1.  **Blind Bake:** Preheat oven to 400°F. Pierce the bottom of the pie crust with a fork. Place on a baking sheet and bake for 5-7 minutes. Remove and set aside.
 2.  **The Sauté:** In a small skillet, melt butter over medium heat. Sauté onions for 2-3 minutes until translucent. Add the ham and optional bacon; cook for 2 more minutes until slightly browned. Remove from heat.
-3.  **The Custard:** In a large bowl, whisk together the eggs and half-and-half until perfectly smooth and frothy. 
+3.  **The Custard:** In a large bowl, whisk together the eggs and half-and-half until perfectly smooth and frothy.
 4.  **Assemble:** Scatter the ham mixture, spinach, and both cheeses into the pre-baked crust. Pour the egg custard slowly over the fillings.
 5.  **Bake:** Reduce oven to 375°F. Bake for 25-35 minutes until the top is deep golden brown and a knife inserted in the center comes out clean.
 6.  **Rest:** Let the quiche rest for 10 minutes before slicing. This allows the custard to fully set.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)
--   [Fresh Melon Daiquiri](/recipes/fresh-melon-daiquiri) (for a festive brunch)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)
+- [Fresh Melon Daiquiri](/recipes/fresh-melon-daiquiri) (for a festive brunch)

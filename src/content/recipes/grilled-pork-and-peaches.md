@@ -18,6 +18,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This dish is a masterclass in **Modern Heritage** flavor pairing. The secret to succulent pork butt on the grill is **The Mallet Pattern**: you must pound the pork to a uniform 3/4-inch thickness; this breaks down tough connective tissue and ensures it sears at the same rate as the fruit. We maintain **Texture Integrity** through **The Peach Char**: we grill the peaches in butter and their own juices until just soft and slightly blackened—this creates a natural **Acid Finish** that cuts through the rich, rosemary-crusted pork.
 
 ## Directions
@@ -31,6 +32,7 @@ This dish is a masterclass in **Modern Heritage** flavor pairing. The secret to 
 7.  **Serve:** Slice the pork and serve immediately with the buttery, charred peaches and any pan juices.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

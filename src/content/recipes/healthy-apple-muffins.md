@@ -27,6 +27,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate high-fiber "Fuel" muffin. The secret to its incredible moistness is **Modern Heritage** techniques: we use a combination of **Applesauce** and **Greek Yogurt** to provide a dense, cake-like "Bounce" without excessive oil. We maintain **Texture Integrity** through **The Grated-Cubed Pattern**: by including both grated apple (for moisture) and cubed apple (for "Snap"), we ensure every bite has distinct structural personality. Always finish with a dusting of **Turbinado Sugar** to create a crystalline "High Note" crust.
 
 ## Directions
@@ -39,6 +40,7 @@ This is the ultimate high-fiber "Fuel" muffin. The secret to its incredible mois
 6.  **Cool:** Let cool in the pan for 5 minutes before removing.
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Salted Butter or Honey
--   [Elderberry Syrup](/recipes/elderberry-syrup) (stirred into tea)
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Salted Butter or Honey
+- [Elderberry Syrup](/recipes/elderberry-syrup) (stirred into tea)

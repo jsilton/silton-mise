@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate high-performance "Fuel" dinner. The secret to its Success is **Texture Integrity** through **The Crisp Kale Pattern**. Most sheet pan recipes turn kale into a soggy mess; here, we roast the kale alongside the gnocchi at high heat (400°F) until it dehydrates into "Snap" chips. We use **The Staged Roast**: the gnocchi and squash develop a "Bounce" in the oven without needing a separate boil. The smoked paprika and rosemary provide the mandatory savory **High Note**.
 
 ## Directions
@@ -35,6 +36,7 @@ This is the ultimate high-performance "Fuel" dinner. The secret to its Success i
 6.  **Finish:** Sprinkle with Parmesan or nutritional yeast while still piping hot. Serve immediately.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
--   Roasted Cherry Tomatoes
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+- Roasted Cherry Tomatoes
