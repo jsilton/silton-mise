@@ -1,34 +1,39 @@
 ---
 title: Creamy Avocado Pasta
-servings: Serves 4
-ingredients:
-  - 12 ounces dry spaghetti or pasta
-  - '2 ripe medium avocados (about 6 ounces each), halved and pitted'
-  - 1/2 cup lightly packed fresh basil leaves
-  - 1/2 cup lightly packed baby spinach leaves
-  - 2 cloves garlic
-  - 2 tablespoons freshly squeezed lemon juice
-  - 1 teaspoon kosher salt
-  - 1/4 cup olive oil
-  - >-
-    Optional for serving: Parmesan cheese shavings, cherry tomatoes, or chopped
-    fresh basil leaves
 role: main
 vibe: fuel
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '12 oz Dry Spaghetti or Fettuccine'
+  - '2 ripe Medium Avocados'
+  - '1/2 cup Fresh Basil, packed'
+  - '1/2 cup Baby Spinach, packed'
+  - '2 cloves Garlic'
+  - '2 tbsp Fresh Lemon Juice (The Acid Finish)'
+  - '1/4 cup Extra-Virgin Olive Oil'
+  - '1/2 cup Reserved Pasta Water'
+  - 'Salt and Black Pepper'
+  - '--- For Garnish ---'
+  - 'Cherry Tomatoes, halved'
+  - 'Parmesan Shavings'
 ---
+
+## Chef's Note
+This is a high-speed "Fuel" meal that relies on **Structural Science** for its creamy texture. We use **The Blender Pattern** to create a raw, cold emulsion of avocado and olive oil—this prevents the "split" that often happens with cooked avocado sauces. The **Lemon Juice** provides the mandatory **Acid Finish** while also stabilizing the chlorophyll in the basil and spinach, ensuring the sauce stays vibrant green. Never cook the sauce; the residual heat of the pasta is enough to warm it into a "Bounce."
 
 ## Directions
 
-1. Cook the pasta: Bring a large pot of salted water to a boil. Add the pasta and cook until al dente, 8 to 10 minutes, or according to package directions. Meanwhile, make the sauce.
-2. Make the sauce: Scoop the avocado flesh into a blender. Add the basil, spinach, garlic, lemon juice, and salt. Blend until smooth, about 1 minute. With the blender running, drizzle in the olive oil and blend until incorporated; set aside.
-3. Drain the pasta: Drain the pasta in a colander, then transfer to a large bowl.
-4. Toss the pasta with the sauce: Pour the sauce from the blender onto the pasta and toss to coat. Serve immediately.
-
-## Nutrition
-
-- Calories: 576Total Carbohydrates: 72 g (24%)Total Fat: 27.3 g (42%)Protein: 13.1 g (26.2%)Saturated fat: 3.9 g (19.6%)Per serving
-- based on: 4 servings. (% daily value)Sugar: 3 g
+1.  **Boil:** Cook pasta in a large pot of salted water until **al dente**. **Reserve 1 cup of pasta water** before draining.
+2.  **The Emulsion:** While pasta boils, place avocado flesh, basil, spinach, garlic, lemon juice, and salt in a blender. 
+3.  **Blend:** Start blending on low. Slowly drizzle in the olive oil and 1/2 cup of the reserved pasta water. Blend for 60 seconds until completely smooth and aerated.
+4.  **Combine:** Place the hot, drained pasta in a large bowl. Pour the green sauce over the top and toss vigorously until the noodles are glossy and fully coated.
+5.  **Adjust:** If the sauce is too thick, add a few more tablespoons of pasta water.
+6.  **Serve:** Top immediately with halved cherry tomatoes and Parmesan for **Texture Integrity**.
 
 ## Serving Suggestions
-
-Everyday Arugula Salad, Garlic Bread
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Garlic Bread](/recipes/garlic-bread)
+-   Grilled Shrimp or Chicken

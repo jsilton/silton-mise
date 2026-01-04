@@ -1,45 +1,42 @@
 ---
-title: Crustless Sausage and Spinach Quiche
-prepTime: 15 min
-cookTime: 55 min
-servings: 'Yield: 6 servings'
-ingredients:
-  - cooking spray
-  - >-
-    3 links sweet Italian turkey or chicken sausage, removed from casing (8.5
-    ounces total)
-  - 12 ounce bag baby spinach
-  - 1 cup grated light havarti or cheddar
-  - 1/4 cup grated parmesan cheese
-  - 2/3 cup 2% milk
-  - 1/4 cup half & half cream
-  - 5 large eggs
-  - 3/4 teaspoon kosher salt
-  - 1/8 teaspoon ground black pepper
-  - pinch freshly grated nutmeg
-totalTime: 70 min
+title: Crustless Sausage & Spinach Quiche
 role: main
-vibe: comfort
+vibe: fuel
+prepTime: 15 min
+cookTime: 40 min
+totalTime: 55 min
+servings: '6'
+ingredients:
+  - '3 links Italian Chicken Sausage, casings removed'
+  - '12 oz Fresh Baby Spinach'
+  - '5 large Eggs'
+  - '2/3 cup 2% Milk'
+  - '1/4 cup Half & Half'
+  - '--- The Cheese Mix ---'
+  - '1 cup Sharp Cheddar (or Havarti), freshly grated'
+  - '1/4 cup Freshly Grated Parmesan'
+  - '--- The High Note ---'
+  - '3/4 tsp Sea Salt'
+  - '1/8 tsp Black Pepper'
+  - 'Pinch of Freshly Grated Nutmeg'
+  - 'Cooking spray'
 ---
+
+## Chef's Note
+The secret to a "Gold Standard" crustless quiche is **Texture Integrity** through **The Dry Wilt Pattern**. Most quiches become watery because of the spinach; we sauté the sausage first, then wilt the spinach in the rendered fat and **drain it bone-dry** before adding to the eggs. We use **The Nutmeg Bridge**: a tiny pinch of nutmeg doesn't make the dish taste like dessert—it provides the mandatory "High Note" that connects the salty sausage to the rich, creamy custard.
 
 ## Directions
 
-1. Preheat your oven to 350 degrees. Spray a pie dish with oil.
-2. Cook the sausage in a large skillet over medium heat, breaking up until cooked, about 5 minutes.
-3. Add the spinach and reduce heat to low, cook until wilted stirring occasionally, about 7 minutes. Drain spinach well.
-4. Evenly spread the spinach sausage mixture in the prepared dish and top it evenly with the grated havarti and parmesan cheese.
-5. Make the custard mixture by whisking together the milk, half and half, eggs, salt, black pepper, and the nutmeg.
-6. Pour the custard into the dish and bake 35 to 40 minutes, until the center is set.
-7. Cut the quiche into 6 pieces and serve.
+1.  **Prep:** Preheat oven to 350°F. Spray a 9-inch pie dish generously with oil spray.
+2.  **The Sear:** In a large skillet over medium-high heat, cook the sausage meat, breaking it into small crumbles, until browned (5 mins). 
+3.  **The Wilt:** Add the spinach to the skillet. Reduce heat to medium and toss until just wilted. **Drain the mixture in a sieve**, pressing firmly to remove all excess liquid.
+4.  **The Custard:** In a medium bowl, whisk together eggs, milk, half & half, salt, pepper, and nutmeg until frothy and well aerated.
+5.  **Assemble:** Spread the dry sausage/spinach mixture in the bottom of the pie dish. Top with the Cheddar and Parmesan.
+6.  **Pour:** Pour the egg mixture over the fillings.
+7.  **Bake:** Bake for 35-40 minutes until the center is set and the edges are slightly golden and puffed.
+8.  **Rest:** Let sit for 5 minutes before slicing into 6 wedges.
 
-## Nutrition
-
-- Calories: 233kcal
-- Carbohydrates: 6.5g
-- Protein: 21.5g
-- Fat: 14g
-- Saturated Fat: 6g
-- Cholesterol: 208mg
-- Sodium: 652mg
-- Fiber: 1g
-- Sugar: 2g
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   Fresh Fruit Platter
+-   [Roasted Asparagus](/recipes/roasted-asparagus)
