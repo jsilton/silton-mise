@@ -17,6 +17,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the "Gold Standard" for a high-performance "Fuel" smoothie. The secret to its elite flavor is **The "Trust Me" Salt Pinch**: a tiny amount of salt suppresses the bitterness of the raw spinach while amplifying the tropical sweetness of the mango. We use **The Thermal Blender Pattern**: by using frozen fruit as our "ice," we maintain a thick, creamy "Bounce" without diluting the nutrients. The lime juice provides the mandatory **Acid Finish** that keeps the drink refreshing rather than heavy.
 
 ## Directions
@@ -28,6 +29,7 @@ This is the "Gold Standard" for a high-performance "Fuel" smoothie. The secret t
 5.  **Serve:** Pour into two chilled glasses. Garnish with a lime slice and serve immediately.
 
 ## Serving Suggestions
--   [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   [Oatmeal Risotto](/recipes/oatmeal-risotto)
+
+- [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Oatmeal Risotto](/recipes/oatmeal-risotto)

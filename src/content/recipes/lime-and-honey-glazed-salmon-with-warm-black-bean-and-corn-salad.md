@@ -24,6 +24,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a high-performance "Fuel" meal that relies on **Staged Cooking**. The secret to its elite flavor is the **Skillet Reduction Pattern**: we sear the salmon in a lime-honey glaze until caramelized, then use the same pan to build a warm black bean and corn salad. This ensures the smoky chili-lime juices from the fish infuse the vegetables. The spinach is folded in at the very end to maintain **Texture Integrity**—it should be just wilted, providing a vibrant "Bounce" to the earthy beans.
 
 ## Directions
@@ -36,6 +37,7 @@ This is a high-performance "Fuel" meal that relies on **Staged Cooking**. The se
 6.  **Serve:** Mound the warm bean salad in bowls and top with the glazed salmon.
 
 ## Serving Suggestions
--   [Guacamole (The Silton Standard)](/recipes/guacamole)
--   [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
--   [Pickled Red Onions](/recipes/pickled-red-onions)
+
+- [Guacamole (The Silton Standard)](/recipes/guacamole)
+- [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
+- [Pickled Red Onions](/recipes/pickled-red-onions)

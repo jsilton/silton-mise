@@ -25,6 +25,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a masterclass in **Modularity**. Instead of a single dish, we treat this as a "Component Platter." The secret to the Silton Standard is **The Souvlaki Sear Pattern**: we marinate the chicken thighs in heavy oregano and lemon, then sear them over high heat to develop a charred, "Snappy" crust. We maintain **Texture Integrity** by layering the creamy hummus at the base to act as a "thermal guard" for the fresh cucumbers and tomatoes above. The mandatory **Acid Finish** comes from our [Pickled Red Onions](/recipes/pickled-red-onions).
 
 ## Directions
@@ -37,6 +38,7 @@ This is a masterclass in **Modularity**. Instead of a single dish, we treat this
 6.  **Finish:** Top with crumbled feta and a massive pile of [Pickled Red Onions](/recipes/pickled-red-onions). Serve with a lemon wedge for the final **High Note**.
 
 ## Serving Suggestions
--   [Tzatziki Sauce](/recipes/tzatziki-sauce)
--   Warm Pita Bread
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+
+- [Tzatziki Sauce](/recipes/tzatziki-sauce)
+- Warm Pita Bread
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

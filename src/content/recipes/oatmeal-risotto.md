@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a masterclass in **Structural Science**. The secret to its elite texture is **The 8-Hour Hydration Pattern**: steel-cut oats are technically a dried grain similar to rice; by soaking them overnight, we allow the starches to fully hydrate, resulting in a "risotto-like" creaminess that has a distinct "Snap" to the bite rather than being mushy. We use **The Sweet-Savory Bridge Pattern**: the combination of mashed banana and sharp **Sherry Vinegar** creates a sophisticated flavor profile that bridges the gap between a traditional breakfast and a savory course.
 
 ## Directions
@@ -32,6 +33,7 @@ This is a masterclass in **Structural Science**. The secret to its elite texture
 6.  **Serve:** Divide into bowls. Top with the vinegar-soaked raisins and a few generous shavings of Parmesan cheese for the final savory **High Note**.
 
 ## Serving Suggestions
--   [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
--   Fresh Sliced Pears
--   [Classic Martini](/recipes/classic-martini) (if serving as a savory brunch course)
+
+- [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
+- Fresh Sliced Pears
+- [Classic Martini](/recipes/classic-martini) (if serving as a savory brunch course)

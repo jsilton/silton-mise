@@ -18,6 +18,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a baseline **Modern Heritage** recipe traditional for Rosh Hashanah, Thanksgiving, and Hanukkah. The secret to its elite flavor is the **McIntosh Standard**: McIntosh apples have a thin skin and a high water content, allowing them to break down into a naturally velvety "Bounce" without the need for a blender. We maintain **Texture Integrity** through **The Low-Slow Moisture Pattern**: we simmer the apples in their own juices with just a splash of water, resulting in a concentrated apple intensity that commercial brands cannot match. The lemon provide the mandatory **Acid Finish**.
 
 ## Directions
@@ -31,6 +32,7 @@ This is a baseline **Modern Heritage** recipe traditional for Rosh Hashanah, Tha
 7.  **Serve:** Best served warm with a dusting of extra cinnamon.
 
 ## Serving Suggestions
--   [Sweet Potato Latkes](/recipes/sweet-potato-latkes)
--   [Roast Turkey Breast](/recipes/roast-turkey-breast)
--   [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+
+- [Sweet Potato Latkes](/recipes/sweet-potato-latkes)
+- [Roast Turkey Breast](/recipes/roast-turkey-breast)
+- [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)

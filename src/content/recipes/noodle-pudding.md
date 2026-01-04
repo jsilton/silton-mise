@@ -23,7 +23,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the definitive Silton **Modern Heritage** recipe for a Jewish comfort classic. The secret to its elite texture is **The Triple Cream Pattern**: by utilizing sour cream, cottage cheese, and cream cheese together, we create a multi-dimensional "Bounce" that is rich but has structural integrity. We maintain **Texture Integrity** through **The Corn Flake Snap**: we top the pudding with a mixture of crushed corn flakes and brown sugar, which creates a shatteringly crisp crust that contrasts the custardy interior. 
+
+This is the definitive Silton **Modern Heritage** recipe for a Jewish comfort classic. The secret to its elite texture is **The Triple Cream Pattern**: by utilizing sour cream, cottage cheese, and cream cheese together, we create a multi-dimensional "Bounce" that is rich but has structural integrity. We maintain **Texture Integrity** through **The Corn Flake Snap**: we top the pudding with a mixture of crushed corn flakes and brown sugar, which creates a shatteringly crisp crust that contrasts the custardy interior.
 
 ## Directions
 
@@ -36,6 +37,7 @@ This is the definitive Silton **Modern Heritage** recipe for a Jewish comfort cl
 7.  **Serve:** Let rest for 15 minutes before slicing. This allows the custard to set into a firm "Bounce."
 
 ## Serving Suggestions
--   [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce) (Mandatory)
--   [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
--   [Gefilte Fish Terrine](/recipes/gefilte-fish-terrine)
+
+- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce) (Mandatory)
+- [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
+- [Gefilte Fish Terrine](/recipes/gefilte-fish-terrine)

@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a **Modern Heritage** update to the "Wacky Cake" or "Depression Cake." The secret to its Success is **The Pan Emulsion Pattern**: we mix the entire cake directly in the baking dish, eliminating the need for bowls. The "Magic Moment" is the addition of **Apple Cider Vinegar** to the baking soda; this creates a chemical reaction that provides the mandatory "Bounce" and lift in a cake that has no eggs or butter. It results in a crumb that is surprisingly dark, moist, and "Snappy."
 
 ## Directions
@@ -33,6 +34,7 @@ This is a **Modern Heritage** update to the "Wacky Cake" or "Depression Cake." T
 6.  **Finish:** Dust with confectioners' sugar once cool for the mandatory **High Note** visual.
 
 ## Serving Suggestions
--   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
--   Fresh Raspberries
--   Cold Glass of Milk
+
+- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- Fresh Raspberries
+- Cold Glass of Milk

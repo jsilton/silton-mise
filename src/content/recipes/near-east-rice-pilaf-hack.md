@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate **Modularity** component—the "Silton Side" that goes with everything. The secret to its "Box Quality" flavor without the preservatives is **Structural Science** through **The Orzo Toast Pattern**. You must toast the dry orzo in butter until it reaches a deep "mahogany" brown; this develops a nutty complex that defines the dish. We use **Turmeric** as a structural visual hack to provide the mandatory golden glow. The 10-minute **Steam Cycle** is mandatory for **Texture Integrity**—it ensures every grain is distinct and has a resilient "Bounce."
 
 ## Directions
@@ -33,6 +34,7 @@ This is the ultimate **Modularity** component—the "Silton Side" that goes with
 7.  **Finish:** Remove lid, stir in dried parsley, and fluff with a fork.
 
 ## Serving Suggestions
--   [Easy Pan-Seared Chicken Breasts](/recipes/easy-pan-seared-chicken-breasts)
--   [Turkey Burgers](/recipes/turkey-burgers)
--   [Greek Turkey Meatball Gyro](/recipes/greek-turkey-meatball-gyro-with-tzatziki)
+
+- [Easy Pan-Seared Chicken Breasts](/recipes/easy-pan-seared-chicken-breasts)
+- [Turkey Burgers](/recipes/turkey-burgers)
+- [Greek Turkey Meatball Gyro](/recipes/greek-turkey-meatball-gyro-with-tzatziki)

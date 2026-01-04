@@ -21,7 +21,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is our baseline **Modularity** component for all Silton chili nights. The secret to its Success is **Structural Science** through **The Skillet Sizzle Pattern**: for the most elite, "Snappy" crust, preheat a 9-inch cast-iron skillet *with* the butter inside until it is foaming. We use a combination of **Honey and Brown Sugar** to ensure a moist, dense "Bounce" that never turns crumbly. The buttermilk provides the mandatory **Acid Finish** needed to activate the baking soda for a tall, airy rise.
+
+This is our baseline **Modularity** component for all Silton chili nights. The secret to its Success is **Structural Science** through **The Skillet Sizzle Pattern**: for the most elite, "Snappy" crust, preheat a 9-inch cast-iron skillet _with_ the butter inside until it is foaming. We use a combination of **Honey and Brown Sugar** to ensure a moist, dense "Bounce" that never turns crumbly. The buttermilk provides the mandatory **Acid Finish** needed to activate the baking soda for a tall, airy rise.
 
 ## Directions
 
@@ -33,6 +34,7 @@ This is our baseline **Modularity** component for all Silton chili nights. The s
 6.  **Cool:** Let cool for 5 minutes before slicing into squares.
 
 ## Serving Suggestions
--   [Turkey and Sweet Potato Chili](/recipes/chili)
--   [Crockpot Vegetarian Chili](/recipes/crockpot-vegetarian-chili)
--   [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
+
+- [Turkey and Sweet Potato Chili](/recipes/chili)
+- [Crockpot Vegetarian Chili](/recipes/crockpot-vegetarian-chili)
+- [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)

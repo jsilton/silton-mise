@@ -19,6 +19,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The challah is the ultimate test of **Structural Science** in the Silton bakery. The secret to its incredible "Bounce" is **The Slow-Development Pattern**: we use a massive 5-egg base to ensure a rich, brioche-like crumb. We maintain **Texture Integrity** through **The 6-Braid Pattern**: braiding the strands tightly creates internal tension that forces the bread to rise vertically, resulting in a tall, majestic loaf with a "Snappy" golden crust. Always let the dough rise in a warm, draft-free spot (The Thermal Rise) to ensure the yeast fully activates.
 
 ## Directions
@@ -26,7 +27,7 @@ The challah is the ultimate test of **Structural Science** in the Silton bakery.
 1.  **Activate:** In a massive bowl, whisk yeast and 1 tbsp sugar into 1 3/4 cups lukewarm water. Let stand for 10 minutes until foamy.
 2.  **The Emulsion:** Whisk in the oil, 4 eggs, and the remaining sugar and salt.
 3.  **Incorporate:** Gradually add the flour, 1 cup at a time, until a shaggy dough forms.
-4.  **Knead:** Transfer to a floured surface. Knead by hand for 10 minutes until smooth and elastic (or use a stand mixer with a dough hook). 
+4.  **Knead:** Transfer to a floured surface. Knead by hand for 10 minutes until smooth and elastic (or use a stand mixer with a dough hook).
 5.  **First Rise:** Place in a greased bowl, cover with plastic, and let rise in a warm spot for 1 hour until doubled.
 6.  **Shape:** Punch down the dough. Divide into two halves. Divide each half into 6 balls. Roll each ball into a 12-inch strand.
 7.  **The Braid:** Braid into two 6-strand loaves (see notes for braiding pattern). Place on a greased sheet.
@@ -35,6 +36,7 @@ The challah is the ultimate test of **Structural Science** in the Silton bakery.
 10. **Cool:** Let cool completely on a rack before slicing.
 
 ## Serving Suggestions
--   [Classic Beef Stew](/recipes/classic-beef-stew)
--   [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
--   French Toast (the next morning)
+
+- [Classic Beef Stew](/recipes/classic-beef-stew)
+- [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+- French Toast (the next morning)

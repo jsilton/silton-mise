@@ -25,6 +25,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a high-speed "Fuel" masterpiece that solves the problem of soggy tofu. We use **Structural Science** through **The Cornstarch Guard Pattern**: by dredging the tofu in starch before searing, we create a barrier that ensures a shatteringly crisp "Snap." We maintain **Texture Integrity** through **The Perimeter Sear**: we char the broccoli in the same pan to pick up the tofu's crispiness. The combination of miso and lemon provides the mandatory **Acid Finish** that bridges the earthy soy and bright citrus.
 
 ## Directions
@@ -34,10 +35,11 @@ This is a high-speed "Fuel" masterpiece that solves the problem of soggy tofu. W
 3.  **Sear Tofu:** Heat 3 tbsp oil in a large skillet over medium-high. Fry tofu for 2-3 minutes per side until golden and very crisp. Remove to a plate.
 4.  **Sear Veg:** In the same pan, sauté broccoli for 6-7 minutes until tender and charred at the edges. Remove and set aside.
 5.  **The Glaze:** Wipe the pan. Add sesame oil, garlic, and ginger; sauté for 30 seconds. Pour in the miso-lemon mixture. Simmer for 3 minutes until thick and glossy.
-6.  **Bind:** Return tofu and broccoli to the pan. Toss vigorously for 30 seconds to coat. 
+6.  **Bind:** Return tofu and broccoli to the pan. Toss vigorously for 30 seconds to coat.
 7.  **Serve:** Garnish with scallions and serve hot over rice.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)

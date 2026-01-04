@@ -24,11 +24,12 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Restaurant Quality" kabobs is **Structural Science** through **The Yogurt Tenderizer Pattern**. The lactic acid in full-fat Greek yogurt gently breaks down the chicken's muscle fibers, while the lemon juice provides a secondary **Enzyme Tenderizer**. This results in a "Bounce" that is unattainable with oil-based marinades. We use a pinch of **Cinnamon** as the "Deep Note"—it bridges the gap between the smoky paprika and the bright citrus. You must marinate for at least 8 hours to achieve the Gold Standard texture.
 
 ## Directions
 
-1.  **The Marinade:** In a large bowl, whisk together the yogurt, oil, lemon juice, zest, garlic, and all spices. 
+1.  **The Marinade:** In a large bowl, whisk together the yogurt, oil, lemon juice, zest, garlic, and all spices.
 2.  **The Soak:** Toss the chicken pieces in the yogurt mixture until heavily coated. **Refrigerate for at least 8 hours** (ideally overnight).
 3.  **Skewer:** Thread the chicken onto metal skewers, alternating with red onion chunks. Do not crowd the skewers—ensure there is space for the heat to circulate.
 4.  **The Sear:** Preheat a grill to medium-high. Lightly oil the grates.
@@ -37,7 +38,8 @@ The secret to "Restaurant Quality" kabobs is **Structural Science** through **Th
 7.  **Serve:** Garnish with fresh parsley and extra lemon wedges.
 
 ## Serving Suggestions
--   [Israeli-Style Hummus](/recipes/israeli-style-hummus)
--   [Tzatziki Sauce](/recipes/tzatziki-sauce)
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+
+- [Israeli-Style Hummus](/recipes/israeli-style-hummus)
+- [Tzatziki Sauce](/recipes/tzatziki-sauce)
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)

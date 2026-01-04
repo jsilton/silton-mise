@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These are the ultimate high-speed **Modularity** components for lunches or appetizers. The secret to a pinwheel that doesn't fall apart is **Structural Science** through **The Cream Cheese Emulsion Pattern**: we blend the cream cheese with the flavored oil from the sun-dried tomato jar—this creates a tacky, flavor-rich "glue" that ensures **Texture Integrity**. You must squeeze the spinach until it is **bone-dry** to prevent the tortillas from becoming soggy.
 
 ## Directions
@@ -33,6 +34,7 @@ These are the ultimate high-speed **Modularity** components for lunches or appet
 6.  **Cut:** Using a sharp serrated knife, slice into 1-inch pinwheels.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   Fresh Cherry Tomatoes
--   [Hummus](/recipes/israeli-style-hummus) for dipping
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Fresh Cherry Tomatoes
+- [Hummus](/recipes/israeli-style-hummus) for dipping

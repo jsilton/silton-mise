@@ -25,19 +25,21 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the "Gold Standard" for Mongolian stir-fry. The secret to its elite texture is **Structural Science** through **The Velvet Crust Pattern**: we dredge the chicken in a thick layer of cornstarch and let it sit; if the starch becomes moist, we dredge it *again*. This ensures that when the chicken hits the high-heat oil, it develops a deep, "Snappy" crust that can hold up to the heavy soy-sugar glaze. We use **The No-Liquid Glaze Pattern**: the final sauce should be so thick that it clings entirely to the meat, leaving no pool of liquid in the bowl.
+
+This is the "Gold Standard" for Mongolian stir-fry. The secret to its elite texture is **Structural Science** through **The Velvet Crust Pattern**: we dredge the chicken in a thick layer of cornstarch and let it sit; if the starch becomes moist, we dredge it _again_. This ensures that when the chicken hits the high-heat oil, it develops a deep, "Snappy" crust that can hold up to the heavy soy-sugar glaze. We use **The No-Liquid Glaze Pattern**: the final sauce should be so thick that it clings entirely to the meat, leaving no pool of liquid in the bowl.
 
 ## Directions
 
 1.  **Dredge:** Toss chicken with 1 tbsp oil, then coat heavily in 1/4 cup cornstarch. Let sit for 5 minutes until the starch is absorbed.
 2.  **The Snap:** Heat 1/3 cup oil in a wok until shimmering. Fry chicken pieces in a single layer for 1-2 minutes per side until browned and very crispy. Remove to a paper-towel-lined plate.
 3.  **Aromatics:** Drain the oil, leaving 1 tbsp. Sauté ginger, garlic, chilies, and scallion whites for 20 seconds.
-4.  **The Glaze:** Pour in the soy sauce, brown sugar, and hot stock. Bring to a rapid boil. 
+4.  **The Glaze:** Pour in the soy sauce, brown sugar, and hot stock. Bring to a rapid boil.
 5.  **Bind:** Stir in the cornstarch slurry. Simmer for 2 minutes until the sauce is thick and mirror-glossy.
 6.  **Toss:** Add the crispy chicken and scallion greens. Toss for 10 seconds until every piece is lacquered.
 7.  **Serve:** Serve immediately over steamed rice.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
