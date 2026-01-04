@@ -1,36 +1,33 @@
 ---
 title: Chocolate Chia Pudding
+role: main
+vibe: fuel
 prepTime: 10 min
 cookTime: 180 min
-servings: 'Yield: 3 diet: vegan'
-ingredients:
-  - 1 cup unsweetened vanilla almond milk
-  - 6 Tablespoons chia seeds
-  - '1/4 cup maple syrup, honey or sweetener of choice*'
-  - 2 Tablespoons cocoa powder
-  - 1/8 teaspoon salt
-  - 1 teaspoon vanilla extract
-  - 'toppings of choice: fresh berries, chocolate chips, nuts'
 totalTime: 190 min
-role: dessert
-vibe: comfort
+servings: '3'
+ingredients:
+  - '1 cup Unsweetened Vanilla Almond Milk'
+  - '6 tbsp Chia Seeds'
+  - '1/4 cup Maple Syrup'
+  - '2 tbsp Unsweetened Cocoa Powder'
+  - '1 tsp Vanilla Extract'
+  - '1/8 tsp Sea Salt'
+  - '--- Optional Toppings ---'
+  - 'Fresh Berries, Chocolate Chips, or Chopped Nuts'
 ---
+
+## Chef's Note
+The secret to a "Gold Standard" chia pudding is **The Blender Pattern**. Many recipes leave the seeds whole, which can result in a gritty, uneven texture. By blending the seeds on high speed, we break them down until they are undetectable, creating a silky, mousse-like consistency that feels like a "Comfort" dessert but provides the "Fuel" of a superfood. Always let it chill for at least 3 hours to allow the fibers to fully set into a "Bounce."
 
 ## Directions
 
-1. Add almond milk, chia seeds, maple syrup, cocoa powder, vanilla and salt into a high powered blender. Start at a low setting on your blender (variable on the Vitamix) and progress to high. Blend until chia seeds are almost undetectable and mixture is smooth, scraping down the sides of the blender with a spatula if needed.
-2. Chia pudding should be thick and ready to enjoy so you can top with your favorite toppings and dive in or if you like your chocolate pudding cold, transfer to a resealable container, cover and refrigerate for 3-4 hours to chill before eating.
+1.  **Blend:** Combine almond milk, chia seeds, maple syrup, cocoa powder, vanilla, and salt in a high-powered blender. 
+2.  **Pulverize:** Start on low and gradually increase to high. Blend for 60 seconds until the mixture is completely smooth and the seeds have disappeared.
+3.  **The Set:** Transfer the mixture to individual jars or a large bowl. Cover and refrigerate for **at least 3 hours** (or overnight) until thick and set.
+4.  **Serve:** Stir once before serving. Top with fresh berries and nuts for **Texture Integrity**.
 
-## Nutrition
-
-- Serving Size: 1/3 of recipe (without toppings)Calories: 233
-- Sugar: 15g
-- Sodium: 202mg
-- Fat: 10g
-- Saturated Fat: 1g
-- saturated Fat: 8g
-- Trans Fat: 0g
-- Carbohydrates: 31g
-- Fiber: 11g
-- Protein: 6g
-- Cholesterol: 0mg
+## Serving Suggestions
+-   [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
+-   Fresh Raspberries
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)

@@ -1,44 +1,40 @@
 ---
 title: Chocolate Chip Beet Muffins
-prepTime: 10 min
-cookTime: 18 min
-ingredients:
-  - 2 eggs
-  - 1 cup beet puree
-  - 1/4 cup honey
-  - 1/3 cup brown sugar
-  - 1/4 tsp sea salt
-  - 1.5 tsp baking soda
-  - 1/4 cup butter
-  - 1/4 cup milk
-  - 1/2 cup unsweetened cocoa powder
-  - 1 1/3 cups whole-wheat flour
-  - 1/3 cup semisweet chocolate chips
-totalTime: 28 min
 role: main
-vibe: speed
-servings: Unknown
+vibe: fuel
+prepTime: 10 min
+cookTime: 20 min
+totalTime: 30 min
+servings: '12'
+ingredients:
+  - '1 cup Beet Puree (Roasted or canned)'
+  - '2 large Eggs'
+  - '1/4 cup Unsalted Butter, melted'
+  - '1/4 cup Honey'
+  - '1/3 cup Brown Sugar, packed'
+  - '1/4 cup Whole Milk'
+  - '--- The Dry Base ---'
+  - '1 1/3 cups Whole-Wheat Flour'
+  - '1/2 cup Unsweetened Cocoa Powder'
+  - '1 1/2 tsp Baking Soda'
+  - '1/4 tsp Sea Salt'
+  - '1/3 cup Semisweet Chocolate Chips'
 ---
+
+## Chef's Note
+This is a **Modern Heritage** update to the classic chocolate muffin. We use **Beet Puree** as a structural hydrator; it provides a deep, earthy moisture that keeps the muffins succulent for days without needing excessive oil. The secret to the Silton Standard here is **Texture Integrity**: the batter should be "Scoopable," not pourable. This ensures that the whole-wheat flour doesn't become gummy and the chocolate chips stay suspended rather than sinking to the bottom.
 
 ## Directions
 
-1. Preheat oven to 375 degrees F and line 12 muffins with paper liners, or lightly grease (as original recipe is written // adjust number of muffins if altering batch size).
-2. Add beet puree, eggs, melted butter, honey, brown sugar, baking soda, salt and whisk for 45 seconds.
-3. Stir in the milk and whisk once more.
-4. Add cocoa powder and flours and stir with a spoon or spatula until just combined, being careful not to over-mix. If the batter appears too thick, add a touch more milk. But it should be quite thick and NOT pourable – rather, scoopable.
-5. Lastly, stir in chocolate chips. Then divide batter evenly between muffin tins (should be enough for between 11-12 as original recipe is written) and sprinkle with a few more chocolate chips (optional but recommended).
-6. Bake for 17-22 minutes or until a toothpick inserted into the center comes out clean. Let cool for a few minutes in the pan, remove from tins and let cool on a cooling rack. Will keep covered for several days. Freezer for longer-term storage.
+1.  **Prep:** Preheat oven to 375°F. Line a 12-cup muffin tin with paper liners or grease generously.
+2.  **The Emulsion:** In a large bowl, whisk beet puree, eggs, melted butter, honey, and brown sugar until smooth. Whisk in the milk.
+3.  **Dry Mix:** Sift in the whole-wheat flour, cocoa powder, baking soda, and salt. Fold gently with a spatula until **just combined**. If the batter is too dry to scoop, add 1 tbsp of milk at a time.
+4.  **Fold:** Fold in the chocolate chips.
+5.  **Fill:** Divide the batter evenly among the muffin cups (about 3/4 full). Sprinkle a few extra chips on top for the "High Note" look.
+6.  **Bake:** Bake for 18-22 minutes until a toothpick inserted into the center comes out clean.
+7.  **Cool:** Let cool in the pan for 5 minutes before transferring to a rack.
 
-## Notes
-
-\*Nutrition information is a rough estimate.
-
-## Nutrition
-
-- Calories: 171 Fat: 6g
-- Saturated fat: 4g
-- Sodium: 233mg
-- Carbohydrates: 27g
-- Fiber: 3g
-- Sugar: 12g
-- Protein: 3g
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Cold Glass of Soy or Almond Milk
+-   [Banana Nut Bread](/recipes/banana-nut-bread) (as part of a brunch spread)

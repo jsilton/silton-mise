@@ -1,27 +1,42 @@
 ---
-title: Chocolate Chip Muffins (with Zucchini)
-prepTime: 15 min
-cookTime: 16 min
-ingredients:
-  - 1 2/3 cup buckwheat flour (or other flour)
-  - 1 teaspoon baking powder
-  - 1 teaspoon baking soda
-  - 1 teaspoon cinnamon
-  - 1/2 teaspoon salt
-  - 1/2 cup milk milk of choice
-  - 1 large egg
-  - 1/2 cup maple syrup or honey
-  - 1/4 cup avocado oil (or other oil for baking)
-  - 1 teaspoon vanilla
-  - 1/2 cup chocolate chips
-  - 2 cups shredded zucchini (squeezed in a towel to remove extra liquid)
-totalTime: 31 min
+title: Chocolate Chip Zucchini Muffins
 role: main
 vibe: fuel
-servings: Unknown
+prepTime: 15 min
+cookTime: 16 min
+totalTime: 31 min
+servings: '12'
+ingredients:
+  - '1 2/3 cups Buckwheat Flour (or Whole-Wheat)'
+  - '1/2 cup Chocolate Chips'
+  - '2 cups Zucchini, shredded and squeezed bone-dry'
+  - '--- The Liquid Base ---'
+  - '1 large Egg'
+  - '1/2 cup Milk of choice (Soy or Almond preferred)'
+  - '1/2 cup Maple Syrup or Honey'
+  - '1/4 cup Avocado or Canola Oil'
+  - '1 tsp Vanilla Extract'
+  - '--- The Spiced Mix ---'
+  - '1 tsp Baking Powder'
+  - '1 tsp Baking Soda'
+  - '1 tsp Ground Cinnamon'
+  - '1/2 tsp Sea Salt'
 ---
+
+## Chef's Note
+This is a high-performance **Modern Heritage** breakfast. By using **Buckwheat Flour**, we get a nutty, "Fuel" focused profile that stands up to the richness of the chocolate. The secret to the Silton Standard here is the **Dry Squeeze Pattern**: you must squeeze the shredded zucchini in a towel until it is **bone-dry** before adding it to the batter. This ensures the muffins stay "Bouncy" and moist rather than turning into mushy pucks.
 
 ## Directions
 
-1. 1. Preheat oven to 350 degrees F. Prepare muffin tins by greasing or using papers.2. Mix dry ingredients together (flour, baking powder, baking soda, cinnamon, salt) in a bowl.3. Mix milk, egg, maple syrup, oil, and vanilla. Wisk. Pour into dry ingredients.4. Stir just enough to incorporate the wet and dry ingredients.5. Stir zucchini and chocolate chips into the the batter.6. Spoon into the muffin tin.7. Baking for approximately 16.
-2. They are done when you insert a toothpick or knife into the center and it comes out clean.
+1.  **Prep:** Preheat oven to 350°F. Grease a 12-cup muffin tin or use paper liners.
+2.  **Dry Mix:** In a large bowl, whisk together the buckwheat flour, baking powder, baking soda, cinnamon, and salt.
+3.  **Wet Mix:** In a separate bowl, whisk the milk, egg, maple syrup, oil, and vanilla until smooth and emulsified.
+4.  **Combine:** Pour the wet ingredients into the dry. Stir with a spatula until **just combined** (a few lumps are mandatory).
+5.  **Fold:** Fold in the chocolate chips and the **squeezed zucchini**.
+6.  **Bake:** Scoop the batter into the muffin cups (about 3/4 full). Bake for 16-18 minutes until a toothpick inserted into the center comes out clean.
+7.  **Cool:** Let cool in the pan for 10 minutes to allow the buckwheat structure to set before removing to a rack.
+
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Fresh Apple Slices
+-   [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)

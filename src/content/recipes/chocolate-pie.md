@@ -1,30 +1,41 @@
 ---
-title: Chocolate Pie
-prepTime: 240 min
-cookTime: 10 min
-servings: 10 servings
-ingredients:
-  - >-
-    1 whole Pie Crust, Baked And Cooled (or Can Use Oreo Or Graham Cracker
-    Crust)
-  - 1-1/2 cup Sugar
-  - 1/4 cup Cornstarch
-  - 1/4 teaspoon Salt
-  - 3 cups Whole Milk
-  - 4 whole Egg Yolks
-  - '6 1/2 ounces, weight Bittersweet Chocolate, Chopped Finely'
-  - 2 teaspoons Vanilla Extract
-  - 2 Tablespoons Butter
-  - 'Whipped Cream, For Serving'
-totalTime: 250 min
+title: Chocolate Pie (The Bittersweet Standard)
 role: dessert
 vibe: project
+prepTime: 30 min
+cookTime: 10 min
+totalTime: 280 min
+servings: '10'
+ingredients:
+  - '1 Pie Crust, baked and cooled (Use the [Apple Pie](/recipes/apple-pie) Vodka Hack dough!)'
+  - '--- The Silk Filling ---'
+  - '6 1/2 oz Bittersweet Chocolate, finely chopped'
+  - '1 1/2 cups Granulated Sugar'
+  - '1/4 cup Cornstarch'
+  - '1/4 tsp Sea Salt'
+  - '3 cups Whole Milk'
+  - '4 large Egg Yolks'
+  - '2 tbsp Unsalted Butter'
+  - '2 tsp Vanilla Extract'
+  - '--- For Serving ---'
+  - 'Whipped Cream'
+  - 'Shaved Dark Chocolate'
 ---
+
+## Chef's Note
+We have upgraded the old-school "pudding pie" to the **Modern Heritage** standard. The secret is the **Bittersweet High Note**: by using 70% cacao chocolate instead of milk chocolate, we create a sophisticated, intense filling that balances the sweetness of the sugar. We use **The Emulsion Pattern**: we whisk the egg yolks directly into the cold milk before cooking, ensuring a silky, custard-like "Bounce" that never turns grainy. For the best result, use the Vodka Hack crust from our [Apple Pie](/recipes/apple-pie).
 
 ## Directions
 
-1. Combine the sugar, cornstarch, and salt in a medium saucepan. Stir or whisk together.
-2. Pour in milk and egg yolks, and whisk together.
-3. Stir over medium heat until the mixture just barely comes to a boil and becomes thick, about 6-8 minutes (maybe less, maybe more; just watch it!) The second it starts to bubble and thicken (note: It should be thick like pudding!) remove it from the heat. Add the chocolate, vanilla, and butter, and stir until everything is beautifully combined.
-4. Pour the pudding into the pie crust (if there is extra, spoon it into small dishes) and place in the fridge to chill for 4 hours uncovered.
-5. Cut into slices and serve with whipped cream!
+1.  **The Base:** In a medium saucepan, whisk together sugar, cornstarch, and salt. 
+2.  **Emulsify:** Slowly whisk in the milk and egg yolks until the mixture is perfectly smooth.
+3.  **The Cook:** Cook over medium heat, stirring constantly, for 6-8 minutes until the mixture just reaches a boil and becomes thick and glossy (like a heavy pudding).
+4.  **The Melt:** Remove from heat immediately. Stir in the chopped bittersweet chocolate, butter, and vanilla. Whisk until the chocolate is completely melted and the filling is uniform.
+5.  **The Set:** Pour the hot filling into the cooled pie crust. Press a piece of plastic wrap directly onto the surface of the pudding to prevent a "skin" from forming.
+6.  **Chill:** Refrigerate for **at least 4 hours** (uncovered after the first hour) until perfectly set.
+7.  **Serve:** Top with billowy whipped cream and shaved chocolate for **Texture Integrity**.
+
+## Serving Suggestions
+-   [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+-   Fresh Sliced Raspberries
+-   [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)

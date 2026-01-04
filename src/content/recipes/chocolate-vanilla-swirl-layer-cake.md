@@ -1,47 +1,43 @@
 ---
 title: Chocolate Vanilla Swirl Layer Cake
-ingredients:
-  - '1 1/2 cups all purpose flour plus 2 tablespoons, separated'
-  - 1 1/2 cups cake flour
-  - 1 tablespoon baking powder
-  - 1/2 teaspoon salt
-  - '2 sticks butter, softened to room temperature'
-  - 1 3/4 cups fine or superfine sugar
-  - '4 large eggs, room temperature'
-  - 1 tablespoon pure vanilla extract
-  - >-
-    1 1/4 cups whole milk, warmed to room temperature plus 4 tablespoons,
-    separated
-  - 2 level tablespoons dark cocoa powder
-  - 16 ounces (2 cups) heavy cream
-  - 16 ounces chopped dark chocolate or bittersweet chocolate
-  - Melted white chocolate for drizzling
 role: dessert
 vibe: project
-servings: Unknown
+prepTime: 45 min
+cookTime: 35 min
+totalTime: 80 min
+servings: '12'
+ingredients:
+  - '1 1/2 cups All-Purpose Flour'
+  - '1 1/2 cups Cake Flour'
+  - '1 tbsp Baking Powder'
+  - '1/2 tsp Sea Salt'
+  - '2 sticks Unsalted Butter, softened'
+  - '1 3/4 cups Superfine Sugar'
+  - '4 large Eggs'
+  - '1 tbsp Pure Vanilla Extract'
+  - '1 1/4 cups Whole Milk, room temp'
+  - '2 tbsp Dark Cocoa Powder'
+  - '--- The Silky Ganache ---'
+  - '16 oz Bittersweet Chocolate, chopped'
+  - '2 cups Heavy Cream'
 ---
+
+## Chef's Note
+This cake is a masterclass in **Modern Heritage** visuals. The secret to the striking interior is the **Concentric Circle Pattern**: by alternating pours of white and chocolate batter directly into the center of the pan, we create a precise "Bulls-eye" that transforms into elegant swirls as it bakes. We use a mix of **Cake Flour** and All-Purpose to ensure **Texture Integrity**—the crumb is tender enough for a layer cake but sturdy enough to support the weight of the rich dark chocolate ganache.
 
 ## Directions
 
-1. To Bake the Cake:
-2. Preheat oven to 325°F.
-3. Butter and flour two 8- or 9-inch round cake pans.
-4. In a mixing bowl, whisk together the flours, baking powder, and salt. Set aside.
-5. Cream together the butter and sugar until fluffy and pale in colour.
-6. Beat the eggs in one at a time, fully incorporating each egg and scraping down the bowl between each addition. Beat in the vanilla.
-7. Add about 1/3 of the milk, beat to incorporate, then 1/3 of the flour, again beating to incorporate.
-8. Repeat this process, scraping down the bowl as necessary, until all of the milk and flour are added and mixed in evenly.
-9. Divide the batter equally between two mixing bowls. In one, add 2 tablespoons of milk and the additional 2 tablespoons of all-purpose flour. Whisk until smooth.
-10. In the other bowl, whisk in the cocoa powder and remaining 2 tablespoons of milk until smooth.
-11. To create the swirls, scoop 1/3 of a cup of the white batter into the center of each prepared pan. Follow this with 1/3 of a cup of the chocolate batter directly into the center of the white batter in each pan. Repeat the process -white batter, chocolate batter, white batter, chocolate batter- each time, pouring the batter directly into the center of the contrasting batter. This will form concentric circles (and when baked, the stripey swirls) of contrasting colour. Repeat until you run out of batter.
-12. Bake, rotating midway through, for about 35 minutes or until the cake tests done.
-13. Let the cakes cool in the pan on a rack for 5 minutes before turning out onto the racks to finish cooling.
-14. To Make the Ganache:
-15. Heat heavy cream in a heavy-bottomed saucepan just until it is about to boil. Pour immediately over the chopped chocolate in a heat-proof bowl and let stand undisturbed for 5 minutes. Using a wire whisk, gently stir in one direction until the ganache becomes glossy and evenly dark. Let stand at room temperature, stirring occasionally, until thick.
-16. To Assemble and Frost the Cake:
-17. Level out your completely, 100% cooled cakes and cut each into two even layers.
-18. Place one layer on a cake plate then add a layer of ganache, spreading to the edges and evening out as you go. Repeat with the remaining layers.
-19. Frost the top and sides of the cake with the remaining ganache. If you have uneven areas, you can put the cake into the refrigerator for 10 minutes or so, then use ganache to fill in the spaces.
-20. If desired, drizzle melted white chocolate over the top of the cake to garnish.
-21. Cover and refrigerate for at least an hour before slicing.
-22. Store leftovers tightly covered in the refrigerator.
+1.  **Prep:** Preheat oven to 325°F. Butter and flour two 9-inch round cake pans.
+2.  **Dry Mix:** Whisk together both flours, baking powder, and salt. Set aside.
+3.  **Cream:** Beat butter and sugar until light and fluffy (5 mins). Add eggs one at a time, followed by vanilla.
+4.  **Combine:** Alternately add the dry mix and whole milk, beginning and ending with the dry ingredients. Stir until **just combined**.
+5.  **Split:** Divide the batter into two bowls. Into one bowl, whisk in the cocoa powder and 2 extra tbsp of milk.
+6.  **The Swirl:** Pour 1/3 cup white batter into the center of each pan. Pour 1/3 cup chocolate batter directly onto the center of the white batter. Repeat until all batter is used.
+7.  **Bake:** Bake for 35 minutes until a toothpick comes out clean. Cool in the pans for 5 minutes, then transfer to racks.
+8.  **The Ganache:** Heat cream until just boiling. Pour over chopped chocolate. Let sit for 5 minutes, then whisk until glossy. Let cool until thickened to a spreading consistency.
+9.  **Assemble:** Level the cooled cakes. Layer with ganache and frost the top and sides. Refrigerate for 1 hour to set the "Bounce" before slicing.
+
+## Serving Suggestions
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+-   Fresh Strawberries
+-   [Hot-and-Sour Soup](/recipes/hot-and-sour-soup) (for a classic "Cake and Soup" dinner)

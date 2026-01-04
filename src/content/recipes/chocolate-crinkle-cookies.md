@@ -1,41 +1,44 @@
 ---
-title: Chocolate Crinkle Cookies
-prepTime: 25 min
-cookTime: 120 min
-servings: 'Yields: 3'
-ingredients:
-  - '1/2 c. salted butter, cubed'
-  - '6 oz. semisweet chocolate, chopped'
-  - 1 1/2 c. all-purpose flour
-  - 1/2 c. unsweetened cocoa powder
-  - 1 tsp. baking powder
-  - 1/4 tsp. baking soda
-  - 1/4 tsp. kosher salt
-  - 1/2 c. packed light brown sugar
-  - 3 large eggs
-  - 2 tsp. vanilla extract
-  - '1 1/2 c. granulated sugar, divided'
-  - 1 c. powdered sugar
-totalTime: 145 min
+title: Chocolate Crinkle Cookies (The Shackle Standard)
 role: dessert
 vibe: comfort
+prepTime: 25 min
+cookTime: 12 min
+totalTime: 145 min
+servings: '24'
+ingredients:
+  - '6 oz Semisweet Chocolate, chopped'
+  - '1/2 cup Salted Butter, cubed'
+  - '1/2 cup Light Brown Sugar, packed'
+  - '1 1/2 cups Granulated Sugar (divided)'
+  - '3 large Eggs'
+  - '2 tsp Vanilla Extract'
+  - '--- The Dry Mix ---'
+  - '1 1/2 cups All-Purpose Flour'
+  - '1/2 cup Unsweetened Cocoa Powder'
+  - '1 tsp Baking Powder'
+  - '1/4 tsp Baking Soda'
+  - '1/4 tsp Sea Salt'
+  - '--- The Coating ---'
+  - '1 cup Powdered Sugar'
 ---
+
+## Chef's Note
+The crinkle cookie is all about the **Texture Integrity** of the "shackle"—the crackly, snowy crust. The secret to the Silton Standard is the **Double-Sugar Roll**: we roll the dough balls in granulated sugar first, then in powdered sugar. The granulated sugar acts as a structural barrier that prevents the powdered sugar from being absorbed into the dough during baking, resulting in a high-contrast "Snap" and a snowy-white finish. Chilling the dough for the full 2 hours is mandatory for the "Bounce."
 
 ## Directions
 
-1. In a heatproof bowl, combine the butter and chopped chocolate, and set over a saucepan filled with a few inches of simmering water over low heat. Let melt, 3 to 4 minutes, then stir until smooth. Remove the bowl from the pan and let cool slightly.
-2. In a medium bowl, whisk together the flour, cocoa powder, baking powder, baking soda, and salt to combine and get rid of any lumps.
-3. In a large bowl, combine the brown sugar, eggs, vanilla, and ½ cup granulated sugar, and beat with a mixer on medium-high speed until light and smooth, 2 to 3 minutes. Add the melted chocolate mixture and beat until combined. With the mixer on low speed, add the flour mixture and beat until just combined, 30 seconds to 1 minute. Cover the dough and refrigerate until firm, at least 2 hours and up to 4 hours.
-4. Preheat the oven to 350°F. Line 2 baking sheets with parchment paper. Place the remaining 1 cup granulated sugar in a shallow bowl and the powdered sugar in a second shallow bowl. Scoop the dough into balls (about 1 tablespoon each). Roll first in the granulated sugar, then in the powdered sugar to coat completely. Place on the baking sheet, about 2 inches apart. Bake until the tops of the cookies are cracked and the edges are firm, 10 to 12 minutes. Let cool 5 minutes on the baking sheets, then remove to racks to cool completely.
+1.  **Melt:** Set a heatproof bowl over simmering water. Melt the chopped chocolate and butter together until smooth. Let cool slightly.
+2.  **Dry Mix:** Whisk flour, cocoa, baking powder, baking soda, and salt until no lumps remain.
+3.  **Aeration:** In a large bowl, beat the brown sugar, 1/2 cup granulated sugar, eggs, and vanilla on medium-high for 3 minutes until pale and frothy.
+4.  **Combine:** Fold the chocolate-butter mixture into the eggs. On low speed, add the dry mix until **just combined**. 
+5.  **The Chill:** Cover and refrigerate for **at least 2 hours** until firm.
+6.  **Prep:** Preheat oven to 350°F. Line two baking sheets with parchment. Place 1 cup granulated sugar in one bowl and 1 cup powdered sugar in another.
+7.  **The Double Roll:** Scoop 1-tbsp portions of dough. Roll into a ball. Roll in granulated sugar, then immediately in powdered sugar.
+8.  **Bake:** Arrange 2 inches apart. Bake for 10-12 minutes until the tops are cracked and the edges feel firm.
+9.  **Cool:** Let cool on the pan for 5 minutes before transferring to a rack.
 
-## Nutrition
-
-- Fat: 5 g
-- Calories: 130 Calorie
-- Saturated Fat: 3 g
-- Trans Fat: 0 g
-- Sodium: 60 mg
-- Fiber: 1 g
-- Sugar: 17 gCarbohydrate: 22 g
-- Cholesterol: 22 mg
-- Protein: 2 g
+## Serving Suggestions
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+-   Cold Glass of Milk
+-   [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake) (as part of a cookie platter)

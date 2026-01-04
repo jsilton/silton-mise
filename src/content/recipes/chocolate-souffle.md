@@ -1,36 +1,35 @@
 ---
-title: Chocolate Soufflé
+title: Chocolate Soufflé (The French Standard)
+role: dessert
+vibe: project
 prepTime: 20 min
-cookTime: 45 min
-servings: 2 to 4 servings
+cookTime: 25 min
+totalTime: 45 min
+servings: '4'
 ingredients:
-  - 1/3 cup sugar plus additional for sprinkling
-  - '5 oz bittersweet chocolate (not unsweetened), chopped'
-  - 3 large egg yolks at room temperature
-  - 6 large egg whites
-  - 'Accompaniment: lightly sweetened whipped cream'
-  - 'Special equipment: a 5 1/2- to 6-cup glass or ceramic soufflé dish'
-totalTime: 65 min
-role: main
-vibe: comfort
+  - '5 oz Bittersweet Chocolate (not unsweetened), chopped'
+  - '3 large Egg Yolks (room temp)'
+  - '6 large Egg Whites (room temp)'
+  - '1/3 cup + 1 tbsp Granulated Sugar'
+  - 'Pinch of Sea Salt'
+  - 'Unsalted Butter (for the dish)'
 ---
+
+## Chef's Note
+This is the ultimate test of **Structural Science**. The secret to a tall, even rise is the **Thumb-Run Pattern**: after filling the dish, you must run your thumb around the inside rim to create a small "channel." This prevents the batter from sticking to the edges, allowing it to rise straight up like a top hat. We use a **2:1 Ratio** of whites to yolks to ensure a light, airy "Bounce" while maintaining deep chocolate intensity. Serve straight from the oven—the mandatory "High Note" is the fleeting moment before deflation.
 
 ## Directions
 
-1. Preheat oven to 375°F. Generously butter soufflé dish and sprinkle with sugar, knocking out excess.
-2. Melt chocolate in a metal bowl set over a saucepan of barely simmering water, stirring occasionally until smooth. Remove bowl from heat and stir in yolks (mixture will stiffen).
-3. Beat whites with a pinch of salt in a large bowl with an electric mixer at medium speed until they just hold soft peaks. Add 1/3 cup sugar, a little at a time, continuing to beat at medium speed, then beat at high speed until whites just hold stiff peaks. Stir about 1 cup whites into chocolate mixture to lighten, then add mixture to remaining whites, folding gently but thoroughly.
-4. Spoon into soufflé dish and run the end of your thumb around inside edge of soufflé dish (this will help soufflé rise evenly). Bake in middle of oven until puffed and crusted on top but still jiggly in center, 24 to 26 minutes. Serve immediately.
+1.  **The Ladder:** Preheat oven to 375°F. Generously butter a 6-cup soufflé dish. Coat with 1 tbsp sugar, knocking out the excess.
+2.  **The Base:** Melt chocolate in a heatproof bowl over simmering water. Stir until smooth. Remove from heat and whisk in the egg yolks—the mixture will stiffen, which is expected.
+3.  **The Meringue:** In a clean bowl, beat egg whites with a pinch of salt until soft peaks form. Gradually add 1/3 cup sugar, beating until the whites are stiff and glossy.
+4.  **The Lighten:** Stir about 1 cup of the meringue into the stiff chocolate base to loosen it. 
+5.  **The Fold:** Gently fold the remaining meringue into the chocolate using a "cut and fold" motion to preserve the air bubbles.
+6.  **The Thumb-Run:** Spoon the batter into the dish. **Run your thumb** around the inside edge of the dish to create a shallow groove.
+7.  **Bake:** Bake in the middle of the oven for 24-26 minutes until puffed and crusted on top but still having a slight "jiggle" in the center.
+8.  **Serve:** Dust with powdered sugar and serve immediately with lightly sweetened whipped cream.
 
-## Notes
-
-Soufflé can be assembled up to 30 minutes before baking. Keep, covered with an inverted large bowl (do not let bowl touch soufflé), at room temperature.
-
-## Nutrition
-
-- Calories: 603
-- Carbohydrates: 80 g(27%)Fat 28 g(43%)Protein 18 g(36%)Saturated Fat 15 g(75%)Sodium 185 mg(8%)Polyun
-- saturated Fat: 2 g
-- Fiber: 4 g(17%)Monoun
-- saturated Fat: 10 g
-- Cholesterol: 277 mg(92%)per serving (2 servings) Powered by
+## Serving Suggestions
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+-   Fresh Raspberries
+-   Glass of Ruby Port
