@@ -1,33 +1,38 @@
 ---
-title: 'Broccolini, Chicken Sausage, and Orzo Skillet'
-servings: Serves 4
-ingredients:
-  - 2 tablespoons olive oil
-  - >-
-    8 ounces fully cooked hot Italian chicken sausage, cut into 1/4-inch-thick
-    rounds
-  - '2 bunches Broccolini (about 1 pound), coarsely chopped'
-  - Kosher salt
-  - Freshly ground black pepper
-  - '2 cloves garlic, minced'
-  - 1 cup orzo pasta (about 8 ounces)
-  - 2 1/2 cups low-sodium chicken broth
-  - '1/2 cup grated Parmesan, plus more for serving'
-role: side
+title: Broccolini, Chicken Sausage, and Orzo Skillet
+role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 20 min
+totalTime: 30 min
+servings: '4'
+ingredients:
+  - '8 oz Hot Italian Chicken Sausage, sliced into rounds'
+  - '1 cup Orzo pasta'
+  - '2 bunches Broccolini, trimmed'
+  - '2 1/2 cups Chicken Broth'
+  - '2 tbsp Olive Oil'
+  - '2 cloves Garlic, minced'
+  - '1/2 cup Grated Parmesan'
+  - 'Salt and Black Pepper'
+  - '--- Texture Swap (Optional) ---'
+  - '1 cup Frozen Peas (replaces broccolini if kids prefer)'
 ---
+
+## Chef's Note
+
+This is a high-speed, one-pot wonder. To solve the "Mushy Veggie" problem, we use **Texture Integrity**: instead of simmering the broccolini in the broth with the pasta, we sauté it hard first to get charred edges and then set it aside, adding it back only at the very end. This keeps the veg snappy and the orzo creamy.
 
 ## Directions
 
-1. Heat the oil in a 10-inch regular or cast iron skillet over medium-high heat. Add the sausage and cook until evenly browned on both sides, 3 to 4 minutes. Add the Broccolini, season with salt and pepper, and sauté until vibrant green and almost tender, about 5 minutes. Add the garlic and orzo and sauté until fragrant, about 1 minute.
-2. Add the chicken broth and bring the mixture to a boil. Cover, reduce to a simmer, and cook until the pasta is al dente and the liquid is absorbed, about 10 minutes or according to your orzo's package instructions. (If the pasta is cooked before the liquid is completely absorbed, uncover the skillet and let it simmer for an extra minute to evaporate it.) Stir in the 1/2 cup of Parmesan and season as needed with salt and pepper. Garnish with additional grated cheese if desired.
+1.  **The Sear:** Heat oil in a large skillet. Brown the sausage rounds for 3-4 minutes. Remove to a plate.
+2.  **The Veg:** Add broccolini to the same pan. Sauté over high heat for 5 minutes until charred and tender-crisp. Remove and keep with the sausage.
+3.  **The Toast:** Add the orzo and garlic to the pan. Toast for 1 minute until the orzo smells nutty.
+4.  **The Simmer:** Pour in the broth. Bring to a boil, then reduce to low and cover. Simmer for 10 minutes until liquid is absorbed and pasta is al dente.
+5.  **The Fold:** Stir in the Parmesan, the reserved sausage, and the broccolini.
+6.  **Finish:** If the pasta is too dry, add a splash of hot water. Season with plenty of black pepper.
 
-## Notes
+## Serving Suggestions
 
-Storage: Leftovers can be stored in an airtight container and refrigerated for up to 3 days.
-
-## Nutrition
-
-- Calories: 478Total Carbohydrates: 46.6 g (15.5%)Cholesterol: 64 mg (21.3%)Total Fat: 21.3 g (32.8%)Protein: 24.3 g (48.7%)Saturated fat: 5.9 g (29.3%)Per serving
-- based on: 4 servings. (% daily value)Sugar: 2.1 gUn
-- saturated fat: 0.1 g
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Extra Parmesan and Chili Flakes
