@@ -1,52 +1,39 @@
 ---
-title: Vietnamese Grilled Chicken
-prepTime: 6 min
-cookTime: 8 min
-servings: '2'
-ingredients:
-  - 1 pound boneless skinless chicken thighs (or breasts)
-  - garnish (optional) - 2-3 green onions
-  - Vietnamese Chicken Marinade
-  - 1 1/2 tablespoon lime juice (about 1 small lime)
-  - >-
-    1 1/2 tablespoon neutral or vegetable oil (vegetable, canola, olive oil-but
-    not extra virgin)
-  - 2 tablespoon soy sauce (low sodium is fine)
-  - 1/2 tablespoon Fish sauce (Note 1)
-  - 2 tablespoon brown sugar
-  - 2 teaspoon minced garlic (2 garlic cloves)
-  - >-
-    1 teaspoon fresh grated ginger - or more if you like (or pinch of ground
-    ginger)
-  - 1/4 teaspoon red chili flakes (medium to medium-mild heat)
-  - 1 tablespoon cilantro (and more for garnish if desired)
-totalTime: 14 min
+title: Vietnamese Grilled Chicken (The Lemongrass Standard)
 role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 10 min
+totalTime: 40 min
+servings: '4'
+ingredients:
+  - '1.5 lbs Boneless Skinless Chicken Thighs'
+  - '--- The Marinade ---'
+  - '2 tbsp Fish Sauce'
+  - '2 tbsp Lime Juice'
+  - '2 tbsp Brown Sugar'
+  - '1 tbsp Neutral Oil'
+  - '2 stalks Lemongrass, white parts only (finely minced)'
+  - '3 cloves Garlic, minced'
+  - '1 tbsp Ginger, grated'
+  - '1 tsp Red Chili Flakes'
 ---
+
+## Chef's Note
+
+To achieve the **Lemongrass Char** of a Vietnamese street stall, you must treat the lemongrass correctly. Finely mince only the white, tender inner core and pound it with a mortar and pestle (or the back of a knife) to release the essential oils. Thighs are mandatory here—they handle the high heat of the grill without drying out, creating those irresistible crispy, blackened edges.
 
 ## Directions
 
-1. PREPARE CHICKEN: Trim larger pieces of fat from chicken (don't worry about smaller ones - they'll burn off). Pound chicken to even thickness for even cooking. I use the bottom of a pot or heal of my hand.
-2. MARINATE CHICKEN: Place all marinade ingredients in a ziploc bag or sealed container. Mix or squish bag to combine well. Add chicken, Seal bag/container and marinate at room temperature for 30 minutes or overnight in fridge.
-3. HEAT GRILL to medium-high. Oil grill with paper towel or spray.
-4. GRILL CHICKEN AND SERVE: Remove chicken from marinade (reserve marinade for sauce if desired Note 2). If using low salt soy sauce, lightly sprinkle chicken with salt. Grill chicken for 3-5 minutes per side, depending on thickness of chicken. Instant thermometer should read 160F. Add green onions for last 2-3 minutes if using. Transfer chicken to plate. Cover loosely with foil and let rest 5 minutes. Garnish with green onions and chopped fresh cilantro if desired. Note 3 to bake.
-5. Recipe for Vegan Fish Sauce from Food52.
-6. Recipe for Vegetarian Fish Sauce using mushrooms by Cook's Illustrated.
-7. To make sauce from marinade: While chicken is resting, boil reserved marinade in small microwave safe measuring cup or bowl for 90 seconds. Or boil in small pot on stove. This will remove any bacteria. Drizzle over chicken or use as a dipping sauce.
-8. To bake the Vietnamese chicken (instead of gas grill), heat oven to 425F/218C, place chicken on pan lined with parchment (or even better, on a wire rack over the pan), then bake for 15-20 minutes or until the internal temperature reaches says 160F/71C with an instant read thermometer. Let chicken rest for 5 minutes before serving.
-9. Make Ahead:
-10. The chicken can be marinated a day ahead, then grilled for 6-10 minutes before serving.
-11. The cooked chicken is also delicious cold or at room temperature. Use the marinade (cooked) as a dipping sauce if you like.
-
-## Notes
-
-Substitutes for Fish Sauce. Fish sauce is made of fermented fish and shelfish mixed with salt, If you can't eat it or don't want to, here are some substitutes you can use:Worcestershire (note this has anchovies in it). Use only 1 -1 1/2 teaspoons.
-
-## Nutrition
-
-- Calories: 429kcal | Carbohydrates: 15g | Protein: 46g | Fat: 20g | Saturated Fat: 3g | Cholesterol: 215mg | Sodium: 1569mg | Potassium: 594mg | Fiber: 1g | Sugar: 12g | Vitamin A: 129IU | Vitamin C: 4mg | Calcium: 35mg | Iron: 2mg
+1.  **Prep Chicken:** Pound thighs to an even thickness.
+2.  **Marinate:** Whisk the fish sauce, lime juice, sugar, oil, lemongrass, garlic, ginger, and chili. Toss with the chicken. Let marinate for 30 minutes (up to overnight).
+3.  **Grill:** Heat grill or cast-iron skillet to medium-high. Lightly oil the grates.
+4.  **Sear:** Grill chicken for 4-5 minutes per side until deeply charred and internal temp hits 160°F.
+5.  **Rest:** Let the chicken rest for 5 minutes before slicing. The carryover heat will take it to 165°F.
+6.  **Garnish:** Top with fresh cilantro and green onions.
 
 ## Serving Suggestions
 
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack) or Coconut Rice
+- [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)

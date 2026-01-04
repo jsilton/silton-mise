@@ -1,41 +1,44 @@
 ---
-title: Thai Basil Noodles
-prepTime: 15 min
-cookTime: 15 min
-servings: 'Serves: 4'
-ingredients:
-  - 8 ounces wide dried rice noodles
-  - 1 teaspoon brown sugar (dissolved in 1 tablespoon hot water)
-  - >-
-    2 teaspoons Thai thin soy sauce (or Chinese light soy sauce / regular soy
-    sauce)
-  - 1 teaspoon dark soy sauce
-  - 1 tablespoon fish sauce (or vegan fish sauce)
-  - 2 teaspoons oyster sauce (or vegetarian oyster sauce)
-  - '2 tablespoons neutral oil (such as vegetable, canola, or avocado oil)'
-  - 3 cloves garlic (sliced)
-  - '3 scallions (cut into 3-inch/7cm pieces, white and green parts separated)'
-  - '1-3 Thai red chili peppers (optional, chopped)'
-  - '1/2 bell pepper (any color, thinly sliced)'
-  - 2 cups Thai basil leaves
-totalTime: 30 min
+title: Thai Basil Noodles (The 15-Minute Wok)
 role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '8 oz Wide Dried Rice Noodles'
+  - '--- The Sauce ---'
+  - '1 tbsp Fish Sauce'
+  - '1 tbsp Soy Sauce (Thai Thin or Light)'
+  - '1 tsp Dark Soy Sauce (for color)'
+  - '1 tbsp Oyster Sauce'
+  - '1 tbsp Brown Sugar'
+  - '--- The Stir-Fry ---'
+  - '1 lb Ground Pork or Chicken'
+  - '2 cups Fresh Thai Basil (Holy Basil is ideal)'
+  - '3 cloves Garlic, minced'
+  - '1-3 Thai Bird’s Eye Chilies, minced'
+  - '1/2 Bell Pepper, thinly sliced'
+  - '--- The Finish ---'
+  - '1 Fresh Lime, cut into wedges'
 ---
+
+## Chef's Note
+
+This is a high-heat, high-speed meal. The key to the Silton Standard is the **Acid Finish**: the heavy, salty sauce (Oyster/Fish/Soy) needs the bright lift of fresh lime juice at the very end to make the flavors pop. Don't crowd the wok—cook the meat until it gets crispy edges for maximum texture.
 
 ## Directions
 
-1. Bring a pot of water to a boil for the noodles. We find that package cooking instructions can be inconsistent, so check the noodles often until they’re al dente (cooked through but still firm and chewy). For our noodles, total cook time was about 5 minutes. Drain them in a colander, and rinse in cold water.
-2. Stir together the dissolved brown sugar mixture, Thai thin soy sauce, fish sauce, and oyster sauce in a small bowl.
-3. Heat your wok until it’s close to smoking, and spread 2 tablespoons of oil around the perimeter of the wok. Add the garlic, white parts of the scallion, Thai chilies, and bell pepper. Stir-fry for 30 seconds.
-4. Add the rice noodles. Use a scooping motion to mix everything for another minute until the noodles warm up.
-5. Next, add the prepared sauce mixture and stir-fry at the highest heat for about 1 minute until the noodles are uniform in color. Take care to use your metal spatula to scrape the bottom of the wok to prevent sticking.
-6. Add the Thai basil and the green parts of the scallions, and stir-fry just until the leaves are wilted. Serve!
+1.  **Noodles:** Soak rice noodles in hot water for 15-20 minutes until pliable but still firm (al dente). Drain and set aside.
+2.  **Sauce:** Whisk all sauce ingredients in a small bowl.
+3.  **Meat:** Heat oil in a wok until smoking. Add the ground meat and spread it flat. Let it sear undisturbed for 2 minutes to get a "crust," then break it up and cook until browned.
+4.  **Aromatics:** Add the garlic, chilies, and bell pepper. Stir-fry for 30 seconds until fragrant.
+5.  **Toss:** Add the noodles and the sauce. Stir-fry vigorously over high heat, scraping the bottom of the wok, until the noodles absorb the sauce and turn dark brown.
+6.  **Wilt:** Add the basil. Toss for 30 seconds until just wilted.
+7.  **The Acid Finish:** Turn off the heat. Squeeze half a lime over the noodles and toss.
 
-## Nutrition
+## Serving Suggestions
 
-- Calories: 291kcal (15%) Carbohydrates: 52g (17%) Protein: 4g (8%) Fat: 7g (11%) Saturated Fat: 1g (5%) Polyun
-- saturated Fat: 2g
-- saturated Fat: 5g
-- Trans Fat: 0.03g
-- Sodium: 793mg (33%) Potassium: 146mg (4%) Fiber: 2g (8%) Sugar: 2g (2%) Vitamin A: 1198IU (24%) Vitamin C: 25mg (30%) Calcium: 48mg (5%) Iron: 1mg (6%)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- Extra Lime wedges and Chili Crisp

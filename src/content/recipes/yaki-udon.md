@@ -1,36 +1,41 @@
 ---
-title: Yaki Udon
-prepTime: 10 min
-cookTime: 30 min
-totalTime: 40 min
-servings: 4 to 6 servings
-ingredients:
-  - 2 tablespoons dark soy sauce
-  - 2 tablespoons low-sodium soy sauce
-  - 2 tablespoons oyster sauce
-  - 1 tablespoon mirin
-  - 1 tablespoon rice vinegar
-  - 1 tablespoon granulated sugar
-  - 1 pound frozen udon noodles
-  - 'Toasted sesame oil, for drizzling'
-  - 2 tablespoons vegetable oil
-  - '1/2 pound ground pork, or beef, chicken or turkey'
-  - '1 small yellow onion, thinly sliced'
-  - '4 ounces white or cremini mushrooms, thinly sliced (about 1 cup)'
-  - '1 large carrot, scrubbed or peeled, cut into thin 3-inch-long sticks'
-  - '1 medium bok choy, sliced into 1/2-inch pieces'
-  - '3 large garlic cloves, chopped'
-  - '3 scallions, sliced into 2-inch pieces, plus more for serving'
-  - 'Crushed red pepper, to taste'
-  - 'Sesame seeds, furikake or chile oil, for serving (optional)'
+title: Yaki Udon (The Loaded Bowl)
 role: main
-vibe: fuel
+vibe: speed
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '4'
+ingredients:
+  - '1 lb Frozen Udon Noodles (preferred over vacuum-sealed)'
+  - '--- The Protein ---'
+  - '1/2 lb Ground Pork or Thinly Sliced Beef'
+  - '--- The Veg (Crunch Integrity) ---'
+  - '1 cup Mushrooms, sliced'
+  - '1 Carrot, cut into matchsticks'
+  - '1 small bunch Bok Choy, sliced'
+  - '--- The Sauce ---'
+  - '2 tbsp Soy Sauce'
+  - '1 tbsp Oyster Sauce'
+  - '1 tbsp Mirin'
+  - '1 tsp Rice Vinegar'
+  - '1 tsp Sugar'
 ---
+
+## Chef's Note
+
+The secret to great Yaki Udon is **Texture Integrity**. Frozen udon has a superior "chew" (mochi-mochi) compared to shelf-stable versions. We sear the meat and veggies separately over high heat so they stay crunchy and charred, rather than steaming together into a mushy pile.
 
 ## Directions
 
-1. In a medium bowl, combine the dark soy sauce, low-sodium soy sauce, oyster sauce, mirin, rice vinegar and sugar. Taste a little and balance salty, acidic and sweet flavors, if needed.
-2. Bring a medium pot of water to boil over medium-high. Add the frozen noodles and cook, gently nudging them apart, until they separate and are pleasantly chewy, about 2 minutes. Drain, quickly rinse with cold water to stop the cooking, transfer to a medium bowl and drizzle with a little sesame oil (about 1 teaspoon) so they don’t stick to each other.
-3. In a wok or a large pan, heat 1 tablespoon of oil over medium-high. Add the pork and cook, breaking it up with a wooden spoon, until cooked through, about 5 minutes. Using a slotted spoon, transfer the meat to a small bowl.
-4. Pour the remaining 1 tablespoon of oil into the wok. Add the onion and mushrooms, and stir-fry, tossing frequently, until fragrant and the vegetables take on a little color, 2 to 3 minutes. Add the carrot, bok choy and garlic; constantly stir until the vegetables cook but still have a crunch, about 3 minutes. Stir in the scallions and cooked pork; stir-fry for 1 minute. Add the noodles and sauce, tossing until the noodles are coated and glossy. Taste and adjust any seasonings, if needed.
-5. Transfer yaki udon to bowls, and top each serving with chopped scallion and crushed red pepper, to taste. Serve with sesame seeds, furikake and chile oil, if you like.
+1.  **Noodles:** Bring a pot of water to a boil. Add frozen udon. As soon as the noodles separate (about 1 minute), drain them. **Do not overcook.** Rinse with cold water and toss with a drop of sesame oil.
+2.  **Protein:** Heat a wok over high heat. Add oil and sear the meat until browned and crispy. Remove to a plate.
+3.  **Veggies:** Add another splash of oil. Sauté mushrooms and carrots for 2 minutes. Add the bok choy stems. Sauté for 1 minute until they have charred edges but are still snappy.
+4.  **Combine:** Add the noodles and the seared meat back to the wok.
+5.  **Sauce:** Pour in the whisked sauce ingredients. Toss vigorously over high heat for 2 minutes until the sauce coats every noodle and turns glossy.
+6.  **Finish:** Add the bok choy leaves at the very end. Serve hot with a sprinkle of Furikake or chili oil.
+
+## Serving Suggestions
+
+- [Miso Soup](/recipes/miso-soup)
+- [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers)

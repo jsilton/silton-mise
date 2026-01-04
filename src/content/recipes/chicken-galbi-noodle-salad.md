@@ -1,44 +1,41 @@
 ---
 title: Chicken Galbi Noodle Salad
-prepTime: 15 min
-cookTime: 25 min
-totalTime: 40 min
-servings: 4 servings
-ingredients:
-  - 12 ounces Korean sweet potato glass noodles
-  - 6 tablespoons low-sodium soy sauce
-  - 2 tablespoons unseasoned rice vinegar
-  - 2 tablespoons turbinado sugar or light brown sugar
-  - Black pepper
-  - 3 tablespoons toasted sesame oil
-  - 1 tablespoon minced garlic
-  - 1 tablespoon minced ginger
-  - 1 pound ground chicken
-  - 1/2 cup chopped scallions
-  - Salt
-  - '1 medium yellow or red bell pepper, halved, stemmed, seeded and slivered'
-  - 1/2 cup chopped fresh basil
-role: side
+role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 15 min
+totalTime: 30 min
+servings: '4'
+ingredients:
+  - '12 oz Korean Sweet Potato Glass Noodles (Dangmyeon)'
+  - '1 lb Ground Chicken or Sliced Thighs'
+  - '--- The Galbi Marinade ---'
+  - '6 tbsp Soy Sauce'
+  - '2 tbsp Rice Vinegar'
+  - '2 tbsp Brown Sugar'
+  - '1 tbsp Toasted Sesame Oil'
+  - '1 tbsp Garlic, minced'
+  - '1 tbsp Ginger, grated'
+  - '--- Texture & Crunch ---'
+  - '1 Bell Pepper, thinly sliced'
+  - '1/4 cup Toasted Sesame Seeds'
+  - '1/2 cup Fresh Basil or Cilantro'
+  - '1/2 cup [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers) (Optional crunch)'
 ---
+
+## Chef's Note
+
+This dish is a play on Korean Japchae but served as a bright, protein-heavy salad. To elevate the texture, we add **Toasted Seeds** and ensure the bell peppers remain raw and crunchy to contrast with the "bouncy" chew of the glass noodles.
 
 ## Directions
 
-1. In a large pot of boiling water, cook noodles until tender and translucent, about 10 minutes. Transfer to a colander to drain, then run under cold water to stop the cooking. Drain well then transfer to a large bowl.
-2. Meanwhile, in a small bowl, combine soy sauce, vinegar, sugar and 1/2 teaspoon pepper.
-3. In a 12-inch nonstick skillet, combine 2 tablespoons of the oil with the garlic and ginger over medium. When it starts sizzling, stir for 30 seconds, then add chicken and scallions. Season with salt and pepper and cook, stirring occasionally and breaking up the meat until it’s no longer pink, about 5 minutes.
-4. Increase heat to medium-high and add 1/4 cup of the sauce. Cook, stirring occasionally, until all of the liquid is absorbed and chicken is lightly caramelized, 5 minutes.
-5. Transfer chicken mixture to the bowl with the noodles. Add bell pepper, basil, remaining sauce and 1 tablespoon oil. Toss with your hands until well incorporated; season with salt and pepper.
-6. Divide among bowls and serve warm or at room temperature.
+1.  **Noodles:** Boil glass noodles for 7-8 minutes until translucent and chewy. Drain and rinse with cold water. **Tip:** Use kitchen shears to cut the noodles into manageable 6-inch lengths.
+2.  **Protein:** In a skillet over medium-high heat, sauté the chicken with half of the galbi marinade. Cook until the liquid evaporates and the chicken is caramelized and slightly crispy.
+3.  **Toss:** In a large bowl, combine the cold noodles, the hot chicken, the remaining marinade, and the sesame oil.
+4.  **Crunch:** Fold in the raw bell peppers, fresh herbs, and toasted sesame seeds.
+5.  **Serve:** Serve warm or at room temperature. The noodles will absorb the flavors as they sit.
 
-## Nutrition
+## Serving Suggestions
 
-- Trans Fat: 0 gram
-- Fat: 20 gram
-- Calories: 620
-- Saturated Fat: 4 gramsUn
-- saturated Fat: 15 gram
-- Sodium: 994 milligram
-- Sugar: 8 gram
-- Fiber: 3 gramsCarbohydrate: 80 gram
-- Protein: 28 grams
+- [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers)
+- Extra drizzle of toasted sesame oil
