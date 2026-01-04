@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the Gold Standard for **Modularity**. The secret to a perfect slice every morning is **The Freezer-Slice Pattern**: we use **Greek Yogurt** instead of butter to create a dense, high-moisture "Bounce" that specifically survives the freezing process without becoming crumbly. We use **The Blender Pattern** to pulverize the bananas and wet ingredients into a silky emulsion before folding in the flour—this ensures an even distribution of sweetness and prevents "mushy pockets."
 
 ## Directions
@@ -33,6 +34,7 @@ This is the Gold Standard for **Modularity**. The secret to a perfect slice ever
 6.  **The Freeze:** To store, slice the loaf into 1/2-inch rounds. Place parchment between slices and freeze in a zip-top bag. Reheat individual slices in the toaster for a "Snap" finish.
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Sliced Berries
--   Salted Butter or Peanut Butter
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Sliced Berries
+- Salted Butter or Peanut Butter

@@ -24,6 +24,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a baseline **Modern Heritage** recipe for the Silton pantry. The secret to a crisp, non-watery kimchi is **Structural Science** through **The Osmotic Cure Pattern**. By salting the vegetables heavily for an hour, we draw out the excess moisture that would otherwise dilute the spice paste. We use a **Triple Veg Pattern** (Cabbage, Cucumber, Daikon) to ensure a complex array of "Snaps" and "Bounces" in every serving. Always use **Gochugaru**—the specific smoky heat is the mandatory high note.
 
 ## Directions
@@ -36,7 +37,8 @@ This is a baseline **Modern Heritage** recipe for the Silton pantry. The secret 
 6.  **Serve:** This fresh kimchi (Geotjeori style) is at its best within the first week.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
--   [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
--   [Simply Seasoned Korean Spinach Salad](/recipes/simply-seasoned-korean-spinach-salad)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
+- [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
+- [Simply Seasoned Korean Spinach Salad](/recipes/simply-seasoned-korean-spinach-salad)

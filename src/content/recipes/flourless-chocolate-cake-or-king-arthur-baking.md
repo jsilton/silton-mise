@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the "Gold Standard" for Passover and gluten-free celebrations. The secret to its elite texture is **Structural Science** through **The Ganache Emulsion Pattern**. By melting high-quality chocolate directly into hot cream off the heat, we create a mirror-shiny glaze that provides a necessary creamy "Snap" to contrast the dense, fudgy cake. We use **Espresso Powder** as the "Deep Note"—it doesn't make the cake taste like coffee; instead, it amplifies the natural fruitiness of the cocoa.
 
 ## Directions
@@ -31,10 +32,11 @@ This is the "Gold Standard" for Passover and gluten-free celebrations. The secre
 3.  **Incorporate:** Sift in the cocoa powder and sugar. Fold gently until **just combined**.
 4.  **Bake:** Grease an 8-inch round pan and line with parchment. Pour in the batter. Bake for 25 minutes until the top forms a thin, crackly crust and the internal temp is 200°F.
 5.  **Cool:** Let cool in the pan for 5 minutes, then invert onto a serving plate. Allow to cool completely before glazing.
-6.  **The Glaze:** Heat 1/2 cup heavy cream until steaming. Pour over 1 cup chocolate chips. Let sit for 5 minutes, then whisk until mirror-glossy. 
+6.  **The Glaze:** Heat 1/2 cup heavy cream until steaming. Pour over 1 cup chocolate chips. Let sit for 5 minutes, then whisk until mirror-glossy.
 7.  **Finish:** Pour the ganache over the center of the cake, encouraging it to drip down the sides for **Texture Integrity**.
 
 ## Serving Suggestions
--   [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
--   Fresh Raspberries
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+- Fresh Raspberries
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

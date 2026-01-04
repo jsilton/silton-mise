@@ -24,7 +24,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This soup is a masterclass in **Modern Heritage** flavor development. The secret is the **Low-Slow Moisture Pattern**: we sauté the vegetables in butter for a full 45-60 minutes *before* adding the broth. This ensures they release all their internal moisture and natural sugars, resulting in a depth of flavor that a quick boil can't achieve. We use **The Acid/Sweet Finish**: topping the earthy fennel with a maple-whisked crème fraîche provides the mandatory "High Note" that makes the soup taste like a professional restaurant course.
+
+This soup is a masterclass in **Modern Heritage** flavor development. The secret is the **Low-Slow Moisture Pattern**: we sauté the vegetables in butter for a full 45-60 minutes _before_ adding the broth. This ensures they release all their internal moisture and natural sugars, resulting in a depth of flavor that a quick boil can't achieve. We use **The Acid/Sweet Finish**: topping the earthy fennel with a maple-whisked crème fraîche provides the mandatory "High Note" that makes the soup taste like a professional restaurant course.
 
 ## Directions
 
@@ -37,6 +38,7 @@ This soup is a masterclass in **Modern Heritage** flavor development. The secret
 7.  **Serve:** Ladle soup into bowls. Top with a swirl of maple crème fraîche and the brown-butter chestnuts.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   Warm [Anadama Bread](/recipes/anadama-bread)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Warm [Anadama Bread](/recipes/anadama-bread)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

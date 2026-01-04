@@ -15,6 +15,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a **Modern Heritage** update to a beloved Silton holiday tradition. We have replaced the legacy margarine with **Unsalted Butter** to provide a richer flavor and a more consistent "Snap" to the exterior. The secret to the Silton Standard is the **Hydration Pause**: after mixing the farfel with boiling water, you must let it cool completely before adding the eggs. This prevents the eggs from scrambling and ensures a firm, bready "Bounce" that makes these the Gold Standard for Passover breakfasts.
 
 ## Directions
@@ -26,6 +27,7 @@ This is a **Modern Heritage** update to a beloved Silton holiday tradition. We h
 5.  **Serve:** Best served warm with plenty of salted butter.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   Fresh Fruit Platter
--   [Breakfast Protein Biscuits](/recipes/breakfast-protein-biscuits) (for non-Passover mornings)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Fresh Fruit Platter
+- [Breakfast Protein Biscuits](/recipes/breakfast-protein-biscuits) (for non-Passover mornings)

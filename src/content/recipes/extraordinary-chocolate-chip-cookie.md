@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to the "Extraordinary" label is **Texture Integrity** through the **24-Hour Chill Pattern**. Refrigerating the dough overnight is mandatory; it allows the starch to fully hydrate and the sugars to undergo enzymatic breakdown, resulting in a cookie with a deep, butterscotch-like "Bounce." We use **Dark Brown Sugar** instead of light to provide a richer moisture profile and a more pronounced chewy center. This recipe utilizes the "Maximum Chocolate" ratio—4.5 cups ensure that every single bite is dominated by molten chocolate.
 
 ## Directions
@@ -31,10 +32,11 @@ The secret to the "Extraordinary" label is **Texture Integrity** through the **2
 3.  **Combine:** On low speed, add the flour mixture until **just combined**. Fold in the chocolate chips by hand to avoid breaking them.
 4.  **The Chill:** Press plastic wrap against the surface of the dough and refrigerate for **at least 24 hours** (ideally 36).
 5.  **Portion:** Preheat oven to 350°F. Using a 2 1/4-inch scoop, drop dough balls onto parchment-lined sheets, 3 inches apart.
-6.  **Bake:** Bake for 15-17 minutes until the edges are golden brown and the centers are set but still look soft. 
+6.  **Bake:** Bake for 15-17 minutes until the edges are golden brown and the centers are set but still look soft.
 7.  **Cool:** Let sit on the sheet for 5 minutes before transferring to a wire rack.
 
 ## Serving Suggestions
--   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
--   Cold Glass of Milk
--   [Double Chocolate Layer Cake](/recipes/double-chocolate-layer-cake) (as part of a dessert buffet)
+
+- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- Cold Glass of Milk
+- [Double Chocolate Layer Cake](/recipes/double-chocolate-layer-cake) (as part of a dessert buffet)

@@ -22,12 +22,13 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is our favorite high-performance "Fuel" breakfast. We use **The Blender Pattern** to pulverize the rolled oats into a smooth, nutrient-dense "flour" directly with the wet ingredients. The secret to the Silton Standard is **Texture Integrity**: by skipping refined flour entirely and relying on the pumpkin and oats, we achieve a dense, moist "Bounce" that never turns crumbly. These are explicitly designed for **Modularity**—they freeze perfectly and can be pulled out for a high-protein lunch component.
 
 ## Directions
 
 1.  **Prep:** Preheat oven to 375°F. Grease a standard 12-cup muffin tin or use silicone liners.
-2.  **Blend:** Combine oats, pumpkin puree, milk, maple syrup, eggs, spices, baking soda, vanilla, and salt in a high-powered blender. 
+2.  **Blend:** Combine oats, pumpkin puree, milk, maple syrup, eggs, spices, baking soda, vanilla, and salt in a high-powered blender.
 3.  **Pulverize:** Blend on high for 60 seconds until the batter is perfectly smooth and the oats have transformed into flour.
 4.  **Fill:** Divide the batter evenly among the muffin cups (about 3/4 full). If using chocolate chips, sprinkle them onto the top of each muffin now for a visual "High Note."
 5.  **Bake:** Bake for 20-22 minutes until firm to the touch and the edges are lightly golden.
@@ -35,6 +36,7 @@ This is our favorite high-performance "Fuel" breakfast. We use **The Blender Pat
 7.  **Store:** These keep in the fridge for 5 days or the freezer for 3 months.
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Apple Slices
--   [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Apple Slices
+- [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)

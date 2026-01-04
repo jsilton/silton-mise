@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These are high-speed "Fuel" cookies designed for long-term **Modularity**. The secret to their incredible "Bounce" is **The Food Processor Pattern**: we process the Medjool dates directly with the melted butter to create a smooth, caramel-like paste that acts as the primary sweetener. We use **Buckwheat Flour** to provide a nutty, earthy depth that contrasts with the sweetness of the dates. These are explicitly designed to be kept in the freezer and eaten cold for a "Snappy" energy boost.
 
 ## Directions
@@ -36,6 +37,7 @@ These are high-speed "Fuel" cookies designed for long-term **Modularity**. The s
 7.  **The Freeze:** Let cool completely. Transfer to a freezer bag. These are at their Gold Standard when eaten straight from the freezer.
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Apple Slices
--   [Chocolate Chia Pudding](/recipes/chocolate-chia-pudding)
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Apple Slices
+- [Chocolate Chia Pudding](/recipes/chocolate-chia-pudding)

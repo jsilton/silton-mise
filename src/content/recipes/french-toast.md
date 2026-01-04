@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Restaurant Quality" French toast is the **Modern Heritage** bread choice. We exclusively use **Challah or Brioche** for their high egg and butter content, which creates a custardy "Bounce" that regular white bread cannot mimic. We use the **Quick-Dip Pattern**: because these breads are porous, you must only dip them for 2-3 seconds per side. Over-soaking will cause the structural gluten to collapse, leading to a soggy center. The warm honey provides the mandatory **High Note** sweetness.
 
 ## Directions
@@ -34,6 +35,7 @@ The secret to "Restaurant Quality" French toast is the **Modern Heritage** bread
 6.  **Serve:** Serve immediately with warm maple syrup and fresh berries for the mandatory **Acid/Sweet Finish**.
 
 ## Serving Suggestions
--   Crispy Bacon or Sausage
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+
+- Crispy Bacon or Sausage
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
