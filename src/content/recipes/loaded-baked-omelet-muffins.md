@@ -3,7 +3,12 @@ title: Omelet Muffins
 difficulty: easy
 cookingMethods: [bake, no-cook]
 dietary: [vegetarian]
-occasions: []
+occasions: [meal-prep, quick-lunch, post-workout]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [muffin-tin]
+advancePrep: [make-ahead]
 flavorProfile: [savory]
 cuisines: [American]
 role: main

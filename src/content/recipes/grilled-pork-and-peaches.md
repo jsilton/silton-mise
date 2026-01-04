@@ -3,7 +3,11 @@ title: Pork and Peaches
 difficulty: easy
 cookingMethods: [grill]
 dietary: []
-occasions: []
+occasions: [entertaining, summer, date-night]
+seasons: [summer]
+nutritionalDensity: moderate
+leftovers: good
+equipment: [grill, cast-iron-skillet]
 flavorProfile: [acidic, rich]
 cuisines: [American]
 role: main

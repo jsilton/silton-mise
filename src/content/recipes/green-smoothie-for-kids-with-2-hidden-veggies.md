@@ -3,7 +3,11 @@ title: Green Smoothie
 difficulty: easy
 cookingMethods: [blend]
 dietary: [vegetarian]
-occasions: []
+occasions: [kids-approved, post-workout, quick-lunch]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: poor
+equipment: [blender]
 flavorProfile: [sweet, rich]
 cuisines: [American]
 role: drink

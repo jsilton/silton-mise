@@ -3,7 +3,11 @@ title: Golden Veil
 difficulty: intermediate
 cookingMethods: []
 dietary: [vegetarian, vegan]
-occasions: []
+occasions: [date-night, entertaining]
+seasons: [year-round]
+nutritionalDensity: light
+leftovers: poor
+equipment: [cocktail-shaker]
 flavorProfile: [acidic, rich, herbaceous, smoky]
 cuisines: [American]
 role: drink

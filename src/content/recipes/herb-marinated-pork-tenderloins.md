@@ -3,7 +3,12 @@ title: Herb Pork Tenderloin
 difficulty: intermediate
 cookingMethods: [bake, roast]
 dietary: []
-occasions: []
+occasions: [weeknight, date-night, entertaining]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [large-skillet]
+advancePrep: [make-ahead]
 flavorProfile: [sweet, acidic, rich, herbaceous]
 cuisines: [American]
 role: main

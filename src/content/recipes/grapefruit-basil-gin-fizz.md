@@ -3,7 +3,11 @@ title: Grapefruit-Basil Gin Fizz
 difficulty: easy
 cookingMethods: [grill]
 dietary: [vegan]
-occasions: []
+occasions: [entertaining, summer, light-and-fresh]
+seasons: [spring, summer]
+nutritionalDensity: light
+leftovers: poor
+equipment: [cocktail-shaker]
 flavorProfile: [sweet, acidic, herbaceous]
 cuisines: [American]
 role: drink

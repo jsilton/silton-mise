@@ -3,7 +3,13 @@ title: Executive Granola
 difficulty: easy
 cookingMethods: [bake, roast, blend]
 dietary: [vegetarian]
-occasions: []
+occasions: [meal-prep, post-workout]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [baking-sheet, mixing-bowl]
+advancePrep: [make-ahead]
+pairsWith: [easy-breakfast-yogurt-popsicles, easy-chia-pudding]
 flavorProfile: [sweet]
 cuisines: [American]
 role: base

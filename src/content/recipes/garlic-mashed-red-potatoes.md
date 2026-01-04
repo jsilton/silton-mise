@@ -3,7 +3,11 @@ title: Garlic Mashed Red Potatoes
 difficulty: easy
 cookingMethods: [simmer, boil, steam]
 dietary: []
-occasions: []
+occasions: [holiday, entertaining, comfort-food, weeknight]
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: good
+equipment: [large-pot]
 flavorProfile: [umami, rich]
 cuisines: [American]
 role: side

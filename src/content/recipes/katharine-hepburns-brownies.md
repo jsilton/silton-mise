@@ -3,7 +3,12 @@ title: Katharine Hepburn’s Brownies
 difficulty: intermediate
 cookingMethods: [bake]
 dietary: [vegetarian]
-occasions: []
+occasions: [indulgent, entertaining, kids-approved]
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [baking-dish, saucepan]
+advancePrep: [make-ahead]
 flavorProfile: [sweet, rich]
 cuisines: [American]
 role: dessert

@@ -3,7 +3,12 @@ title: Key Lime Pie Ice Cream
 difficulty: easy
 cookingMethods: []
 dietary: [vegetarian]
-occasions: []
+occasions: [entertaining, summer, indulgent]
+seasons: [summer]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [ice-cream-maker]
+advancePrep: [make-ahead]
 flavorProfile: [sweet, acidic, rich]
 cuisines: [American]
 role: dessert

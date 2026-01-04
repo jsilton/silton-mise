@@ -3,7 +3,11 @@ title: Glazed Carrots
 difficulty: easy
 cookingMethods: [roast, simmer, boil]
 dietary: [vegetarian]
-occasions: []
+occasions: [holiday, entertaining, weeknight]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: good
+equipment: [saucepan]
 flavorProfile: [sweet, rich]
 cuisines: [American]
 role: side

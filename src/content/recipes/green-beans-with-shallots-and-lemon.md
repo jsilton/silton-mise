@@ -3,7 +3,11 @@ title: Green Beans with Shallots & Lemon
 difficulty: easy
 cookingMethods: [bake, sauté, boil]
 dietary: []
-occasions: []
+occasions: [holiday, entertaining, weeknight, light-and-fresh]
+seasons: [year-round]
+nutritionalDensity: light
+leftovers: poor
+equipment: [large-pot, large-skillet]
 flavorProfile: [sweet, acidic, rich]
 cuisines: [American]
 role: side

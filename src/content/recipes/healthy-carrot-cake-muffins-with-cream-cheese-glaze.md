@@ -3,7 +3,13 @@ title: Carrot Cake Muffins
 difficulty: intermediate
 cookingMethods: [bake, blend]
 dietary: [vegetarian]
-occasions: []
+occasions: [meal-prep, kids-approved, post-workout]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [muffin-tin, grater]
+advancePrep: [make-ahead, freeze-ahead]
+pairsWith: [favorite-cream-cheese-frosting]
 flavorProfile: [sweet, acidic, rich]
 cuisines: [American]
 role: main

@@ -3,7 +3,12 @@ title: Ketchup
 difficulty: easy
 cookingMethods: [simmer, blend]
 dietary: [vegetarian]
-occasions: []
+occasions: [meal-prep]
+seasons: [year-round]
+nutritionalDensity: light
+leftovers: excellent
+equipment: [saucepan, immersion-blender]
+advancePrep: [make-ahead]
 flavorProfile: [sweet, savory, acidic, rich]
 cuisines: [American]
 role: condiment

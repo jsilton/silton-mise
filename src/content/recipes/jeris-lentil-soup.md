@@ -3,7 +3,12 @@ title: Jeri's Lentil Soup
 difficulty: easy
 cookingMethods: [sauté, slow-cook, blend]
 dietary: []
-occasions: []
+occasions: [comfort-food, meal-prep, weeknight]
+seasons: [fall, winter, year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [slow-cooker, large-pot]
+advancePrep: [make-ahead, freeze-ahead]
 flavorProfile: [acidic, rich, herbaceous]
 cuisines: [American]
 role: main

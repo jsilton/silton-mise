@@ -3,7 +3,12 @@ title: Apple Muffins
 difficulty: easy
 cookingMethods: [bake]
 dietary: [vegetarian]
-occasions: []
+occasions: [meal-prep, kids-approved, post-workout]
+seasons: [fall, winter]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [muffin-tin, grater]
+advancePrep: [make-ahead, freeze-ahead]
 flavorProfile: [sweet, rich]
 cuisines: [American]
 role: main

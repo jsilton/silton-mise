@@ -3,7 +3,11 @@ title: Garlic Potatoes
 difficulty: easy
 cookingMethods: [bake, roast, steam]
 dietary: []
-occasions: []
+occasions: [holiday, entertaining, weeknight]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: good
+equipment: [sheet-pan]
 flavorProfile: [sweet, herbaceous]
 cuisines: [American]
 role: side

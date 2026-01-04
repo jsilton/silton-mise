@@ -3,7 +3,12 @@ title: Keto Egg Muffins
 difficulty: easy
 cookingMethods: [bake]
 dietary: []
-occasions: []
+occasions: [meal-prep, post-workout, quick-lunch]
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [muffin-tin]
+advancePrep: [make-ahead]
 flavorProfile: [spicy, savory, rich]
 cuisines: [American]
 role: main

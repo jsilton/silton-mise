@@ -3,7 +3,12 @@ title: Gluten-Free Lemon Cupcakes
 difficulty: easy
 cookingMethods: [bake]
 dietary: [vegetarian, gluten-free]
-occasions: []
+occasions: [entertaining, holiday, kids-approved]
+seasons: [spring, summer]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [muffin-tin, stand-mixer]
+advancePrep: [make-ahead]
 flavorProfile: [sweet, acidic, rich]
 cuisines: [American]
 role: dessert
