@@ -3,7 +3,7 @@ title: Wonton Soup
 difficulty: easy
 cookingMethods: [boil, no-cook]
 dietary: []
-occasions: []
+occasions: [weekend-project, entertaining, comfort-food]
 flavorProfile: [spicy, savory, umami]
 cuisines: [Chinese]
 role: main
@@ -12,6 +12,12 @@ prepTime: 30 min
 cookTime: 6 min
 totalTime: 36 min
 servings: '4'
+seasons: [year-round, winter]
+nutritionalDensity: moderate
+leftovers: good
+advancePrep: [make-ahead, freeze-ahead]
+equipment: []
+pairsWith: [steamed-bok-choy, chinese-broccoli]
 ingredients:
   - 300g Ground Pork
   - '1 tsp Ginger, minced'

@@ -4,7 +4,7 @@ origin: China
 difficulty: easy
 cookingMethods: [fry, sauté, simmer, steam]
 dietary: [vegan]
-occasions: []
+occasions: [weeknight, meal-prep, comfort-food]
 flavorProfile: [sweet, savory, acidic, umami]
 cuisines: [Chinese]
 role: main
@@ -13,6 +13,11 @@ prepTime: 15 min
 cookTime: 35 min
 totalTime: 50 min
 servings: '4'
+seasons: [summer, fall, year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [wok, large-skillet]
+pairsWith: [basmati-rice, steamed-broccoli]
 ingredients:
   - '1 medium Eggplant, cut into 3/4-inch cubes'
   - '1 block Extra-firm Tofu, pressed dry and cubed'

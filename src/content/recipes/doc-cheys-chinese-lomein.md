@@ -3,7 +3,7 @@ title: Doc Chey’s Chinese Lo Mein
 difficulty: easy
 cookingMethods: [sauté, simmer]
 dietary: []
-occasions: []
+occasions: [weeknight, kids-approved, meal-prep]
 flavorProfile: [sweet, savory, umami]
 cuisines: [Chinese]
 role: main
@@ -12,6 +12,11 @@ prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
 servings: '2'
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [wok]
+pairsWith: [smashed-cucumber-salad, egg-roll]
 ingredients:
   - '1 lb Chicken Breast, thinly sliced'
   - 4 cups Cooked Egg Noodles (Al dente)

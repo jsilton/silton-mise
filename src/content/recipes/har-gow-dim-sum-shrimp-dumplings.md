@@ -4,7 +4,7 @@ origin: China
 difficulty: easy
 cookingMethods: [boil, steam, no-cook]
 dietary: []
-occasions: []
+occasions: [weekend-project, entertaining]
 flavorProfile: [spicy, sweet, savory, umami]
 cuisines: [Chinese]
 role: main
@@ -13,6 +13,12 @@ prepTime: 60 min
 cookTime: 10 min
 totalTime: 140 min
 servings: 18 dumplings
+seasons: [year-round]
+nutritionalDensity: light
+leftovers: excellent
+advancePrep: [make-ahead, freeze-ahead]
+equipment: [bamboo-steamer]
+pairsWith: [soy-dipping-sauce, chili-oil, shumai]
 ingredients:
   - '1/2 lb Raw Shrimp, peeled, deveined, and patted dry'
   - '1/4 cup Bamboo Shoots, finely minced'

@@ -3,7 +3,7 @@ title: Honey Sriracha Salmon Bowls
 difficulty: easy
 cookingMethods: [steam, no-cook]
 dietary: [vegetarian]
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh, post-workout]
 flavorProfile: [spicy, sweet, savory, umami]
 cuisines: [Chinese]
 role: main
@@ -12,6 +12,11 @@ prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
 servings: '4'
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: good
+equipment: []
+pairsWith: [basmati-rice, edamame, avocado]
 ingredients:
   - '1.5 lbs Salmon Fillets, cut into 1-inch cubes'
   - 3 tbsp Soy Sauce

@@ -4,7 +4,7 @@ origin: China
 difficulty: easy
 cookingMethods: [simmer, boil]
 dietary: []
-occasions: []
+occasions: [weeknight, quick-lunch, comfort-food]
 flavorProfile: [savory, umami]
 cuisines: [Chinese]
 role: main
@@ -13,6 +13,11 @@ prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
 servings: '4'
+seasons: [year-round, winter]
+nutritionalDensity: moderate
+leftovers: good
+equipment: []
+pairsWith: [spring-rolls, smashed-cucumber-salad]
 ingredients:
   - 20 Mini Frozen Wontons (Trader Joe’s or H-Mart)
   - 6 cups Low-sodium Chicken Broth

@@ -3,7 +3,7 @@ title: Peking Duck
 difficulty: easy
 cookingMethods: [bake, roast, simmer, boil]
 dietary: []
-occasions: []
+occasions: [entertaining, holiday, weekend-project, indulgent]
 flavorProfile: [sweet, acidic]
 cuisines: [Chinese]
 role: main
@@ -12,6 +12,12 @@ prepTime: 120 min
 cookTime: 75 min
 totalTime: 3000 min
 servings: '6'
+seasons: [year-round, winter, fall]
+nutritionalDensity: hearty
+leftovers: good
+advancePrep: [marinate-overnight]
+equipment: []
+pairsWith: [steamed-buns, hoisin-sauce, cucumber]
 ingredients:
   - 1 Whole Duck (5.5 lbs)
   - 2 tbsp Maltose (or Honey)

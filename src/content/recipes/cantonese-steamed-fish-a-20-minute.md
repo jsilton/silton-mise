@@ -4,7 +4,7 @@ origin: China
 difficulty: easy
 cookingMethods: [boil, steam]
 dietary: []
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh, entertaining]
 flavorProfile: [sweet, savory, umami, herbaceous]
 cuisines: [Chinese]
 role: main
@@ -13,6 +13,11 @@ prepTime: 5 min
 cookTime: 15 min
 totalTime: 20 min
 servings: '2'
+seasons: [year-round]
+nutritionalDensity: light
+leftovers: poor
+equipment: [bamboo-steamer]
+pairsWith: [basmati-rice, stir-fried-vegetables, garlic-sesame-spinach]
 ingredients:
   - '1 lb Whole Fish or Fillet (Tilapia, Flounder, or Sole)'
   - '3 tbsp Fresh Ginger, julienned'

@@ -3,7 +3,7 @@ title: Cantonese Shrimp and Pork Wontons
 difficulty: easy
 cookingMethods: [roast, fry, no-cook]
 dietary: []
-occasions: []
+occasions: [weekend-project, entertaining]
 flavorProfile: [sweet, savory, umami]
 cuisines: [Chinese]
 role: main
@@ -12,6 +12,12 @@ prepTime: 45 min
 cookTime: 10 min
 totalTime: 55 min
 servings: '6'
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+advancePrep: [make-ahead, freeze-ahead]
+equipment: []
+pairsWith: [wonton-soup, chili-oil]
 ingredients:
   - '1 lb Ground Pork (20% fat is ideal)'
   - '1/2 lb Shrimp, peeled and deveined (half finely chopped, half kept in chunks)'

@@ -3,7 +3,7 @@ title: Mongolian Beef
 difficulty: easy
 cookingMethods: [fry, simmer, steam]
 dietary: []
-occasions: []
+occasions: [weeknight, meal-prep, comfort-food]
 flavorProfile: [sweet, savory, umami]
 cuisines: [Chinese]
 role: main
@@ -12,6 +12,11 @@ prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
 servings: '4'
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [wok]
+pairsWith: [basmati-rice, steamed-broccoli, garlic-sesame-spinach]
 ingredients:
   - '1.5 lbs Flank Steak, sliced very thin against the grain'
   - 1/4 cup Cornstarch (for velveting)

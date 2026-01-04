@@ -3,7 +3,7 @@ title: Restaurant-Style Chicken Lo Mein
 difficulty: easy
 cookingMethods: [fry, sauté, steam]
 dietary: []
-occasions: []
+occasions: [weeknight, kids-approved, meal-prep]
 flavorProfile: [sweet, savory, umami]
 cuisines: [Chinese]
 role: main
@@ -12,6 +12,11 @@ prepTime: 20 min
 cookTime: 15 min
 totalTime: 35 min
 servings: '6'
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [wok]
+pairsWith: [smashed-cucumber-salad, spring-rolls]
 ingredients:
   - 1 lb Fresh Lo Mein Egg Noodles
   - '8 oz Chicken Thighs, cut into thin strips'
