@@ -1,25 +1,38 @@
 ---
-title: Golden Veil
+title: Golden Veil (The Herbal Standard)
+role: drink
+vibe: project
+prepTime: 10 min
+cookTime: 0 min
+totalTime: 10 min
+servings: '1'
 ingredients:
-  - 2 oz Plymouth Gin
-  - 1.5 oz Montelobos Mezcal
-  - 2 oz Remy Martin Cognac
-  - 2.5 oz Fresh Lemon Juice
-  - 1 oz Dom Benedictine
-  - 0.5 oz Agave Syrup
-  - 3 dashes Orange Bitters
-  - 6 oz Prosecco
-  - Lemon Peel and Sprig of Thyme for Garnish
-role: main
-vibe: fuel
-servings: Unknown
+  - '2 oz Plymouth Gin'
+  - '1.5 oz Montelobos Mezcal'
+  - '2 oz Remy Martin Cognac'
+  - '2.5 oz Fresh Lemon Juice (The Acid Finish)'
+  - '1 oz Dom Benedictine'
+  - '0.5 oz Agave Syrup'
+  - '3 dashes Orange Bitters'
+  - '6 oz Prosecco, chilled'
+  - '--- For Garnish ---'
+  - 'Lemon Peel Twist'
+  - 'Fresh Thyme Sprig'
 ---
 
-The herbal complexity of Dom Benedictine complements the smokiness of mezcal and the richness of cognac. Prosecco adds effervescence, making it celebratory yet balanced.Assisted by ChatGPT
+## Chef's Note
+The Golden Veil is a masterclass in **Structural Science** and flavor layering. The secret to its aromatic complexity is **The Slap Pattern**: you must place the thyme sprig in your palm and slap it sharply before garnishing; this ruptures the oil glands, releasing the herb's essence without the bitterness of muddling. We use **The Effervescence Layering Pattern**: the Prosecco is added only after the base is shaken and strained, ensuring the "Bounce" of the bubbles is preserved to cut through the smoky mezcal and rich cognac.
 
 ## Directions
 
-1. Combine gin, mezcal, cognac, lemon juice, Benedictine, agave syrup, and orange bitters in a shaker with ice.
-2. Shake vigorously and strain into coupe or wine glasses.
-3. Top with Prosecco.
-4. Garnish with an elegant lemon peel twist and a sprig of fresh thyme (lightly slapped to release its aroma).
+1.  **Thermal Prep:** Chill a large coupe or wine glass in the freezer for 10 minutes.
+2.  **The Base:** Combine gin, mezcal, cognac, lemon juice, Benedictine, agave, and orange bitters in a shaker filled with large ice cubes.
+3.  **Aeration:** Shake vigorously for 15 seconds until the shaker is frosted and the mixture is perfectly emulsified.
+4.  **Strain:** Double strain into the chilled glass to ensure a silky mouthfeel.
+5.  **The Crown:** Top with the chilled Prosecco. Do not stir—let the bubbles naturally integrate the layers.
+6.  **The Slap:** Take the thyme sprig, slap it between your palms, and place it in the glass. Express the lemon peel over the rim and drop it in for the mandatory **High Note**.
+
+## Serving Suggestions
+-   [Extraordinary Chocolate Chip Cookie](/recipes/extraordinary-chocolate-chip-cookie)
+-   [Mediterranean Pinwheels](/recipes/mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options)
+-   Smoked Gouda

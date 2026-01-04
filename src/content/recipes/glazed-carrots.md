@@ -1,29 +1,33 @@
 ---
 title: Glazed Carrots
-prepTime: 10 min
-cookTime: 15 min
-servings: '8'
-ingredients:
-  - '2 pounds carrots, peeled and cut into sticks'
-  - 1/4 cup butter
-  - 1/4 cup packed brown sugar
-  - 1/4 teaspoon salt
-  - 1/8 teaspoon ground white pepper
-totalTime: 25 min
 role: side
 vibe: speed
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '8'
+ingredients:
+  - '2 lbs Carrots, peeled and cut into matchsticks'
+  - '1/4 cup Unsalted Butter'
+  - '1/4 cup Light Brown Sugar, packed'
+  - '1/4 tsp Sea Salt'
+  - '1/8 tsp White Pepper (The High Note)'
+  - '--- Optional Finish ---'
+  - '1 tsp Fresh Thyme, chopped'
 ---
+
+## Chef's Note
+The secret to "Gold Standard" glazed carrots is **Structural Science** through **The Monter au Beurre Pattern** (The Butter Mount). Instead of just boiling carrots in sugar water, we par-boil them in just 1 inch of water, drain, and then mount the butter and sugar into the hot pan. This creates a thick, velvet-like emulsion that clings to the **Stick Cut** carrots rather than pooling at the bottom. The **White Pepper** is the mandatory "High Note" that prevents the glaze from being one-dimensional.
 
 ## Directions
 
-1. Place carrots into a large saucepan, pour in enough water to reach depth of 1 inch, and bring to a boil. Reduce heat to low, cover, and simmer carrots until tender, 8 to 10 minutes. Drain and transfer to a bowl.
-2. Melt butter in the same saucepan; stir brown sugar, salt, and white pepper into butter until brown sugar and salt have dissolved. Transfer carrots into brown sugar sauce; cook and stir until carrots are glazed with sauce, about 5 more minutes.
+1.  **Par-Boil:** Place carrot sticks in a large saucepan. Add 1 inch of salted water. Bring to a boil, then reduce heat to low and cover. Simmer for 8-10 minutes until tender but still having a slight "Snap."
+2.  **Drain:** Drain the carrots and transfer to a bowl. **Do not rinse.**
+3.  **The Emulsion:** In the same warm saucepan, melt the butter over low heat. Whisk in the brown sugar, salt, and white pepper until the sugar is completely dissolved and the mixture is bubbling.
+4.  **Glaze:** Return the carrots to the pan. Toss vigorously over medium heat for 2-3 minutes until the carrots are perfectly coated in a glossy, thick glaze.
+5.  **Finish:** Stir in fresh thyme if using. Serve immediately.
 
-## Nutrition
-
-- Per Serving: 124 calories
-- 6 g fat
-- 1: 7.6 g carbohydrates
-- 1.: 1 g protein
-- 1: 5 mg cholesterol
-- 1: 94 mg sodium. Full nutrition
+## Serving Suggestions
+-   [Roast Turkey Breast](/recipes/roast-turkey-breast)
+-   [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

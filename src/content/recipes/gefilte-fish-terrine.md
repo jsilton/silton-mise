@@ -1,28 +1,44 @@
 ---
 title: Gefilte Fish Terrine
-servings: Serves 8-10
-ingredients:
-  - 3 tbsp. olive oil
-  - '1 medium white onion, minced'
-  - '12 oz. boneless, skinless carp or pike fillet, roughly chopped'
-  - '12 oz. boneless, skinless salmon fillet, roughly chopped'
-  - 1 cup heavy cream
-  - 2 tbsp. matzo meal
-  - '1 tbsp. minced dill, plus sprigs for garnish'
-  - '2 tsp. kosher salt, plus more to taste'
-  - '1 tsp. freshly ground pepper, plus more to taste'
-  - '2 eggs, beaten'
-  - '1 carrot, coarsely shredded'
-  - 'Zest of 2 lemons, plus 3 tbsp. juice, and wedges for serving'
-  - 2 cups baby arugula
-  - '4 red radishes, thinly sliced'
-  - '1 (1") piece horseradish, peeled and finely shredded'
-  - '1 shallot, thinly sliced'
-  - 'Matzos, for serving'
 role: main
-vibe: fuel
+vibe: holiday
+prepTime: 30 min
+cookTime: 75 min
+totalTime: 105 min
+servings: '10'
+ingredients:
+  - '12 oz Carp or Pike Fillet, chopped'
+  - '12 oz Salmon Fillet, chopped'
+  - '--- The Flavor Bind ---'
+  - '1 cup Heavy Cream'
+  - '2 tbsp Matzo Meal'
+  - '2 large Eggs, beaten'
+  - '1 medium Onion, minced'
+  - '1 carrot, shredded'
+  - '1 tbsp Fresh Dill, minced'
+  - 'Zest of 2 Lemons'
+  - '2 tsp Kosher Salt'
+  - '--- The Fresh Crown ---'
+  - '2 cups Baby Arugula'
+  - '4 Radishes, sliced'
+  - '1 tbsp Fresh Horseradish, grated'
 ---
+
+## Chef's Note
+This is a **Modern Heritage** update to a classic Passover staple. We replace the boiled grey "loaves" with a baked salmon-carp terrine. The secret to the Silton Standard is **The Coarse Grind Pattern**: we pulse the fish in a food processor just until ground, rather than a paste; this ensures a meaty "Bounce" in every slice. We use a **Bain-Marie** (water bath) during baking to ensure the heavy cream and eggs set into a silky, souffle-like structure without drying out.
 
 ## Directions
 
-1. Heat oven to 325°. Line a 9"x 5" loaf pan with plastic wrap, letting at least 4" hang over the edges. Heat 1 tbsp. oil in an 8" skillet over medium; cook onion until soft, 8–10 minutes, and transfer to a bowl. Combine carp and salmon in a food processor; pulse until coarsely ground and transfer to bowl with onion. Add cream, matzo meal, minced dill, salt, pepper, eggs, carrot, lemon zest plus 1 tsp. juice, and 3/4 cup cold water; stir to combine and spread into prepared pan. Wrap plastic wrap over top and cover with parchment paper. Place loaf pan in a 9"x 13" baking dish; pour boiling water into pan to come halfway up outside of loaf pan. Bake until an instant-read thermometer inserted into the center reads 160° or a knife inserted into the center comes out clean, about 1 hour 15 minutes. Transfer loaf pan to a wire rack; let cool. Remove paper and invert terrine onto a platter; discard plastic wrap. Chill terrine until cold and then cut into slices. Toss remaining olive oil and lemon juice, the dill sprigs, arugula, radishes, horseradish, shallot, salt, and pepper in a bowl; sprinkle over terrine. Serve with lemon wedges and matzos.
+1.  **Sweat:** Heat oil in a skillet. Sauté the onion for 8-10 minutes until soft and translucent (do not brown).
+2.  **The Grind:** Pulse the carp and salmon in a food processor until coarsely ground. Transfer to a large bowl with the onions.
+3.  **Bind:** Stir in the cream, matzo meal, dill, salt, pepper, eggs, shredded carrot, and lemon zest. Whisk in 3/4 cup cold water until smooth.
+4.  **Prep:** Preheat oven to 325°F. Line a 9x5 loaf pan with plastic wrap (extending over the edges). Spread the fish mixture into the pan. Seal with the overhanging plastic and cover with foil.
+5.  **Bain-Marie:** Place the loaf pan inside a 9x13 baking dish. Fill the larger dish with boiling water until it reaches halfway up the loaf pan.
+6.  **Bake:** Bake for 1 hour 15 minutes until the center is firm (160°F).
+7.  **Set:** Remove from the water bath and cool. **Chill for at least 4 hours** (ideally overnight) before inverting onto a platter.
+8.  **Finish:** Toss arugula, radishes, and horseradish with lemon juice. Serve the chilled slices topped with the fresh salad for the mandatory **Acid Finish**.
+
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   Fresh Horseradish (Chrein)
+-   Matzos

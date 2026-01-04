@@ -1,44 +1,49 @@
 ---
 title: General Tso's Cauliflower
-prepTime: 30 min
-cookTime: 30 min
-servings: 4 servings
-ingredients:
-  - CAULIFLOWER
-  - ½ cup all-purpose flour
-  - ⅓ cup cornstarch
-  - ¾ teaspoon baking powder
-  - 1 teaspoon salt
-  - 2 eggs
-  - 3 tablespoons soy sauce
-  - 1 tablespoon rice vinegar
-  - ½ cup neutral oil (like peanut or vegetable)
-  - '1 head cauliflower, cut into bite-size florets'
-  - SAUCE
-  - 2 teaspoons sesame oil
-  - '6 scallions, white part finely sliced, green part chopped into 1-inch pieces'
-  - '3 cloves garlic, minced'
-  - 1 tablespoon minced ginger
-  - 5 small dried chiles (optional)
-  - ¼ cup vegetable broth
-  - ¼ cup soy sauce
-  - 3 tablespoons rice vinegar
-  - 2 tablespoons mirin
-  - 3 tablespoons sugar
-  - 1 tablespoon cornstarch
-  - 'Sesame seeds, for garnish (optional)'
-totalTime: 60 min
 role: main
 vibe: fuel
+prepTime: 30 min
+cookTime: 30 min
+totalTime: 60 min
+servings: '4'
+ingredients:
+  - '1 head Cauliflower, cut into bite-sized florets'
+  - '--- The Crispy Batter ---'
+  - '1/2 cup All-Purpose Flour'
+  - '1/3 cup Cornstarch (The "Snap" Guard)'
+  - '3/4 tsp Baking Powder'
+  - '2 large Eggs'
+  - '3 tbsp Soy Sauce'
+  - '1 tbsp Rice Vinegar'
+  - '--- The General Tso Sauce ---'
+  - '1/4 cup Soy Sauce'
+  - '3 tbsp Rice Vinegar'
+  - '2 tbsp Mirin'
+  - '3 tbsp Granulated Sugar'
+  - '1 tbsp Cornstarch (for the bind)'
+  - '1/4 cup Vegetable Broth'
+  - '--- The Aromatics ---'
+  - '6 Scallions, sliced (whites and greens separated)'
+  - '3 cloves Garlic, minced'
+  - '1 tbsp Fresh Ginger, minced'
+  - '5 Dried Red Chilies'
+  - 'Peanut Oil (for frying)'
 ---
+
+## Chef's Note
+This is the plant-based answer to the takeout classic. The secret to its "Restaurant Quality" texture is **Structural Science** through **The Cornstarch Guard Pattern**. By using a high ratio of cornstarch and baking powder in the batter, we create a light, porous "Snap" that remains crispy even after being tossed in the sticky glaze. The **Rice Vinegar** in the batter provides an immediate **Acid Finish** from within, ensuring the cauliflower stays bright and flavorful.
 
 ## Directions
 
-1. 1. Prepare the Cauliflower: In a medium bowl, whisk the flour, cornstarch, baking powder and salt to combine. In a liquid measuring cup, whisk the eggs, soy sauce and vinegar to combine. Slowly pour the egg mixture into the flour, whisking constantly. You should end up with a thick but still dip-able batter (thin with a little water if needed). 2. Heat the oil in a medium cast iron skillet until very hot (you can test it by dropping a small amount of batter into the oil--it should immediately sizzle and float). 3. Dip each piece of cauliflower fully in the batter, then place in the oil. Pan-fry the cauliflower until it's golden on all sides, 4 to 5 minutes. Drain on absorbent paper towels. 4. ?Make the Sauce: In a medium pot, heat the sesame oil over medium heat. Add the finely-chopped white scallions, garlic, ginger and chiles, and cook until fragrant, 1 to 2 minutes. 5. Add the broth, soy sauce, rice vinegar and mirin, and bring to a simmer over medium heat. Simmer for 5 minutes. 6. In a small bowl, whisk the sugar and cornstarch to combine. Pour about ¼ cup of the hot sauce over the mixture, whisking constantly until the mixture is smooth and lump free. Return the mixture to the pot and bring to a simmer. Stir in the large pieces of green scallion. 7. Cook, stirring occasionally, until the mixture thickens and has good flavor, 7 to 9 minutes more. 8. Add the cauliflower to the pot and toss to coat until the cauliflower is rewarmed, 4 to 5 minutes. Serve immediately, garnished with sesame seeds and with a side of steamed rice.
+1.  **The Batter:** Whisk flour, 1/3 cup cornstarch, baking powder, and salt. In a separate jar, whisk eggs, 3 tbsp soy sauce, and 1 tbsp vinegar. Slowly pour the wet into the dry, whisking until a thick, dip-able batter forms.
+2.  **The Snap:** Heat 1/2 inch of oil in a cast-iron skillet until a drop of batter sizzles immediately. Dip each floret into the batter and fry for 4-5 minutes until deep golden on all sides. Drain on paper towels.
+3.  **The Sauce:** In a small bowl, whisk all General Tso sauce ingredients until the sugar and cornstarch are dissolved.
+4.  **Aromatics:** Heat 2 tsp sesame oil in a pot. Sauté the scallion whites, garlic, ginger, and chilies for 2 minutes until fragrant.
+5.  **Bind:** Pour the sauce into the pot. Bring to a simmer for 5-7 minutes until thick enough to coat a spoon and mirror-glossy. Stir in the scallion greens.
+6.  **Glaze:** Add the crispy cauliflower to the pot. Toss vigorously for 30 seconds until every floret is coated in the glaze.
+7.  **Serve:** Garnish with sesame seeds and serve immediately over steamed rice.
 
-## Nutrition
-
-- Fat: 14 grams fat
-- Calories: 369 caloriesCarbohydrate: 47 grams carbohydrate
-- Sugar: 14 grams sugar
-- Protein: 15 grams protein
+## Serving Suggestions
+-   [Basmati Rice](/recipes/basmati-rice)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)

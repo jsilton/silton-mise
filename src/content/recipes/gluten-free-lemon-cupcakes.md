@@ -1,49 +1,45 @@
 ---
 title: Gluten-Free Lemon Cupcakes
-prepTime: 10 min
-cookTime: 20 min
-servings: 'Yield: 12 cupcakes'
-ingredients:
-  - 1 ¼ cups gluten-free flour (I used Bob's Red Mill 1-to-1 gluten-free flour)
-  - 1 ½ teaspoons gluten-free baking powder
-  - ¼ teaspoon salt
-  - ½ cup oil
-  - ¾ cup sugar
-  - 2 large eggs
-  - 1 tablespoon gluten-free vanilla extract
-  - '¼ cup fresh lemon juice (from 1 medium lemon, not lemon juice from a bottle)'
-  - 1 tablespoon lemon zest (from the same lemon)
-  - ½ cup milk (or dairy-free milk)
-  - '½ cup butter (1 stick), room temperature (or dairy-free butter)'
-  - 4 cups powdered sugar
-  - 2 tablespoons of lemon juice (or 1 teaspoon lemon extract)
-  - '3-4 tablespoons milk (or dairy-free milk), as needed'
-totalTime: 30 min
 role: dessert
 vibe: project
+prepTime: 10 min
+cookTime: 20 min
+totalTime: 30 min
+servings: '12'
+ingredients:
+  - '--- The GF Base ---'
+  - '1 1/4 cups Gluten-free All-Purpose Flour (Bob’s 1-to-1 preferred)'
+  - '1 1/2 tsp Gluten-free Baking Powder'
+  - '1/4 tsp Sea Salt'
+  - '--- The Lemon Emulsion ---'
+  - '3/4 cup Granulated Sugar'
+  - '1/2 cup Avocado or Canola Oil'
+  - '2 large Eggs'
+  - '1 tbsp Fresh Lemon Zest'
+  - '1/4 cup Fresh Lemon Juice'
+  - '1/2 cup Whole Milk'
+  - '1 tbsp Vanilla Extract'
+  - '--- The Lemon Buttercream ---'
+  - '1/2 cup (1 stick) Unsalted Butter, softened'
+  - '4 cups Confectioners’ Sugar'
+  - '2 tbsp Fresh Lemon Juice (The High Note)'
+  - '2 tbsp Milk (as needed)'
 ---
+
+## Chef's Note
+The challenge with gluten-free baking is preventing a gritty or dry texture. We solve this with **Structural Science** through **The Emulsion Beat Pattern**: we beat the oil and sugar for a full minute *before* adding eggs, which creates a stable fat-sugar network that traps moisture. The **Acid Finish** is doubled here: we use both juice and zest in the batter, then finish with a sharp lemon buttercream. This provides the mandatory "High Note" that ensures the cupcakes taste fresh rather than heavy.
 
 ## Directions
 
-1. For the cupcakes: Preheat oven to 350°F (180°C). Line a 12-serving cupcake pan with paper liners; set aside.
-2. In a medium mixing bowl, whisk flour, baking powder, and salt; set aside.
-3. In a large mixing bowl, with an electric beater, beat oil and sugar for one minute. Add eggs one at a time, beating in between each egg. Stir in vanilla extract, lemon juice, and lemon zest.
-4. Add the flour mixture and milk to the wet ingredients and mix just till combined. Don’t over mix!
-5. Divide batter among liners, filling ⅔ full (about ¼ cup of batter per cupcake).
-6. Bake for 18-20 minutes until a toothpick comes out clean.
-7. Cool completely before frosting.
-8. For the frosting: Beat butter until creamy. Add lemon juice or extract and beat till combined. Beat in 1 cup of powdered sugar at a time until it’s all added, alternating with 1 tablespoon of milk. Add more or less milk for desired consistency.
-9. Store cupcakes in an airtight container at room temperature for up to four days.
+1.  **Dry Mix:** Whisk together GF flour, baking powder, and salt. Set aside.
+2.  **The Emulsion:** In a large bowl, beat the oil and sugar with an electric mixer for 1 minute. Add eggs one at a time, beating well after each. Stir in vanilla, lemon juice, and zest.
+3.  **Combine:** Gradually add the flour mixture and milk. Mix until **just combined**—GF flour doesn't develop gluten, but over-mixing can still lead to a gummy "Bounce."
+4.  **Bake:** Divide batter among 12 lined cups (about 2/3 full). Bake at 350°F for 18-20 minutes until a toothpick comes out clean.
+5.  **Cool:** Let cool **completely** before frosting. GF cakes are structurally fragile while warm.
+6.  **The Frosting:** Beat butter until creamy. Add lemon juice and 1 cup of sugar. Beat until smooth. Gradually add remaining sugar and milk until the frosting holds a stiff peak.
+7.  **Finish:** Frost generously. Store in an airtight container for up to 4 days.
 
-## Nutrition
-
-- TOTAL FAT: 18g
-- SATURATED FAT: 6g
-- TRANS FAT: 0g
-- SATURATED FAT: 11g
-- CHOLESTEROL: 53mg
-- SODIUM: 188mg
-- CARBOHYDRATES: 61g
-- FIBER: 1g
-- SUGAR: 49g
-- PROTEIN: 3g
+## Serving Suggestions
+-   [Elderberry Syrup](/recipes/elderberry-syrup) (as a drizzle)
+-   Fresh Raspberries
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

@@ -1,41 +1,37 @@
 ---
-title: Gnocchi with Zucchini Ribbons & Parsley Brown Butter
-cookTime: 20 min
-servings: 4 servings
-ingredients:
-  - 1 pound fresh or frozen gnocchi
-  - 2 tablespoons butter
-  - '2 medium shallots, chopped'
-  - '1 pound zucchini, (about 3 small), very thinly sliced lengthwise (see Tip)'
-  - '1 pint cherry tomatoes, halved'
-  - ½ teaspoon salt
-  - ¼ teaspoon grated nutmeg
-  - 'Freshly ground pepper, to taste'
-  - ½ cup grated Parmesan cheese
-  - ½ cup chopped fresh parsley
-totalTime: 20 min
+title: Gnocchi with Zucchini Ribbons & Brown Butter
 role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '1 lb Fresh or Frozen Potato Gnocchi'
+  - '1 lb Zucchini (about 3 small), shaved into ribbons'
+  - '1 pint Cherry Tomatoes, halved'
+  - '--- The Brown Butter Emulsion ---'
+  - '2 tbsp Unsalted Butter'
+  - '2 medium Shallots, minced'
+  - '1/2 cup Fresh Parsley, chopped'
+  - '1/2 cup Freshly Grated Parmesan'
+  - '1/4 tsp Ground Nutmeg (The "High Note")'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is a 20-minute "Speed" masterpiece. The secret to the Silton Standard is **Texture Integrity** through **The Ribbon Pattern**: by shaving the zucchini with a vegetable peeler into paper-thin strips, we ensure it wilts in seconds, creating a "silk" that intertwines with the gnocchi. We use a **Brown Butter Emulsion**: we cook the butter until it hits its nutty peak (Beurre Noisette) then use the moisture from the cherry tomatoes to bind it into a glossy sauce. The **Nutmeg** provides the mandatory "High Note" that bridges the earthy brown butter and fresh parsley.
 
 ## Directions
 
-1. Bring a large saucepan of water to a boil. Cook gnocchi until they float, 3 to 5 minutes or according to package directions. Drain. Meanwhile, melt butter in a large skillet over medium-high heat. Cook until the butter is beginning to brown, about 2 minutes. Add shallots and zucchini and cook, stirring often, until softened, 2 to 3 minutes. Add tomatoes, salt, nutmeg and pepper and continue cooking, stirring often, until the tomatoes are just starting to break down, 1 to 2 minutes. Stir in Parmesan and parsley. Add the gnocchi and toss to coat. Serve immediately.
+1.  **Boil:** Bring a large pot of salted water to a boil. Cook gnocchi until they float (3-5 mins). Drain.
+2.  **Brown:** Meanwhile, in a large skillet, melt butter over medium-high heat. Cook for 2 minutes until it stops foaming and turns golden brown with a nutty aroma.
+3.  **Aromatics:** Add shallots and zucchini ribbons. Sauté for 2 minutes, tossing constantly until just wilted.
+4.  **Emulsify:** Add halved tomatoes, salt, nutmeg, and pepper. Cook for 2 minutes until the tomatoes just begin to release their juices and form a light sauce.
+5.  **Toss:** Add the drained gnocchi, Parmesan, and parsley to the skillet.
+6.  **Bind:** Toss vigorously for 30 seconds until the cheese is melted and the gnocchi is glossy and coated. Serve immediately.
 
-## Notes
-
-Tip: To make “ribbon-thin” zucchini, slice lengthwise with a vegetable peeler or a mandoline slicer.
-
-## Nutrition
-
-- Serving size: 1½ cupsPer serving: 426 calories
-- 1: 1 g fat(6 g sat)
-- 4 g fiber
-- 6: 6 g carbohydrates
-- 1: 7 g protein
-- 2: 5 mg cholesterol
-- 7 g sugars
-- 0 g added sugars
-- 7: 52 mg sodium
-- 1 medium-fat meat
-- 1 fat
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roasted Asparagus](/recipes/roasted-asparagus)
+-   [Garlic Bread](/recipes/garlic-bread)
