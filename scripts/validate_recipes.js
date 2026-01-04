@@ -27,7 +27,7 @@ function validateAndFix() {
       const originalTitle = data.title;
       // Capitalize the first letter of the title
       let cleanedTitle = originalTitle.charAt(0).toUpperCase() + originalTitle.slice(1);
-      
+
       if (cleanedTitle !== originalTitle) {
         data.title = cleanedTitle;
         modified = true;
@@ -62,7 +62,6 @@ function validateAndFix() {
       data.ingredients = [];
       modified = true;
     }
-
 
     // 3. Missing Servings or Wrong Type
     if (!data.servings) {
