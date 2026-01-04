@@ -1,21 +1,31 @@
-Here is the narrative profile for the AI. You should save this as SILTON_CODEX.md in your repository.
+# The Silton Codex: Development Standards & Best Practices
 
-It is written entirely in descriptive sentences to give the AI context rather than orders, allowing it to "understand" you rather than just obey a checklist.
+This document outlines the core mandates and operational guidelines for developing the `silton-mise` project. These rules apply to both human developers and AI assistants to ensure consistency, quality, and stability.
 
-THE SILTON CODEX
-Profile of the Executive Chef & Family Palate Version 1.0
+## Core Mandates
 
-The Mission
-The Silton kitchen is currently transitioning from a disorganized collection of random recipes into a strategic, high-performance culinary operating system known as silton-mise. The ultimate goal is to curate a locked library of exactly 70 "Gold Standard" recipes that solve specific logistical problems for a busy family, ranging from Tuesday night fatigue to Sunday afternoon comfort. This system prioritizes quality over quantity, meaning every recipe exists to fill a specific functional gap, such as "Speed," "Fuel," or "Heritage," and new additions must displace old ones to maintain the limit.
+1.  **Commit & Push Often:** Commit and push changes to the remote repository immediately after completing any major task or logical unit of work to avoid large, unwieldy pushes.
+2.  **Verify Before Committing:** Always run the project's build command (`npm run build`) or tests to catch errors *before* committing.
+3.  **Read Before Writing:** Always read the current content of a file before applying changes to ensure accurate context and prevent overwriting unrelated code.
+4.  **Docs Up-to-Date:** Automatically check and update `README.md` or documentation whenever architectural changes, new scripts, or major features are introduced.
+5.  **Atomic Commits:** Prefer smaller, focused commits with descriptive messages (e.g., "Fix: ...", "Feat: ...") over bundling unrelated changes.
 
-The Palate & Texture Profile
-The family has very specific, non-negotiable preferences regarding texture and flavor that guide all culinary decisions. They have a strong aversion to capers and water chestnuts due to their specific textures, though they appreciate the acidity of lemon and the crunch of fresh vegetables like celery or apples as substitutes. While there are no medical nut allergies, the family prefers to avoid nut-heavy dishes, opting for seeds like sunflower or sesame when a nutty flavor profile is needed. They generally dislike "mushy" textures, preferring roasted squash over boiled and blended soups over chunky vegetable stews. Conversely, they highly value the "snap" and "crunch" of textures typically found in restaurant-quality Asian cuisine, achieved through high-heat searing or air-frying rather than deep-frying.
+## Code Quality & Style
 
-The Nutritional Philosophy ("The Fuel Protocol")
-The family views food as fuel and places a high premium on nutrient density, particularly regarding dark, leafy greens. A "salad" in this kitchen is rarely just iceberg lettuce; it is expected to be a vehicle for antioxidants, utilizing massaged kale, peppery arugula, or cooked Swiss chard. They prefer to integrate vegetables seamlessly into meals, such as using sweet potato purées to thicken chili naturally. When it comes to protein, there is a distinct preference for lamb and ground turkey over beef, though they will occasionally enjoy a high-quality steak or brisket for special occasions. They aim to balance heavy comfort foods with lighter, acid-forward sides to avoid feeling weighed down during the week.
+6.  **Style Mimicry:** Match the existing code style (indentation, semicolons, naming conventions) of the file you are editing.
+7.  **No Placeholder Left Behind:** Never leave "TODO" comments, "lorem ipsum", or placeholder logic in committed code unless explicitly agreed upon.
+8.  **Context-Aware Refactoring:** Before renaming or moving a file/function, always search the codebase for references to ensure nothing breaks.
+9.  **Dependency Check:** Before installing a new package, check `package.json` to see if it (or a viable alternative) is already there.
+10. **Explain the 'Why':** When adding a non-obvious fix or workaround, add a code comment explaining *why* it's needed (not just *what* it does).
 
-The Culinary Standards
-This kitchen operates under the belief that home cooking should rival restaurant quality through the application of proper food science rather than shortcuts. The family respects the "why" behind cooking—understanding that mounting a sauce with cold butter creates emulsion, or that "velveting" chicken is essential for proper stir-fry texture. They rely on trusted, high-authority sources like J. Kenji López-Alt, Alton Brown, and specialized cultural experts like Dishoom or Rick Bayless, avoiding generic recipe aggregators. Techniques like pressure cooking are embraced for their ability to tenderize meats like ribs or pork shoulder efficiently, while the wok is respected for its ability to generate "wok hei" in small batches.
+## Security & Stability
 
-The Family Logistics
-The menu planning revolves around a structured rhythm designed to minimize decision fatigue. Mondays and Tuesdays are strictly reserved for fast, high-protein "Speed" or "Fuel" meals that take under 30 minutes of active time. Wednesdays are often designated for pasta or Italian dishes, provided they aren't overly heavy on cream. Thursdays are flexible "bowl" nights for clearing out the fridge, while Fridays and weekends allow for more complex "Comfort" meals or "Projects" that involve longer cooking times and family participation. The Thanksgiving menu is a specific, locked "Heritage" bundle that honors family tradition and is not subject to the usual rotation rules.
+11. **Security-First Defaults:** Never hardcode secrets or keys. Use environment variables by default and ensure `.env` is in `.gitignore`.
+12. **Defensive Coding:** When adding data fetching or async operations, always include basic error handling (`try/catch`) to prevent silent crashes.
+13. **Self-Correction:** If a shell command fails, stop and analyze the error output to fix the issue or ask for clarification, rather than ignoring it or blindly retrying.
+
+## Workflow & Hygiene
+
+14. **Incremental Feedback:** For complex tasks, stop after critical milestones to report status and verify direction.
+15. **Clean Workspace:** Automatically delete temporary scripts or log files created during a task once they are no longer needed.
+16. **Mobile-First Defaults:** When writing CSS (especially Tailwind), assume a mobile-first approach (base styles are for mobile, `md:`/`lg:` for desktop).
