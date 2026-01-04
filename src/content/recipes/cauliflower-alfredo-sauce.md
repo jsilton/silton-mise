@@ -1,19 +1,19 @@
 ---
-title: Cauliflower Alfredo (The Fuel Base)
+title: Cauliflower Alfredo
 role: base
 vibe: nutritious
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
-servings: '2 cups'
+servings: 2 cups
 ingredients:
-  - '2 cups Cauliflower florets'
-  - '1 cup Milk of choice (or Chicken Broth for dairy-free)'
-  - '2 tbsp Butter or Olive Oil'
+  - 2 cups Cauliflower florets
+  - 1 cup Milk of choice (or Chicken Broth for dairy-free)
+  - 2 tbsp Butter or Olive Oil
   - '2 cloves Garlic, grated'
-  - '1/2 cup Parmesan Cheese or Nutritional Yeast'
-  - '1/2 tsp Kosher Salt'
-  - 'Pinch of Nutmeg'
+  - 1/2 cup Parmesan Cheese or Nutritional Yeast
+  - 1/2 tsp Kosher Salt
+  - Pinch of Nutmeg
 ---
 
 ## Chef's Note

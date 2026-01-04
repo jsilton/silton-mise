@@ -1,23 +1,23 @@
 ---
-title: Homemade Naan (Skillet Char Method)
+title: Homemade Naan
 role: base
 vibe: technical
 prepTime: 20 min
 cookTime: 10 min
 totalTime: 2 hours
-servings: '8 breads'
+servings: 8 breads
 ingredients:
-  - '2 cups All-Purpose Flour'
-  - '1 tsp Instant Yeast'
-  - '1 tsp Sugar'
-  - '1/2 tsp Salt'
-  - '1/4 cup Plain Greek Yogurt (Full fat)'
-  - '2 tbsp Olive Oil'
-  - '1/2 cup Warm Water'
+  - 2 cups All-Purpose Flour
+  - 1 tsp Instant Yeast
+  - 1 tsp Sugar
+  - 1/2 tsp Salt
+  - 1/4 cup Plain Greek Yogurt (Full fat)
+  - 2 tbsp Olive Oil
+  - 1/2 cup Warm Water
   - '--- For Finishing ---'
-  - '2 tbsp Melted Butter'
+  - 2 tbsp Melted Butter
   - '1 clove Garlic, minced'
-  - 'Fresh Cilantro'
+  - Fresh Cilantro
 ---
 
 ## Chef's Note

@@ -1,5 +1,5 @@
 ---
-title: Mongolian Chicken (Takeout Standard)
+title: Mongolian Chicken
 role: main
 vibe: nutritious
 prepTime: 25 min
@@ -9,19 +9,19 @@ servings: '4'
 ingredients:
   - '12 oz Chicken Breast or Thighs, sliced 1/4-inch thick'
   - '--- The Velvet Crust ---'
-  - '1/4 cup Cornstarch'
-  - '1 tbsp Vegetable Oil'
+  - 1/4 cup Cornstarch
+  - 1 tbsp Vegetable Oil
   - '--- The Mongolian Glaze ---'
-  - '2 1/2 tbsp Soy Sauce'
+  - 2 1/2 tbsp Soy Sauce
   - '2 tbsp Dark Brown Sugar, packed'
-  - '1/4 cup Hot Chicken Stock'
-  - '2 tbsp Cornstarch (slurry)'
+  - 1/4 cup Hot Chicken Stock
+  - 2 tbsp Cornstarch (slurry)
   - '--- The Stir-Fry ---'
   - '1 tsp Fresh Ginger, julienned'
   - '2 cloves Garlic, chopped'
   - '3 Scallions, cut on a diagonal'
-  - '5 Dried Red Chilies (optional)'
-  - 'Neutral Oil (for frying)'
+  - 5 Dried Red Chilies (optional)
+  - Neutral Oil (for frying)
 ---
 
 ## Chef's Note

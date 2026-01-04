@@ -1,34 +1,34 @@
 ---
-title: Chicken Tikka Masala (The Sunday Feast)
+title: Chicken Tikka Masala
 prepTime: 20 min
 cookTime: 40 min
 servings: '6'
 ingredients:
   - '2 lbs boneless, skinless chicken thighs (cut into 1.5-inch chunks)'
   - '--- The Marinade ---'
-  - '3/4 cup Plain Greek Yogurt (Full Fat)'
+  - 3/4 cup Plain Greek Yogurt (Full Fat)
   - '1 tbsp fresh garlic, grated'
   - '1 tbsp fresh ginger, grated'
-  - '1 tbsp lemon juice'
-  - '1 tsp salt'
-  - '1 tbsp Kashmiri chili powder (or Paprika for less heat)'
-  - '1 tsp Garam Masala'
+  - 1 tbsp lemon juice
+  - 1 tsp salt
+  - 1 tbsp Kashmiri chili powder (or Paprika for less heat)
+  - 1 tsp Garam Masala
   - '--- The Gravy ---'
-  - '2 tbsp Butter + 1 tbsp Vegetable Oil'
+  - 2 tbsp Butter + 1 tbsp Vegetable Oil
   - '1 large white onion, diced'
   - '1 tbsp fresh garlic, minced'
   - '1 tbsp fresh ginger, minced'
-  - '3 tbsp tomato paste'
-  - '1.5 tbsp ground coriander'
-  - '1 tbsp ground cumin'
-  - '1 tsp turmeric powder'
-  - '1 tbsp Paprika (for color and mildness)'
-  - '3 cups tomato puree (Passata)'
-  - '1 tbsp white sugar'
-  - '1 cup heavy whipping cream'
-  - '1 tbsp cold butter'
-  - '1 tbsp Kasuri Methi (dried fenugreek leaves)'
-  - '1 tsp Garam Masala (for finishing)'
+  - 3 tbsp tomato paste
+  - 1.5 tbsp ground coriander
+  - 1 tbsp ground cumin
+  - 1 tsp turmeric powder
+  - 1 tbsp Paprika (for color and mildness)
+  - 3 cups tomato puree (Passata)
+  - 1 tbsp white sugar
+  - 1 cup heavy whipping cream
+  - 1 tbsp cold butter
+  - 1 tbsp Kasuri Methi (dried fenugreek leaves)
+  - 1 tsp Garam Masala (for finishing)
 totalTime: 60 min
 role: main
 vibe: technical

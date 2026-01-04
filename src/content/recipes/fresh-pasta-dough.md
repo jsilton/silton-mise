@@ -1,16 +1,16 @@
 ---
-title: Fresh Pasta Dough (Stand-Mixer Standard)
+title: Fresh Pasta Dough
 role: base
 vibe: technical
 prepTime: 15 min
 cookTime: 0 min
 totalTime: 60 min
-servings: '1 lb dough'
+servings: 1 lb dough
 ingredients:
-  - '2 cups All-Purpose or "00" Flour'
+  - 2 cups All-Purpose or "00" Flour
   - '3 large Eggs, lightly beaten'
-  - '1 tbsp Extra-Virgin Olive Oil'
-  - '1 tsp Kosher Salt'
+  - 1 tbsp Extra-Virgin Olive Oil
+  - 1 tsp Kosher Salt
 ---
 
 ## Chef's Note

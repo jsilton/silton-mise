@@ -1,5 +1,5 @@
 ---
-title: Chicken Lettuce Wraps (the crunch Standard)
+title: Chicken Lettuce Wraps
 role: main
 vibe: quick
 prepTime: 15 min
@@ -7,20 +7,20 @@ cookTime: 10 min
 totalTime: 25 min
 servings: '4'
 ingredients:
-  - '1 lb Ground Chicken or Turkey'
+  - 1 lb Ground Chicken or Turkey
   - '--- the texture (No Water Chestnuts!) ---'
   - '1 cup Celery, finely diced (The crunch substitute)'
   - '1/2 cup Green Onions, sliced'
   - '--- The Glaze ---'
-  - '1/4 cup Hoisin Sauce'
-  - '2 tbsp Soy Sauce'
-  - '1 tbsp Rice Vinegar'
+  - 1/4 cup Hoisin Sauce
+  - 2 tbsp Soy Sauce
+  - 1 tbsp Rice Vinegar
   - '1 tbsp Ginger, freshly grated'
   - '2 cloves Garlic, minced'
-  - '1 tsp Toasted Sesame Oil'
+  - 1 tsp Toasted Sesame Oil
   - '--- For Serving ---'
-  - '1 head Bibb or Butter Lettuce (cup-shaped leaves)'
-  - 'Crispy Rice Noodles (optional)'
+  - 1 head Bibb or Butter Lettuce (cup-shaped leaves)
+  - Crispy Rice Noodles (optional)
 ---
 
 ## Chef's Note

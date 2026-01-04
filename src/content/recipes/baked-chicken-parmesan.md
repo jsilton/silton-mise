@@ -1,5 +1,5 @@
 ---
-title: Baked Chicken Parmesan (The Non-Soggy Method)
+title: Baked Chicken Parmesan
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -8,14 +8,14 @@ totalTime: 40 min
 servings: '4'
 ingredients:
   - '1.5 lbs Chicken Breasts, halved horizontally and pounded thin'
-  - '1 cup Panko Breadcrumbs (for maximum crunch)'
-  - '1/2 cup Grated Parmesan Cheese'
+  - 1 cup Panko Breadcrumbs (for maximum crunch)
+  - 1/2 cup Grated Parmesan Cheese
   - '2 large Eggs, beaten'
   - '--- The Assembly ---'
-  - '1 1/2 cups Marinara Sauce'
+  - 1 1/2 cups Marinara Sauce
   - '8 oz Fresh Mozzarella or Low-Moisture Mozzarella, sliced'
-  - 'Fresh Basil leaves'
-  - '1/2 lb Spaghetti or Rigatoni'
+  - Fresh Basil leaves
+  - 1/2 lb Spaghetti or Rigatoni
 ---
 
 ## Chef's Note

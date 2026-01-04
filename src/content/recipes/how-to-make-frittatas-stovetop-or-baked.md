@@ -1,5 +1,5 @@
 ---
-title: The Frittata (Master Standard)
+title: The Frittata
 role: main
 vibe: quick
 prepTime: 10 min
@@ -7,13 +7,13 @@ cookTime: 15 min
 totalTime: 25 min
 servings: '6'
 ingredients:
-  - '12 large Eggs'
-  - '3 tbsp Heavy Cream or Crème Fraîche (for richness)'
+  - 12 large Eggs
+  - 3 tbsp Heavy Cream or Crème Fraîche (for richness)
   - '1 cup (4 oz) Cheese, freshly grated (Gruyère or Sharp Cheddar)'
   - '--- Base ---'
   - '3-5 cups Fresh Vegetables (Spinach, Zucchini, Peppers), chopped'
-  - '1 tbsp Extra-Virgin Olive Oil'
-  - '1/2 tsp Sea Salt'
+  - 1 tbsp Extra-Virgin Olive Oil
+  - 1/2 tsp Sea Salt
   - '--- For Garnish ---'
   - 'Fresh Herbs (Basil, Chives, or Cilantro)'
 ---

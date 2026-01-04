@@ -1,5 +1,5 @@
 ---
-title: Cilantro Lime Rice (The Fresh Base)
+title: Cilantro Lime Rice
 role: base
 vibe: quick
 prepTime: 5 min
@@ -7,14 +7,14 @@ cookTime: 20 min
 totalTime: 25 min
 servings: '4'
 ingredients:
-  - '1 cup Jasmine Rice'
-  - '1 1/2 cups Water or Chicken Broth'
-  - '1 tsp Salt'
+  - 1 cup Jasmine Rice
+  - 1 1/2 cups Water or Chicken Broth
+  - 1 tsp Salt
   - '--- The Fresh Fold ---'
   - '1/2 cup Fresh Cilantro, finely chopped'
-  - '2 tbsp Fresh Lime Juice'
-  - '1 tsp Lime Zest'
-  - '1 tbsp Butter or Olive Oil'
+  - 2 tbsp Fresh Lime Juice
+  - 1 tsp Lime Zest
+  - 1 tbsp Butter or Olive Oil
 ---
 
 ## Chef's Note

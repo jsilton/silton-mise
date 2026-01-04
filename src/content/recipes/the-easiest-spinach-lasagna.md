@@ -1,5 +1,5 @@
 ---
-title: The Easiest Spinach Lasagna (No-Boil Method)
+title: The Easiest Spinach Lasagna
 role: main
 vibe: technical
 prepTime: 15 min
@@ -7,16 +7,16 @@ cookTime: 55 min
 totalTime: 70 min
 servings: '6'
 ingredients:
-  - '15 oz Ricotta Cheese'
+  - 15 oz Ricotta Cheese
   - '8 oz Mozzarella Cheese, grated'
   - '1 cup Parmesan Cheese, grated'
   - '10 oz Frozen Spinach, thawed and squeezed bone-dry'
-  - '1 large Egg (The binder)'
+  - 1 large Egg (The binder)
   - '--- The Sauce & Pasta ---'
-  - '3 cups (25 oz) High-Quality Marinara Sauce'
-  - '8 oz Whole-Wheat No-Boil Lasagna Sheets'
-  - '1/2 tsp Kosher Salt'
-  - '1/4 tsp Black Pepper'
+  - 3 cups (25 oz) High-Quality Marinara Sauce
+  - 8 oz Whole-Wheat No-Boil Lasagna Sheets
+  - 1/2 tsp Kosher Salt
+  - 1/4 tsp Black Pepper
 ---
 
 ## Chef's Note
