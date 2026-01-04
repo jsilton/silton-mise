@@ -1,32 +1,36 @@
 ---
-title: Thai Chicken Curry
-prepTime: 15 min
-cookTime: 20 min
-servings: '4'
-ingredients:
-  - '1 lb chicken breasts, thinly-sliced'
-  - '1 red pepper, cut into long strips'
-  - '1 green pepper, cut into long strips'
-  - '1 large yellow oniom, cut into long strips'
-  - '2-4 tbsp red curry paste, to taste'
-  - 1 can coconut milk
-  - 1 tbsp brown sugar
-  - 2 tbsp butter
-  - 1 tbsp cajun spice
-  - '1/3 cup fresh thai basil, chopped'
-  - '1.5 cups Jasmine rice, cooked in a rice cooker'
-totalTime: 35 min
+title: Thai Red Chicken Curry
 role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 15 min
+totalTime: 30 min
+servings: '4'
+ingredients:
+  - '1 lb Chicken Thighs, sliced thin'
+  - '1 can (14 oz) Coconut Milk'
+  - '2-3 tbsp Red Curry Paste (Maesri brand recommended)'
+  - '1 Red Bell Pepper, sliced'
+  - '1 Bamboo Shoot (canned), sliced into strips'
+  - '1 tbsp Fish Sauce'
+  - '1 tbsp Brown Sugar'
+  - 'Handful of Fresh Thai Basil'
 ---
+
+## Chef's Note
+
+This is an **Authentic Standard** Thai curry. We have removed the Cajun spices and butter from the original family "hack" version to highlight the true aromatics of lemongrass and galangal found in the curry paste. The secret is to avoid "boiling" the paste in liquid; instead, fry the paste in a little oil or coconut cream at the start to release the oils.
 
 ## Directions
 
-1. Combine the coconut milk, brown sugar, cajun spice and curry paste in a small bowl. Whisk until disolved to form a sauce.
-2. Bring butter to a medium heat in a wok. Add sauce bring to an active simmer for 3 minutes.
-3. Add the chicken, peppers and onions, and return to an active simmer for 15 minutes.
-4. Add the basil and serve over jasmine rice.
+1.  **Bloom:** Heat 1 tbsp oil in a wok over medium heat. Add the red curry paste. Fry for 2 minutes, stirring constantly, until it smells very fragrant and starts to stick.
+2.  **Incorporate:** Gradually stir in the coconut milk, whisking until the paste is completely dissolved.
+3.  **Simmer:** Add the chicken, bell peppers, and bamboo shoots. Simmer for 10-12 minutes until the chicken is cooked through.
+4.  **Balance:** Stir in the fish sauce and brown sugar. Taste: it should be a balance of salty, sweet, and spicy.
+5.  **Wilt:** Turn off the heat and stir in the Thai basil leaves.
+6.  **Serve:** Serve immediately over [Jasmine Rice](/recipes/near-east-rice-pilaf-hack).
 
 ## Serving Suggestions
 
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
