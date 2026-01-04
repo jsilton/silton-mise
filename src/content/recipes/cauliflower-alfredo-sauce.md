@@ -3,7 +3,7 @@ title: Cauliflower Alfredo
 difficulty: intermediate
 cookingMethods: [roast, sauté, simmer, boil, blend]
 dietary: [dairy-free]
-occasions: []
+occasions: [weeknight, quick-lunch, post-workout]
 flavorProfile: [umami, rich]
 cuisines: [Italian]
 role: base
@@ -12,6 +12,12 @@ prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
 servings: 2 cups
+seasons: [year-round]
+nutritionalDensity: light
+leftovers: excellent
+advancePrep: [make-ahead]
+equipment: [blender]
+pairsWith: [pasta, chicken, vegetables]
 ingredients:
   - 2 cups Cauliflower florets
   - 1 cup Milk of choice (or Chicken Broth for dairy-free)

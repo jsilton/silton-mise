@@ -3,7 +3,7 @@ title: Pasta Dough
 difficulty: easy
 cookingMethods: []
 dietary: [vegetarian]
-occasions: []
+occasions: [weekend-project]
 flavorProfile: [herbaceous]
 cuisines: [Italian]
 role: base
@@ -12,6 +12,12 @@ prepTime: 15 min
 cookTime: 0 min
 totalTime: 60 min
 servings: 1 lb dough
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+advancePrep: [make-ahead, freeze-ahead]
+equipment: [pasta-roller]
+pairsWith: [any-pasta-sauce]
 ingredients:
   - 2 cups All-Purpose or "00" Flour
   - '3 large Eggs, lightly beaten'

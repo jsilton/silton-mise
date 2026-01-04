@@ -3,7 +3,7 @@ title: Lemon Broccoli Tortellini
 difficulty: intermediate
 cookingMethods: [bake, roast, sauté, boil]
 dietary: [vegetarian]
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh]
 flavorProfile: [acidic, umami, rich]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
 servings: '4'
+seasons: [spring, summer, year-round]
+nutritionalDensity: moderate
+leftovers: good
+equipment: []
+pairsWith: [side-salad, garlic-bread]
 ingredients:
   - 1 lb Cheese Tortellini (Refrigerated or frozen)
   - '1 1/2 lbs Fresh Broccoli, cut into bite-sized florets'

@@ -5,7 +5,7 @@ aliases:
 difficulty: easy
 cookingMethods: [bake, fry, sauté, simmer, boil]
 dietary: []
-occasions: []
+occasions: [weekend-project, entertaining, potluck, holiday]
 flavorProfile: [umami]
 cuisines: [Italian]
 role: main
@@ -14,6 +14,12 @@ prepTime: 45 min
 cookTime: 3 hours
 totalTime: 4 hours
 servings: '8'
+seasons: [year-round, fall, winter]
+nutritionalDensity: hearty
+leftovers: excellent
+advancePrep: [make-ahead]
+equipment: []
+pairsWith: [green-salad, garlic-bread]
 ingredients:
   - 2 lbs Anelletti Pasta (or small rings/ditalini)
   - 1/2 lb Ground Beef + 1/2 lb Ground Pork

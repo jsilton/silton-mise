@@ -3,7 +3,7 @@ title: Sun-Dried Tomato Chicken Orzo
 difficulty: intermediate
 cookingMethods: [bake, roast, no-cook]
 dietary: []
-occasions: []
+occasions: [weeknight, meal-prep, comfort-food]
 flavorProfile: [acidic, rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 35 min
 totalTime: 45 min
 servings: '4'
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [sheet-pan]
+pairsWith: [green-salad, roasted-vegetables]
 ingredients:
   - '1 lb Chicken Breast, diced'
   - 1.5 cups Dry Orzo

@@ -4,7 +4,7 @@ origin: Italy
 difficulty: intermediate
 cookingMethods: [bake, sauté, blend]
 dietary: [vegetarian]
-occasions: []
+occasions: [weeknight, quick-lunch, entertaining, potluck]
 flavorProfile: [rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -13,6 +13,11 @@ prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
 servings: '6'
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [cast-iron-skillet]
+pairsWith: [side-salad, crusty-bread]
 ingredients:
   - 12 large Eggs
   - 3 tbsp Heavy Cream or Crème Fraîche (for richness)

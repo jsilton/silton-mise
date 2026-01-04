@@ -3,7 +3,7 @@ title: Garlicky Shrimp Fettuccine
 difficulty: easy
 cookingMethods: [roast, sauté, simmer, boil]
 dietary: []
-occasions: []
+occasions: [weeknight, quick-lunch, date-night]
 flavorProfile: [sweet, umami, rich, herbaceous, smoky]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
 servings: '4'
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: good
+equipment: [large-skillet]
+pairsWith: [caesar-salad, garlic-bread]
 ingredients:
   - '1 lb Shrimp, peeled and deveined (tails removed)'
   - 12 oz Dry Fettuccine

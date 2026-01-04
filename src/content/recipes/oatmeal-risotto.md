@@ -3,7 +3,7 @@ title: Oatmeal Risotto
 difficulty: intermediate
 cookingMethods: [simmer, boil]
 dietary: []
-occasions: []
+occasions: [weekend-project, entertaining]
 flavorProfile: [sweet, savory, acidic, umami, rich]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,12 @@ prepTime: 10 min
 cookTime: 20 min
 totalTime: 600 min
 servings: '4'
+seasons: [fall, winter, year-round]
+nutritionalDensity: hearty
+leftovers: good
+advancePrep: [make-ahead]
+equipment: []
+pairsWith: [roasted-vegetables, side-salad]
 ingredients:
   - 1 cup Steel-cut Oats
   - 3 cups Chicken Broth or Filtered Water

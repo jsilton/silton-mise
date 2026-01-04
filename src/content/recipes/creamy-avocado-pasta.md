@@ -3,7 +3,7 @@ title: Avocado Pasta
 difficulty: easy
 cookingMethods: [grill, boil, blend]
 dietary: []
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh, post-workout]
 flavorProfile: [acidic, umami, rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
 servings: '4'
+seasons: [spring, summer, year-round]
+nutritionalDensity: light
+leftovers: poor
+equipment: [blender]
+pairsWith: [grilled-chicken, cherry-tomatoes]
 ingredients:
   - 12 oz Dry Spaghetti or Fettuccine
   - 2 ripe Medium Avocados

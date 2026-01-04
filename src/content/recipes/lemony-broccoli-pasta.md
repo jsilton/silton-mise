@@ -3,7 +3,7 @@ title: Lemony Broccoli Pasta
 difficulty: intermediate
 cookingMethods: [roast, boil]
 dietary: [vegetarian]
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh]
 flavorProfile: [acidic, umami]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 5 min
 cookTime: 15 min
 totalTime: 20 min
 servings: '6'
+seasons: [spring, summer, year-round]
+nutritionalDensity: light
+leftovers: good
+equipment: []
+pairsWith: [grilled-chicken, garlic-bread]
 ingredients:
   - 1 lb Dry Spaghetti
   - 5 cups Fresh Broccoli Florets

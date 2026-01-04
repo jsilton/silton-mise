@@ -3,7 +3,7 @@ title: Garlic Bread
 difficulty: easy
 cookingMethods: [bake, roast]
 dietary: []
-occasions: [comfort-food]
+occasions: [comfort-food, weeknight, entertaining, potluck]
 flavorProfile: [sweet, umami, rich, herbaceous]
 cuisines: [Italian]
 role: side
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
 servings: '6'
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: poor
+equipment: []
+pairsWith: [pasta, soup, salad]
 ingredients:
   - '1 large Baguette or Loaf of Italian Bread'
   - '1 stick (8 tbsp) Unsalted Butter, softened'

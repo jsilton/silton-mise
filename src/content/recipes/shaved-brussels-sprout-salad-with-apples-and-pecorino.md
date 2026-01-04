@@ -3,7 +3,7 @@ title: Shaved Brussels Sprout Salad
 difficulty: intermediate
 cookingMethods: [roast]
 dietary: []
-occasions: []
+occasions: [entertaining, potluck, light-and-fresh, holiday]
 flavorProfile: [sweet, acidic, rich]
 cuisines: [Italian]
 role: side
@@ -12,6 +12,11 @@ prepTime: 15 min
 cookTime: 0 min
 totalTime: 30 min
 servings: '4'
+seasons: [fall, winter, year-round]
+nutritionalDensity: light
+leftovers: poor
+equipment: []
+pairsWith: [roasted-chicken, pork-tenderloin]
 ingredients:
   - '1 lb Brussels Sprouts, shaved paper-thin'
   - '1 Granny Smith Apple, matchsticked'

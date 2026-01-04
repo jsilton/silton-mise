@@ -3,7 +3,7 @@ title: Caprese Pasta
 difficulty: intermediate
 cookingMethods: [sauté, boil]
 dietary: [vegetarian]
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh, summer]
 flavorProfile: [sweet, acidic, rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 5 min
 totalTime: 15 min
 servings: '4'
+seasons: [summer]
+nutritionalDensity: moderate
+leftovers: good
+equipment: []
+pairsWith: [arugula-salad, grilled-chicken]
 ingredients:
   - 12 oz Angel Hair Pasta
   - '8 oz Fresh Mozzarella (Bocconcini), halved'

@@ -19,6 +19,18 @@ ingredients:
 difficulty: easy
 cookingMethods: [sauté, simmer, boil]
 dietary: []
+occasions: [weeknight, date-night, entertaining, comfort-food]
+flavorProfile: [savory, umami, rich]
+cuisines: [Italian]
+role: main
+vibe: comfort
+seasons: [year-round, fall, winter]
+nutritionalDensity: moderate
+leftovers: good
+equipment: [large-skillet]
+pairsWith: [mashed-potatoes, pasta, green-beans]
+---
+dietary: []
 occasions: [comfort-food]
 flavorProfile: [sweet, savory, rich, herbaceous]
 cuisines: [Italian]

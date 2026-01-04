@@ -3,7 +3,7 @@ title: Spaghetti with Tofu Meatballs
 difficulty: intermediate
 cookingMethods: [bake, roast, sauté]
 dietary: []
-occasions: []
+occasions: [weekend-project, meal-prep, kids-approved]
 flavorProfile: [savory, acidic, umami, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,12 @@ prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
 servings: '6'
+seasons: [year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+advancePrep: [make-ahead, freeze-ahead]
+equipment: [sheet-pan]
+pairsWith: [garlic-bread, caesar-salad]
 ingredients:
   - '3 lbs Extra-firm Tofu, pressed bone-dry'
   - '3/4 cup Walnuts, ground'
