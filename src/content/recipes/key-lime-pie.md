@@ -1,42 +1,40 @@
 ---
-title: Key Lime Pie
-servings: 8 servings
-ingredients:
-  - For crust
-  - 1 1/4 cups graham cracker crumbs from 9 (2 1/4-inch by 4 3/4-inch) crackers
-  - 2 tablespoons sugar
-  - '5 tablespoons unsalted butter, melted'
-  - 1 (14-ounce) can sweetened condensed milk
-  - 4 large egg yolks
-  - >-
-    1/2 cup plus 2 tablespoons fresh or bottled Key lime juice (if using
-    bottled, preferably Manhattan brand)
-  - 3/4 cup chilled heavy cream
+title: Key Lime Pie (The Gold Standard)
 role: dessert
 vibe: project
+prepTime: 20 min
+cookTime: 25 min
+totalTime: 500 min
+servings: '8'
+ingredients:
+  - '--- The Snap Crust ---'
+  - '1 1/4 cups Graham Cracker Crumbs'
+  - '2 tbsp Granulated Sugar'
+  - '5 tbsp Unsalted Butter, melted'
+  - '--- The Silk Filling ---'
+  - '1 can (14 oz) Sweetened Condensed Milk'
+  - '4 large Egg Yolks (room temp)'
+  - '1/2 cup + 2 tbsp Fresh Key Lime Juice'
+  - '--- The Topping ---'
+  - '3/4 cup Heavy Cream, chilled'
+  - '1 tbsp Powdered Sugar'
+  - 'Lime Zest for garnish'
 ---
+
+## Chef's Note
+This is the definitive Silton holiday dessert. The secret to its incredible "Bounce" is **Structural Science** through **The Yolk Emulsion Pattern**: we whisk the egg yolks into the condensed milk *before* adding the lime juice. The acid in the juice causes the proteins in the yolks to begin "cooking" instantly, resulting in a dense, velvety set that only requires 15 minutes in the oven. We maintain **Texture Integrity** by using a high ratio of butter in the crust to create a shatteringly crisp "Snap" that stands up to the creamy filling. Chilling for the full 8 hours is mandatory for the "High Note" acidity to mellow.
 
 ## Directions
 
-1. Make crust:
-2. Preheat oven to 350°F.
-3. Stir together graham cracker crumbs, sugar, and butter in a bowl with a fork until combined well, then press mixture evenly onto bottom and up side of a 9-inch (4-cup) glass pie plate.
-4. Bake crust in middle of oven 10 minutes and cool in pie plate on a rack. Leave oven on.
-5. Make filling and bake pie:
-6. Whisk together condensed milk and yolks in a bowl until combined well. Add juice and whisk until combined well (mixture will thicken slightly).
-7. Pour filling into crust and bake in middle of oven 15 minutes. Cool pie completely on rack (filling will set as it cools), then chill, covered, at least 8 hours.
-8. Make topping:
-9. Just before serving, beat cream in a bowl with an electric mixer until it just holds stiff peaks. Serve pie topped with cream.
+1.  **The Crust:** Preheat oven to 350°F. Stir together crumbs, sugar, and melted butter until it looks like wet sand. Press firmly into the bottom and up the sides of a 9-inch glass pie plate. Bake for 10 minutes. Let cool.
+2.  **The Emulsion:** In a large bowl, whisk the condensed milk and egg yolks until pale and thick.
+3.  **The Bind:** Slowly whisk in the key lime juice—the mixture will noticeably thicken.
+4.  **Bake:** Pour the filling into the cooled crust. Bake for 15 minutes until set around the edges but still having a slight "jiggle" in the center. 
+5.  **The Set:** Cool completely on a rack, then refrigerate for **at least 8 hours** (mandatory).
+6.  **The Crown:** Just before serving, whip the heavy cream and powdered sugar until stiff peaks form. 
+7.  **Serve:** Mound the cream over the pie. Garnish with lime zest for the final aromatic **High Note**.
 
-## Notes
-
-Pie (without topping) can be chilled up to 1 day.
-
-## Nutrition
-
-- Calories: 401
-- Carbohydrates: 43 g(14%)Fat 23 g(36%)Protein 7 g(14%)Saturated Fat 13 g(67%)Sodium 137 mg(6%)Polyun
-- saturated Fat: 2 g
-- Fiber: 1 g(2%)Monoun
-- saturated Fat: 7 g
-- Cholesterol: 159 mg(53%)per serving (8 servings) Powered by
+## Serving Suggestions
+-   [Key Lime Pie Ice Cream](/recipes/key-lime-pie-ice-cream)
+-   Fresh Sliced Strawberries
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

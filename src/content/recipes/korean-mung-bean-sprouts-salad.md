@@ -1,36 +1,35 @@
 ---
-title: Korean Mung Bean Sprouts Salad
-prepTime: 2 min
-cookTime: 10 min
-servings: '4'
-ingredients:
-  - Main
-  - 350 g mung bean sprouts (0.8 pounds)
-  - '1 tsp fine sea salt , to add to the water'
-  - '6 cups water , to boil'
-  - Seasoning sauce
-  - '1 tsp green onion (scallion), finely chopped'
-  - 1/2 tsp minced garlic
-  - >-
-    1/2 tsp fine sea salt , you can adjust the amount of salt per your
-    requirement
-  - 1 tsp toasted sesame seeds
-  - 1 Tbsp sesame oil
-totalTime: 12 min
+title: Korean Mung Bean Sprouts Salad (Sukju Namul)
 role: side
 vibe: fuel
+prepTime: 5 min
+cookTime: 5 min
+totalTime: 10 min
+servings: '4'
+ingredients:
+  - '350g (0.8 lbs) Fresh Mung Bean Sprouts'
+  - '1 tsp Fine Sea Salt (for boiling)'
+  - '--- The Namul Dressing ---'
+  - '1 tsp Scallion, finely chopped'
+  - '1/2 tsp Garlic, minced'
+  - '1/2 tsp Fine Sea Salt'
+  - '1 tbsp Toasted Sesame Oil'
+  - '1 tsp Toasted Sesame Seeds'
 ---
+
+## Chef's Note
+This is a baseline **Modularity** component for Korean bowls. The secret to a crisp "Snap" is **Structural Science** through **The Ice Shock Pattern**: you must blanch the sprouts for exactly 2 minutes and immediately plunge them into ice water. To avoid a watery dressing, we use **The Dry Squeeze**: gather the chilled sprouts and squeeze with your hands until **bone-dry**. This ensures the sesame-garlic emulsion binds directly to the sprouts, providing a nutty, savory "Bounce" in every bite.
 
 ## Directions
 
-1. Rinse the mung bean sprouts in cold water and discard the bad beans if any.
-2. Boil the water in a pot and add the salt. Once the water starts to boil, plunge the mung bean sprouts into the pot and leave them for 1-2 mins.
-3. Drain the water and run cold water on the sprouts for 1-2 minutes.
-4. Squeeze the mung bean sprouts with your hands to remove excess water. Put the mung bean sprouts into a mixing bowl and add the seasoning sauce. Mix them well.
-5. Serve.
+1.  **Thermal Prep:** Bring a large pot of water to a boil with 1 tsp salt. Prepare an ice-water bath.
+2.  **Blanch:** Rinse sprouts in cold water. Add to boiling water and cook for 1-2 minutes until just translucent but still firm.
+3.  **Shock:** Drain immediately and submerge in the ice water for 2 minutes to stop the cooking.
+4.  **The Squeeze:** Squeeze the cold sprouts with your hands until **no more liquid drips out**. They should feel like a dense, dry mass.
+5.  **Toss:** In a large bowl, whisk the scallion, garlic, salt, and sesame oil. Separate the sprouts and toss vigorously with the dressing and sesame seeds.
+6.  **Serve:** Best served chilled or at room temperature.
 
-## Nutrition
-
-- Calories: 49kcal | Carbohydrates: 4g | Protein: 2g | Fat: 3g | Saturated Fat: 0.5g | Polyun
-- saturated Fat: 1g | Monoun
-- saturated Fat: 1g | Sodium: 716mg | Potassium: 109mg | Fiber: 1g | Sugar: 3g | Vitamin A: 19IU | Vitamin C: 9mg | Calcium: 23mg | Iron: 1mg
+## Serving Suggestions
+-   [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
+-   [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
+-   [Fresh Cabbage, Cucumber and Radish Kimchi](/recipes/fresh-cabbage-cucumber-and-radish-kimchi)

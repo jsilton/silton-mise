@@ -1,52 +1,43 @@
 ---
 title: Lemon Chicken Orzo Soup
-prepTime: 10 min
-cookTime: 40 min
-servings: 'Servings: 6'
-ingredients:
-  - 2 sticks celery chopped finely
-  - 2 medium carrots peeled & chopped finely
-  - 1/2 medium onion chopped
-  - 1 tablespoon butter
-  - 1 tablespoon olive oil
-  - 3 cloves garlic minced
-  - 2 tablespoons flour
-  - 6 cups chicken broth
-  - 1/4 teaspoon Italian seasoning
-  - 1.5 pounds uncooked chicken breasts
-  - 1 cup uncooked orzo
-  - 1 tablespoon lemon juice or to taste
-  - 1 tablespoon chopped fresh parsley or to taste
-  - Salt & pepper to taste
-totalTime: 50 min
 role: main
 vibe: comfort
+prepTime: 10 min
+cookTime: 30 min
+totalTime: 40 min
+servings: '6'
+ingredients:
+  - '1.5 lbs Chicken Breasts or Thighs, diced'
+  - '1 cup Dry Orzo'
+  - '--- The Flavor Base ---'
+  - '1 tbsp Unsalted Butter'
+  - '1 tbsp Extra-Virgin Olive Oil'
+  - '1/2 medium Onion, finely chopped'
+  - '2 Carrots, diced'
+  - '2 stalks Celery, diced'
+  - '3 cloves Garlic, minced'
+  - '2 tbsp All-Purpose Flour'
+  - '--- The Soup Silk ---'
+  - '6 cups Chicken Broth (Low-sodium)'
+  - '1/4 tsp Italian Seasoning'
+  - '1/4 cup Fresh Parsley, chopped'
+  - '2 tbsp Fresh Lemon Juice (The High Note)'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+The secret to a "Gold Standard" orzo soup is **Structural Science** through **The Starch Roux Pattern**. We sauté the vegetables and then stir in a small amount of flour *before* the broth; this creates a light body that holds the ingredients in suspension without being heavy. We maintain **Texture Integrity** by simmering the orzo directly in the broth only until al dente—overcooking will turn the soup into a thick porridge. The fresh lemon juice is the mandatory **High Note** that bridges the earthy herbs and savory chicken.
 
 ## Directions
 
-1. Sauté the celery, carrots, and onions in a large soup pot with the butter and oil over medium-high heat for 5-7 minutes.
-2. Stir in the garlic and cook for about 30 seconds, then add the flour and cook for another minute or so.
-3. Pour in the chicken broth and stir until the flour has dissolved, then add the Italian seasoning and chicken. Bring the soup to a boil.
-4. Cover the soup (lid slightly open), and reduce the heat and simmer for 15 minutes.
-5. Stir in the orzo and cook for another 10 minutes or until the orzo is cooked through. I keep the lid off and stir it fairly often because it tends to stick to the bottom of the pot.
-6. Take the chicken out of the pot and cut it up, then add it back in. Add the lemon juice (you may want to add more than I suggest – I didn't want to make the soup too lemony for some people), parsley, and season the soup with salt & pepper as needed. Serve immediately.
-
-## Notes
-
-You can sub the chicken breasts for chicken thighs if you prefer.Chicken is safe to eat at 165F and can go from undercooked to overcooked quickly, so I recommend using an instant read meat thermometer whenever cooking chicken so you’re not guessing.Use low-sodium chicken broth if you’re sensitive to salt.You may need to add more chicken broth to leftovers as the orzo soaks it up.
-
-## Nutrition
-
-- Fat: 8 g
-- Calories: 298 kcal
-- Saturated Fat: 2 g
-- Sodium: 1036 mg
-- Fiber: 2 g
-- Sugar: 2 gCarbohydrate: 26 g
-- Cholesterol: 78 mgServing Size: 1 serving
-- Protein: 29 g
+1.  **Aromatics:** In a large soup pot, heat butter and oil over medium-high. Sauté onion, carrots, and celery for 5-7 minutes until soft.
+2.  **The Roux:** Add garlic and sauté for 30 seconds. Sprinkle the flour over the vegetables and stir for 1 minute to cook out the raw flour taste.
+3.  **The Simmer:** Slowly pour in the chicken broth, whisking to dissolve the flour. Add Italian seasoning and the diced chicken. Bring to a boil.
+4.  **The Orzo:** Reduce heat to medium-low. Add the dry orzo. Simmer for 10-12 minutes, stirring occasionally (orzo loves to stick to the bottom), until the pasta is al dente and the chicken is cooked through (165°F).
+5.  **Finish:** Remove from heat. Stir in the fresh parsley and lemon juice. 
+6.  **Serve:** Season generously with salt and pepper. Serve immediately. Note: orzo will continue to absorb liquid as it sits; add a splash of broth when reheating.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   Warm [Anadama Bread](/recipes/anadama-bread)
+-   [Garlic Mashed "Mock" Potatoes](/recipes/garlic-mashed-mock-potatoes)

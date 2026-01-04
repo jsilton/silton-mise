@@ -1,32 +1,42 @@
 ---
 title: Lemon Basil Shrimp Risotto
-prepTime: 5 min
-servings: 'Yields: 12'
-ingredients:
-  - 2 tbsp. Butter
-  - 1 1/2 lb. Shrimp (I Used U10 Size; Huge!)
-  - '1 whole Onion, Finely Diced'
-  - '4 cloves Garlic, Minced'
-  - 2 c. Arborio Rice
-  - 1 c. Dry White Wine
-  - '5 c. Vegetable Broth, Heated (give Or Take)'
-  - '1 whole Lemon, Zest And Juice'
-  - 1/2 tsp. Salt
-  - 1 tsp. Black Pepper
-  - 2 tbsp. Heavy Cream
-  - '18 whole Basil Leaves, Chopped Plus Extra For Serving'
-  - Grated Parmesan Cheese For Sprinkling
-totalTime: 5 min
 role: main
 vibe: project
+prepTime: 10 min
+cookTime: 30 min
+totalTime: 45 min
+servings: '4'
+ingredients:
+  - '1 1/2 lbs Large Shrimp (U10), peeled and deveined'
+  - '2 cups Arborio Rice'
+  - '1 cup Dry White Wine'
+  - '5-6 cups Chicken or Vegetable Broth, heated'
+  - '--- The Flavor Pulse ---'
+  - '1 large Onion, finely diced'
+  - '4 cloves Garlic, minced'
+  - '2 tbsp Unsalted Butter'
+  - '1 Lemon, zested and juiced'
+  - '18 fresh Basil leaves, chiffonade'
+  - '2 tbsp Heavy Cream (The "Bounce" Hack)'
+  - '1/2 cup Freshly Grated Parmesan'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+Risotto is the ultimate test of **Structural Science**. The secret to a "Restaurant Quality" texture is **The Starch-Bind Emulsion Pattern**: we add the hot broth one ladle at a time, stirring constantly to "bruise" the rice grains; this releases amylopectin starch, which creates a natural, velvety creaminess without needing massive amounts of fat. We maintain **Texture Integrity** through **The Shrimp Snap Pattern**: we sear the shrimp first and remove them *before* starting the rice, adding them back only in the final minute. This ensures the shrimp stay "Snappy" rather than overcooking into rubbery curls. The lemon juice provides the mandatory **Acid Finish**.
 
 ## Directions
 
-1. Heat the butter in a large skillet over medium-high heat. Add shrimp in a single layer and cook both sides until opaque in the middle, about 3 minutes. Remove to a cutting board and chop roughly. Set aside.
-2. Return the skillet to the stovetop (do not wash it) and add the onion and garlic. Stir and cook for 2 to 3 minutes, or until onion starts to turn translucent. Reduce heat to medium-low. Add dry Arborio rice to the pan and stir it around for a couple of minutes, taking care not to burn it. Pour in wine and stir gently, allowing the rice to absorb the liquid. After the wine is absorbed, begin adding warm broth 1/2 cup to 1 cup at a time, allowing the rice to cook and absorb the liquid each time. Stir occasionally as you go, and add the salt and pepper during one of the broth additions. After 4 cups of broth have been absorbed, taste the rice. It should have a slight bite, but if it seems undercooked, add additional broth and cook it until it absorbs until the risotto is the perfect doneness.
-3. Zest and juice the lemon and add both the zest and the juice to the risotto toward the end of cooking. Stir in the heavy cream, the basil, and serve immediately with extra lemon zest and Parmesan cheese on top.
+1.  **The Snap:** In a large wide skillet, melt butter over medium-high. Add shrimp in a single layer. Sear for 2 minutes per side until just opaque. Remove to a plate.
+2.  **Foundation:** In the same pan, add onions and garlic. Sauté for 3 minutes until translucent. 
+3.  **Toast:** Add the Arborio rice. Stir for 2 minutes until the edges of the grains look translucent (The Toast Pattern). 
+4.  **Deglaze:** Pour in the wine. Stir until completely absorbed.
+5.  **The Bind:** Add the hot broth one ladle at a time. Stir constantly. Wait until each ladle is fully absorbed before adding the next. This will take 18-22 minutes.
+6.  **The Bounce:** Once the rice is al dente, stir in the heavy cream, Parmesan, lemon juice, and zest. 
+7.  **Combine:** Fold the seared shrimp and fresh basil into the risotto. Toss for 1 minute until the shrimp are warmed through.
+8.  **Serve:** Garnish with extra basil and a "High Note" crack of black pepper.
 
 ## Serving Suggestions
-
-Couscous or Crusty Bread, Everyday Arugula Salad
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+-   [Roasted Asparagus](/recipes/roasted-asparagus)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

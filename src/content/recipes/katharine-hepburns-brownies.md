@@ -1,34 +1,34 @@
 ---
-title: Katharine Hepburn’s Brownies
-cookTime: 45 min
-servings: Yield 12 brownies
-ingredients:
-  - ½ cup cocoa
-  - ½ cup butter (1 stick)
-  - 2 eggs
-  - 1 cup sugar
-  - ¼ cup flour
-  - 1 cup chopped or broken-up walnuts or pecans
-  - 1 teaspoon vanilla
-  - Pinch of salt
-totalTime: 45 min
+title: Katharine Hepburn’s Brownies (The Gooey Standard)
 role: dessert
 vibe: fuel
+prepTime: 10 min
+cookTime: 30 min
+totalTime: 40 min
+servings: '12'
+ingredients:
+  - '1/2 cup Unsalted Butter (1 stick)'
+  - '1/2 cup Unsweetened Cocoa Powder'
+  - '1 cup Granulated Sugar'
+  - '2 large Eggs'
+  - '1/4 cup All-Purpose Flour'
+  - '1 cup Walnuts or Pecans, coarsely chopped'
+  - '1 tsp Pure Vanilla Extract'
+  - 'Pinch of Sea Salt'
 ---
+
+## Chef's Note
+This is the ultimate expression of **Modern Heritage** in the brownie category. The secret to the Hepburn Standard is the **Ultra-Low Flour Ratio**: using only 1/4 cup of flour ensures the structure remains "Gooey" and fudge-like rather than cakey. We use **The Saucepan Melt Pattern**: melting the cocoa directly into the hot butter "blooms" the chocolate intensity instantly. We maintain **Texture Integrity** by using large nut pieces, which provide a necessary "Snap" to contrast the decadent "Bounce" of the fudge. Do not over-bake; pull them when they still look slightly underdone.
 
 ## Directions
 
-1. Heat oven to 325 degrees.
-2. Melt butter in saucepan with cocoa and stir until smooth. Remove from heat and allow to cool for a few minutes, then transfer to a large bowl. Whisk in eggs, one at a time. Stir in vanilla.
-3. In a separate bowl, combine sugar, flour, nuts and salt. Add to the cocoa-butter mixture. Stir until just combined.
-4. Pour into a greased 8 x 8-inch-square pan. Bake 30 to 35 minutes. Do not overbake; the brownies should be gooey. Let cool, then cut into bars.
+1.  **The Bloom:** Preheat oven to 325°F. Grease an 8x8-inch square pan. In a medium saucepan, melt the butter over low heat. Whisk in the cocoa powder until smooth and glossy. Remove from heat and let cool for 5 minutes.
+2.  **Emulsify:** Whisk the eggs into the cocoa-butter mixture one at a time. Stir in the vanilla and salt.
+3.  **The Fold:** In a separate bowl, whisk the sugar and flour. Add the dry mix and the nuts to the saucepan. Stir with a spatula until **just combined**.
+4.  **Bake:** Pour the batter into the prepared pan. Bake for 30-35 minutes. **The Gold Standard Test:** The center should still have a slight jiggle and a toothpick should come out with moist crumbs.
+5.  **Cool:** Let cool completely in the pan before slicing. These brownies are elite when refrigerated and eaten cold.
 
-## Nutrition
-
-- Calories: 176Total Carbohydrates: 21 gram
-- Cholesterol: 46 milligram
-- Total Fat: 10 gramsDietary fiber: 1 gram
-- Protein: 2 gram
-- Saturated fat: 5 gram
-- Sodium: 36 milligram
-- Trans Fat: 0 grams
+## Serving Suggestions
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+-   Fresh Raspberries
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

@@ -1,32 +1,34 @@
 ---
 title: Key Lime Pie Ice Cream
-servings: Yield 6 servings
-ingredients:
-  - 1 1/2 cups 2% reduced-fat milk
-  - 1/2 cup bottled Key lime juice (such as Nellie and Joe's)
-  - 1/2 cup whipping cream
-  - Dash of salt
-  - 1 (14-ounce) can fat-free sweetened condensed milk
-  - '6 graham crackers (1 1/2 cookie sheets), coarsely crushed, divided'
-  - Key lime wedges (optional)
 role: dessert
 vibe: project
+prepTime: 15 min
+cookTime: 0 min
+totalTime: 300 min
+servings: '6'
+ingredients:
+  - '1 can (14 oz) Fat-free Sweetened Condensed Milk'
+  - '1/2 cup Fresh Key Lime Juice (Nellie & Joe’s is the Gold Standard)'
+  - '1 1/2 cups 2% Milk'
+  - '1/2 cup Heavy Whipping Cream'
+  - '--- The Graham Snap ---'
+  - '6 Graham Crackers, coarsely crushed'
+  - 'Key Lime wedges for garnish'
+  - 'Pinch of Sea Salt'
 ---
+
+## Chef's Note
+This is a high-speed "Project" dessert that mimics the exact flavor profile of our [Key Lime Pie](/recipes/key-lime-pie). The secret to a professional-grade churn is **Structural Science** through **The Condensed Milk Emulsion**: the sugar and fats in the condensed milk act as a powerful stabilizer, preventing the formation of large ice crystals and ensuring a silky "Bounce." We maintain **Texture Integrity** through **The Graham Snap Pattern**: we stir half the crackers into the churn and reserve the other half for the topping just before serving—this ensures you have both soft, cake-like bits and shatteringly crisp "Snaps."
 
 ## Directions
 
-1. Combine first 5 ingredients, stirring with a whisk. Pour mixture into freezer can of an ice-cream freezer, and freeze according to manufacturer's instructions. Stir 1/3 cup graham crackers into ice cream. Spoon ice cream into a freezer-safe container, and cover and freeze for 1 hour or until firm. Sprinkle each serving with 1 teaspoon graham crackers. Garnish with lime wedges, if desired.
+1.  **The Base:** In a large bowl, whisk together the condensed milk, key lime juice, 2% milk, cream, and salt until perfectly smooth.
+2.  **The Churn:** Pour the mixture into your ice cream maker. Churn according to the manufacturer's instructions (usually 20-25 minutes).
+3.  **The Snap:** During the last 2 minutes of churning, add 1/3 cup of the coarsely crushed graham crackers.
+4.  **The Set:** Transfer the soft-serve consistency ice cream to a chilled, freezer-safe container. Cover and freeze for **at least 4 hours** (ideally overnight) to firm up.
+5.  **Serve:** Scoop into bowls. Top with the remaining reserved graham cracker crumbs and a fresh lime wedge for the mandatory **Acid Finish**.
 
-## Nutrition
-
-- Calories: 317
-- Caloriesfrom
-- fat: 27%
-- Fat: 9.5g
-- fat: 5.3g
-- fat: 2.7g
-- fat: 0.3g
-- Protein: 8.8g
-- Fiber: 0.1g
-- Cholesterol: 36mg
-- Sodium: 190mg
+## Serving Suggestions
+-   [Oreo Truffles](/recipes/easy-oreo-truffles)
+-   Fresh Raspberries
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
