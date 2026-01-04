@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "validate:recipes": "node ./scripts/validate-recipes.mjs"
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.0",

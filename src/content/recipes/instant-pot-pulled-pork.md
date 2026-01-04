@@ -1,5 +1,7 @@
 ---
-title: Instant Pot Pulled Pork (The Batch King)
+title: Instant Pot Pulled Pork
+aliases:
+  - "instant-pot-pulled-pork-the-batch-king"
 role: main
 vibe: comfort
 prepTime: 15 min

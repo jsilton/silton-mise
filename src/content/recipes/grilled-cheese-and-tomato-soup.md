@@ -1,5 +1,7 @@
 ---
-title: Grilled Cheese & Tomato Soup (The Ultimate Pair)
+title: Grilled Cheese & Tomato Soup
+aliases:
+  - "grilled-cheese-and-tomato-soup-the-ultimate-pair"
 role: main
 vibe: comfort
 prepTime: 15 min

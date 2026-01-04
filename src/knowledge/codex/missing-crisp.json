@@ -1,0 +1,14 @@
+{
+  "id": "kb.missing-crisp",
+  "title": "Add a crisp or contrasting texture",
+  "category": "Texture",
+  "severity": "hint",
+  "description": "If a recipe is dominated by soft/creamy textures, suggest a crisp element (toasted nuts, crispy shallots, breadcrumbs, quick-fried herbs).",
+  "appliesToTags": ["soup","stew","casserole","pudding","porridge"],
+  "detection": [
+    {"type": "ingredient_absence", "words": ["crispy","crumb","crumbs","toasted","fried","panko","nuts","crisps","crunch"]},
+    {"type": "method_presence", "words": ["stew","soup","puree","porridge","pudding"]}
+  ],
+  "suggestionTemplate": "Add a crunchy finishing element (toasted nuts, fried shallots, or a breadcrumb crunch) to provide texture contrast.",
+  "examples": [{"recipe":"butternut-squash-soup","note":"Add toasted pepitas and chili oil drizzle."}]
+}

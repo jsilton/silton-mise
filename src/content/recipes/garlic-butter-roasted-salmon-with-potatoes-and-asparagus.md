@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate 35-minute quick sheet pan meal. The secret to success is **Staged Roasting**: potatoes take significantly longer than salmon and asparagus. We roast the potatoes at high heat (400°F) for 15 minutes _before_ adding the protein and greens—this ensures the potatoes have a golden Crunch while the salmon remains succulent and the asparagus stays "Snappy." The lemon-butter drizzle provides the mandatory **High Note** that bridges the earthy vegetables and rich fish.
+This is the ultimate 35-minute quick sheet pan meal. The secret to success is **Staged Roasting**: potatoes take significantly longer than salmon and asparagus. We roast the potatoes at high heat (400°F) for 15 minutes _before_ adding the protein and greens—this ensures the potatoes have a golden Crunch while the salmon remains succulent and the asparagus stays "Snappy." The lemon-butter drizzle provides the mandatory **High Note** that bridges the earthy vegetables and rich fish. Note: this dish is a good candidate to split into separate recipes (a salmon entree and standalone potato/asparagus sides) so each component can be reused and scaled; consider moving the sides into their own files and linking them from here.
 
 ## Directions
 

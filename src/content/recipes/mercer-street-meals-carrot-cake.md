@@ -1,5 +1,7 @@
 ---
-title: Mercer Street Carrot Cake (The Brown Butter Upgrade)
+title: Carrot Cake
+aliases:
+  - "mercer-street-carrot-cake-the-brown-butter-upgrade"
 role: dessert
 vibe: technical
 prepTime: 30 min

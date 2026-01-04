@@ -1,5 +1,7 @@
 ---
-title: Snickerdoodles (The Tangy Classic)
+title: Snickerdoodles
+aliases:
+  - "snickerdoodles-the-tangy-classic"
 role: dessert
 vibe: comfort
 prepTime: 15 min

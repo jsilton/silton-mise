@@ -1,5 +1,7 @@
 ---
-title: Crispy Chicken Milanese (Family Chicken Fingers)
+title: Chicken Fingers
+aliases:
+  - "crispy-chicken-milanese-family-chicken-fingers"
 role: main
 vibe: quick
 prepTime: 15 min

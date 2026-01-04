@@ -1,5 +1,7 @@
 ---
-title: Thai Basil Noodles (The 15-Minute Wok)
+title: Thai Basil Noodles
+aliases:
+  - "thai-basil-noodles-the-15-minute-wok"
 role: main
 vibe: quick
 prepTime: 10 min

@@ -1,5 +1,7 @@
 ---
-title: BA’s Best Carrot Cake (The Brown Butter Upgrade)
+title: Carrot Cake
+aliases:
+  - "bas-best-carrot-cake-the-brown-butter-upgrade"
 role: dessert
 vibe: technical
 prepTime: 45 min

@@ -1,5 +1,7 @@
 ---
-title: Chicken Milanese (The North End Special)
+title: Chicken Milanese
+aliases:
+  - "chicken-milanese-the-north-end-special"
 role: main
 vibe: quick
 prepTime: 15 min

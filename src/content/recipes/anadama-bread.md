@@ -1,5 +1,7 @@
 ---
-title: Anadama Bread (The New England Classic)
+title: Anadama Bread
+aliases:
+  - "anadama-bread-the-new-england-classic"
 role: base
 vibe: technical
 prepTime: 30 min

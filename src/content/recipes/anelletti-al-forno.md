@@ -1,5 +1,7 @@
 ---
-title: Anelletti Al Forno (The Sicilian Pasta Bake)
+title: Anelletti Al Forno
+aliases:
+  - "anelletti-al-forno-the-sicilian-pasta-bake"
 role: main
 vibe: technical
 prepTime: 45 min

@@ -1,5 +1,7 @@
 ---
-title: Lemon Ricotta Pasta (The 15-Minute Brightness)
+title: Lemon Ricotta Pasta
+aliases:
+  - "lemon-ricotta-pasta-the-15-minute-brightness"
 role: main
 vibe: quick
 prepTime: 5 min

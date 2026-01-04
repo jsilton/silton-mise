@@ -57,3 +57,25 @@ Recipes are components, not just isolated instructions.
 - **Aliases for safe renames:** If you rename a recipe file, add `aliases: ['old-slug']` to its frontmatter so old links continue to work.
 - **Run the validator before PRs:** Run `npm run validate:recipes` locally; the project will also run this check in CI for every PR (it generates `public/recipes/index.json` for tooling).
 - **Images & metadata:** Add `image:` and short `description:` frontmatter where possible so recipes have good social previews and structured data.
+
+## Omnivore's Codex (KB)
+
+We maintain a small, human-editable knowledge base of culinary rules and heuristics at `src/knowledge/codex/`. These rules power automated, transparent suggestions that appear during PR validation.
+
+- **Edit via PRs:** Add or change rules by creating or updating a JSON file in `src/knowledge/codex/`. Keep rules small and focused; include `examples` and a short rationale when possible.
+- **Severity guidance:** Use `fail` only for safety-critical issues (e.g., poultry low-temp notes). Use `warn` for important structural issues and `hint` for soft editorial suggestions.
+- **Testing:** After editing rules, run `npm run validate:recipes` to see the updated suggestions in `public/recipes/validation-report.json`.
+- **Changelog:** Document notable KB changes in `src/knowledge/kb-CHANGELOG.md` so reviewers can track rule evolution.
+
+### Audience & KB overrides
+- **Audience frontmatter:** Add `audience: "kids"` or `audience: ["kids","family"]` to indicate the intended eater(s). Rules can opt-out for specific audiences (e.g., plating suggestions for children's food).
+- **Suppress a rule for a specific recipe:** Add `kb: { disable: ["kb.plating-suggestion"] }` in frontmatter to silence a KB rule when you intentionally deviate.
+- **When in doubt:** Prefer adding a short rationale in the recipe `## Chef's Note` explaining special context (e.g., "made for toddlers; keep toppings simple and nut-free").
+
+## AI-assisted suggestions (scaffolding)
+We generate **AI context files** for recipes under `public/recipes/ai-context/` and placeholder AI output under `public/recipes/ai-suggest/`.
+
+- **Purpose:** These files capture recipe metadata, ingredient tokens, detected methods/audiences, and KB suggestions so an AI can make informed, contextual recommendations without the KB auto-applying edits.
+- **Manual review required:** AI-generated suggestions are advisory. Never accept or merge AI edits without a human review that confirms safety and appropriateness for the target audience.
+- **How to use:** Run `npm run validate:recipes` to refresh `public/recipes/ai-context/` and use your preferred AI tooling to populate `public/recipes/ai-suggest/<slug>.ai-suggest.json` with reviewed suggestions.
+- **Safety:** AI suggestions should respect KB `severity: fail` as hard constraints and should not attempt to override them automatically.

@@ -1,5 +1,7 @@
 ---
-title: Honey-Glazed Spareribs (The BBQ Shortcut)
+title: Honey-Glazed Spareribs
+aliases:
+  - "honey-glazed-spareribs-the-bbq-shortcut"
 role: main
 vibe: comfort
 prepTime: 15 min

@@ -1,5 +1,10 @@
 name: Validate recipes
 
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
 on:
   pull_request:
     paths:
@@ -25,6 +30,7 @@ jobs:
         run: npm ci
 
       - name: Run recipe validator
+        id: run-validator
         run: npm run validate:recipes
         env:
           # Increase memory if a very large repo would need it
@@ -36,3 +42,29 @@ jobs:
         with:
           name: recipes-index
           path: public/recipes/index.json
+
+      - name: Post KB suggestions as PR comment
+        if: success()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const reportPath = path.join(process.env.GITHUB_WORKSPACE, 'public','recipes','validation-report.json');
+            if (!fs.existsSync(reportPath)) {
+              core.info('No validation report found; skipping KB comment.');
+              return;
+            }
+            const report = JSON.parse(fs.readFileSync(reportPath, 'utf8'));
+            const suggestionsCount = report.suggestionsCount || 0;
+            if (suggestionsCount === 0) {
+              core.info('No KB suggestions to post.');
+              return;
+            }
+            const sample = report.sampleSuggestions || [];
+            let body = `### Omnivore’s Codex suggestions — automated review\n\nFound **${suggestionsCount}** KB suggestions across recipes. Here are some samples:\n\n`;
+            for (const s of sample.slice(0,20)) {
+              body += `- **${s.title}** (${s.ruleId}) on \`${s.slug}\`: ${s.suggestion}\n`;
+            }
+            body += `\n*These are automated, rule-based suggestions from the Omnivore's Codex. Safety issues are blocking; other items are suggestions that maintainers can apply or ignore.*`;
+            await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: context.payload.pull_request.number, body });

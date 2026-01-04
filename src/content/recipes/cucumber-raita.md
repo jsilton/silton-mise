@@ -1,5 +1,7 @@
 ---
-title: Cucumber Raita (The Indian Cooler)
+title: Cucumber Raita
+aliases:
+  - "cucumber-raita-the-indian-cooler"
 role: side
 vibe: quick
 prepTime: 10 min

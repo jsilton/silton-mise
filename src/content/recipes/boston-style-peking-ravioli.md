@@ -47,8 +47,8 @@ This is not a delicate potsticker; this is a **Boston Peking Ravioli**. It is de
 
 ### Assembly
 
-1.  Place a large tablespoon of filling in each wrapper.
-2.  Fold in half and pleat only 3-4 times (the Boston style is more rustic and "chunky" than delicate). Press hard to seal.
+1.  **Portion:** Place a large tablespoon of filling in each wrapper.
+2.  **Seal:** Fold in half and pleat only 3-4 times (the Boston style is more rustic and "chunky" than delicate). Press hard to seal.
 
 ### The "Boston Fry"
 

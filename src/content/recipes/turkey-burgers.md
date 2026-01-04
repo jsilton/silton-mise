@@ -1,5 +1,7 @@
 ---
-title: Juicy Turkey Burgers (The Family Favorite)
+title: Juicy Turkey Burgers
+aliases:
+  - "juicy-turkey-burgers-the-family-favorite"
 role: main
 vibe: quick
 prepTime: 15 min

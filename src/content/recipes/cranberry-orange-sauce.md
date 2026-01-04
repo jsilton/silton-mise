@@ -1,5 +1,7 @@
 ---
-title: Cranberry Orange Sauce (The Bright Finish)
+title: Cranberry Orange Sauce
+aliases:
+  - "cranberry-orange-sauce-the-bright-finish"
 role: side
 vibe: holiday
 prepTime: 5 min

@@ -1,5 +1,7 @@
 ---
-title: Weeknight Tacos (The Family Setup)
+title: Weeknight Tacos
+aliases:
+  - "weeknight-tacos-the-family-setup"
 role: main
 vibe: quick
 prepTime: 15 min

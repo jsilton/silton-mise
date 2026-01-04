@@ -1,5 +1,7 @@
 ---
-title: Baked Macaroni and Pimento Cheese (The Comfort Classic)
+title: Baked Macaroni and Pimento Cheese
+aliases:
+  - "baked-macaroni-and-pimento-cheese-the-comfort-classic"
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min

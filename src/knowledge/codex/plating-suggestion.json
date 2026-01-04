@@ -1,0 +1,14 @@
+{
+  "id": "kb.plating-suggestion",
+  "title": "Plating: add color or height when absent",
+  "category": "Plating",
+  "severity": "hint",
+  "description": "If a recipe's presentation is likely monochrome (e.g., all-brown roast), suggest a colorful or textural garnish to improve visual appeal.",
+  "detection": [
+    {"type": "text_presence", "words": ["roast","pan-roast","braise","brown"], "optional": true},
+    {"type": "ingredient_absence", "words": ["parsley","lemon","herb","chive","microgreens","color"], "optional": true}
+  ],
+  "excludeIf": { "audiences": ["kids","children","baby","toddler"] },
+  "suggestionTemplate": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture.",
+  "examples": []
+}

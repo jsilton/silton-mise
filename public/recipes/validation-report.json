@@ -1,0 +1,406 @@
+{
+  "totalRecipes": 474,
+  "missingCounts": {
+    "title": 0,
+    "role": 0,
+    "vibe": 0,
+    "ingredients": 0,
+    "prepTime": 0,
+    "cookTime": 0,
+    "totalTime": 0,
+    "servings": 0,
+    "image": 474,
+    "chefNote": 0,
+    "directions": 0,
+    "directionsFormatting": 0
+  },
+  "invalidValuesCount": {
+    "role": 0,
+    "vibe": 0
+  },
+  "samples": {
+    "missingTitle": [],
+    "missingChefNote": [],
+    "missingDirections": [],
+    "missingDirectionsFormatting": [],
+    "missingImage": [
+      "almond-zucchini-bread",
+      "anadama-bread",
+      "anelletti-al-forno",
+      "apple-banana-and-carrot-muffin",
+      "apple-chai-oatmeal-cups",
+      "apple-cider-cream-pie",
+      "apple-pie",
+      "arugula-and-feta-salad-with-strawberry-vinaigrette",
+      "asian-glazed-turkey-meatballs",
+      "avgolemono-soup",
+      "avocado-kale-caesar-salad",
+      "babys-first-smash-cake",
+      "baked-chicken-and-broccoli",
+      "baked-chicken-parmesan",
+      "baked-cod-with-lemon-panko",
+      "baked-macaroni-and-pimento-cheese",
+      "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
+      "bakery-style-chocolate-chip-muffins",
+      "balsamic-peach-pork-chops-with-feta-and-basil",
+      "banana-egg-oat-pancakes"
+    ],
+    "invalidRoles": [],
+    "invalidVibes": [],
+    "brokenInternalLinks": [],
+    "brokenWikiLinks": []
+  },
+  "suggestionsCount": 1193,
+  "sampleSuggestions": [
+    {
+      "slug": "almond-zucchini-bread",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "almond-zucchini-bread",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "anadama-bread",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "anadama-bread",
+      "ruleId": "kb.missing-resting",
+      "title": "Recommend resting meat after high-heat cooking",
+      "severity": "hint",
+      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
+    },
+    {
+      "slug": "anadama-bread",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "anelletti-al-forno",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "anelletti-al-forno",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "apple-chai-oatmeal-cups",
+      "ruleId": "kb.missing-salt",
+      "title": "Recommend tasting and seasoning",
+      "severity": "hint",
+      "suggestion": "Consider adding a step to taste and adjust seasoning (salt and acid) before serving."
+    },
+    {
+      "slug": "apple-chai-oatmeal-cups",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "apple-cider-cream-pie",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "apple-cider-cream-pie",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "apple-pie",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "arugula-and-feta-salad-with-strawberry-vinaigrette",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "arugula-and-feta-salad-with-strawberry-vinaigrette",
+      "ruleId": "kb.missing-resting",
+      "title": "Recommend resting meat after high-heat cooking",
+      "severity": "hint",
+      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
+    },
+    {
+      "slug": "arugula-and-feta-salad-with-strawberry-vinaigrette",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "asian-glazed-turkey-meatballs",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "asian-glazed-turkey-meatballs",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "asian-glazed-turkey-meatballs",
+      "ruleId": "kb.missing-resting",
+      "title": "Recommend resting meat after high-heat cooking",
+      "severity": "hint",
+      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
+    },
+    {
+      "slug": "asian-glazed-turkey-meatballs",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "avgolemono-soup",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "avgolemono-soup",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "avocado-kale-caesar-salad",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "avocado-kale-caesar-salad",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "babys-first-smash-cake",
+      "ruleId": "kb.missing-salt",
+      "title": "Recommend tasting and seasoning",
+      "severity": "hint",
+      "suggestion": "Consider adding a step to taste and adjust seasoning (salt and acid) before serving."
+    },
+    {
+      "slug": "baked-chicken-and-broccoli",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "baked-chicken-and-broccoli",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "baked-chicken-and-broccoli",
+      "ruleId": "kb.missing-resting",
+      "title": "Recommend resting meat after high-heat cooking",
+      "severity": "hint",
+      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
+    },
+    {
+      "slug": "baked-chicken-and-broccoli",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "baked-chicken-parmesan",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "baked-chicken-parmesan",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "baked-chicken-parmesan",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "baked-cod-with-lemon-panko",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "baked-cod-with-lemon-panko",
+      "ruleId": "kb.missing-resting",
+      "title": "Recommend resting meat after high-heat cooking",
+      "severity": "hint",
+      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
+    },
+    {
+      "slug": "baked-cod-with-lemon-panko",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "baked-macaroni-and-pimento-cheese",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "baked-macaroni-and-pimento-cheese",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "baked-macaroni-and-pimento-cheese",
+      "ruleId": "kb.missing-resting",
+      "title": "Recommend resting meat after high-heat cooking",
+      "severity": "hint",
+      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
+    },
+    {
+      "slug": "baked-macaroni-and-pimento-cheese",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
+      "ruleId": "kb.low-temp-poultry",
+      "title": "Poultry low-temperature safety note",
+      "severity": "warn",
+      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
+    },
+    {
+      "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "bakery-style-chocolate-chip-muffins",
+      "ruleId": "kb.missing-salt",
+      "title": "Recommend tasting and seasoning",
+      "severity": "hint",
+      "suggestion": "Consider adding a step to taste and adjust seasoning (salt and acid) before serving."
+    },
+    {
+      "slug": "bakery-style-chocolate-chip-muffins",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "balsamic-peach-pork-chops-with-feta-and-basil",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "balsamic-peach-pork-chops-with-feta-and-basil",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "banana-egg-oat-pancakes",
+      "ruleId": "kb.maillard-note",
+      "title": "Maillard note: dry surface for browning",
+      "severity": "hint",
+      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+    },
+    {
+      "slug": "banana-egg-oat-pancakes",
+      "ruleId": "kb.missing-resting",
+      "title": "Recommend resting meat after high-heat cooking",
+      "severity": "hint",
+      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
+    },
+    {
+      "slug": "banana-egg-oat-pancakes",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "banana-nut-bread",
+      "ruleId": "kb.plating-suggestion",
+      "title": "Plating: add color or height when absent",
+      "severity": "hint",
+      "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "banana-oat-greek-yogurt-muffins",
+      "ruleId": "kb.missing-salt",
+      "title": "Recommend tasting and seasoning",
+      "severity": "hint",
+      "suggestion": "Consider adding a step to taste and adjust seasoning (salt and acid) before serving."
+    }
+  ]
+}

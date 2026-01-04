@@ -1,5 +1,5 @@
 ---
-title: Crispy Smashed Potatoes (for texture)
+title: Crispy Smashed Potatoes
 role: side
 vibe: comfort
 prepTime: 10 min
