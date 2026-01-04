@@ -1,35 +1,40 @@
 ---
-title: Best Slow Cooker Pulled Pork
-prepTime: 5 min
-cookTime: 480 min
-servings: 'Servings: 8 servings'
-ingredients:
-  - 4 1/2 pounds pork shoulder
-  - 2 tablespoons paprika
-  - 1 teaspoon oregano
-  - 1 teaspoon salt
-  - 1 teaspoon pepper
-  - 1/2 teaspoon cumin
-  - '1 yellow onion, diced'
-  - '4 garlic cloves, chopped'
-  - '1 orange, juiced'
-totalTime: 485 min
+title: Best Slow Cooker Pulled Pork (The Bark Standard)
 role: main
 vibe: comfort
+prepTime: 10 min
+cookTime: 8 hours
+totalTime: 8.5 hours
+servings: '8'
+ingredients:
+  - '4.5 lbs Pork Shoulder (Butt)'
+  - '1 large Yellow Onion, diced'
+  - '4 cloves Garlic, minced'
+  - '1 Orange, juiced'
+  - '--- The Spice Rub ---'
+  - '2 tbsp Paprika'
+  - '1 tsp Dried Oregano'
+  - '1 tsp Ground Cumin'
+  - '1 tsp Kosher Salt'
+  - '1 tsp Black Pepper'
 ---
+
+## Chef's Note
+
+Slow cookers excel at tenderness but fail at texture. We solve this with the **Bark Finish Pattern**: after 8 hours of braising, we shred the meat and finish it under the **BROILER**. This evaporates the surface moisture and caramelizes the fat, giving you those crispy, charred edges that define restaurant-quality BBQ.
 
 ## Directions
 
-1. Place the diced onion, garlic and orange juice in your slow cooker.
-2. In a small bowl, mix all of the spices together.
-3. Trim all excess fat from the pork shoulder, then rub the spice mixture generously around the entire pork shoulder and place in the slow cooker.
-4. Turn your slow cooker to low and cook for 8 hours.
-5. Once your pork is fully cooked, remove it from the slow cooker to a plate or cutting board and use two forks to shred the pork.
-6. LISA’S TIPS
-7. You can add some of the remaining liquid from the slow cooker to the pulled pork for extra moisture.
-8. This is a delicious BBQ sauce that’s also paleo and Whole30 friendly. It’s great on this pork!
-9. I’ve also heard great things about this slow cooker, if you’re looking to buy a new one.
+1.  **Rub:** Combine all spices. Rub aggressively into the pork shoulder.
+2.  **Base:** Place onion, garlic, and orange juice in the slow cooker. Add the pork.
+3.  **Low & Slow:** Cook on **LOW** for 8 hours until fork-tender.
+4.  **Shred:** Remove pork to a tray and shred with two forks. **Reserve 1 cup of the cooking liquid.**
+5.  **The Bark:** Toss the shredded pork with the reserved liquid and 1/2 cup of your favorite BBQ sauce.
+6.  **Crisp:** Spread on a baking sheet. **BROIL** for 5-7 minutes until the edges are dark and crispy.
+7.  **Serve:** Pile onto brioche buns.
 
-## Nutrition
+## Serving Suggestions
 
-- SERVING: 1SERVING | CALORIES: 251KCAL | CARBOHYDRATES: 4G | PROTEIN: 31G | FAT: 11G | SATURATED FAT: 3G | CHOLESTEROL: 104MG | SODIUM: 411MG | POTASSIUM: 625MG | FIBER: 1G | SUGAR: 2G | VITAMIN A: 885IU | VITAMIN C: 11.5MG | CALCIUM: 40MG | IRON: 2.5MG
+- [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- Sweet Potato Fries

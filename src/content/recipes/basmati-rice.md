@@ -1,40 +1,33 @@
 ---
-title: Basmati Rice
-prepTime: 5 min
-cookTime: 25 min
-servings: '6'
-ingredients:
-  - 2 cups Basmati Rice (Royal or Tilda brands recommended)
-  - 3 cups Water
-  - 1 tbsp Butter (or Ghee)
-  - 1 tsp Salt
-  - 1 tsp Cumin Seeds (optional)
-totalTime: 30 min
+title: Basmati Rice (The Rinsed Standard)
 role: base
 vibe: speed
+prepTime: 5 min
+cookTime: 20 min
+totalTime: 35 min
+servings: '6'
+ingredients:
+  - '2 cups Extra-Long Grain Basmati Rice (Royal or Tilda)'
+  - '3 cups Water'
+  - '1 tbsp Butter or Ghee'
+  - '1 tsp Kosher Salt'
+  - '1 tsp Cumin Seeds (optional)'
 ---
 
-A fail-proof method for fluffy, non-sticky Basmati rice using a rice cooker. Includes the wash technique essential for distinct grains.
+## Chef's Note
+
+Perfect Basmati rice is an exercise in **Surface Area Management**. The secret is the **Triple Rinse**: you must wash the rice in a bowl until the water runs clear. This removes the surface starch that causes rice to turn into a sticky, gummy clump. By rinsing and then steaming with the lid on, you get individual, distinct grains that are light and airy.
 
 ## Directions
 
-1. Wash: Place rice in the rice cooker bowl. Fill with water, swirl with your hand, and drain cloudy water. Repeat 3–4 times until the water runs clear. Drain fully.
-2. Combine: Add the 3 cups of fresh water, butter, salt, and cumin seeds to the washed rice.
-3. Cook: Set rice cooker to "White Rice" or standard cook setting.
-4. Rest & Fluff: When the cooker finishes, let it sit on "Warm" for 5 minutes (do not open immediately). Open lid and gently fluff with a fork to release steam.
+1.  **The Rinse:** Place rice in a bowl. Cover with water, swirl with your hand, and drain. Repeat 3-4 times until the water is no longer cloudy.
+2.  **Combine:** Put the rinsed rice in a rice cooker or heavy pot. Add 3 cups of fresh water, butter, salt, and cumin.
+3.  **Cook:** Set rice cooker to "White Rice" or simmer on low for 15-18 minutes if using a pot.
+4.  **The Rest (Critical):** Once cooked, **do not open the lid.** Let the rice steam for 10 minutes. This allows the moisture to redistribute into the center of each grain.
+5.  **Fluff:** Gently fluff with a fork and serve.
 
-## Notes
+## Pairs With
 
-Washing the rice removes surface starch and prevents the rice from becoming a sticky clump.The 1:1.5 ratio (1 cup rice to 1.5 cups water) is ideal for most standard rice cookers.
-
-## Nutrition
-
-- Calories: 230 kcal
-- Total Fat: 2.5g
-- Saturated Fat: 1.5g
-- Cholesterol: 5mg
-- Sodium: 390mg
-- Total Carbohydrates: 48g
-- Dietary Fiber: 1g
-- Sugars: 0g
-- Protein: 4g
+- [Sunday Feast Chicken Tikka Masala](/recipes/chicken-tikka-masala)
+- [Lamb Keema Matar](/recipes/lamb-keema-matar)
+- [Saag Paneer](/recipes/saag-paneer)

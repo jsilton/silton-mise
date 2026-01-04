@@ -1,30 +1,38 @@
 ---
-title: Banana Nut Bread
+title: Banana Nut Bread (The Weight Standard)
+role: side
+vibe: comfort
+prepTime: 15 min
+cookTime: 55 min
+totalTime: 70 min
+servings: '10'
 ingredients:
-  - 1/2 cup butter or margarine
-  - 1 cup sugar
-  - 2 eggs
-  - '3 large very ripe bananas, mashed'
-  - 2 cups sifted all purpose flour
-  - 1 teaspoon baking soda
-  - 1/2 teaspoon salt
-  - '1/2 cup chopped nuts, optional'
-role: main
-vibe: fuel
-servings: Unknown
+  - '3 large Very Ripe Bananas (about 375g), mashed'
+  - '1/2 cup (1 stick) Unsalted Butter, melted and cooled'
+  - '1 cup Granulated Sugar'
+  - '2 large Eggs, room temperature'
+  - '2 cups All-Purpose Flour (250g)'
+  - '1 tsp Baking Soda'
+  - '1/2 tsp Kosher Salt'
+  - '1/2 cup Walnuts or Toasted Sunflower Seeds, chopped'
+  - '1 tsp Vanilla Extract'
 ---
+
+## Chef's Note
+
+The secret to banana bread that isn't dense or dry is **Precision**. We move to **Weight-Based Measurements** (grams) because bananas vary wildly in size. We use melted butter for a tender, cake-like crumb and ensure the bananas are "dead-ripe" (black spots) to maximize the natural sugars. This is a "Modern Heritage" upgrade of a family classic.
 
 ## Directions
 
-1. Cream butter and sugar thoroughly.
-2. Add eggs one at a time, beating after each addition.
-3. Add mashed bands and beat well.
-4. Add flour, soda and salt to butter-sugar-banana mixture, mixing well.
-5. Stir in nuts (optional).
-6. Pour into greased and floured 9x5x3 loaf pan.
-7. Bake at 350 degrees for 55-60 minutes.
-8. Allow to cool.
+1.  **Prep:** Preheat oven to 350°F. Grease a 9x5 loaf pan.
+2.  **Melt:** Melt the butter and let it cool slightly.
+3.  **Wet:** In a large bowl, whisk the mashed bananas, melted butter, sugar, eggs, and vanilla until smooth.
+4.  **Dry:** In a separate bowl, whisk the flour, baking soda, and salt.
+5.  **Combine:** Gently fold the dry ingredients into the wet until **just combined**. Do not over-mix. Fold in the nuts/seeds.
+6.  **Bake:** Pour into the pan. Bake for 55-60 minutes until the top is split and a tester comes out clean.
+7.  **Rest:** Let cool in the pan for 10 minutes before transferring to a wire rack.
 
-## Notes
+## Serving Suggestions
 
-For two small loafs, bake for 40 minutes.
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (if serving as a brunch side)
+- Warm Salted Butter

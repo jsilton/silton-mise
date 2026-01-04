@@ -1,27 +1,34 @@
 ---
 title: Blueberry Banana Pancake Muffins
+role: main
+vibe: speed
 prepTime: 5 min
-cookTime: 30 min
-servings: 'Yield: 12 muffins'
+cookTime: 25 min
+totalTime: 30 min
+servings: '12'
 ingredients:
-  - 2 medium bananas
-  - 1 Cup oats
-  - 1 Cup cottage cheese
-  - 2 Eggs
-  - 1 tsp vanilla
-  - 1 Tbsp maple syrup or honey
-  - 1/2 Cup Frozen Blueberries
-totalTime: 35 min
-role: dessert
-vibe: project
+  - '2 large Ripe Bananas'
+  - '1 cup Rolled Oats'
+  - '1 cup Full-Fat Cottage Cheese (The protein secret)'
+  - '2 large Eggs'
+  - '1 tbsp Maple Syrup'
+  - '1 tsp Vanilla Extract'
+  - '1/2 cup Frozen Blueberries'
 ---
+
+## Chef's Note
+
+These are essentially "Pancakes in a Pan." The secret to their fluffy, rich texture is the **Cottage Cheese Emulsion**: when blended, the cottage cheese acts as a high-protein fat source that creates a souffle-like lift in the oven. This is a perfect "Survival" breakfast for busy mornings.
 
 ## Directions
 
-1. Place everything excluding the blueberries in a food processor or blender
-2. Whizz until you have a nice smooth consistency
-3. Pour into greased muffin tray (I used a silicon muffin tray with a spray of olive oil
-4. Top with the blueberries
-5. Bake at 180 degrees Celsius / 350-360 degrees Fahrenheit for 25 - 30 mins
-6. Leave to cool in tin for 5-10 mins
-7. Remove from tin, they ready to serve
+1.  **Emulsify:** In a blender, combine bananas, oats, cottage cheese, eggs, syrup, and vanilla. Process until completely smooth.
+2.  **Portion:** Pour the batter into a greased 12-cup muffin tin.
+3.  **Top:** Press 4-5 blueberries into the top of each muffin.
+4.  **Bake:** Bake at 350°F for 25-30 minutes until they are puffed and golden.
+5.  **Cool:** Let sit for 5 minutes before removing.
+
+## Serving Suggestions
+
+- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- Fresh Honey
