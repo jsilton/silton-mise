@@ -33,4 +33,4 @@ This is the definitive Silton side dish. The secret to its Success is **Texture 
 
 - [Chicken Milanese](/recipes/chicken-milanese)
 - [Classic Beef Stew](/recipes/classic-beef-stew)
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloins)

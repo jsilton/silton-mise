@@ -40,5 +40,5 @@ Chicken Milanese is the sophisticated older cousin of the chicken nugget. It is 
 ## Serving Suggestions
 
 - [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
-- [Pasta al Limone](/recipes/pasta-al-limone)
+- [Pasta al Limone](/recipes/lemon-ricotta-pasta)
 - [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)

@@ -33,6 +33,6 @@ These are the perfect "Fuel" snacks for on-the-go. The secret to **Texture Integ
 
 ## Serving Suggestions
 
-- [Yogurt Dipping Sauce](/recipes/yogurt-dipping-sauce)
+- [Garlic Yogurt](/recipes/zucchini-herb-fritters-with-garlic-yogurt)
 - [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
 - Sriracha Mayo

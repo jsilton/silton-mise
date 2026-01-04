@@ -18,9 +18,8 @@ ingredients:
   - 'Toasted sesame seeds, for garnish'
 ---
 
-## Description
-
-A Din Tai Fung-inspired side. Smashing the cucumbers creates jagged edges that soak up the dressing better than clean slices. Salting them first ensures they stay crunchy for days.
+## Chef's Note
+The secret to this "Street Standard" side is **Structural Science** through **The Smash Pattern**. By smacking the cucumbers with a knife blade, you create irregular, jagged surface areas that act as a trap for the dressing—clean slices are too smooth to hold the oil. We maintain **Texture Integrity** through **The 30-Minute Salt Lock**: salting the chunks first draws out the internal moisture, ensuring the cucumbers stay "Snappy" and the dressing remains a concentrated emulsion rather than a thin soup.
 
 ## Directions
 
@@ -30,8 +29,7 @@ A Din Tai Fung-inspired side. Smashing the cucumbers creates jagged edges that s
 4.  **Toss:** Drain the liquid from the cucumbers (shake them well). Toss with the dressing.
 5.  **Serve:** Top with sesame seeds. Serve immediately or marinate for up to 4 hours.
 
-## Pairs With
-
-- Thai Basil Noodles
-- Sesame Chicken
-- Tuna Poke Bowls
+## Serving Suggestions
+- [Thai Basil Noodles](/recipes/thai-basil-noodles)
+- [Sesame Chicken](/recipes/honey-sesame-chicken)
+- [Tuna Poke Bowls](/recipes/tuna-poke-bowls)

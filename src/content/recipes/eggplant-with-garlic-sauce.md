@@ -1,5 +1,5 @@
 ---
-title: Chinese Eggplant with Garlic Sauce
+title: Speedy Chinese Eggplant
 role: side
 vibe: speed
 prepTime: 5 min

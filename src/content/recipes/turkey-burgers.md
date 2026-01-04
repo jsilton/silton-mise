@@ -37,4 +37,4 @@ The challenge with turkey burgers is preventing them from turning into dry, flav
 
 - [Sweet Potato Fries](/recipes/sweet-potato-fries)
 - **Roasted Green Bean "Fries"** (Toss green beans in oil/salt, roast at 425°F for 12 mins)
-- [Grilled Corn Salad](/recipes/grilled-corn-salad-with-feta)
+- [Mexican Street Corn Salad](/recipes/mexican-street-corn-salad)

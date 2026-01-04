@@ -31,6 +31,6 @@ The secret to a great weeknight taco bar is **Contrast and Depth**. Ground turke
 
 ## Serving Suggestions
 
-- [Corn Salad](/recipes/grilled-corn-salad-with-feta)
+- [Mexican Street Corn Salad](/recipes/mexican-street-corn-salad)
 - Fresh Lime Wedges
 - Extra [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers)

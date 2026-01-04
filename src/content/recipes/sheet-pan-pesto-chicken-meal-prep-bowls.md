@@ -13,7 +13,7 @@ ingredients:
   - '8 oz Mushrooms, halved'
   - '1 pint Cherry Tomatoes'
   - '--- The Pesto Emulsion ---'
-  - '1/2 cup [Basil Pesto](/recipes/basil-pesto)'
+  - '1/2 cup Basil Pesto'
   - '1/2 cup Parmesan, freshly grated'
   - '3 tbsp Extra-Virgin Olive Oil'
   - '2 cloves Garlic, minced'

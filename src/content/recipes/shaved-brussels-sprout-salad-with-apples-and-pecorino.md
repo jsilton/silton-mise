@@ -32,6 +32,6 @@ The secret to a "Gold Standard" sprout salad is **Texture Integrity** through **
 
 ## Serving Suggestions
 
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloins)
 - [Chicken Milanese](/recipes/chicken-milanese)
 - [Roasted Sunchokes with Brown Butter Vinaigrette](/recipes/roasted-sunchokes-with-brown-butter-cider-vinaigrette)

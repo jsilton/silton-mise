@@ -33,6 +33,6 @@ This is a baseline "Speed" side that relies on **Structural Science**. The secre
 
 ## Serving Suggestions
 
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloins)
 - [Chicken Piccata (The Un-Fried Standard)](/recipes/chicken-piccata-unfried)
 - [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

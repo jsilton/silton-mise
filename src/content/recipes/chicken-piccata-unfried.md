@@ -35,5 +35,5 @@ We skip the traditional flour dredging to keep this dish light and the flavors c
 ## Serving Suggestions
 
 - [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Pasta al Limone](/recipes/pasta-al-limone)
+- [Pasta al Limone](/recipes/lemon-ricotta-pasta)
 - [Roasted Asparagus](/recipes/roasted-asparagus)

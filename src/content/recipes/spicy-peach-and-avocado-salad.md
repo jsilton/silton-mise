@@ -36,5 +36,5 @@ This salad is a study in **Texture Integrity** through **The Maceration Pattern*
 ## Serving Suggestions
 
 - [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloins)
 - [Classic Martini](/recipes/classic-martini) (The Cold Standard)

@@ -9,7 +9,7 @@ servings: '4'
 ingredients:
   - '8 oz Rotini or Cavatappi Pasta'
   - '--- The Vegan Caesar Emulsion ---'
-  - '1 1/2 cups [Vegan Caesar Dressing](/recipes/vegan-caesar-dressing)'
+  - '1 1/2 cups Vegan Caesar Dressing'
   - '1 1/2 cups Roasted Chickpeas (The "Snap" Protein)'
   - '--- The Texture Base ---'
   - '2 hearts Romaine Lettuce, chopped'
@@ -25,7 +25,7 @@ The secret to a "Gold Standard" vegan pasta salad is **Texture Integrity** throu
 ## Directions
 
 1.  **Boil:** Cook pasta in salted water until **al dente**. Drain.
-2.  **The Bind:** While the pasta is still warm, transfer to a large bowl and toss with 1/2 cup of the [Vegan Caesar Dressing](/recipes/vegan-caesar-dressing). Let stand for 5 minutes.
+2.  **The Bind:** While the pasta is still warm, transfer to a large bowl and toss with 1/2 cup of the Vegan Caesar Dressing. Let stand for 5 minutes.
 3.  **Combine:** Add the romaine, cherry tomatoes, and the remaining dressing. Toss gently with your hands (The Gold Standard).
 4.  **The Snap:** Fold in the roasted chickpeas and the avocado slices just before serving.
 5.  **Serve:** Season generously with black pepper and sea salt. Serve chilled or at room temperature.

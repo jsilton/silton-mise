@@ -34,6 +34,6 @@ Sunchokes are the ultimate "Modern Heritage" root vegetable. The secret to their
 
 ## Serving Suggestions
 
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloins)
 - [Roast Turkey Breast](/recipes/roast-turkey-breast)
 - [Classic Martini](/recipes/classic-martini) (The Cold Standard)
