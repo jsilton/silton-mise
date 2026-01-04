@@ -6,54 +6,66 @@ on:
   pull_request:
     branches: ['main']
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
-  # 1. THE SOUS CHEF: Integrity & Build
-  sous-chef:
-    name: "Sous Chef (Build & Lint)"
+  # 1. PREP & SERVICE (Self-Healing Pipeline)
+  kitchen-service:
+    name: "Kitchen Prep & Service"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          # Use a token if you need to trigger subsequent workflows, 
+          # otherwise the default GITHUB_TOKEN prevents loops automatically.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      - name: Install Ingredients (Dependencies)
+      - name: Install Ingredients
         run: npm ci
 
-      - name: Check Plating (Formatting)
-        run: npx prettier --check .
+      # --- EXPEDITOR STATION (Data) ---
+      - name: Expeditor Check (Data Validation)
+        run: node scripts/validate_recipes.js
 
+      # --- SOUS CHEF STATION (Style) ---
+      - name: Sous Chef Check (Formatting)
+        run: npx prettier --write .
+
+      # --- SELF-HEALING COMMIT ---
+      - name: Commit Fixes (if any)
+        id: auto-commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: Kitchen Brigade auto-fixes [skip ci]"
+          branch: ${{ github.head_ref }}
+          commit_user_name: "Silton Sous Chef"
+          commit_user_email: "sous-chef@silton-mise.kitchen"
+          # This ensures we don't fail if there's nothing to commit
+          skip_dirty_check: false 
+
+      # --- EXECUTION (Build) ---
+      # We only build if NO changes were pushed. 
+      # If changes were pushed, this run stops (because the code on disk is now "old" compared to remote),
+      # and we rely on the `[skip ci]` to NOT trigger a loop, but effectively the repo is now clean.
+      # However, for safety, let's build anyway to ensure the *result* of the fix is valid.
       - name: Fire the Oven (Build)
         run: npm run build
 
-  # 2. THE EXPEDITOR: Data Validation
-  expeditor:
-    name: "Expeditor (Data Check)"
-    needs: sous-chef
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-      - run: npm ci
-      - name: Inspect the Pass
-        run: node scripts/validate_recipes.js
-
-  # 3. THE MAÎTRE D': AI Review (Product & UX Oversight)
+  # 2. THE MAÎTRE D' (AI Review)
+  # Only runs if the previous steps succeeded
   maitre-d:
     name: "Maître d' (AI Review)"
-    needs: [sous-chef, expeditor]
+    needs: kitchen-service
     if: success()
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: write # Allow commenting on PRs
     steps:
       - uses: actions/checkout@v4
       
@@ -65,22 +77,20 @@ jobs:
           echo "$content" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Consult the Executive Chef (Gemini)
+      - name: Consult the Executive Chef
         uses: google-github-actions/run-gemini-cli@v0
         with:
           gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
           prompt: >
-            You are the Maître d' and Executive Chef of the Silton family kitchen software project.
-            A new change has successfully passed the Sous Chef (Build) and Expeditor (Data) stations.
-            
-            Your job is to provide a high-level summary and approval for the team.
+            You are the Maître d' of the Silton family kitchen.
+            The kitchen staff (CI pipeline) has just processed a new update.
             
             CONTEXT:
-            - The project follows the "Silton Codex" rules: ${{ steps.codex.outputs.codex }}
-            - The commit message is: "${{ github.event.head_commit.message }}"
+            - Codex: ${{ steps.codex.outputs.codex }}
+            - Commit: "${{ github.event.head_commit.message }}"
             
             TASK:
-            1. Summarize the change in 1-2 professional but kitchen-themed sentences.
-            2. Confirm if the "Silton Standard" (CONTRIBUTING.md) appears to be upheld based on the commit message.
-            3. If this is a Pull Request, offer a brief UX or Product critique if relevant (e.g., "Changing the layout might affect mobile users").
-            4. End with a "Service is Go!" confirmation.
+            1. Summarize the changes in 1 sentence.
+            2. If the commit was an "auto-fix" (check the message), praise the kitchen staff for their diligence.
+            3. Confirm the "Silton Standard" is maintained.
+            4. Sign off with "Service is Go!"
