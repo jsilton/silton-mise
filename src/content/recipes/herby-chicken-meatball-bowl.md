@@ -28,6 +28,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate high-performance "Fuel" bowl. The secret to chicken meatballs that aren't dry is **Structural Science** through **The Ricotta Bounce Hack**: by folding whole-milk ricotta into the ground chicken, we create a fat-moisture barrier that ensures the meatballs remain succulent even after searing. We use **The Cylindrical Sear Pattern**: shaping the meat into small logs rather than balls provides more Maillard surface area, resulting in a deeper savory "Snap" against the bright, herbal yogurt dressing.
 
 ## Directions
@@ -41,6 +42,7 @@ This is the ultimate high-performance "Fuel" bowl. The secret to chicken meatbal
 7.  **Finish:** Drizzle generously with the dressing for the mandatory **Acid Finish**.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Basmati Rice](/recipes/basmati-rice) (if extra fuel is needed)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Basmati Rice](/recipes/basmati-rice) (if extra fuel is needed)

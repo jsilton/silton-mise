@@ -26,13 +26,14 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the "Gold Standard" for technical Chinese soups. The name is literal: the "Hot" comes from white pepper, not just chilies, and the "Sour" from rice vinegar. The secret to its elite texture is **Structural Science** through **The Egg Current Pattern**: you must stir the soup in one direction to create a vortex, then slowly stream the egg into the moving liquid—this ensures the egg forms long, silken "ribbons" rather than clumps. We use **The Cornstarch Bind** to create a thick, glossy "Bounce" that suspends the pork and wood ears uniformly.
 
 ## Directions
 
 1.  **Prep:** Soak dried mushrooms in boiling water for 30 minutes. Drain, rinse, and slice.
-2.  **Infuse:** In a large pot, heat 2 tbsp oil. Sauté ginger and chili paste for 1 minute. Add the BBQ pork, wood ears, and bamboo shoots. 
-3.  **Boil:** Pour in the [Chinese Chicken Stock](/recipes/cantonese-wonton-broth). Bring to a boil and simmer for 10 minutes. 
+2.  **Infuse:** In a large pot, heat 2 tbsp oil. Sauté ginger and chili paste for 1 minute. Add the BBQ pork, wood ears, and bamboo shoots.
+3.  **Boil:** Pour in the [Chinese Chicken Stock](/recipes/cantonese-wonton-broth). Bring to a boil and simmer for 10 minutes.
 4.  **Season:** Stir in the soy sauce, vinegar, and white pepper. Taste—it should be sharp and punchy.
 5.  **Tofu:** Add the tofu strips and simmer for 3 minutes.
 6.  **Bind:** Stir the cornstarch slurry and slowly pour into the soup. Simmer for 2 minutes until the soup is thick and clear.
@@ -40,6 +41,7 @@ This is the "Gold Standard" for technical Chinese soups. The name is literal: th
 8.  **Serve:** Ladle into bowls and garnish with sesame oil and fresh scallions for the final **High Note**.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
--   [Cantonese Shumai (Siu Mai)](/recipes/cantonese-shumai-siu-mai)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+- [Cantonese Shumai (Siu Mai)](/recipes/cantonese-shumai-siu-mai)

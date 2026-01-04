@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the "Gold Standard" for a 25-minute weeknight main. The secret to its elite juiciness is **Structural Science** through **The 137°F Standard**. Most recipes overcook pork to 160°F; we sear the meat to develop a Maillard crust and then roast until it hits 137°F. The residual heat during the mandatory **10-Minute Rest** will bring it to a perfect 145°F, resulting in a succulent, blush-pink "Bounce." The lemon and Dijon provide the mandatory **Acid Finish** that cuts through the rich pork fat.
 
 ## Directions
@@ -31,7 +32,8 @@ This is the "Gold Standard" for a 25-minute weeknight main. The secret to its el
 5.  **Serve:** Carve into 1/2-inch thick diagonal slices. Serve warm with the accumulated juices from the platter.
 
 ## Serving Suggestions
--   [Garlic Mashed Red Potatoes](/recipes/garlic-mashed-red-potatoes)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Asparagus](/recipes/roasted-asparagus)
--   [Cinnamon Sweet Potatoes](/recipes/cinnamon-sweet-potatoes)
+
+- [Garlic Mashed Red Potatoes](/recipes/garlic-mashed-red-potatoes)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Asparagus](/recipes/roasted-asparagus)
+- [Cinnamon Sweet Potatoes](/recipes/cinnamon-sweet-potatoes)

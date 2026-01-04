@@ -28,6 +28,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These muffins are the "Gold Standard" for breakfast fuel. The secret to a professional-grade carrot muffin is **Texture Integrity** through the **Fine Shred Pattern**: you must use the smallest holes on your grater for the carrots so they "melt" into the batter, providing moisture without large, distracting chunks. We use **Applesauce** to reduce the oil content while maintaining a dense "Bounce." The cream cheese glaze provides the mandatory **Acid Finish**—dip the tops while cold for a clean, professional "Snap."
 
 ## Directions
@@ -41,6 +42,7 @@ These muffins are the "Gold Standard" for breakfast fuel. The secret to a profes
 7.  **Finish:** Dip each cooled muffin top into the glaze. Sprinkle with extra shredded coconut or walnuts for a textural "High Note."
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Sliced Apples
--   [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Sliced Apples
+- [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)

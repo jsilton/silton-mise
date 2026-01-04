@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a masterclass in **Modularity**. The secret to the Silton Standard here is **The Acid-Honey Bind Pattern**: the combination of lime juice (acid) and honey (sugar) creates a marinade that both tenderizes the meat via enzymes and creates a sticky, caramelized "Snap" on the grill. We use **The 2-Hour Minimum**: you must marinate the chicken for at least 2 hours to ensure the smoky chipotle penetrates the protein fibers. Always rest the meat for 5 minutes before slicing to preserve the "Bounce."
 
 ## Directions
@@ -35,6 +36,7 @@ This is a masterclass in **Modularity**. The secret to the Silton Standard here 
 6.  **Finish:** Slice the chicken into strips and place on top. Serve with extra lime wedges for the mandatory **High Note**.
 
 ## Serving Suggestions
--   [Guacamole (The Silton Standard)](/recipes/guacamole)
--   [Pickled Red Onions](/recipes/pickled-red-onions)
--   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+
+- [Guacamole (The Silton Standard)](/recipes/guacamole)
+- [Pickled Red Onions](/recipes/pickled-red-onions)
+- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)

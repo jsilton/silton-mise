@@ -25,6 +25,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 A galette is the ultimate "Project" meal for a Sunday afternoon. The secret to avoiding a soggy crust is **Texture Integrity** through **The Bone-Dry Tomato Pattern**: you must slice the heirloom tomatoes and pat them between paper towels for 10 minutes before layering; this removes the excess water that would otherwise steam the pastry. We use **Structural Science** for the crust: the food processor ensures the butter remains in pea-sized chunks, which creates the mandatory "Snap" and flaky layers.
 
 ## Directions
@@ -33,12 +34,13 @@ A galette is the ultimate "Project" meal for a Sunday afternoon. The secret to a
 2.  **Prep:** Preheat oven to 425°F. Line a baking sheet with parchment paper.
 3.  **The Dry Pattern:** Slice heirloom tomatoes and place them on paper towels. Pat the tops with more towels to absorb all surface moisture.
 4.  **Assemble:** Roll dough into a 12-inch circle. Spread pesto over the center, leaving a 2-inch border. Add dollops of ricotta.
-5.  **Layer:** Arrange the dry tomato slices over the ricotta. 
+5.  **Layer:** Arrange the dry tomato slices over the ricotta.
 6.  **The Fold:** Gently fold the edges of the dough over the tomatoes, pleating as you go. Brush the crust edges with olive oil and sprinkle with the shredded cheese.
 7.  **Bake:** Bake for 25-30 minutes until the crust is deep golden brown and the tomatoes are concentrated.
 8.  **Serve:** Garnish with flaky salt, chili flakes, and fresh herbs for the mandatory **High Note**.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

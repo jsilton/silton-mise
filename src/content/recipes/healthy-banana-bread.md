@@ -22,7 +22,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the baseline for high-performance **Fuel** breakfasts. We use **Modern Heritage** techniques to replace heavy butter with **Extra-Virgin Olive Oil**; the oil's grassy notes amplify the sweetness of the bananas while ensuring a moist, open crumb. The secret to the Silton Standard is **The Blender Pattern**: we blend the wet ingredients until perfectly emulsified before folding in the flour—this prevents over-mixing the gluten and guarantees a tender "Bounce" in every slice. 
+
+This is the baseline for high-performance **Fuel** breakfasts. We use **Modern Heritage** techniques to replace heavy butter with **Extra-Virgin Olive Oil**; the oil's grassy notes amplify the sweetness of the bananas while ensuring a moist, open crumb. The secret to the Silton Standard is **The Blender Pattern**: we blend the wet ingredients until perfectly emulsified before folding in the flour—this prevents over-mixing the gluten and guarantees a tender "Bounce" in every slice.
 
 ## Directions
 
@@ -34,6 +35,7 @@ This is the baseline for high-performance **Fuel** breakfasts. We use **Modern H
 6.  **Rest:** Let cool in the pan for 10 minutes, then transfer to a wire rack. Slice only once completely cool to preserve the structural integrity.
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Sliced Strawberries
--   Salted Butter or Peanut Butter
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Sliced Strawberries
+- Salted Butter or Peanut Butter

@@ -24,18 +24,20 @@ ingredients:
 ---
 
 ## Chef's Note
-This is our baseline **Modularity** component for all Mexican-inspired dishes. The secret to a professional-grade sauce is **The Spice Bloom Pattern**: we whisk the chili powder and cumin directly into the hot oil and flour (the roux) *before* adding the broth. This toasts the spices and releases their fat-soluble aromatic oils, resulting in a deeper flavor than store-bought jars. The **Apple Cider Vinegar** is the mandatory **Acid Finish** that cuts through the earthy cumin and brightens the tomato paste.
+
+This is our baseline **Modularity** component for all Mexican-inspired dishes. The secret to a professional-grade sauce is **The Spice Bloom Pattern**: we whisk the chili powder and cumin directly into the hot oil and flour (the roux) _before_ adding the broth. This toasts the spices and releases their fat-soluble aromatic oils, resulting in a deeper flavor than store-bought jars. The **Apple Cider Vinegar** is the mandatory **Acid Finish** that cuts through the earthy cumin and brightens the tomato paste.
 
 ## Directions
 
 1.  **The Roux:** In a medium saucepan, heat oil over medium. Whisk in the flour and all the spices (The Bloom). Cook, whisking constantly, for 1 minute until fragrant and the color deepens.
 2.  **Emulsify:** Whisk in the tomato paste until smooth.
-3.  **The Liquid:** Slowly pour in the broth while whisking vigorously to remove all lumps. 
+3.  **The Liquid:** Slowly pour in the broth while whisking vigorously to remove all lumps.
 4.  **Simmer:** Increase heat to medium-high and bring to a boil. Reduce heat and simmer for 5-7 minutes until the sauce thickens and coats the back of a spoon.
 5.  **Finish:** Remove from heat. Whisk in the vinegar and black pepper. Taste and add more salt if needed.
 6.  **Store:** Use immediately or store in a glass jar in the fridge for up to 1 week.
 
 ## Serving Suggestions
--   [Chicken and White Bean Enchiladas (Suizas Style)](/recipes/chicken-and-white-bean-enchiladas-with-creamy-green-chile-sauce)
--   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
--   Drizzled over [Breakfast Egg Cups](/recipes/breakfast-egg-cups)
+
+- [Chicken and White Bean Enchiladas (Suizas Style)](/recipes/chicken-and-white-bean-enchiladas-with-creamy-green-chile-sauce)
+- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+- Drizzled over [Breakfast Egg Cups](/recipes/breakfast-egg-cups)
