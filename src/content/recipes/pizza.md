@@ -17,6 +17,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a "Gold Standard" home pizza is **Structural Science** through **The Thermal Stone Pattern**. You must preheat your oven (and pizza stone) to its maximum temperature (500°F+) for at least 30 minutes. This creates an immediate "Snap" on the bottom crust while the whole-milk mozzarella develops a blistered "Bounce." We maintain **Texture Integrity** by adding the spinach only during the final 2 minutes of baking to prevent it from turning into a wet clump. The pineapple provides the mandatory **Acid Finish** to cut through the salty pepperoni.
 
 ## Directions
@@ -30,6 +31,7 @@ The secret to a "Gold Standard" home pizza is **Structural Science** through **T
 7.  **Serve:** Remove from the oven. Let rest for 2 minutes (The Set Cycle) before slicing.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
--   [Hot-and-Sour Soup](/recipes/hot-and-sour-soup) (The Silton "Night Before" tradition)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Hot-and-Sour Soup](/recipes/hot-and-sour-soup) (The Silton "Night Before" tradition)

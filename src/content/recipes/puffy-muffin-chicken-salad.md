@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a baseline **Modern Heritage** recipe for high-performance lunch fuel. The secret to its Success is **The Pull-Not-Cut Pattern**: you must poach the chicken tenders and then manually pull them into shreds while warm; this ensures the maximum surface area for the mayonnaise to bind to, resulting in a rich "Bounce." We maintain **Texture Integrity** through **The Cold Snap**: using quartered grapes and finely diced celery provides a necessary watery crunch that cuts through the rich mayo. Always add a hit of fresh lemon to provide the mandatory **High Note**.
 
 ## Directions
@@ -28,10 +29,11 @@ This is a baseline **Modern Heritage** recipe for high-performance lunch fuel. T
 2.  **The Pull:** While still warm, use two forks (or your hands) to pull the chicken into bite-sized shreds. Place in a large bowl.
 3.  **The Mix:** In a small bowl, whisk together mayonnaise, lemon juice, salt, and pepper until perfectly smooth.
 4.  **Combine:** Add the celery, grapes, and minced red onion to the chicken. Pour the dressing over the top.
-5.  **Fold:** Toss gently until every piece of chicken is coated in the creamy emulsion. 
+5.  **Fold:** Toss gently until every piece of chicken is coated in the creamy emulsion.
 6.  **Set:** Refrigerate for **at least 30 minutes** before serving. This allows the flavors to bloom and the texture to firm up.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   On a toasted croissant or [My Favorite Challah](/recipes/my-favorite-challah)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- On a toasted croissant or [My Favorite Challah](/recipes/my-favorite-challah)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

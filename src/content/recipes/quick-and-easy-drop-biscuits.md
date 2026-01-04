@@ -17,6 +17,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The drop biscuit is the ultimate test of **Structural Science** in speed-baking. The secret to a tall, flaky "Bounce" is **The Cold Fat Pattern**: the butter must be refrigerator-cold and cubed into pea-sized pieces. When these cold fat pockets hit the 400°F oven, they steam instantly, creating layers within the crumb. We use **The Shaggy Dough Pattern**: you must stir the milk until the dough **just comes together**; over-mixing will destroy the air pockets and turn your biscuits into leaden pucks.
 
 ## Directions
@@ -30,6 +31,7 @@ The drop biscuit is the ultimate test of **Structural Science** in speed-baking.
 7.  **Serve:** Serve warm with plenty of salted butter and honey.
 
 ## Serving Suggestions
--   [Turkey and Sweet Potato Chili](/recipes/chili)
--   [One-Pot Chicken Meatballs with Greens](/recipes/one-pot-chicken-meatballs-with-greens)
--   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+
+- [Turkey and Sweet Potato Chili](/recipes/chili)
+- [One-Pot Chicken Meatballs with Greens](/recipes/one-pot-chicken-meatballs-with-greens)
+- [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)

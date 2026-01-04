@@ -23,12 +23,13 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a 45-minute ragù that tastes like a 4-hour braise is **Structural Science** through **The Anchovy Pulse Pattern**. By melting two anchovy fillets into the onion base, we introduce a deep, savory foundation that amplifies the earthiness of the lamb. We maintain **Texture Integrity** by frying the lamb until it "sizzles in its own fat"—this ensures a "Snap" to the meat rather than a boiled texture. The balsamic vinegar provides the mandatory **Acid Finish** to cut through the rich lamb fat.
 
 ## Directions
 
 1.  **The Base:** In a large heavy pot, heat 2 tbsp oil. Sauté onion and garlic for 5-8 minutes until soft. Stir in the red pepper flakes and anchovies; cook for 2 minutes until the fish "melts" into the oil.
-2.  **The Bloom:** Add the tomato paste. Sauté for 3 minutes until dark and fragrant. 
+2.  **The Bloom:** Add the tomato paste. Sauté for 3 minutes until dark and fragrant.
 3.  **The Sear:** Add the ground lamb. Increase heat to medium-high. Cook, stirring frequently, for 8 minutes until the meat is browned and starting to crisp.
 4.  **Simmer:** Pour in the crushed tomatoes and 1/2 cup water. Season with salt and pepper. Bring to a boil, then reduce heat and simmer for 25-30 minutes until the sauce is thick and meaty.
 5.  **Boil:** While sauce simmers, cook pasta until **very al dente**.
@@ -36,6 +37,7 @@ The secret to a 45-minute ragù that tastes like a 4-hour braise is **Structural
 7.  **Serve:** Garnish with a "High Note" pat of Parmesan or Pecorino.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

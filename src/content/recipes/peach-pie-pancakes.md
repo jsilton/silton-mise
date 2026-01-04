@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Peach Pie" pancakes that aren't heavy is **Structural Science** through **The Yogurt Hydration Pattern**. By using Greek yogurt as the primary binder, we create a dense, custardy "Bounce" that mimics pie filling without the need for excessive oil. We maintain **Texture Integrity** by using **The Silver Dollar Pattern**: small, 2-tablespoon pancakes ensure the diced peaches are distributed evenly and the pancake cooks through before the fruit releases too much moisture. The cinnamon provides the mandatory aromatic **High Note**.
 
 ## Directions
@@ -34,6 +35,7 @@ The secret to "Peach Pie" pancakes that aren't heavy is **Structural Science** t
 8.  **Serve:** Serve with warm maple syrup and a few extra fresh peach slices.
 
 ## Serving Suggestions
--   Crispy Bacon
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Orange Juice
+
+- Crispy Bacon
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Orange Juice

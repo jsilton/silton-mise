@@ -15,6 +15,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the baseline **Modularity** component for the Silton holiday table. The secret to its Success is **The Reserve Burst Pattern**: we cook 3/4 of the cranberries until they burst and release their pectin, then stir in the remaining whole berries at the very end. This ensures the sauce has a thick, jammy "Bounce" while maintaining the textural "Snap" of whole fruit. The orange zest provides the mandatory **Acid Finish** that balances the tart berries and sweet sugar.
 
 ## Directions
@@ -28,6 +29,7 @@ This is the baseline **Modularity** component for the Silton holiday table. The 
 7.  **Store:** Keeps in the fridge for up to 2 weeks.
 
 ## Serving Suggestions
--   [Roast Turkey Breast](/recipes/roast-turkey-breast)
--   [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
--   [Buttermilk Waffles](/recipes/buttermilk-waffles) (as a morning topping)
+
+- [Roast Turkey Breast](/recipes/roast-turkey-breast)
+- [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+- [Buttermilk Waffles](/recipes/buttermilk-waffles) (as a morning topping)

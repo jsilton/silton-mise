@@ -18,6 +18,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These are the definitive "Gold Standard" mashed potatoes. To ensure **Texture Integrity**, we use the **Dry-Steam Pattern**: after draining the potatoes, you must return them to the hot pot for 2 minutes to cook off every drop of surface water. This ensures the starch is "thirsty" and ready to absorb **The Triple Cream Emulsion** (Butter, Cream, and Cream Cheese). We use an **Electric Mixer** for exactly 60 seconds to create a "Bounce" that is light and aerated rather than heavy and leaden.
 
 ## Directions
@@ -29,6 +30,7 @@ These are the definitive "Gold Standard" mashed potatoes. To ensure **Texture In
 5.  **Serve:** Stir in the salt and plenty of black pepper. Serve immediately with a "High Note" pat of butter.
 
 ## Serving Suggestions
--   [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
--   [Chicken Coq au Vin](/recipes/chicken-coq-au-vin)
--   [Meatloaf](/recipes/mommas-healthy-meatloaf)
+
+- [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
+- [Chicken Coq au Vin](/recipes/chicken-coq-au-vin)
+- [Meatloaf](/recipes/mommas-healthy-meatloaf)

@@ -18,6 +18,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the baseline **Modularity** component for family productivity. The secret to a play-dough that has a resilient, professional "Bounce" is **Structural Science** through **The Heat-Gelatinization Pattern**. Unlike no-cook versions, cooking the dough on the stovetop ensures the starch molecules are fully cross-linked, resulting in a "Snap" that doesn't stick to hands. The **Cream of Tartar** is mandatory—it acts as a gluten-stiffener and a natural preservative.
 
 ## Directions
@@ -30,6 +31,7 @@ This is the baseline **Modularity** component for family productivity. The secre
 6.  **Store:** Store in an airtight container for up to 6 months to maintain the "Bounce."
 
 ## Serving Suggestions
--   Quiet Mornings
--   Rainy Day Projects
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+
+- Quiet Mornings
+- Rainy Day Projects
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)

@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These are high-performance **Modularity** components for busy mornings. The secret to their incredible texture is **The Double-Oat Pattern**: by using both rolled and quick-cooking oats, we create a cookie with a dense, chewy "Bounce" and a structural "Snap" that won't crumble. We use **Coconut Oil and Honey** as the primary emulsifiers to ensure a clean energy profile. These cookies are intentionally designed **not to spread**; you must flatten them by hand before baking to achieve the Gold Standard shape.
 
 ## Directions
@@ -35,6 +36,7 @@ These are high-performance **Modularity** components for busy mornings. The secr
 6.  **The Set:** Let cool completely on the pan. This is mandatory for the flax and coconut oil to set the "Bounce."
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Apple Slices
--   [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Apple Slices
+- [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)

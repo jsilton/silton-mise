@@ -24,6 +24,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the definitive "Gold Standard" for a weekday ragù. The secret to its elite depth is **Structural Science** through **The Maillard Extraction Pattern**: we sear the meat and sausage separately first to develop a heavy fond, then use the red wine to deglaze the pot. The pressure cooker accelerates the **Collagen Breakdown**, giving the sauce a rich "Bounce" usually only found in 6-hour simmered versions. We finish with **Balsamic Vinegar**—the mandatory **Acid Finish** that cuts through the rich pork fat.
 
 ## Directions
@@ -38,6 +39,7 @@ This is the definitive "Gold Standard" for a weekday ragù. The secret to its el
 8.  **Serve:** Serve over [Fresh Egg Pasta](/recipes/fresh-egg-pasta) with plenty of Parmesan.
 
 ## Serving Suggestions
--   [Fresh Egg Pasta (The Silton Standard)](/recipes/fresh-egg-pasta)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Garlic Bread](/recipes/garlic-bread)
+
+- [Fresh Egg Pasta (The Silton Standard)](/recipes/fresh-egg-pasta)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/recipes/garlic-bread)

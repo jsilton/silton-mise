@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This salad is a masterclass in **Texture Integrity** through **The Roasted Stacks Pattern**. We roast golden beets at high heat (425°F) until they reach an earthy, "Snap" tender consistency, then layer them with raw tomatoes and fresh peaches. This creates a spectrum of grain structures in every forkful. The mandatory **Acid Finish** comes from the lemon-honey-shallot emulsion, which provides the "High Note" needed to bridge the sweet stone fruit and the creamy goat cheese.
 
 ## Directions
@@ -31,10 +32,11 @@ This salad is a masterclass in **Texture Integrity** through **The Roasted Stack
 2.  **Prep:** Slice tomatoes into 1/4-inch rounds. Arrange the beet and tomato slices in an overlapping pattern on a large platter. Season with salt and pepper.
 3.  **The Emulsion:** In a small bowl, whisk olive oil, 1 tbsp lemon juice, honey, and shallots until thick.
 4.  **Macerate:** Toss the sliced peaches with the remaining 1 tbsp lemon juice.
-5.  **Assemble:** Mound the peach slices in the center of the platter. 
+5.  **Assemble:** Mound the peach slices in the center of the platter.
 6.  **Finish:** Drizzle the honey-shallot glaze over everything. Garnish with crumbled goat cheese, fresh mint, and thyme for the mandatory aromatic **High Note**.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

@@ -24,12 +24,13 @@ ingredients:
 ---
 
 ## Chef's Note
+
 Red velvet is a study in **Structural Science**. The secret to its signature "Bounce" is **The Triple-Acid Pattern**: we use buttermilk, vinegar, and natural cocoa powder to react with the baking soda, creating a tall, airy crumb. To ensure **Texture Integrity**, we use the **Egg White Fold**: whipping the whites separately and folding them in at the end provides a cloud-like lightness. We use the **Cornstarch Hack** to mimic professional cake flour, ensuring the final cupcake is "Shatteringly Soft" rather than bready.
 
 ## Directions
 
 1.  **Aeration:** In a clean bowl, beat the 2 egg whites until stiff peaks form. Set aside.
-2.  **Dry Mix:** Sift together flour, cornstarch, cocoa, baking soda, and salt. 
+2.  **Dry Mix:** Sift together flour, cornstarch, cocoa, baking soda, and salt.
 3.  **The Emulsion:** In a stand mixer, cream butter and sugar for 2 minutes. Add oil and beat on high until light. Whisk in yolks, vanilla, vinegar, and food coloring until vibrant red.
 4.  **Combine:** Alternately add the dry mix and the buttermilk to the butter mixture, beginning and ending with the dry. **Do not over-mix.**
 5.  **The Fold:** Gently fold the whipped egg whites into the batter with a spatula until just incorporated.
@@ -38,6 +39,7 @@ Red velvet is a study in **Structural Science**. The secret to its signature "Bo
 8.  **Finish:** Top with a massive dollop of [Cream Cheese Frosting](/recipes/favorite-cream-cheese-frosting).
 
 ## Serving Suggestions
--   [Favorite Cream Cheese Frosting](/recipes/favorite-cream-cheese-frosting)
--   Fresh Raspberries
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Favorite Cream Cheese Frosting](/recipes/favorite-cream-cheese-frosting)
+- Fresh Raspberries
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

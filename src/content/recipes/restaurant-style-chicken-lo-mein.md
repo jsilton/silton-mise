@@ -26,6 +26,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Restaurant Quality" Lo Mein is **Structural Science** through **The Velveting Pattern**. By marinating the chicken in cornstarch and water, we ensure it remains juicy even under high heat. We maintain **Texture Integrity** through **The 60-Second Steam**: we add a splash of water and cover the wok for exactly one minute; this "shocks" the cabbage and carrots into tenderness while keeping the noodles resilient. The dark soy sauce is the mandatory **High Note** for that iconic takeout bronze.
 
 ## Directions
@@ -33,13 +34,14 @@ The secret to "Restaurant Quality" Lo Mein is **Structural Science** through **T
 1.  **Velvet:** Toss chicken with cornstarch, water, and oil. Let stand for 15 minutes.
 2.  **The Sear:** Heat a wok until smoking. Add 2 tbsp oil. Sear chicken for 2 minutes until browned. remove.
 3.  **Aromatics:** Add fresh oil and garlic. Sauté for 10 seconds. Add cabbage and carrots. Stir-fry for 1 minute.
-4.  **Deglaze:** Pour the Shaoxing wine around the perimeter of the wok. 
-5.  **Combine:** Add the fresh noodles and chicken back to the wok. If the noodles are stuck, add 1/4 cup water. 
+4.  **Deglaze:** Pour the Shaoxing wine around the perimeter of the wok.
+5.  **Combine:** Add the fresh noodles and chicken back to the wok. If the noodles are stuck, add 1/4 cup water.
 6.  **The Steam:** Cover the wok for exactly 1 minute to soften the vegetables.
 7.  **The Glaze:** Remove lid. Add both soy sauces, sesame oil, and sugar. Stir-fry for 30 seconds until the noodles are evenly dark and glossy.
 8.  **Finish:** Fold in the mung bean sprouts and scallions. Toss for 30 more seconds and serve immediately.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
--   [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)

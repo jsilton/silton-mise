@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a baseline "Speed" side that relies on **Structural Science**. The secret to Success is **The Onion Shock Pattern**: you must soak the red onion slices in ice water for 10 minutes before adding them to the salad. This removes the harsh sulfurous "bite," leaving only a sweet "Snap" that won't overpower the delicate Bosc pear. We use **The Emulsion Pattern**: whisking the Dijon and vinegar with honey creates a stable, thick binding that has the "Bounce" to coat the spinach leaves without weighing them down.
 
 ## Directions
@@ -31,6 +32,7 @@ This is a baseline "Speed" side that relies on **Structural Science**. The secre
 5.  **Serve:** Season with an extra crack of black pepper. Serve immediately to maintain **Texture Integrity**.
 
 ## Serving Suggestions
--   [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
--   [Chicken Piccata (The Un-Fried Standard)](/recipes/chicken-piccata-unfried)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Chicken Piccata (The Un-Fried Standard)](/recipes/chicken-piccata-unfried)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

@@ -21,18 +21,20 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a 30-minute "Speed" meal that relies on **The Mustard Emulsion Pattern**. The secret to the Silton Standard is the **Wine Reduction**: we simmer the hot Italian sausage directly in white wine, scraping up the "fond" to create a deeply savory base. The addition of **Grainy Mustard** provides the mandatory **Acid Finish** that cuts through the rich heavy cream and fatty sausage. We maintain **Texture Integrity** by using a tube-shaped pasta (like rigatoni) which acts as a trap for the thick, creamy sauce.
 
 ## Directions
 
 1.  **Boil:** Cook pasta in a large pot of salted water until **very al dente**. Drain.
-2.  **The Sear:** In a large skillet, heat oil. Brown the crumbled sausage over medium-high for 5 minutes until crispy. 
+2.  **The Sear:** In a large skillet, heat oil. Brown the crumbled sausage over medium-high for 5 minutes until crispy.
 3.  **Deglaze:** Pour in the white wine. Scrape the bottom of the pan vigorously to release all the browned bits. Simmer for 5 minutes until reduced by half.
 4.  **Bind:** Stir in the heavy cream, grainy mustard, and red pepper flakes. Simmer for 2 minutes until the sauce is thick and glossy.
 5.  **Toss:** Add the hot pasta and fresh basil to the skillet. Toss for 1 minute until every noodle is coated.
 6.  **Serve:** Grate fresh Parmesan over the top and serve immediately.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

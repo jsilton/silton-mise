@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the Gold Standard for a high-performance "Fuel" meal. The secret to quinoa that isn't mushy is **Texture Integrity** through **The Staged Simmer Pattern**. We sear the chicken thighs and sauté the mushrooms separately to develop a "Snap" crust before adding the broth. By nestling the chicken into the quinoa, we ensure the grains absorb the savory juices of the meat as they bloom. The smoked paprika provides the mandatory savory **High Note**.
 
 ## Directions
@@ -34,6 +35,7 @@ This is the Gold Standard for a high-performance "Fuel" meal. The secret to quin
 7.  **Serve:** Fluff the quinoa with a fork and serve immediately.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Asparagus](/recipes/roasted-asparagus)
--   [Cucumber Raita](/recipes/cucumber-raita)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Asparagus](/recipes/roasted-asparagus)
+- [Cucumber Raita](/recipes/cucumber-raita)

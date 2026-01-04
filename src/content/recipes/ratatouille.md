@@ -24,6 +24,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 Traditional ratatouille is often a mushy stew; we elevate it to the Silton Standard through **Texture Integrity** and **The Roasted Pattern**. Instead of simmering everything together, we roast the eggplant and peppers at high heat (425°F) separately. This ensures each vegetable maintains its "Snap" and color. We use **The Pulp Pattern** for the sauce: grating the fresh tomatoes removes the skins and creates a frothy, fresh base that binds the roasted components into a vibrant "Bounce."
 
 ## Directions
@@ -36,6 +37,7 @@ Traditional ratatouille is often a mushy stew; we elevate it to the Silton Stand
 6.  **Serve:** Serve hot or at room temperature with a final drizzle of high-quality olive oil.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

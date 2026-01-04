@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is our high-speed "Fuel" version of the Thai classic. The secret to Success is **The Noodle Prep Pattern**: if your rice noodles are cold, you must microwave them for 30 seconds before adding to the wok; this ensures they are flexible and provides the mandatory "Bounce" rather than breaking into small pieces. We use **The Staged Wilt**: we add the broccoli stems with the meat, then the leaves only during the final 30 seconds—this ensures **Texture Integrity** throughout the dish.
 
 ## Directions
@@ -32,6 +33,7 @@ This is our high-speed "Fuel" version of the Thai classic. The secret to Success
 6.  **Finish:** Add the Gai Lan leaves. Toss for 30 seconds until just wilted. Serve immediately.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
--   Extra Fish Sauce for dipping
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- Extra Fish Sauce for dipping

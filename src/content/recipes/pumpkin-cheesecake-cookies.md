@@ -22,7 +22,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the ultimate "Project" cookie. The secret to its professional Success is **Structural Science** through **The Frozen Core Pattern**: you must freeze the cream cheese dollops for at least 45 minutes *before* wrapping them in the pumpkin dough. This ensures the "Cheesecake" remains a distinct, creamy center rather than melting into the cookie during baking. We use **The 1-Hour Chill** for the dough to ensure it has the "Bounce" to hold its shape around the core. The ginger-sugar coating provides the mandatory **High Note** crunch.
+
+This is the ultimate "Project" cookie. The secret to its professional Success is **Structural Science** through **The Frozen Core Pattern**: you must freeze the cream cheese dollops for at least 45 minutes _before_ wrapping them in the pumpkin dough. This ensures the "Cheesecake" remains a distinct, creamy center rather than melting into the cookie during baking. We use **The 1-Hour Chill** for the dough to ensure it has the "Bounce" to hold its shape around the core. The ginger-sugar coating provides the mandatory **High Note** crunch.
 
 ## Directions
 
@@ -35,6 +36,7 @@ This is the ultimate "Project" cookie. The secret to its professional Success is
 7.  **Cool:** Let cool on the pan for 10 minutes. These are elite when refrigerated and eaten cold.
 
 ## Serving Suggestions
--   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
--   Fresh Sliced Pears
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- Fresh Sliced Pears
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

@@ -18,12 +18,13 @@ ingredients:
 ---
 
 ## Chef's Note
-This is a high-speed **Modern Heritage** update to the hand pie. The secret to its elite flavor is **The Beurre Noisette Pattern**: we brush the biscuits with butter that has been cooked until nutty and brown *before* baking. This creates a toasted, savory "Snap" that balances the creamy Brie and sweet peaches. We maintain **Texture Integrity** by using Brie; the cheese acts as a thermal guard, preventing the peach juices from turning the biscuit base into mush.
+
+This is a high-speed **Modern Heritage** update to the hand pie. The secret to its elite flavor is **The Beurre Noisette Pattern**: we brush the biscuits with butter that has been cooked until nutty and brown _before_ baking. This creates a toasted, savory "Snap" that balances the creamy Brie and sweet peaches. We maintain **Texture Integrity** by using Brie; the cheese acts as a thermal guard, preventing the peach juices from turning the biscuit base into mush.
 
 ## Directions
 
 1.  **Prep:** Preheat oven to 375°F. Line a baking sheet with parchment.
-2.  **Split:** Pull each raw biscuit in half horizontally. 
+2.  **Split:** Pull each raw biscuit in half horizontally.
 3.  **Layer:** Place 3 peach slices and 1 tsp of Brie in the center of the bottom half. Sprinkle with brown sugar and cinnamon. Drizzle with a drop of honey.
 4.  **Seal:** Place the top half back on. Pinch the edges firmly and roll gently in your palms to form a uniform "ball." Arrange 2 inches apart on the pan.
 5.  **The Sizzle:** In a small pan, melt 3 tbsp butter until it crackles and turns nutty brown. Brush each "bomb" generously with the brown butter.
@@ -31,6 +32,7 @@ This is a high-speed **Modern Heritage** update to the hand pie. The secret to i
 7.  **Serve:** Brush once more with the remaining brown butter. Serve warm while the Brie is molten.
 
 ## Serving Suggestions
--   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
--   Fresh Mint sprigs
--   [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+
+- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- Fresh Mint sprigs
+- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)

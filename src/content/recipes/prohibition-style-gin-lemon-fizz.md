@@ -19,6 +19,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This cocktail is a masterclass in **Structural Science** and aromatic layering. The secret to its Success is **The Smoky Emulsion Pattern**: the combination of herbal gin, rich cognac, and a pulse of mezcal creates a flavor profile that is both heavy and light. We use **Spindrift Lemon** instead of standard soda water to provide a real fruit **Acid Finish** that bridges the agave and gin. The orange bitters are added twice (in the shaker and on the surface) to ensure the aroma precedes the flavor.
 
 ## Directions
@@ -31,6 +32,7 @@ This cocktail is a masterclass in **Structural Science** and aromatic layering. 
 6.  **The High Note:** Add 1 final dash of orange bitters to the surface of each drink. Garnish with a lemon peel twist (expressed over the rim).
 
 ## Serving Suggestions
--   [Oreo Truffles](/recipes/easy-oreo-truffles)
--   [Mediterranean Pinwheels](/recipes/mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options)
--   Smoked Almonds
+
+- [Oreo Truffles](/recipes/easy-oreo-truffles)
+- [Mediterranean Pinwheels](/recipes/mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options)
+- Smoked Almonds

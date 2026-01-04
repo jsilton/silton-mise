@@ -25,6 +25,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 Pad Thai is a masterclass in the **Acid-Salt-Sweet balance**. The secret to "Gold Standard" noodles is **The Cold Soak Pattern**: you must soak the rice noodles in room-temperature water for 40 minutes rather than boiling them. This ensures they maintain a resilient "Bounce" and absorb the **Tamarind Emulsion** without becoming mushy. The tamarind provides the mandatory **Acid Finish** that defines the dish. Always add the bean sprouts at the very end to ensure a fresh, watery "Snap" that contrasts the chewy noodles.
 
 ## Directions
@@ -39,6 +40,7 @@ Pad Thai is a masterclass in the **Acid-Salt-Sweet balance**. The secret to "Gol
 8.  **Serve:** Mound on a plate. Top with crushed peanuts, extra sprouts, and a lime wedge for the final **High Note**.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
--   Thai Iced Tea
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- Thai Iced Tea

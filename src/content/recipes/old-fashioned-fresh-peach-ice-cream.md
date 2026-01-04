@@ -18,6 +18,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Gold Standard" fruit ice cream is **The Maceration Pattern**. You must toss the peaches in lemon juice and sugar for 30 minutes before mashing; this draws out the natural juices and creates a syrup that prevents the fruit from freezing into icy chunks. We use **The Yolk Emulsion Pattern**: by tempering the egg yolks with hot cream, we create a rich, stable custard "Bounce" that provides a silky mouthfeel. Always add the mashed fruit in the final 30 seconds of churning to maintain **Texture Integrity**.
 
 ## Directions
@@ -31,6 +32,7 @@ The secret to "Gold Standard" fruit ice cream is **The Maceration Pattern**. You
 7.  **Set:** Freeze for 4-6 hours to ripen the texture.
 
 ## Serving Suggestions
--   [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake)
--   Fresh Mint sprigs
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake)
+- Fresh Mint sprigs
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

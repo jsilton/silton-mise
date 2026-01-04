@@ -26,6 +26,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These are the baseline for autumn "Comfort." The secret to their incredible "Bounce" is **Structural Science** through **The Hydration Pattern**: pumpkin puree adds significant weight; by whisking it directly into the creamed butter and sugar, we ensure the moisture is fully emulsified before the flour is added. We finish with a **Butter-Sugar Glaze** to provide the mandatory "High Note" of sweetness that balances the earthy spices. Do not over-bake; these cookies should be "Shatteringly Soft."
 
 ## Directions
@@ -39,6 +40,7 @@ These are the baseline for autumn "Comfort." The secret to their incredible "Bou
 7.  **Serve:** Let cool for 10 minutes to allow the glaze to set into a "Snap."
 
 ## Serving Suggestions
--   [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
--   Fresh Sliced Apples
--   [Elderberry Syrup](/recipes/elderberry-syrup) (stirred into tea)
+
+- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- Fresh Sliced Apples
+- [Elderberry Syrup](/recipes/elderberry-syrup) (stirred into tea)

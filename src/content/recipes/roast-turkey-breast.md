@@ -18,19 +18,21 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a holiday turkey breast that isn't dry is **Structural Science** through **The 155°F Carry-Over Pattern**. Most recipes bake until the bird reaches 165°F, which results in sawdust-dry meat. We pull the turkey at exactly 155°F; the residual energy will carry it to a safe 165°F during the mandatory **20-minute rest**, preserving the "Bounce" and moisture of the protein. We maintain **Texture Integrity** by using a rack to ensure the skin develops a uniform, golden "Snap" all the way around.
 
 ## Directions
 
 1.  **Prep:** Preheat oven to 450°F. Place the turkey breast on a rack inside a roasting pan—this ensures air circulation for crispy skin.
 2.  **Glaze:** Brush the skin generously with melted butter. Season aggressively with salt and pepper.
-3.  **Sear:** Bake at 450°F for 15 minutes to kickstart the "Snap" of the skin. 
+3.  **Sear:** Bake at 450°F for 15 minutes to kickstart the "Snap" of the skin.
 4.  **Baste:** Reduce heat to 350°F. Pour 1/2 cup stock into the pan. Roast for 45-60 minutes, basting every 20 minutes with the pan juices.
-5.  **The Pull:** Use an instant-read thermometer. Remove the turkey when it hits **155°F** in the thickest part. 
+5.  **The Pull:** Use an instant-read thermometer. Remove the turkey when it hits **155°F** in the thickest part.
 6.  **Rest:** Transfer to a carving board. Cover loosely with foil and **let rest for 20 minutes** (mandatory for moisture).
 7.  **Serve:** Carve into 1/2-inch slices and serve with the pan drippings.
 
 ## Serving Suggestions
--   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
--   [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
--   [Perfect Mashed Potatoes (The Gold Standard)](/recipes/perfect-mashed-potatoes)
+
+- [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+- [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+- [Perfect Mashed Potatoes (The Gold Standard)](/recipes/perfect-mashed-potatoes)
