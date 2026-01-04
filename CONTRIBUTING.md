@@ -42,10 +42,47 @@ Every recipe in this library must be a "Keeper." We prioritize flavor layering, 
 
 ### A. Taxonomy (The "Composable Menu")
 
-Recipes are components, not just isolated instructions.
+Recipes are components, not just isolated instructions. Our metadata enables intelligent meal planning and constraint-based selection.
 
+**Core Identity Fields:**
 - **Role:** Every dish must have a role (`main`, `side`, `base`, `dessert`, `drink`, `condiment`).
 - **Vibe:** Every dish must have a context (`quick`, `nutritious`, `comfort`, `technical`, `holiday`).
+- **Difficulty:** Skill level required (`easy`, `intermediate`, `medium`, `hard`).
+
+**Planning Metadata:**
+- **Occasions:** Multiple tags allowed for time-based, social, seasonal, and nutritional contexts.
+- **Seasons:** When the dish is best (`spring`, `summer`, `fall`, `winter`, `year-round`).
+- **Nutritional Density:** How heavy the meal feels (`light`, `moderate`, `hearty`).
+- **Leftovers:** Reheating quality (`poor`, `good`, `excellent`).
+- **Advance Prep:** Special requirements (`marinate-overnight`, `make-ahead-sauce`, `dough-rest`, etc.).
+- **Equipment:** Special tools needed (`grill`, `slow-cooker`, `instant-pot`, `stand-mixer`, etc.).
+
+**Occasion Tags Architecture:**
+
+*Time-Based Constraints:*
+- `weeknight` - 45 min or less, minimal cleanup, reliable
+- `weekend-project` - leisurely cooking, multiple steps, learning experience
+- `quick-lunch` - 30 min or less, often single-pot
+- `meal-prep` - makes ahead, scales well, reheats excellently
+
+*Social Context:*
+- `entertaining` - impressive for guests, plating matters
+- `date-night` - special but not overwhelming, romantic
+- `kids-approved` - family-friendly, not too adventurous
+- `potluck` - travels well, serves a crowd, room temperature okay
+
+*Seasonal/Calendar:*
+- `holiday` - Thanksgiving, Christmas, Passover, etc.
+- `summer` - uses summer produce, grilling, refreshing
+- `winter` - hearty, warming, root vegetables
+- `spring` - light, fresh, bright flavors
+- `fall` - comfort, squash, apples, cinnamon
+
+*Nutritional Intent:*
+- `comfort-food` - indulgent, soul-satisfying, rich
+- `light-and-fresh` - lighter proteins, lots of vegetables, bright
+- `post-workout` - protein-forward, nutrient-dense
+- `indulgent` - celebration, special treat, no compromises
 
 ### B. Cuisine Tagging Rules
 
