@@ -5,18 +5,20 @@ cookTime: 25 min
 totalTime: 40 min
 servings: '6'
 ingredients:
-  - '1 lb Elbow Macaroni or Cavatappi pasta'
-  - '4 tablespoons Unsalted Butter (melted)'
+  - 1 lb Elbow Macaroni or Cavatappi pasta
+  - 4 tablespoons Unsalted Butter (melted)
   - '3 large Eggs, beaten'
-  - '2 cups Whole Milk'
+  - 2 cups Whole Milk
   - '12 oz Sharp White Cheddar, shredded'
   - '4 oz Sharp Yellow Cheddar, shredded'
   - '4 oz Pimentos (from a jar), drained and chopped'
-  - '1/2 tsp Dry Mustard Powder'
-  - '1/2 tsp Garlic Powder'
-  - '1/4 tsp Smoked Paprika'
-  - '1 tsp Kosher Salt'
-  - '1/2 tsp Black Pepper'
+  - 1/2 tsp Dry Mustard Powder
+  - 1/2 tsp Garlic Powder
+  - 1/4 tsp Smoked Paprika
+  - 1 tsp Kosher Salt
+  - 1/2 tsp Black Pepper
+role: main
+vibe: fuel
 ---
 
 ## Chef's Note
