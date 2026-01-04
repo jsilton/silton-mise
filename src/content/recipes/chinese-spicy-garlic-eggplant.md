@@ -1,45 +1,36 @@
 ---
 title: Chinese Spicy Garlic Eggplant
-prepTime: 20 min
-cookTime: 10 min
-ingredients:
-  - >-
-    500 grams Chinese eggplants (or sub with Japanese eggplant or normal one
-    will do)
-  - ¼ cup cornstarch for coating
-  - 5 tablespoon vegetable oil or as needed
-  - 10 dried red chilies dried
-  - 5 slices ginger peeled
-  - 1 stalk green onion finely chopped
-  - 2 tablespoon garlic minced
-  - 1 tablespoon regular soy sauce
-  - 1 tablespoon dark soy sauce
-  - >-
-    1 tablespoon oyster sauce (for a vegan version, sub with Vegetarian Stir Fry
-    Sauce)
-  - 1 tablespoon water
-  - 1 teaspoon Shaoxing Cooking Wine
-  - 1 teaspoon white granulated sugar
-  - 1 teaspoon rice vinegar or white vinegar
-  - ½ tablespoon cornstarch
-  - ½ teaspoon crushed red chili flakes
-totalTime: 30 min
 role: main
 vibe: speed
-servings: Unknown
+prepTime: 15 min
+cookTime: 10 min
+totalTime: 25 min
+servings: '4'
+ingredients:
+  - '1 lb Chinese Eggplant (the long, thin ones), cut into 2-inch batons'
+  - '1/4 cup Cornstarch (for dredging)'
+  - '--- The Aromatics ---'
+  - '2 tbsp Garlic, minced'
+  - '1 tbsp Ginger, grated'
+  - '2 Green Onions, white and green parts separated'
+  - '1 tbsp Sambal Oelek or Chili Crisp'
+  - '--- The Finish ---'
+  - '1/2 cup [All-Purpose Chinese Garlic Sauce](/recipes/chinese-garlic-sauce-base)'
 ---
+
+## Chef's Note
+
+The tragedy of home-cooked eggplant is "The Mush." We solve this with the **Silton Texture Pattern**: we coat the eggplant in cornstarch and sear it at high heat _before_ adding the sauce. This creates a protective crust that stays meaty while the inside turns creamy. We use our modular [Chinese Garlic Sauce](/recipes/chinese-garlic-sauce-base) to finish the dish with a professional, glossy glaze.
 
 ## Directions
 
-1. In a bowl, combine sauce ingredients.
-2. Slice your unpeeled eggplant vertically into quarter long strips. Then cut the strips into 1.5-inch-long pieces. Transfer to a large bowl. Pour cornstarch over eggplant. Using your hands, coat chopped eggplant in cornstarch. Note: The cornstarch helps the sauce cling onto your eggplant.
-3. In a wok or pan over medium high heat, add ¼ cup vegetable oil. Once oil is hot, add eggplant. Fry until 80% cooked. Remove from wok and set aside.
-4. Lower heat to low-medium. Into wok, add 1 tablespoon of oil along with dried red chilies, ginger, and green onions. Fry for 5-10 seconds.
-5. Add back in eggplant. Pour sauce overtop.
-6. Quickly mix until eggplant is coated in sauce. Remove off heat and enjoy!
+1.  **Dredge:** Toss the eggplant batons in a bowl with cornstarch until every side is coated. This is the secret to the texture.
+2.  **Sear:** Heat 3 tbsp oil in a wok or large skillet over high heat. Add the eggplant in a single layer. Sear for 3-4 minutes, turning once, until the edges are golden and crispy. Remove to a plate.
+3.  **Aromatics:** Wipe out the pan. Add 1 tbsp oil. Sauté the garlic, ginger, and the white parts of the scallions for 30 seconds. Stir in the chili paste.
+4.  **Finish:** Return the eggplant to the pan. Pour in the [All-Purpose Chinese Garlic Sauce](/recipes/chinese-garlic-sauce-base). Toss vigorously for 1 minute until the sauce bubbles and turns into a thick, clear glaze.
+5.  **Serve:** Garnish with the green parts of the scallions.
 
-## Nutrition
+## Serving Suggestions
 
-- Calories: 370kcal | Carbohydrates: 84g | Protein: 13g | Fat: 2g | Saturated Fat: 1g | Polyun
-- saturated Fat: 1g | Monoun
-- saturated Fat: 1g | Sodium: 788mg | Potassium: 2392mg | Fiber: 25g | Sugar: 39g | Vitamin A: 2361IU | Vitamin C: 342mg | Calcium: 118mg | Iron: 4mg
+- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
+- Steamed Bok Choy with Garlic

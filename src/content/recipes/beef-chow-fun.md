@@ -1,42 +1,46 @@
 ---
-title: Beef Chow Fun
-prepTime: 60 min
-cookTime: 65 min
-servings: 'Serves: 2 servings'
-ingredients:
-  - '8 oz. flank steak (225g, sliced into 1/8 thick pieces)'
-  - 1/4 teaspoon baking soda (optional)
-  - 1 teaspoon cornstarch
-  - 1 teaspoon soy sauce
-  - 1 teaspoon vegetable oil
-  - 12 oz. fresh wide rice noodles
-  - 3 tablespoons vegetable oil
-  - 4 scallions (split in half vertically and cut into 3-inch pieces)
-  - 3 thin slices ginger
-  - 2 tablespoons Shaoxing wine
-  - 1/2 teaspoon sesame oil
-  - 2 teaspoons dark soy sauce
-  - 2 tablespoons regular soy sauce
-  - 1/8 teaspoon sugar
-  - salt and white pepper (to taste)
-  - 4 to 6 ounces fresh mung bean sprouts
-totalTime: 125 min
+title: Beef Chow Fun (The Wok Hei Standard)
 role: main
 vibe: comfort
+prepTime: 20 min
+cookTime: 10 min
+totalTime: 30 min
+servings: '4'
+ingredients:
+  - '1 lb Flank Steak or Sirloin, sliced thin against the grain'
+  - '--- The Beef Velvet ---'
+  - '1 tbsp Soy Sauce'
+  - '1 tbsp Shaoxing Wine'
+  - '1 tsp Cornstarch'
+  - '1/4 tsp Baking Soda (The secret to tenderness)'
+  - '--- The Stir-Fry ---'
+  - '1 lb Fresh Wide Rice Noodles (Ho Fun)'
+  - '4 oz Bean Sprouts'
+  - '3 stalks Green Onion, cut into 3-inch lengths'
+  - '1 tbsp Ginger, julienned'
+  - '--- The Sauce ---'
+  - '2 tbsp Soy Sauce'
+  - '1 tbsp Dark Soy Sauce (For the signature color)'
+  - '1 tsp Sugar'
+  - '1/2 tsp Toasted Sesame Oil'
 ---
+
+## Chef's Note
+
+Beef Chow Fun is the ultimate test of a Cantonese chef. It requires **Structural Science**: the beef must be "velveted" with baking soda to remain tender, and the noodles must be treated gently. The secret is high heat and **minimal stirring**—you want the noodles to sear and char (Wok Hei) without breaking into small pieces.
 
 ## Directions
 
-1. Combine the beef and marinade ingredients and marinate for about 1 hour.
-2. Some fresh rice noodles come as large sheets, while others are already cut. If you have the sheets, slice the rice noodles so they're about 1 inch wide. If the noodles are very stiff and stuck together, bring a wok full of water to a boil, and add the noodles. Blanch them for 30 seconds to loosen. Transfer to an ice bath and drain thoroughly.
-3. Heat your wok over high heat until smoking, and add 1 1/2 tablespoons oil to coat the wok. Add the beef and sear until browned. As long as your wok is hot enough, the meat shouldn't stick. Set aside. Add 1 1/2 tablespoons more vegetable oil to the wok. Add the ginger to infuse the oil with its rich flavor for about 15 seconds. Add the scallions.
-4. Spread the noodles evenly in the wok and stir-fry on high for about 15 seconds. Add the Shaoxing wine around the perimeter of the wok.
-5. Next, add the sesame oil, soy sauces, pinch of sugar and the seared beef. Stir-fry, making sure your metal wok spatula scrapes the bottom of the wok. Lift the noodles in an upward motion to mix well and coat them evenly with the sauce.
-6. Add a bit of salt and white pepper to taste (taste the noodles before adding salt). Add the bean sprouts and stir-fry until they are just tender. Serve!
-7. TIPS & NOTES:
-8. A useful tip is to freeze the beef before slicing, until it's firm but not solid. This makes slicing the beef much easier!
-9. Important: Heat should remain as high as possible at all times when cooking this dish.
+1.  **Velvet:** Toss the sliced beef with the soy sauce, wine, cornstarch, and baking soda. Let sit for 20 minutes.
+2.  **Noodles:** If using fresh noodles from a bag, microwave them for 30 seconds to loosen them up so you can separate them without breaking.
+3.  **The Sear:** Heat a wok over high heat until smoking. Add oil and sear the beef in a single layer until browned and charred. Remove to a plate.
+4.  **Aromatics:** Add another splash of oil. Sauté ginger and scallions for 30 seconds.
+5.  **The Noodles:** Add the noodles to the wok. Let them sit undisturbed for 1 minute to get some color.
+6.  **Toss:** Add the seared beef and the whisked sauce ingredients. Use a wide spatula to gently "fold" the noodles from the bottom up.
+7.  **Finish:** Add the bean sprouts. Toss for 30 seconds until just wilted. Serve immediately.
 
-## Nutrition
+## Serving Suggestions
 
-- Calories: 615kcal (31%) Carbohydrates: 51g (17%) Protein: 31g (62%) Fat: 30g (46%) Saturated Fat: 21g (105%) Cholesterol: 68mg (23%) Sodium: 1978mg (82%) Potassium: 576mg (16%) Fiber: 3g (12%) Sugar: 4g (4%) Vitamin A: 240IU (5%) Vitamin C: 12mg (15%) Calcium: 55mg (6%) Iron: 3.4mg (19%)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- Hot Chili Oil
+- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)

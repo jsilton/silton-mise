@@ -1,40 +1,41 @@
 ---
-title: Tuna Poke Bowls
-servings: 4 servings
-ingredients:
-  - 2 cups short-grain sushi rice
-  - '1½ teaspoons kosher salt, plus more'
-  - 2 tablespoons dried hijiki (seaweed)
-  - '3 tablespoons mirin, divided'
-  - '3 tablespoons soy sauce, divided'
-  - '½ teaspoon sesame seeds, plus more for serving'
-  - ¼ cup unseasoned rice vinegar
-  - 1 tablespoon sugar
-  - >-
-    ¼ English hothouse cucumber, sliced in half lengthwise, sliced crosswise
-    into half-moons
-  - '1 jalapeño, thinly sliced'
-  - '2 scallions, thinly sliced'
-  - '¼ cup mixed fresh citrus juice (such as lime, lemon, and grapefruit)'
-  - 2 tablespoons white soy sauce or soy sauce
-  - 1 teaspoon toasted sesame oil
-  - ¼ cup mayonnaise
-  - 1 tablespoon hot chili paste (such as sambal oelek)
-  - '¾ pound highest-quality fresh tuna, cut into ½-inch pieces'
-  - '1 avocado, chopped'
-  - Tobiko (for serving; optional)
+title: Tuna Poke Bowls (The Sashimi Standard)
 role: main
 vibe: fuel
+prepTime: 20 min
+cookTime: 20 min
+totalTime: 40 min
+servings: '4'
+ingredients:
+  - '1 lb Sashimi-Grade Yellowfin or Bigeye Tuna, cut into 1/2-inch cubes'
+  - '--- The Dressing ---'
+  - '3 tbsp Soy Sauce (or Tamari)'
+  - '1 tbsp Toasted Sesame Oil'
+  - '1 tsp Rice Vinegar'
+  - '1/2 tsp Grated Ginger'
+  - '1/2 tsp Chili Crisp or Sriracha'
+  - '--- The Bowl ---'
+  - '4 cups Cooked Sushi Rice or [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)'
+  - '1 Avocado, diced'
+  - '[Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers) (The crunch secret)'
+  - '1/2 cup Shelled Edamame'
+  - 'Sliced Scallions and Toasted Sesame Seeds'
+  - 'Shredded Nori (Seaweed)'
 ---
+
+## Chef's Note
+
+The quality of a poke bowl lives and dies by the **Tuna sourcing**. Always look for "Sashimi-Grade" or "Sushi-Grade" labeling. To prevent the fish from turning "mushy," toss it with the dressing only 5-10 minutes before serving. We use the [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers) to add an essential acidic snap that balances the fatty tuna and avocado.
 
 ## Directions
 
-1. Rinse and drain rice in a fine-mesh sieve several times until water runs clear. Let sit 30 minutes.
-2. Combine rice and 2 cups water in a medium saucepan, season lightly with salt, and bring to a boil. Reduce heat, cover saucepan, and simmer until rice is tender, 18–22 minutes. Remove from heat and let sit 10 minutes. Fluff with a fork; keep warm.
-3. Meanwhile, soak hijiki in ½ cup cold water in a small bowl until rehydrated and softened, 30–35 minutes. Drain and mix in a clean small bowl with 1 Tbsp. mirin, 1 Tbsp. soy sauce, and ½ tsp. sesame seeds; let sit 5 minutes. Drain.
-4. Whisk vinegar, sugar, 1 ½ tsp. kosher salt, and 2 Tbsp. water in another small bowl. Toss cucumber with a pinch of salt in another bowl and squeeze to expel excess water. Add cucumber and jalapeño to brine and let sit at least 10 minutes and up to 1 hour to pickle.
-5. Soak scallions in a medium bowl of cold water until they begin to curl, about 10 minutes. Drain and squeeze dry.
-6. Combine citrus juice, white soy sauce, oil, remaining 2 Tbsp. mirin, and remaining 2 Tbsp. soy sauce in another small bowl; set ponzu aside.
-7. Whisk mayonnaise and chili paste in a final small bowl to combine; set spicy mayo aside.
-8. Toss tuna, hijiki, drained pickles, scallions, and ponzu in a large bowl; season with salt.
-9. Just before serving, toss avocado into tuna mixture. Divide rice among bowls and top with tuna mixture, a dollop of spicy mayo, more sesame seeds, and some tobiko, if using.
+1.  **Rice:** Prepare your rice and keep it at room temperature (not ice cold).
+2.  **The Fish:** In a medium bowl, whisk together the dressing ingredients. Gently fold in the tuna cubes. Let marinate in the fridge for 10 minutes.
+3.  **Components:** Prepare your avocado, edamame, and scallions. Ensure your [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers) are drained and cold.
+4.  **Assemble:** Place a mound of rice in each bowl. Arrange the tuna, avocado, cucumbers, and edamame in sections on top.
+5.  **Finish:** Top with nori strips, scallions, and sesame seeds. Serve with extra soy sauce or spicy mayo on the side.
+
+## Serving Suggestions
+
+- [Miso Soup](/recipes/miso-soup)
+- Iced Green Tea
