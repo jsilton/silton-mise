@@ -5,7 +5,7 @@ vibe: speed
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
-servings: 4
+servings: '4'
 ingredients:
   - '2 large chicken breasts, halved horizontally (cutlets) or pounded thin'
   - 'Salt and freshly ground black pepper'

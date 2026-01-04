@@ -5,7 +5,7 @@ vibe: comfort
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
-servings: 4
+servings: '4'
 ingredients:
   - '1 lb shrimp, peeled and deveined'
   - '1/4 lb ground pork'

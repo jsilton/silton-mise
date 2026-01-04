@@ -5,7 +5,7 @@ vibe: speed
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 25 min
-servings: 4
+servings: '4'
 ingredients:
   - '1 cup long-grain white rice (or parboiled/converted rice for authentic texture)'
   - '1/3 cup orzo pasta'

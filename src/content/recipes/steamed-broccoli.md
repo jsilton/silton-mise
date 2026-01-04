@@ -11,7 +11,7 @@ ingredients:
 totalTime: 10 min
 role: side
 vibe: speed
-servings: 4
+servings: '4'
 ---
 
 ## Description

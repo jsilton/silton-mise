@@ -5,7 +5,7 @@ vibe: speed
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
-servings: 4
+servings: '4'
 ingredients:
   - '5 oz baby arugula (one standard container)'
   - '2 tablespoons extra virgin olive oil'

@@ -5,7 +5,7 @@ vibe: fuel
 prepTime: 20 min
 cookTime: 15 min
 totalTime: 35 min
-servings: 4
+servings: '4'
 ingredients:
   - '1.5 lbs chicken thighs, boneless/skinless'
   - '3 tablespoons olive oil'

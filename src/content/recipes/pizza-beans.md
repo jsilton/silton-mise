@@ -5,7 +5,7 @@ vibe: comfort
 prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
-servings: 4
+servings: '4'
 ingredients:
   - '2 cans (15 oz each) giant white beans (like Butter beans or Gigante), drained and rinsed'
   - '1 tablespoon olive oil'

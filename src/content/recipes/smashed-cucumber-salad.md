@@ -5,7 +5,7 @@ vibe: fuel
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 40 min
-servings: 4
+servings: '4'
 ingredients:
   - '2 English cucumbers (or 6 Persian cucumbers)'
   - '1 teaspoon kosher salt'

@@ -5,7 +5,7 @@ vibe: comfort
 prepTime: 15 min
 cookTime: 45 min
 totalTime: 60 min
-servings: 6
+servings: '6'
 ingredients:
   - '3 pounds Roma (plum) tomatoes, halved lengthwise'
   - '6 cloves garlic, peeled'
