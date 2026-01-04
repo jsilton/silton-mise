@@ -1,25 +1,33 @@
 ---
 title: Cinnamon Sweet Potatoes
-ingredients:
-  - Cooking Spray
-  - >-
-    2 tbsp butter, melted (needs to be low sal with at least 15% butterfat,
-    Holstein preferred)
-  - '2 tbsp honey (Tupelo, not clover)'
-  - '1 tbsp fresh lime juice (Caribbean grown, not SA or California)'
-  - '1/2 tsp ground cinnamon (Important, Indian “mash grade”)'
-  - >-
-    2 lb sweet potatoes, peeled, cut into 1/3 inch thick rounds (organic only,
-    measure each slice)
 role: side
-vibe: fuel
-servings: Unknown
+vibe: speed
+prepTime: 10 min
+cookTime: 25 min
+totalTime: 35 min
+servings: '4'
+ingredients:
+  - '2 lbs Sweet Potatoes, peeled and cut into 1/3-inch rounds'
+  - '2 tbsp Unsalted Butter, melted'
+  - '2 tbsp Honey'
+  - '1 tbsp Fresh Lime Juice'
+  - '1/2 tsp Ground Cinnamon'
+  - 'Salt and Black Pepper'
+  - 'Cooking spray'
 ---
+
+## Chef's Note
+The secret to these 25-minute potatoes is **Texture Integrity** through the **Glaze Pattern**. Instead of boiling or steaming, we roast the rounds at high heat (400°F) in a honey-butter emulsion. The **Lime Juice** provides the mandatory **Acid Finish**, which prevents the dish from being cloyingly sweet and ensures the cinnamon notes are bright rather than muddy. Ensure the slices are uniform in thickness to guarantee even cooking.
 
 ## Directions
 
-1. Preheat oven to 400 degrees. Spary rimmed making sheet.
-2. Whisk butter, honey, lime and cinnamon in a large bowl.
-3. Add slices and toss to coat.
-4. Arrange slices in a single layer on baking sheet.
-5. Sprinkle with salt and pepper and bake at 400 degrees until tender, about 25 minutes.
+1.  **Prep:** Preheat oven to 400°F. Spray a rimmed baking sheet generously with oil spray.
+2.  **The Emulsion:** In a large bowl, whisk together melted butter, honey, lime juice, and cinnamon until smooth.
+3.  **Toss:** Add the sweet potato rounds to the bowl and toss until every slice is fully coated in the glaze.
+4.  **Arrange:** Place the slices in a **single layer** on the baking sheet (do not overlap, or they will steam instead of roast). Season with salt and black pepper.
+5.  **Roast:** Bake for 20-25 minutes until tender and the edges are slightly caramelized. Serve hot.
+
+## Serving Suggestions
+-   [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roast Turkey Breast](/recipes/roast-turkey-breast)

@@ -1,35 +1,37 @@
 ---
 title: Cottage Cheese Banana Oatmeal Protein Pancakes
-prepTime: 5 min
+role: main
+vibe: fuel
+prepTime: 10 min
 cookTime: 10 min
-servings: '2'
+totalTime: 20 min
+servings: '4'
 ingredients:
-  - '1/2 cup old-fashioned rolled oats, gluten free if desired'
-  - 1/2 medium banana
-  - 1/2 teaspoon vanilla extract
-  - 1 teaspoon baking powder
-  - 1/2 teaspoon cinnamon
-  - 1 egg
-  - 1/4 cup low fat cottage cheese
-  - 'Optional add-ins/toppings: Fresh berries, chocolate chips, peanut butter'
-totalTime: 15 min
-role: dessert
-vibe: project
+  - '1/2 cup Old-fashioned Rolled Oats'
+  - '1/2 medium Banana, very ripe'
+  - '1/4 cup Low-fat Cottage Cheese'
+  - '1 large Egg'
+  - '--- The Spiced Mix ---'
+  - '1 tsp Baking Powder'
+  - '1/2 tsp Ground Cinnamon'
+  - '1/2 tsp Vanilla Extract'
+  - '--- Optional Mix-ins ---'
+  - 'Fresh Blueberries or Dark Chocolate Chips'
 ---
+
+## Chef's Note
+This is a high-protein "Fuel" breakfast that relies on **The Blender Pattern**. By pulverizing the cottage cheese and oats together, we create a batter that is rich in protein but tastes exactly like a traditional flour-based pancake. The secret to the **Texture Integrity** is the **Low and Slow Cook**: because of the sugar in the banana and the proteins in the cheese, these pancakes will brown quickly. Cook them over medium-low heat to ensure the middle sets into a "Bounce" before the outside burns.
 
 ## Directions
 
-1. Place all ingredients in a blender and blend until completely smooth, about 30 seconds.
-2. Lightly coat a large nonstick skillet or griddle nonstick cooking spray and heat over medium low heat. Drop batter by 1/4 cup onto skillet. Add desired toppings such as chocolate chips or blueberries.
-3. Cook until bubbles appear on top. Flip cakes and cook until golden brown on underside.
-4. Wipe skillet clean and repeat with more cooking spray and remaining batter. Makes 3-4 pancakes
+1.  **The Batter:** Place oats, banana, cottage cheese, egg, baking powder, cinnamon, and vanilla into a high-powered blender. Blend for 30-45 seconds until completely smooth.
+2.  **Prep:** Heat a large non-stick skillet over **medium-low** heat. Lightly coat with oil spray.
+3.  **Pour:** Drop the batter by 1/4 cupfuls onto the skillet. If using mix-ins, sprinkle them onto the wet surface of the pancake now.
+4.  **Flip:** Cook until bubbles appear on the surface and the edges look set (about 2-3 mins). Flip gently and cook for another 2 minutes until golden brown.
+5.  **Finish:** Wipe the skillet clean between batches to prevent the residual sugars from burning.
+6.  **Serve:** Serve immediately with a dollop of Greek yogurt or a drizzle of peanut butter.
 
-## Nutrition
-
-- Calories: 324cal
-- Carbohydrates: 42.3g
-- Protein: 19.6g
-- Fat: 7.7g
-- Saturated Fat: 1.3g
-- Fiber: 5.5g
-- Sugar: 10g
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Fresh Berries
+-   [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)

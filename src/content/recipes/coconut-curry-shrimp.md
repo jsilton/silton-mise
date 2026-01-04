@@ -1,36 +1,42 @@
 ---
 title: Coconut Curry Shrimp
-prepTime: 5 min
-cookTime: 15 min
-servings: 6 servings
-ingredients:
-  - 2 Tablespoons Butter
-  - >-
-    1-1/2 pound Peeled And Deveined Raw Shrimp (I Used U10, But Any Size Is
-    Fine)
-  - '1 whole Medium Onion, Finely Diced'
-  - '4 cloves Garlic, Minced'
-  - 1 Tablespoon Curry Powder
-  - 1 can (13 1/2 Oz. Size) Coconut Milk (I Used "A Taste Of Thai" Brand)
-  - '2 Tablespoons Honey, More To Taste'
-  - 1/4 teaspoon Kosher Salt (more To Taste)
-  - '1 whole Lime, Juiced'
-  - 'Hot Sauce, Optional'
-  - '12 whole Basil Leaves, Chopped, Plus More For Garnish'
-  - 2 cups basmati rice
-  - mushrooms
-  - 1 zucchini
-totalTime: 20 min
 role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '4'
+ingredients:
+  - '1 1/2 lbs Shrimp (U10 or U12), peeled and deveined'
+  - '--- The Flavor Base ---'
+  - '1 medium Onion, finely diced'
+  - '4 cloves Garlic, minced'
+  - '1 tbsp Curry Powder'
+  - '1 can (13.5 oz) Full-fat Coconut Milk'
+  - '--- The Snap ---'
+  - '1 large Zucchini, sliced into half-moons'
+  - '1 cup Mushrooms, sliced'
+  - '2 tbsp Unsalted Butter'
+  - '--- The Finish ---'
+  - '1 Lime, juiced'
+  - '2 tbsp Honey'
+  - '12 Fresh Basil Leaves, chiffonade'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is a 25-minute "Speed" masterclass. The secret to the Silton Standard here is the **Shrimp Snap Pattern**: we sear the shrimp in butter first and remove them *before* building the sauce. This ensures they don't overcook into rubbery curls while the sauce simmers. We maintain **Texture Integrity** by adding the zucchini only at the very end—it should be "Snappy" and bright green, providing a textural contrast to the silky, honey-sweetened coconut glaze.
 
 ## Directions
 
-1. Heat the butter in a large skillet (I used non-stick) over medium-high heat. Add the shrimp and cook for 2 to 3 minutes, turning them over halfway through, until fully cooked. Remove to a plate and set aside.
-2. Add the onion and garlic to the skillet and stir to cook for 2 minutes. Sprinkle the curry powder over the onions and continue cooking the onions, stirring, for another couple of minutes. Reduce the heat to medium-low and pour in the coconut milk, stirring to combine. Add honey, salt, and lime juice, and allow the sauce to heat up until bubbling gently. Add shrimp into the sauce, tossing to coat, and allow it to simmer for 2 to 3 minutes or until slightly thickened. Taste the sauce and add more salt, lime juice, or honey depending on your taste. Stir in the basil. (Add hot sauce if you want a little kick.)
-3. Serve shrimp and sauce over a bed of cooked basmati rice, garnishing with more basil. Delicious!
+1.  **The Snap:** In a large skillet, melt butter over medium-high heat. Add shrimp and cook for 2-3 minutes total, turning once, until pink and just opaque. Remove to a plate.
+2.  **Aromatics:** In the same pan, add onions, garlic, and mushrooms. Sauté for 3 minutes. Sprinkle the curry powder over the vegetables and stir for 1 minute to "bloom" the spices.
+3.  **The Glaze:** Pour in the coconut milk. Add honey and lime juice. Bring to a gentle boil, then reduce heat to medium-low.
+4.  **Veg:** Add the zucchini slices. Simmer for 3 minutes until just tender but still bright.
+5.  **Combine:** Return the shrimp and any plate juices to the pan. Toss to coat and simmer for 1 minute.
+6.  **Finish:** Stir in the fresh basil. Taste and adjust with salt or extra honey. Serve immediately over rice.
 
 ## Serving Suggestions
-
-Couscous or Crusty Bread, Everyday Arugula Salad
+-   [Basmati Rice](/recipes/basmati-rice)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Quick Pickled Red Onions](/recipes/pickled-red-onions)
