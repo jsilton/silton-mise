@@ -3,8 +3,7 @@
 This document aggregates the collective wisdom of the world's best chefs, food scientists, and culinary traditions. It serves as the "Brain" for the Silton Master Chef Agent.
 
 ## I. The Professional Foundation (Culinary School & Michelin Standards)
-
-_Top learnings from CIA, Le Cordon Bleu, and The French Laundry._
+*Top learnings from CIA, Le Cordon Bleu, and The French Laundry.*
 
 1.  **Mise en Place is Religion:** Never start cooking until every ingredient is prepped, measured, and in bowls. Chaos on the board = chaos in the pan.
 2.  **Uniformity = Even Cooking:** Knife cuts must be uniform (brunoise, batonnet) not just for looks, but so ingredients cook at the exact same rate.
@@ -22,14 +21,13 @@ _Top learnings from CIA, Le Cordon Bleu, and The French Laundry._
 14. **Control the Heat:** Don't just set it to "High" and forget it. Adjust constantly. Listen to the sizzle—it tells you if the pan is too hot or cold.
 15. **Acidity Resets the Palate:** If a dish tastes "heavy" or "muddy," it doesn't need less salt; it needs Acid (Lemon, Vinegar).
 16. **Salt Enhances Sweetness:** Desserts need salt to make the sugar taste more like itself.
-17. **Carryover Cooking:** Food continues to cook 5-10 degrees after being removed from heat. Pull it _before_ it hits the target temp.
+17. **Carryover Cooking:** Food continues to cook 5-10 degrees after being removed from heat. Pull it *before* it hits the target temp.
 18. **The Emulsion Rule:** Oil and Water don't mix unless forced. Use Mustard, Egg Yolk, or vigorous whisking to bind vinaigrettes.
 19. **Blanch and Shock:** To keep green veg vibrant, boil in salty water until tender, then plunge immediately into ice water to set the chlorophyll.
 20. **Reduction Concentrates Flavor:** If a sauce is weak, simmer it down. Evaporation removes water, leaving flavor behind.
 
 ## II. The Science of Food (Alton Brown / America's Test Kitchen / Kenji)
-
-_Physics, Chemistry, and Biology in the kitchen._
+*Physics, Chemistry, and Biology in the kitchen.*
 
 21. **Salting Water:** Pasta water should taste like the ocean. It penetrates the starch.
 22. **The Reverse Sear:** For thick steaks, bake low (225°F) until internal temp is 115°F, then sear high. This eliminates the "gray band."
@@ -48,8 +46,7 @@ _Physics, Chemistry, and Biology in the kitchen._
 35. **Alcohol Solvency:** Vodka in pie crust prevents gluten formation (flaky). Wine in sauce dissolves flavor compounds water can't reach.
 
 ## III. The Competitive Edge (Top Chef / Iron Chef Insights)
-
-_Creativity, Adaptation, and "Pushing the Envelope"._
+*Creativity, Adaptation, and "Pushing the Envelope".*
 
 36. **Texture Contrast:** Every soft dish (risotto, soup) needs a crunch (tuile, crouton, seed). Every crunchy dish needs a sauce.
 37. **The "Hero" Ingredient:** If you feature an ingredient (e.g., Corn), showcase it in 3 ways (Roasted, Pureed, Pickled) on the plate.
@@ -70,23 +67,20 @@ _Creativity, Adaptation, and "Pushing the Envelope"._
 ## IV. Global Heritage & Flavor Pillars
 
 ### Jewish Tradition (Ashkenazi & Sephardic)
-
 51. **Schmaltz is King:** Chicken fat (schmaltz) provides a depth that butter cannot. Use it for matzo balls and frying onions.
 52. **Low & Slow (Cholent Logic):** Brisket requires hours to break down connective tissue. Do not rush it.
 53. **The Sephardic Acid:** Unlike the heavy Ashkenazi profiles, Sephardic food uses lemon, pomegranate molasses, and tamarind. Integrate these to lighten heavy stews.
 54. **Preservation:** Pickling and curing (Pastrami, Lox) are core skills.
 
 ### Cantonese & Dim Sum (The "Bouncy" Texture)
-
 55. **The Shrimp Snap:** Shrimp for Har Gow must be washed in cold water/alkaline solution to achieve that signature "snap" or "crunch."
 56. **Wonton Broth:** Authentic broth uses dried flounder powder and shrimp roe, not just chicken.
 57. **Boston-Chinese Style:** This is its own cuisine. "Peking Ravioli" implies a thick, chewy dough (almost bagel-like) compared to delicate potstickers. The sauce is heavy on ginger/vinegar/molasses.
 58. **Lobster Sauce:** Uses fermented black beans (douchi) and ground pork. The "Dark" Boston style uses molasses/soy.
 
 ### Boston-Italian (North End Style)
-
 59. **Fresh Pasta Texture:** Fusilli should be dense and chewy, not airy. Semolina flour is key.
-60. **Cannoli Crisp:** The shell must be fried in lard (traditionally) or high-quality oil and filled _immediately_ before serving to prevent sogginess. Ricotta must be strained dry (Impastata).
+60. **Cannoli Crisp:** The shell must be fried in lard (traditionally) or high-quality oil and filled *immediately* before serving to prevent sogginess. Ricotta must be strained dry (Impastata).
 61. **Square Pizza (Sicilian):** It's about the ferment. The dough needs to rise in the oily pan to create a fried bottom crust.
 
 ### Spanish (The Art of Rice & Oil)
@@ -137,10 +131,37 @@ _Creativity, Adaptation, and "Pushing the Envelope"._
 84. **Browning Sugar:** Burning sugar in oil until black creates the base color and flavor for Stew Chicken/Oxtail.
 85. **Scotch Bonnet:** It's not just heat; it's fruitiness. Use whole for flavor, slice for fire.
 
+### Middle Eastern & Persian (The Herb & Vegetable Masters)
+86. **The Tahini Swirl:** Tahini isn't just a dip; it's a rich, nutty fat source to finish roasted vegetables or drizzle over meats.
+87. **Dried Lime (Loomi):** Use this unique, musky acid in stews to provide a depth that lemon juice cannot.
+88. **Herbs as Vegetables:** Use cups of parsley, dill, and cilantro, not just sprigs. They are a main component of the salad (Tabbouleh logic).
+89. **Yogurt Savory Base:** Warm or room-temp yogurt/labneh is a sauce foundation, not just a breakfast item.
+
+### Indian (Beyond Curry - The Art of Spice)
+90. **Tarka (Tempering):** Fry spices in hot oil/ghee at the *end* of cooking and pour it over the dish (Dal) for an aromatic explosion.
+91. **Ginger-Garlic Paste:** Cook this base until the "raw smell" disappears (it turns golden). If it smells raw, the dish isn't ready.
+92. **Deep Onion Browning:** Unlike French "translucent," Indian gravies often require onions fried to dark brown to create body and sweetness.
+
+### Nordic / New Scandinavian (Acid & Foraged Umami)
+93. **Fermentation Juice:** Use sauerkraut juice or pickle brine as a seasoning acid instead of lemon for complex funk.
+94. **Seaweed Umami:** Dulse or Kelp powder boosts savoriness in non-Asian dishes without distinct "fishiness."
+95. **Raw on Cooked:** Serve raw slices of a vegetable on top of the cooked version of the same vegetable for texture contrast.
+
+### Southern USA / Soul Food (History & Iron)
+96. **Pot Likker:** The nutrient-rich broth left from boiling greens. Never toss it; use it as a stock or dip.
+97. **Lard for Flakiness:** Butter flavor is great, but Lard creates the superior flake structure in biscuits and crusts.
+98. **Cast Iron Seasoning:** The pan is an ingredient. It adds iron and non-stick properties. Respect the patina.
+
+### Chinese (Sichuan - The Numbing Heat)
+99. **Ma La:** The balance of Numbing (Sichuan Peppercorn) and Hot (Chili). It's a physiological sensation, not just a flavor.
+100. **Water Boiling Meat:** Poaching meat in spicy oil-broth keeps it incredibly tender (Shui Zhu Niu Rou), preserving moisture better than frying.
+
+### Farm-to-Table (The Alice Waters Philosophy)
+101. **The Ripe Peach:** If an ingredient is perfect, do almost nothing to it. Don't over-process peak-season produce.
+102. **Seasonality:** Don't cook asparagus in December. It will never taste good. Cook what is growing *now*.
+
 ## V. The Master Chef's Checklist (The "Refinement Loop")
-
-_Before finalizing any recipe, ask:_
-
+*Before finalizing any recipe, ask:*
 1.  **Is the technique sound?** (No boiling meat, proper searing).
 2.  **Is the texture interesting?** (Crunch added to soft).
 3.  **Is the flavor balanced?** (Acid hit at the end).
