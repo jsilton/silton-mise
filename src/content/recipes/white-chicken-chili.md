@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" white chili is **Textural Balance** through **The Hominy Method**. By using hominy instead of just corn, we introduce a chewy, nixtamalized Crunch that contrasts the soft white beans and shredded chicken. We maintain **Culinary Technique** through **The Late-Cream Bind**: adding the sour cream only at the very end of the 8-hour slow-cook ensures the sauce remains thick and velvety  without breaking. The green chilies provide the mandatory **Acid Balance**.
+The secret to a "Kitchen Standard" white chili is **Textural Balance** through **The Hominy Method**. By using hominy instead of just corn, we introduce a chewy, nixtamalized Crunch that contrasts the soft white beans and shredded chicken. We maintain **Culinary Technique** through **The Late-Cream Bind**: adding the sour cream only at the very end of the 8-hour slow-cook ensures the sauce remains thick and velvety without breaking. The green chilies provide the mandatory **Acid Balance**.
 
 ## Directions
 

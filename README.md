@@ -9,6 +9,7 @@ Mise is a high-performance, static recipe repository and site built with [Astro]
 ## The Kitchen Standard
 
 Every recipe in this collection adheres to the Kitchen Standard:
+
 - **Versatility:** Common bases (sauces, stocks, rubs) are separated for reuse.
 - **Textural Balance:** Technical methods like the "Bone-Dry Standard" or "Staged Roasting" are applied to ensure perfect mouthfeel.
 - **Modern Interpretation:** Traditional family recipes are updated with modern culinary science (e.g., Beurre Noisette, 137°F Pork Standard) while honoring their roots.
@@ -68,6 +69,7 @@ Every file **must** include a `## Chef's Note` explaining the technical techniqu
 
 ```markdown
 ## Chef's Note
+
 The key to this dish is **Culinary Technique** through **The [Method Name]**.
 
 ## Directions
@@ -76,6 +78,7 @@ The key to this dish is **Culinary Technique** through **The [Method Name]**.
 2. **The Sear:** Step details...
 
 ## Serving Suggestions
+
 - [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 ```
 

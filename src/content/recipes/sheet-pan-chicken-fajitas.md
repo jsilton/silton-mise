@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 30-minute quick fuel. The secret to Success is **The High-Heat Char Method**: we roast the entire pan at 375°F but finish with a **3-minute broil**. This ensures the chicken stays moist  while the peppers develop those charred, blackened edges (the crunch) usually only found on a cast-iron sizzle platter. The fresh lime juice added _after_ baking is the mandatory **Acid Balance** that keeps the seasoning from feeling flat.
+This is the baseline for 30-minute quick fuel. The secret to Success is **The High-Heat Char Method**: we roast the entire pan at 375°F but finish with a **3-minute broil**. This ensures the chicken stays moist while the peppers develop those charred, blackened edges (the crunch) usually only found on a cast-iron sizzle platter. The fresh lime juice added _after_ baking is the mandatory **Acid Balance** that keeps the seasoning from feeling flat.
 
 ## Directions
 

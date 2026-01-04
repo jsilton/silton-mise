@@ -53,7 +53,10 @@ const VIBE_RULES = [
     type: 'holiday',
     match: ['thanksgiving', 'turkey', 'stuffing', 'cranberry', 'rosh hashanah', 'brisket'],
   },
-  { type: 'technical', match: ['lasagna', 'risotto', 'paella', 'dumpling', 'pie', 'cake', 'wonton'] },
+  {
+    type: 'technical',
+    match: ['lasagna', 'risotto', 'paella', 'dumpling', 'pie', 'cake', 'wonton'],
+  },
   {
     type: 'comfort',
     match: [

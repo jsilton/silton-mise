@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed technical dish dessert that relies on **Culinary Technique**. The secret to the Kitchen Standard is **The Cobbler-Biscuit Hybrid Method**: we cook the berries in an ovenproof skillet until they form a thick, jammy syrup, then drop cold-butter biscuits directly onto the fruit. As it bakes, the bottom of the biscuits steam in the berry juice  while the tops develop a shatteringly crisp Crunch under the broiler. The orange zest provides the mandatory **Acid Balance**.
+This is a high-speed technical dish dessert that relies on **Culinary Technique**. The secret to the Kitchen Standard is **The Cobbler-Biscuit Hybrid Method**: we cook the berries in an ovenproof skillet until they form a thick, jammy syrup, then drop cold-butter biscuits directly onto the fruit. As it bakes, the bottom of the biscuits steam in the berry juice while the tops develop a shatteringly crisp Crunch under the broiler. The orange zest provides the mandatory **Acid Balance**.
 
 ## Directions
 
