@@ -1,0 +1,111 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const recipes = await getCollection('recipes');
+recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<Layout title="Silton Mise | Recipe Codex">
+    <div class="flex flex-col md:flex-row justify-between items-end mb-8 gap-4">
+        <div>
+            <h1 class="text-3xl font-bold text-slate-900">The Codex</h1>
+            <p class="text-slate-500 mt-1">Exploring {recipes.length} family recipes.</p>
+        </div>
+        
+        <div class="w-full md:w-96 relative">
+            <input 
+                type="text" 
+                id="searchInput" 
+                placeholder="Search by name or ingredient..." 
+                class="w-full pl-10 pr-4 py-2 bg-white border border-slate-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-shadow"
+            />
+            <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
+                <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recipe Grid -->
+    <div id="recipeGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        {recipes.map((recipe) => (
+            <a href={`/recipes/${recipe.slug}`} class="recipe-card group bg-white rounded-lg border border-slate-200 hover:border-indigo-300 hover:shadow-md hover:shadow-indigo-500/10 transition-all duration-200 overflow-hidden flex flex-col h-full">
+                <div class="p-4 flex flex-col h-full">
+                    <h2 class="text-base font-semibold text-slate-800 group-hover:text-indigo-600 line-clamp-2 mb-2 leading-tight">
+                        {recipe.data.title}
+                    </h2>
+                    
+                    <div class="mt-auto pt-3 border-t border-slate-50 flex items-center justify-between text-[11px] text-slate-400">
+                        <div class="flex items-center gap-2">
+                            {recipe.data.prepTime && (
+                                <span>{recipe.data.prepTime}</span>
+                            )}
+                             {recipe.data.cookTime && (
+                                <span class="flex items-center gap-1 before:content-['•'] before:mr-1">
+                                    {recipe.data.cookTime} cook
+                                </span>
+                            )}
+                        </div>
+                    </div>
+                </div>
+                <!-- Hidden data for search -->
+                <div class="hidden search-data">
+                    {recipe.data.title.toLowerCase()} {recipe.data.ingredients?.join(' ').toLowerCase()}
+                </div>
+            </a>
+        ))}
+    </div>
+
+    <div id="noResults" class="hidden text-center py-20">
+        <div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-slate-100 mb-4">
+            <svg class="w-8 h-8 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+        </div>
+        <h3 class="text-lg font-medium text-slate-900">No recipes found</h3>
+        <p class="text-slate-500 mt-1">Try adjusting your search terms.</p>
+        <button id="clearSearch" class="mt-4 text-sm font-medium text-indigo-600 hover:text-indigo-800 hover:underline">Clear search</button>
+    </div>
+</Layout>
+
+<script>
+    const searchInput = document.getElementById('searchInput');
+    const recipeCards = document.querySelectorAll('.recipe-card');
+    const noResults = document.getElementById('noResults');
+    const clearSearchBtn = document.getElementById('clearSearch');
+
+    function filterRecipes(query) {
+        let hasResults = false;
+        const lowerQuery = query.toLowerCase();
+
+        recipeCards.forEach(card => {
+            const data = card.querySelector('.search-data').textContent;
+            if (data.includes(lowerQuery)) {
+                card.style.display = 'flex'; 
+                hasResults = true;
+            } else {
+                card.style.display = 'none';
+            }
+        });
+
+        if (noResults) {
+             noResults.style.display = hasResults ? 'none' : 'block';
+        }
+    }
+
+    if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            filterRecipes(e.target.value);
+        });
+    }
+    
+    if (clearSearchBtn && searchInput) {
+        clearSearchBtn.addEventListener('click', () => {
+            searchInput.value = '';
+            filterRecipes('');
+            searchInput.focus();
+        });
+    }
+</script>

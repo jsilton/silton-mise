@@ -1,0 +1,20 @@
+{
+  "name": "silton-mise",
+  "version": "1.0.0",
+  "description": "The version-controlled culinary standard for the Silton kitchen.",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/tailwind": "^6.0.0",
+    "astro": "^5.1.4",
+    "cheerio": "^1.0.0",
+    "gray-matter": "^4.0.3",
+    "slugify": "^1.6.6",
+    "tailwindcss": "^3.4.17"
+  }
+}

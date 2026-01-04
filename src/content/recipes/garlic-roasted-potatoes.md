@@ -1,0 +1,21 @@
+---
+title: Garlic Roasted Potatoes
+prepTime: 10 min
+cookTime: 60 min
+servings: 'Yield: : 8 servings'
+ingredients:
+  - 3 pounds small red or white potatoes
+  - 1/4 cup good olive oil
+  - 1 1/2 teaspoons kosher salt
+  - 1 teaspoon freshly ground black pepper
+  - 2 tablespoons minced garlic (6 cloves)
+  - 2 tablespoons minced fresh parsley
+totalTime: 70 min
+---
+
+## Directions
+
+1. Preheat the oven to 400 degrees F.
+2. Cut the potatoes in half or quarters and place in a bowl with the olive oil, salt, pepper, and garlic; toss until the potatoes are well coated. Transfer the potatoes to a sheet pan and spread out into 1 layer. Roast in the oven for 45 minutes to 1 hour or until browned and crisp. Flip twice with a spatula during cooking in order to ensure even browning.
+3. Remove the potatoes from the oven, toss with parsley, season to taste, and serve hot.
+

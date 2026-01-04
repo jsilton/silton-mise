@@ -1,0 +1,32 @@
+---
+title: 'Ratatouille'
+ingredients:
+  - '2 pounds ripe red tomatoes (6 medium or 4 large)'
+  - '1 medium eggplant (1 pound), diced into ½-inch cubes'
+  - '1 large red, orange, or yellow bell pepper (about 8 ounces), cut into ¾-inch squares'
+  - '1 medium-to-large zucchini (about 8 ounces), diced into ½-inch cubes'
+  - '1 large yellow squash (about 8 ounces), diced into ½-inch cubes'
+  - '5 tablespoons + 1 teaspoon extra-virgin olive oil, divided'
+  - '¾ teaspoon fine sea salt, divided, more to taste'
+  - '1 medium yellow onion, chopped'
+  - '4 cloves garlic, pressed or minced'
+  - '¼ cup chopped fresh basil'
+  - '¼ teaspoon red pepper flakes, more or less to taste'
+  - '¼ teaspoon dried oregano'
+  - 'Freshly ground black pepper, to taste'
+---
+
+## Directions
+
+1. Preheat the oven to 425 degrees Fahrenheit with one rack in the middle of the oven and one in the upper third of the oven. Line two large, rimmed baking sheets with parchment paper for easy clean-up, if desired.
+2. To prepare your tomatoes, remove any woody cores with a paring knife. Then, grate them on the large holes of a box grater into a bowl (this is easiest if you hold the tomato at a diagonal), and chop any remaining tomato skin. Or, blitz the tomatoes in a food processor until they are broken into a frothy pulp. Set aside.
+3. On one baking sheet, toss the diced eggplant with 2 tablespoons of the olive oil until lightly coated. Arrange the eggplant in a single layer across the pan, sprinkle with ¼ teaspoon of the salt, and set aside.
+4. On the other baking sheet, toss the bell pepper, zucchini and yellow squash with 1 tablespoon of olive oil and ¼ teaspoon salt. Arrange the vegetables in a single layer. Place the eggplant pan on the middle rack and the other vegetables on the top rack. Set the timer for 15 minutes.
+5. Meanwhile, warm 2 tablespoons of the olive oil in a large Dutch oven or soup pot over medium heat. Add the onion and ¼ teaspoon salt. Cook, stirring occasionally, until the onion is tender and caramelizing on the edges, about 8 to 10 minutes.
+6. Add the garlic, stir, and cook until fragrant, about 30 seconds. Add the tomatoes, and use a wooden spoon or sturdy silicone spatula to stir any browned bits stuck to the bottom of the pan into the mixture. Reduce the heat to medium-low, or as necessary to maintain a gentle simmer.
+7. Once 15 minutes are up, remove both pans from the oven, stir, and redistribute the contents of each evenly across the pans. This time, place the eggplant on the top rack and other vegetables on the middle rack.
+8. Bake until the eggplant is nice and golden on the edges, about 10 more minutes (the eggplant will be done sooner than the rest). Remove the eggplant from the oven, and carefully stir the eggplant into the simmering tomato sauce.
+9. Let the squash and bell pepper pan continue to bake until the peppers are caramelized, about 5 to 10 more minutes. Then, transfer the contents of the pan into the simmering sauce. Continue simmering for 5 more minutes to give the flavors time to meld.
+10. Remove the pot from the heat. Stir in 1 teaspoon olive oil, the fresh basil and red pepper flakes. Crumble the dried oregano between your fingers as you drop it into the pot. Season to taste with additional salt (I usually add ¼ teaspoon more) and black pepper.
+11. Serve in bowls, perhaps with a little drizzle of olive oil, additional chopped basil, or black pepper on top (all optional). Like all stews, this ratatouille’s flavor improves as it cools. It’s even better reheated the next day. Ratatouille keeps well in the refrigerator, covered, for 4 days, or for several months in the freezer.
+

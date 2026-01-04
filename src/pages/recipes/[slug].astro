@@ -1,0 +1,96 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const recipes = await getCollection('recipes');
+  return recipes.map(recipe => ({
+    params: { slug: recipe.slug },
+    props: { recipe },
+  }));
+}
+
+const { recipe } = Astro.props;
+const { Content } = await recipe.render();
+---
+
+<Layout title={`${recipe.data.title} | Silton Mise`}>
+    <!-- Breadcrumbs -->
+    <nav class="flex mb-6 text-sm text-slate-500" aria-label="Breadcrumb">
+        <ol class="inline-flex items-center space-x-1 md:space-x-3">
+            <li class="inline-flex items-center">
+                <a href="/" class="inline-flex items-center hover:text-indigo-600 transition-colors">
+                    Codex
+                </a>
+            </li>
+            <li>
+                <div class="flex items-center">
+                    <svg class="w-3 h-3 text-slate-400 mx-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4"/>
+                    </svg>
+                    <span class="ml-1 font-medium text-slate-900 truncate max-w-[200px] sm:max-w-none">{recipe.data.title}</span>
+                </div>
+            </li>
+        </ol>
+    </nav>
+
+    <article class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+        <!-- Header -->
+        <div class="bg-slate-50/50 border-b border-slate-100 p-6 sm:p-10">
+            <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-6 tracking-tight leading-tight">{recipe.data.title}</h1>
+            
+            <div class="flex flex-wrap gap-6 text-sm text-slate-600">
+                {recipe.data.prepTime && (
+                    <div class="flex flex-col">
+                        <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">Prep Time</span>
+                        <span class="font-medium">{recipe.data.prepTime}</span>
+                    </div>
+                )}
+                {recipe.data.cookTime && (
+                    <div class="flex flex-col">
+                        <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">Cook Time</span>
+                        <span class="font-medium">{recipe.data.cookTime}</span>
+                    </div>
+                )}
+                {recipe.data.totalTime && (
+                    <div class="flex flex-col">
+                        <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">Total Time</span>
+                        <span class="font-medium">{recipe.data.totalTime}</span>
+                    </div>
+                )}
+                {recipe.data.servings && (
+                    <div class="flex flex-col">
+                        <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">Servings</span>
+                        <span class="font-medium">{recipe.data.servings}</span>
+                    </div>
+                )}
+            </div>
+        </div>
+
+        <div class="p-6 sm:p-10 grid md:grid-cols-[1fr_1.5fr] gap-12">
+            <!-- Ingredients Column -->
+            <div>
+                <h3 class="text-lg font-bold text-slate-900 mb-4 flex items-center border-b border-slate-100 pb-2">
+                    Ingredients
+                </h3>
+                {recipe.data.ingredients && recipe.data.ingredients.length > 0 ? (
+                    <ul class="space-y-3">
+                        {recipe.data.ingredients.map(ingredient => (
+                            <li class="flex items-start group">
+                                <input type="checkbox" class="mt-1 mr-3 h-4 w-4 rounded border-slate-300 text-indigo-600 focus:ring-indigo-500 cursor-pointer shrink-0" />
+                                <span class="text-slate-700 leading-relaxed group-hover:text-slate-900 transition-colors">{ingredient}</span>
+                            </li>
+                        ))}
+                    </ul>
+                ) : (
+                    <p class="text-slate-400 italic text-sm">No ingredients listed.</p>
+                )}
+            </div>
+
+            <!-- Content Column (Description, Directions, Notes, Nutrition) -->
+            <div class="prose prose-slate prose-headings:font-bold prose-headings:text-slate-900 prose-p:text-slate-700 prose-li:text-slate-700 marker:text-slate-400 prose-a:text-indigo-600 hover:prose-a:text-indigo-500 max-w-none">
+                <Content />
+            </div>
+        </div>
+    </article>
+</Layout>

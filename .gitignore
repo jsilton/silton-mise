@@ -1,9 +1,11 @@
-# gemini-cli settings
-.gemini/
+# Node
+node_modules/
+dist/
+.astro/
 
-# GitHub App credentials
-gha-creds-*.json
-
-# macOS generated files
+# macOS
 .DS_Store
 
+# Gemini
+.gemini/
+gha-creds-*.json
