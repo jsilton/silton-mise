@@ -17,6 +17,8 @@ This document defines the operational mandates and best practices for working on
 ## 3. Code Quality & Formatting
 
 - **Automated Formatting:** Run `npm run format` to automatically format code using Prettier before committing.
+- **Recipe Maintenance Scripts:** Use `npm run validate`, `npm run refine`, and `npm run cleanup` to run automated recipe checks and repairs locally.
+- **CI Automation:** A GitHub Action runs the maintenance scripts on a schedule and on pushes/PRs. If the scripts make changes, the workflow will either open an automated bot PR with the suggested fixes (for push/scheduled runs) or _fail the PR check_ (for pull requests) so maintainers can review and update the branch.
 - **No Placeholders:** Never leave "TODO", "lorem ipsum", or stubbed logic in committed code.
 - **Dependency Awareness:** Check `package.json` before installing new packages to avoid redundancy.
 
