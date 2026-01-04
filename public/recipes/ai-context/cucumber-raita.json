@@ -158,6 +158,11 @@
   "methods": [],
   "kbSuggestions": [
     {
+      "ruleId": "architecture-and-practices",
+      "title": "Development Standards & Architecture",
+      "severity": "high"
+    },
+    {
       "ruleId": "kb.low-temp-poultry",
       "title": "Poultry low-temperature safety note",
       "severity": "warn",

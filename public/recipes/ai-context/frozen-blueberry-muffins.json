@@ -222,6 +222,11 @@
   ],
   "kbSuggestions": [
     {
+      "ruleId": "architecture-and-practices",
+      "title": "Development Standards & Architecture",
+      "severity": "high"
+    },
+    {
       "ruleId": "kb.plating-suggestion",
       "title": "Plating: add color or height when absent",
       "severity": "hint",

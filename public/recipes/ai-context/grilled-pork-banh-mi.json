@@ -200,6 +200,11 @@
   ],
   "kbSuggestions": [
     {
+      "ruleId": "architecture-and-practices",
+      "title": "Development Standards & Architecture",
+      "severity": "high"
+    },
+    {
       "ruleId": "kb.missing-resting",
       "title": "Recommend resting meat after high-heat cooking",
       "severity": "hint",

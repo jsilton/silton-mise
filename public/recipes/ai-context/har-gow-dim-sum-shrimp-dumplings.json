@@ -251,6 +251,11 @@
   ],
   "kbSuggestions": [
     {
+      "ruleId": "architecture-and-practices",
+      "title": "Development Standards & Architecture",
+      "severity": "high"
+    },
+    {
       "ruleId": "kb.missing-salt",
       "title": "Recommend tasting and seasoning",
       "severity": "hint",

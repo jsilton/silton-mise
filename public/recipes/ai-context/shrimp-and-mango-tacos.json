@@ -220,6 +220,11 @@
   ],
   "kbSuggestions": [
     {
+      "ruleId": "architecture-and-practices",
+      "title": "Development Standards & Architecture",
+      "severity": "high"
+    },
+    {
       "ruleId": "kb.maillard-note",
       "title": "Maillard note: dry surface for browning",
       "severity": "hint",

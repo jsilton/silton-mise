@@ -203,6 +203,12 @@
     "treat"
   ],
   "methods": [],
-  "kbSuggestions": [],
+  "kbSuggestions": [
+    {
+      "ruleId": "architecture-and-practices",
+      "title": "Development Standards & Architecture",
+      "severity": "high"
+    }
+  ],
   "notes": "Generated AI context: use this to provide reviewed, human-verified suggestions. Do not auto-apply changes without human approval."
 }
