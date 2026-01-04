@@ -1,37 +1,40 @@
 ---
-title: Flourless Chocolate Cake | King Arthur Baking
-ingredients:
-  - 3/4 cup (149g) granulated sugar
-  - 1/4 teaspoon salt
-  - '1 to 2 teaspoons espresso powder, optional'
-  - '1 teaspoon vanilla extract, optional'
+title: Flourless Chocolate Cake (The Passover Standard)
 role: dessert
 vibe: project
-servings: Unknown
+prepTime: 20 min
+cookTime: 25 min
+totalTime: 45 min
+servings: '10'
+ingredients:
+  - '1 cup Semisweet or Bittersweet Chocolate Chips'
+  - '1/2 cup (1 stick) Unsalted Butter'
+  - '3/4 cup Granulated Sugar'
+  - '1/2 cup Cocoa Powder, sifted'
+  - '3 large Eggs'
+  - '--- The Flavor Engine ---'
+  - '2 tsp Espresso Powder (The "Deep Note")'
+  - '1 tsp Pure Vanilla Extract'
+  - '1/4 tsp Sea Salt'
+  - '--- The Glossy Ganache ---'
+  - '1 cup Semisweet Chocolate Chips'
+  - '1/2 cup Heavy Cream'
 ---
+
+## Chef's Note
+This is the "Gold Standard" for Passover and gluten-free celebrations. The secret to its elite texture is **Structural Science** through **The Ganache Emulsion Pattern**. By melting high-quality chocolate directly into hot cream off the heat, we create a mirror-shiny glaze that provides a necessary creamy "Snap" to contrast the dense, fudgy cake. We use **Espresso Powder** as the "Deep Note"—it doesn't make the cake taste like coffee; instead, it amplifies the natural fruitiness of the cocoa.
 
 ## Directions
 
-1. Preheat the oven to 375°F.
-2. Put 1 cup (170g) semisweet or bittersweet chocolate chips and 8 tablespoons (113g) unsalted butter in a microwave-safe bowl, and heat until the butter is melted and the chips are soft. Stir until the chips melt, reheating briefly if necessary. You can also do this over a burner set at very low heat. Transfer the melted chocolate/butter to a mixing bowl.
-3. Espresso enhances chocolate's flavor much as vanilla does; using 1 teaspoon will simply enhance the flavor, while 2 teaspoons will lend a hint of mocha to the cake.
-4. Add 3 large eggs, beating briefly until smooth. Finally, add 1/2 cup (43g) cocoa powder, and mix just to combine.
-5. Grease an 8” round cake pan, and line it with parchment. Cut it to size by laying the pan atop the parchment, drawing a circle around it with a marking pen, then cutting it out. Lay the parchment in the pan, and grease the parchment.
-6. Spoon the batter into the prepared pan.
-7. Bake the cake for 25 minutes; the top will form a thin crust, and it'll puff up nicely.
-8. Remove the cake from the oven; it should register at least 200°F on an instant-read thermometer inserted into its center.
-9. This cake is actually a bit over-baked; I should have lowered the temperature a couple of minutes, because I was using a darker (dark gray) pan.
-10. A toothpick inserted into the center of the cake should come out with moist crumbs clinging to it; again, this is slightly over-baked, as evidenced by the paucity of crumbs.
-11. Cool the cake in the pan for 5 minutes, then loosen the edges with a table knife or nylon spreader, and turn it out onto a serving plate. The top will now be on the bottom; that's fine. Also, the edges may crumble a bit, which is also fine.
-12. Allow the cake to cool completely before glazing. When ready to glaze, slip strips of parchment under the edges of the cake, to catch any drips.
-13. To make the icing/ganache, heat 1 cup (170g) semisweet or bittersweet chocolate chips and 1/2 cup (113g) heavy cream together until the cream is steaming. Remove from the heat, and stir until the mixture comes together.
-14. Keep stirring; don't give up. All of a sudden, you'll have beautifully smooth, creamy chocolate icing, a.k.a. chocolate ganache.
-15. Immediately pour the ganache over the cake.
-16. Isn't that beautiful?
-17. Spread the ganache to the edges of the cake, encouraging it to drip down the sides. It doesn't need much encouragement once you push it to the edge.
-18. Once the ganache sets, gently pull away the strips of parchment; you'll be happy at how neat and clean your plate looks.
-19. For cleanest slicing, use a sharp knife dipped in hot water and wiped dry. Repeat dipping knife in hot water and wiping dry for each slice.
-20. Serve with whipped cream or ice cream; or just as it is, in all its chocolate-y splendor.
-21. If you're celebrating Passover, I hope you enjoy a lovely family celebration. If not – well, go ahead and enjoy this cake anyway!
-22. Read, bake, and review (please) our recipe for Flourless Chocolate Cake.
-23. For more chocolate-filled indulgences, check out our collection of Best Chocolate Recipes.
+1.  **The Base:** Preheat oven to 375°F. In a microwave-safe bowl, melt 1 cup chocolate chips and the butter in 30-second bursts until smooth.
+2.  **Flavor:** Whisk in the espresso powder, vanilla, and salt. Add the eggs **one at a time**, beating briefly until the batter is glossy.
+3.  **Incorporate:** Sift in the cocoa powder and sugar. Fold gently until **just combined**.
+4.  **Bake:** Grease an 8-inch round pan and line with parchment. Pour in the batter. Bake for 25 minutes until the top forms a thin, crackly crust and the internal temp is 200°F.
+5.  **Cool:** Let cool in the pan for 5 minutes, then invert onto a serving plate. Allow to cool completely before glazing.
+6.  **The Glaze:** Heat 1/2 cup heavy cream until steaming. Pour over 1 cup chocolate chips. Let sit for 5 minutes, then whisk until mirror-glossy. 
+7.  **Finish:** Pour the ganache over the center of the cake, encouraging it to drip down the sides for **Texture Integrity**.
+
+## Serving Suggestions
+-   [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+-   Fresh Raspberries
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

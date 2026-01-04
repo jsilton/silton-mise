@@ -1,23 +1,32 @@
 ---
 title: Favorite Cream Cheese Frosting
-prepTime: 5 min
-servings: 'Yield: about 3 cups'
-ingredients:
-  - '8 ounces (224g) full-fat block cream cheese, softened to room temperature'
-  - '1/2 cup (115g) unsalted butter, softened to room temperature'
-  - '3 cups (360g) confectioners’ sugar, plus an extra 1/4 cup if needed'
-  - 1 teaspoon pure vanilla extract
-  - 1/8 teaspoon salt
-totalTime: 5 min
-role: main
+role: condiment
 vibe: speed
+prepTime: 5 min
+cookTime: 0 min
+totalTime: 5 min
+servings: '3 cups'
+ingredients:
+  - '8 oz Full-fat Block Cream Cheese, softened'
+  - '1/2 cup (1 stick) Unsalted Butter, softened'
+  - '3 cups Confectioners’ Sugar (plus extra if needed)'
+  - '1 tsp Pure Vanilla Extract'
+  - '1/8 tsp Sea Salt (The High Note)'
 ---
+
+## Chef's Note
+This is our baseline **Modularity** component for all elite cakes. The secret to a "Gold Standard" frosting that isn't runny is **Structural Science** through **The Temperature Pattern**. Both the butter and cream cheese must be **softened to the same temperature** before starting; this ensures they emulsify perfectly into a stable "Bounce." We use the **Paddle Attachment** rather than a whisk to incorporate the sugar; this provides a dense, silky texture without introducing too many air bubbles, which would cause the frosting to "weep" over time.
 
 ## Directions
 
-1. In a large bowl using a handheld or stand mixer fitted with a paddle or whisk attachment, beat the cream cheese and butter together on high speed until smooth and creamy. Add 3 cups confectioners’ sugar, the vanilla, and salt. Beat on low speed for 30 seconds, then switch to high speed and beat for 2 minutes. If you want the frosting a little thicker, add the extra 1/4 cup of confectioners sugar (I add it).
-2. Cover and store leftover frosting for up to 5 days in the refrigerator or up to 3 months in the freezer. After freezing, thaw in the refrigerator then beat the frosting for a few seconds so it’s creamy again.
+1.  **Cream:** In a large bowl using a stand mixer with the paddle attachment, beat the cream cheese and butter on high speed for exactly 2 minutes until perfectly smooth and creamy.
+2.  **Incorporate:** Reduce speed to low. Add 3 cups of confectioners’ sugar, vanilla, and salt. 
+3.  **Aeration:** Once the sugar is mostly mixed in, switch to high speed and beat for 2-3 minutes. The frosting should be light, fluffy, and hold a stiff peak.
+4.  **Adjust:** If you prefer a thicker consistency for piping, add the additional 1/4 cup of sugar.
+5.  **Store:** Use immediately or refrigerate for up to 5 days. If chilled, let sit at room temp for 30 minutes and beat briefly before using to restore the "Bounce."
 
-## Notes
-
-Quantity: This recipe is enough to frost 12-18 cupcakes or one 9×13 quarter sheet cake. 1.5x the recipe for a double layer cake or add extra cream cheese, confectioners’ sugar, and a splash of milk or cream as shown in my carrot cake and red velvet cake recipes. (Doubling the recipe would be far too much.)Chocolate: Here is my chocolate cream cheese frosting recipe.
+## Serving Suggestions
+-   [Breakfast Carrot Cake](/recipes/breakfast-carrot-cake)
+-   [Red Velvet Cupcakes](/recipes/red-velvet-cupcakes)
+-   [Yellow Cake with Chocolate Frosting](/recipes/yellow-cake-with-chocolate-frosting)
+-   [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake)

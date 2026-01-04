@@ -1,36 +1,42 @@
 ---
 title: Fennel and Carrot Soup
-servings: 6 servings
-ingredients:
-  - '6 tablespoons unsalted butter, divided'
-  - '1 large fennel bulb, thinly sliced'
-  - '1 small onion, thinly sliced'
-  - '2 carrots, peeled, chopped'
-  - '1 small Yukon Gold potato, peeled, halved'
-  - 2 sprigs thyme
-  - 1 bay leaf
-  - Kosher salt and freshly ground black pepper
-  - 4 cups low-sodium vegetable broth
-  - ¼ cup coarsely chopped roasted chestnuts from a jar
-  - ¼ cup crème fraîche
-  - 1 tablespoon pure maple syrup
 role: main
 vibe: comfort
+prepTime: 15 min
+cookTime: 70 min
+totalTime: 85 min
+servings: '6'
+ingredients:
+  - '2 lbs Carrots, peeled and chopped'
+  - '1 large Fennel Bulb, thinly sliced'
+  - '1 small Yellow Onion, thinly sliced'
+  - '1 small Yukon Gold Potato, peeled and halved'
+  - '--- The Flavor Engine ---'
+  - '6 tbsp Unsalted Butter (divided)'
+  - '4 cups Low-sodium Vegetable Broth'
+  - '2 sprigs Fresh Thyme'
+  - '1 Fresh Bay Leaf'
+  - '--- The Elite Finish ---'
+  - '1/4 cup Roasted Chestnuts, chopped'
+  - '1/4 cup Crème Fraîche'
+  - '1 tbsp Pure Maple Syrup'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+This soup is a masterclass in **Modern Heritage** flavor development. The secret is the **Low-Slow Moisture Pattern**: we sauté the vegetables in butter for a full 45-60 minutes *before* adding the broth. This ensures they release all their internal moisture and natural sugars, resulting in a depth of flavor that a quick boil can't achieve. We use **The Acid/Sweet Finish**: topping the earthy fennel with a maple-whisked crème fraîche provides the mandatory "High Note" that makes the soup taste like a professional restaurant course.
 
 ## Directions
 
-1. Heat 4 Tbsp. butter in a large heavy pot over medium. Add fennel, onion, carrots, potato, thyme, and bay leaf; season with salt and pepper. Reduce heat to medium-low, cover, and cook, stirring occasionally and reducing heat if needed, until vegetables are soft but not browned and have released their moisture, 45–60 minutes (this will give them deep flavor).
-2. Add broth, bring to a boil, and season with salt and pepper. Reduce heat and simmer until potato is falling apart, 8–10 minutes. Let cool slightly. Remove herbs.
-3. Working in batches, purée in a blender until smooth. Strain into a clean pot; season with salt and pepper.
-4. Heat remaining 2 Tbsp. butter in a small saucepan over medium. Add chestnuts and cook, stirring often, until butter is browned and chestnuts are toasted, about 4 minutes.
-5. Mix crème fraîche and maple syrup in a small bowl. Serve soup topped with maple crème fraîche and chestnuts.
-6. DO AHEAD: Soup can be made 3 days ahead. Cover and chill.
-
-## Nutrition
-
-- Calories (kcal): 218 Fat (g) 15 Saturated Fat (g) 9.5 Cholesterol (mg) 44 Carbohydrates (g) 18 Dietary Fiber (g) 5 Total Sugars (g) 6 Protein (g) 2 Sodium (mg) 135...Read More
+1.  **Sweat:** In a large heavy pot, melt 4 tbsp butter over medium. Add fennel, onion, carrots, and potato. Season with salt and pepper.
+2.  **Low & Slow:** Reduce heat to **medium-low**, cover, and cook for 45-60 minutes. Stir occasionally. The vegetables should be very soft and aromatic but not browned.
+3.  **Simmer:** Add broth, thyme, and bay leaf. Bring to a boil, then reduce heat and simmer for 10 minutes until the potato is falling apart. Remove herbs.
+4.  **The Emulsion:** Working in batches, puree the soup in a blender until perfectly smooth. Strain through a fine-mesh sieve for an even more elite texture.
+5.  **Toast:** Heat the remaining 2 tbsp butter in a small pan. Add chopped chestnuts and cook until the butter is nutty brown and the nuts are fragrant.
+6.  **The Crown:** Whisk the crème fraîche and maple syrup together.
+7.  **Serve:** Ladle soup into bowls. Top with a swirl of maple crème fraîche and the brown-butter chestnuts.
 
 ## Serving Suggestions
-
-Grilled Cheese, Crusty Bread
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   Warm [Anadama Bread](/recipes/anadama-bread)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

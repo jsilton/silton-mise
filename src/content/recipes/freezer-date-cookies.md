@@ -1,26 +1,41 @@
 ---
 title: Freezer Date Cookies
+role: main
+vibe: fuel
 prepTime: 15 min
-cookTime: 15 min
+cookTime: 12 min
 totalTime: 30 min
-servings: 24 cookies
+servings: '24 cookies'
 ingredients:
-  - >-
-    1 cup medjool dates (can use other types of dates if soaked in hot water
-    first), pits removed
-  - '1/2 cup butter, melted'
-  - 1 large egg
-  - 1 tsp vanilla
-  - 1/3 cup buckwheat flour
-  - 2/3 cup white whole wheat flour
-  - 1 cup quick oats
-  - 1/2 tsp baking soda
-  - 1/2 tsp cinnamon
-  - 1/4 cup plain greek yogurt
-role: dessert
-vibe: speed
+  - '1 cup Medjool Dates, pitted'
+  - '1/2 cup Unsalted Butter, melted'
+  - '1 large Egg'
+  - '1/4 cup Plain Greek Yogurt'
+  - '1 tsp Vanilla Extract'
+  - '--- The Ancient Grain Base ---'
+  - '1/3 cup Buckwheat Flour'
+  - '2/3 cup White Whole Wheat Flour'
+  - '1 cup Quick Oats'
+  - '--- The Spices ---'
+  - '1/2 tsp Baking Soda'
+  - '1/2 tsp Ground Cinnamon'
+  - 'Pinch of Sea Salt'
 ---
+
+## Chef's Note
+These are high-speed "Fuel" cookies designed for long-term **Modularity**. The secret to their incredible "Bounce" is **The Food Processor Pattern**: we process the Medjool dates directly with the melted butter to create a smooth, caramel-like paste that acts as the primary sweetener. We use **Buckwheat Flour** to provide a nutty, earthy depth that contrasts with the sweetness of the dates. These are explicitly designed to be kept in the freezer and eaten cold for a "Snappy" energy boost.
 
 ## Directions
 
-1. 1. Preheat oven to 350 degrees F/175 degrees C.2. Put dates and butter in a food processor. Process until smooth.3. Add egg, yogurt and vanilla to the food processor. Mix thoroughly.4. Mix buckwheat flour, white whole wheat flour, oats, baking soda, and cinnamon in a bowl.5. Add liquid ingredients to dry ingredients and mix fully.6. Using your hands, make small balls of dough. Place ongreased cookie sheets and press down on the top.7. Bake 12-15 min - until lightly brown.
+1.  **The Date Paste:** Place the pitted Medjool dates and melted butter in a food processor. Pulse on high until a completely smooth, thick paste forms.
+2.  **The Emulsion:** Add the egg, yogurt, and vanilla to the processor. Pulse for 10 seconds until perfectly integrated.
+3.  **Dry Mix:** In a separate bowl, whisk together buckwheat flour, whole wheat flour, oats, baking soda, and cinnamon.
+4.  **Combine:** Pour the date mixture into the dry ingredients. Mix with a spatula until a thick, sticky dough forms.
+5.  **Shape:** Preheat oven to 350°F. Roll the dough into small balls (about 1 tbsp each). Place on a greased cookie sheet and **press down firmly** with your palm to create a 1/2-inch thick disk.
+6.  **Bake:** Bake for 12-15 minutes until the edges are lightly browned.
+7.  **The Freeze:** Let cool completely. Transfer to a freezer bag. These are at their Gold Standard when eaten straight from the freezer.
+
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Fresh Apple Slices
+-   [Chocolate Chia Pudding](/recipes/chocolate-chia-pudding)

@@ -1,24 +1,38 @@
 ---
 title: Freezer Banana Bread
-prepTime: 15 min
-cookTime: 45 min
-totalTime: 60 min
-servings: 12 1/2 inch slices
-ingredients:
-  - 1 3/4 cups whole-wheat flour
-  - 1 teaspoon baking powder
-  - 1/2teaspoon baking soda
-  - 1 teaspoon cinnamon
-  - '3 medium ripe bananas, mashed'
-  - 1/4 cup 100% Maple Syrup (can sub for honey)
-  - 1 large egg
-  - 1 teaspoon vanilla extract
-  - 1/2 cup plain greek yogurt
-  - 1/3 cup milk of choice
 role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 50 min
+totalTime: 65 min
+servings: '12 slices'
+ingredients:
+  - '3 medium Ripe Bananas, mashed'
+  - '1 3/4 cups Whole-Wheat Flour'
+  - '1/4 cup Maple Syrup'
+  - '1 large Egg'
+  - '1/2 cup Plain Greek Yogurt'
+  - '1/3 cup Milk of choice'
+  - '--- The Spice Base ---'
+  - '1 tsp Ground Cinnamon'
+  - '1 tsp Baking Powder'
+  - '1/2 tsp Baking Soda'
+  - '1 tsp Vanilla Extract'
 ---
+
+## Chef's Note
+This is the Gold Standard for **Modularity**. The secret to a perfect slice every morning is **The Freezer-Slice Pattern**: we use **Greek Yogurt** instead of butter to create a dense, high-moisture "Bounce" that specifically survives the freezing process without becoming crumbly. We use **The Blender Pattern** to pulverize the bananas and wet ingredients into a silky emulsion before folding in the flour—this ensures an even distribution of sweetness and prevents "mushy pockets."
 
 ## Directions
 
-1. 1. Preheat oven to 350 degrees F / 175 degrees C. Spray a loaf pan with nonstick spray.2. Mash bananas in a bowl, then mix in the cinnamon, maple syrup & vanilla 3. Pour mixture into a blender/food processor until smooth. Return to the bowl.4. Add egg, yogurt, & milk and mix until combined5. In a separate bowl, mix together the flour, baking soda & baking powder then add to wet ingredients until fully combined.6. Pour batter into loaf pan and bake for about 50-55minutes, until bread is cooked through. (You can use atoothpick or butter knife to poke through the bread. If itcomes out clean, it’s ready!)7. Let cool for about 15 minutes and slice.
+1.  **The Emulsion:** Preheat oven to 350°F. In a blender, combine bananas, maple syrup, vanilla, cinnamon, egg, yogurt, and milk. Blend on high for 30 seconds until perfectly smooth.
+2.  **Dry Mix:** In a large bowl, whisk together the whole-wheat flour, baking soda, and baking powder.
+3.  **Combine:** Pour the wet ingredients into the dry. Stir with a spatula until **just combined** (do not over-mix, or the whole-wheat will turn tough).
+4.  **Bake:** Pour into a greased loaf pan. Bake for 50-55 minutes until a toothpick inserted into the center comes out clean.
+5.  **Cool:** Let cool in the pan for 15 minutes before slicing.
+6.  **The Freeze:** To store, slice the loaf into 1/2-inch rounds. Place parchment between slices and freeze in a zip-top bag. Reheat individual slices in the toaster for a "Snap" finish.
+
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Fresh Sliced Berries
+-   Salted Butter or Peanut Butter
