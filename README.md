@@ -21,6 +21,7 @@ Every recipe in this collection adheres to the Kitchen Standard:
 - **Agentic Automation:** Integrated with **Gemini AI** for automatic issue triage, recipe refinement, and quality audits.
 - **Self-Healing Pipeline:** The "Kitchen Brigade" CI/CD automatically formats code and validates recipe schema.
 - **Automated Deployment:** Continuous deployment to [jordansilton.com/silton-mise/](https://jordansilton.com/silton-mise/) via GitHub Actions.
+- **Automated Maintenance:** A scheduled workflow runs the recipe maintenance scripts (`validate`, `refine`, `cleanup`) and will either open an automated bot PR with suggested fixes or fail PR checks so maintainers can review and apply changes.
 
 ## Development
 

@@ -71,8 +71,7 @@ jobs:
           echo "$content" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Consult the Executive Chef
-        uses: google-github-actions/run-gemini-cli@v0
+      - name: Consult the Executive Chef        if: ${{ secrets.GEMINI_API_KEY != '' || secrets.GCP_PROJECT_ID != '' }}        uses: google-github-actions/run-gemini-cli@v0
         with:
           gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
           prompt: >
