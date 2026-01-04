@@ -6,6 +6,3 @@ dist/
 # macOS
 .DS_Store
 
-# Gemini
-.gemini/
-gha-creds-*.json

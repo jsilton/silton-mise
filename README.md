@@ -4,7 +4,7 @@ The version-controlled culinary standard for the Master Kitchen.
 
 ## Overview
 
-Mise is a high-performance, static recipe repository and site built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com). It represents a curated collection of family heritage and technical "Kitchen Standard" recipes, professionalized and refined by the **Executive Chef (Gemini AI)**.
+Mise is a high-performance, static recipe repository and site built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com). It represents a curated collection of family heritage and technical "Kitchen Standard" recipes, professionalized and refined.
 
 ## The Kitchen Standard
 
@@ -18,10 +18,8 @@ Every recipe in this collection adheres to the Kitchen Standard:
 ## Technical Features
 
 - **Blazing Fast:** Static site generation for instant page loads.
-- **Agentic Automation:** Integrated with **Gemini AI** for automatic issue triage, recipe refinement, and quality audits.
-- **Self-Healing Pipeline:** The "Kitchen Brigade" CI/CD automatically formats code and validates recipe schema.
+- **Self-Testing:** CI automatically formats code and validates recipe schema.
 - **Automated Deployment:** Continuous deployment to [jordansilton.com/silton-mise/](https://jordansilton.com/silton-mise/) via GitHub Actions.
-- **Automated Maintenance:** A scheduled workflow runs the recipe maintenance scripts (`validate`, `refine`, `cleanup`) and will either open an automated bot PR with suggested fixes or fail PR checks so maintainers can review and apply changes.
 
 ## Development
 
@@ -83,14 +81,4 @@ The key to this dish is **Culinary Technique** through **The [Method Name]**.
 - [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 ```
 
-## AI Governance
 
-This repository utilizes the **Kitchen Brigade** automation suite:
-
-- **Triage:** Automatically labels and classifies new issues.
-- **Invoke:** Can be called via `@gemini-cli` to implement features or fix bugs directly in the repository.
-- **Refine:** Standardizes legacy recipes to the Kitchen Standard using the Codex of Culinary Mastery.
-
----
-
-_Service is Go!_

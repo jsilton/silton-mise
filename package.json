@@ -8,11 +8,7 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "format": "prettier --write .",
-    "validate": "node scripts/validate_recipes.js",
-    "refine": "node scripts/refine_recipes.js",
-    "cleanup": "node scripts/cleanup_recipe_titles.js",
-    "recipes:check": "npm run validate && npm run refine && npm run cleanup"
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.0",
