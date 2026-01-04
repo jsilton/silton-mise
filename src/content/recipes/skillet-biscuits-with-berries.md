@@ -20,18 +20,20 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a high-speed "Project" dessert that relies on **Structural Science**. The secret to the Silton Standard is **The Cobbler-Biscuit Hybrid Pattern**: we cook the berries in an ovenproof skillet until they form a thick, jammy syrup, then drop cold-butter biscuits directly onto the fruit. As it bakes, the bottom of the biscuits steam in the berry juice (The "Bounce") while the tops develop a shatteringly crisp "Snap" under the broiler. The orange zest provides the mandatory **Acid Finish**.
 
 ## Directions
 
 1.  **The Dough:** In a bowl, cut cold butter into flour, sugar, and baking powder until pea-sized. Stir in half-and-half until a shaggy dough forms. Scoop into 8 loose balls.
 2.  **The Reduction:** In a large ovenproof skillet, combine 3/4 cup sugar, berries, orange zest, cinnamon, and 1 cup water. Boil vigorously for 10 minutes until berries are broken down.
-3.  **Assemble:** Arrange the dough mounds on top of the bubbling fruit. 
+3.  **Assemble:** Arrange the dough mounds on top of the bubbling fruit.
 4.  **Cook:** Cover the skillet. Simmer over **very low** heat for 15 minutes until the biscuits are springy and cooked through.
 5.  **The Snap:** Remove lid. Sprinkle biscuits with sugar. Place the entire skillet under the **broiler** for 5 minutes until the tops are charred and crispy.
 6.  **Serve:** Serve warm from the skillet with a massive dollop of whipped cream for the final **High Note**.
 
 ## Serving Suggestions
--   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
--   Fresh Mint sprigs
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- Fresh Mint sprigs
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

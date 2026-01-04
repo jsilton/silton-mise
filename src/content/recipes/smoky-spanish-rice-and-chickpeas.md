@@ -21,7 +21,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is a baseline **Modularity** component inspired by Spanish Paella. The secret to rice that has a distinct, individual "Snap" is **The Sizzle Pattern**: you must fry the dry rice in the onion-garlic oil for 3 minutes *before* adding the liquid. This toasts the starch and ensures a resilient "Bounce." We use **Smoked Paprika** as the mandatory savory **High Note**—it introduces a wood-fired depth that elevates simple canned chickpeas into a high-performance fuel main.
+
+This is a baseline **Modularity** component inspired by Spanish Paella. The secret to rice that has a distinct, individual "Snap" is **The Sizzle Pattern**: you must fry the dry rice in the onion-garlic oil for 3 minutes _before_ adding the liquid. This toasts the starch and ensures a resilient "Bounce." We use **Smoked Paprika** as the mandatory savory **High Note**—it introduces a wood-fired depth that elevates simple canned chickpeas into a high-performance fuel main.
 
 ## Directions
 
@@ -33,6 +34,7 @@ This is a baseline **Modularity** component inspired by Spanish Paella. The secr
 6.  **Finish:** Fluff with a fork. If adding shrimp, nestle them into the rice during the final 5 minutes of simmering. If adding spinach, stir it in during the steam cycle.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
--   Roasted Cherry Tomatoes
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- Roasted Cherry Tomatoes

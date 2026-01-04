@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the "Gold Standard" for technical pork roasting. The secret to Success is **Structural Science** through **The Bacon Anchor Pattern**: we wrap the tenderloins in maple bacon and secure them with twine. The bacon fat renders into the lean pork, providing a self-basting "Bounce." We maintain **Texture Integrity** through **The 1-Hour Marinate**: the mustard acts as an enzyme tenderizer while the rosemary-garlic glue provides a savory "Snap" to the crust. Always pull at 145°F for a perfect blush-pink center.
 
 ## Directions
@@ -32,6 +33,7 @@ This is the "Gold Standard" for technical pork roasting. The secret to Success i
 6.  **Serve:** Remove twine, slice into 1-inch rounds, and garnish with the roasted rosemary.
 
 ## Serving Suggestions
--   [Patate al Forno (The Gold Standard)](/recipes/patate-al-forno)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Patate al Forno (The Gold Standard)](/recipes/patate-al-forno)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

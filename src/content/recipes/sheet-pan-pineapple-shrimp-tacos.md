@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to this 30-minute "Speed" meal is **The Zone-Roast Pattern**. Instead of tossing everything together, we divide the sheet pan into three distinct zones: shrimp, pineapple, and onions. This allows the pineapple sugars to caramelize into a "Snap" without turning the shrimp soggy. We use **Texture Integrity** in the slaw: by slicing the cabbage paper-thin and dressing it only at the moment of serving, we provide a watery, crunchy contrast to the sticky, sweet shrimp. The lime juice provides the mandatory **Acid Finish**.
 
 ## Directions
@@ -35,6 +36,7 @@ The secret to this 30-minute "Speed" meal is **The Zone-Roast Pattern**. Instead
 6.  **Finish:** Top with avocado and sour cream for the final aromatic **High Note**.
 
 ## Serving Suggestions
--   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
--   [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+
+- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+- [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)

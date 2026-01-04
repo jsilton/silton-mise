@@ -19,6 +19,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a masterclass in **Modularity**. The secret to its Success is **The Double-Reduction Pattern**: we cook the chicken in the hoisin-balsamic base, then remove the meat and boil the remaining liquid in a separate saucepan until it becomes a thick, mirror-glossy glaze. This ensures the chicken has a succulent "Bounce" while the sauce provides a deep, savory "Snap." The balsamic vinegar is the mandatory **Acid Finish** that cuts through the fermented sweetness of the hoisin.
 
 ## Directions
@@ -30,6 +31,7 @@ This is a masterclass in **Modularity**. The secret to its Success is **The Doub
 5.  **Serve:** Garnish with scallions and serve immediately over rice or in lettuce wraps.
 
 ## Serving Suggestions
--   [Chicken Lettuce Wraps](/recipes/chicken-lettuce-wraps)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+
+- [Chicken Lettuce Wraps](/recipes/chicken-lettuce-wraps)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)

@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to elite shrimp and grits is **Texture Integrity** through **The Bacon Render Pattern**. We fry the bacon until shatteringly crisp, then use the rendered fat to flash-sear the shrimp. This ensures the seafood has a smoky, savory "Snap" while the grits provide a velvety, creamy "Bounce." We maintain **Structural Science** by using stone-ground grits; they require a 25-minute simmer to fully hydrate, resulting in a complex toothsome quality. The lemon juice provides the mandatory **Acid Finish**.
 
 ## Directions
@@ -36,6 +37,7 @@ The secret to elite shrimp and grits is **Texture Integrity** through **The Baco
 7.  **Finish:** Garnish with extra scallions and a "High Note" crack of black pepper.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
--   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup) (as a starter)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup) (as a starter)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

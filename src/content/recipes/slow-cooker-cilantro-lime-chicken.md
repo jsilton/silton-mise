@@ -23,7 +23,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the ultimate **Modularity** component for tacos and bowls. The secret to its Success is **The Salsa-Acid Pattern**: we slow-cook the chicken in a bath of salsa verde and Rotel; the acidity of the tomatillos acts as a continuous enzyme tenderizer, resulting in a protein that has a succulent "Bounce" rather than a stringy texture. We maintain **Texture Integrity** by adding the fresh lime juice and an extra pulse of cilantro only *after* shredding—this provides the mandatory **High Note** of freshness.
+
+This is the ultimate **Modularity** component for tacos and bowls. The secret to its Success is **The Salsa-Acid Pattern**: we slow-cook the chicken in a bath of salsa verde and Rotel; the acidity of the tomatillos acts as a continuous enzyme tenderizer, resulting in a protein that has a succulent "Bounce" rather than a stringy texture. We maintain **Texture Integrity** by adding the fresh lime juice and an extra pulse of cilantro only _after_ shredding—this provides the mandatory **High Note** of freshness.
 
 ## Directions
 
@@ -34,6 +35,7 @@ This is the ultimate **Modularity** component for tacos and bowls. The secret to
 5.  **Serve:** Serve immediately in charred tortillas or over [Cilantro Lime Rice](/recipes/cilantro-lime-rice).
 
 ## Serving Suggestions
--   [Guacamole (The Silton Standard)](/recipes/guacamole)
--   [Pickled Red Onions](/recipes/pickled-red-onions)
--   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+
+- [Guacamole (The Silton Standard)](/recipes/guacamole)
+- [Pickled Red Onions](/recipes/pickled-red-onions)
+- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)

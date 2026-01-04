@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a masterclass in the **Acid-Salt-Sweet balance**. The secret to the Silton Standard is **The Mango-Lime Emulsion**: we sauté the mango briefly with the shrimp; as the fruit releases its natural sugars, it emulsifies with the lime juice and cumin to create a thick, tropical glaze. We maintain **Texture Integrity** through **The Serrano Snap**: using fresh chilies instead of powder ensures every bite has a bright, watery heat that cuts through the sweet mango "Bounce."
 
 ## Directions
@@ -35,6 +36,7 @@ This is a masterclass in the **Acid-Salt-Sweet balance**. The secret to the Silt
 7.  **Serve:** Serve immediately with a side of [Mexican Red Rice](/recipes/mexican-red-rice).
 
 ## Serving Suggestions
--   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
--   [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
--   [Guacamole (The Silton Standard)](/recipes/guacamole)
+
+- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+- [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
+- [Guacamole (The Silton Standard)](/recipes/guacamole)

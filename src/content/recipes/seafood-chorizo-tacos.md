@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a masterclass in **Texture Integrity**. The secret to the Silton Standard is **The Protein Hierarchy Pattern**: we sear the chorizo first to render its spicy orange fat, then flash-fry the delicate shrimp and squid in that same fat. This ensures the seafood has a smoky "Snap" without overcooking. We use a splash of **Mexican Lager** as the "Deep Note" to deglaze the pan—the maltiness bridges the gap between the spicy pork and the sweet seafood. The lime juice provides the mandatory **Acid Finish**.
 
 ## Directions
@@ -30,10 +31,11 @@ This is a masterclass in **Texture Integrity**. The secret to the Silton Standar
 2.  **Aromatics:** Add the onion, garlic, and cumin. Sauté for 2 minutes until soft.
 3.  **The Snap:** Add the shrimp, squid, and lager to the skillet. Toss vigorously over **moderately high** heat for exactly 3 minutes until the seafood is opaque. **Do not overcook.**
 4.  **Finish:** Stir in the lime juice. Remove from heat. Season with salt and pepper.
-5.  **Assemble:** Warm corn tortillas over an open flame until charred. 
+5.  **Assemble:** Warm corn tortillas over an open flame until charred.
 6.  **Serve:** Fill each tortilla with the seafood-chorizo mix. Top with sliced avocado and cilantro for the final **High Note**.
 
 ## Serving Suggestions
--   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
--   [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+
+- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+- [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)

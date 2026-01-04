@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Restaurant Quality" scallops is **Texture Integrity** through **The Dry Sear Pattern**. You must use "Dry" scallops (no chemical additives) and pat them with paper towels until they are **bone-dry** before they hit the pan. This ensures an immediate, mahogany "Snap" on the surface while the center remains a sweet, buttery "Bounce." We use **The Bacon-Corn Bind**: sautéing the corn in the rendered bacon fat bridges the gap between the smoky pork and the delicate seafood. The lemon provides the mandatory **Acid Finish**.
 
 ## Directions
@@ -33,6 +34,7 @@ The secret to "Restaurant Quality" scallops is **Texture Integrity** through **T
 6.  **Finish:** Squeeze fresh lemon juice over the scallops and garnish with the remaining parsley for the final **High Note**.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

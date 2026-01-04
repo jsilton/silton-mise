@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a vegetarian tortilla soup that has "Main Dish" weight is **Structural Science** through **The Red Lentil Pattern**. As the red lentils slow-cook, they dissolve completely, creating a naturally thick, protein-rich "Bounce" that binds the black beans and corn together. We maintain **Texture Integrity** through **The Late-Cream Bind**: adding a splash of heavy cream (or sour cream) only at the moment of serving provides a rich, fatty "Snap" that balances the tart salsa verde. The lime juice provides the mandatory **Acid Finish**.
 
 ## Directions
@@ -34,6 +35,7 @@ The secret to a vegetarian tortilla soup that has "Main Dish" weight is **Struct
 5.  **Serve:** Ladle into bowls. Pile on the "Texture Stacks": crushed tortilla chips, diced avocado, and fresh cilantro.
 
 ## Serving Suggestions
--   [Guacamole (The Silton Standard)](/recipes/guacamole)
--   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+
+- [Guacamole (The Silton Standard)](/recipes/guacamole)
+- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

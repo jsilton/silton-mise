@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to this "Gold Standard" vegetable puree is **Structural Science** through **The Low-Sweat Pattern**. You must sauté the zucchini and onions in a mix of butter and oil on very low heat; this allows the sugars to develop without any browning, resulting in a vibrant green color and a naturally sweet "Bounce." We maintain **Texture Integrity** by using **The 2-Batch Puree**: blending the soup until perfectly velvety, then finishing with paper-thin julienned raw zucchini for a necessary textural "Snap."
 
 ## Directions
@@ -35,6 +36,7 @@ The secret to this "Gold Standard" vegetable puree is **Structural Science** thr
 6.  **Serve:** Ladle into bowls. Top with the julienned raw zucchini and a drizzle of olive oil for the final **High Note**.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

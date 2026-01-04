@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to perfect Soba is **Texture Integrity** through **The Buckwheat Shock Pattern**. Soba noodles are more delicate than wheat pasta; you must rinse them under cold running water for 1 minute immediately after boiling to remove the surface starch and ensure a clean, "Snappy" bite. We use **The Wok Sear**: flash-frying the tofu and shiitakes on the highest possible heat ensures they develop a charred exterior that provides a smoky "Snap" against the earthy, nutty "Bounce" of the noodles.
 
 ## Directions
@@ -36,6 +37,7 @@ The secret to perfect Soba is **Texture Integrity** through **The Buckwheat Shoc
 7.  **Serve:** Stir in the cilantro and sesame oil. Serve immediately.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
--   [Miso Soup](/recipes/miso-soup)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+- [Miso Soup](/recipes/miso-soup)

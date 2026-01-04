@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate holiday **Project**. The secret to a bird that is succulent rather than dry is **Structural Science** through **The 3-Day Dry Brine Pattern**. You must rub the turkey with salt and lemon zest and refrigerate it uncovered for at least 24 hours; this draws moisture out of the skin (ensuring a glass-like "Snap") while seasoning the meat to the bone. We use **Hard Apple Cider** in the roasting pan as a "Sweet Pulse" that prevents the drippings from burning and infuses the meat with a sophisticated harvest aroma.
 
 ## Directions
@@ -35,6 +36,7 @@ This is the ultimate holiday **Project**. The secret to a bird that is succulent
 7.  **The Set:** Transfer to a board and **let rest for 30 minutes** (mandatory for moisture).
 
 ## Serving Suggestions
--   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
--   [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
--   [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)
+
+- [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+- [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)

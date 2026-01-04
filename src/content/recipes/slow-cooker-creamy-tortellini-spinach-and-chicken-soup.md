@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a slow-cooker soup that isn't thin and watery is **Structural Science** through **The Microwave Roux Pattern**. We "cook" the onions, flour, and tomato paste in the microwave first to create a toasted, thick paste before it hits the pot; this ensures the soup has a rich "Bounce" from the start. We maintain **Texture Integrity** by adding the tortellini and heavy cream only in the final 10 minutes—this ensures the pasta stays "Snappy" and the cream doesn't curdle.
 
 ## Directions
@@ -31,11 +32,12 @@ The secret to a slow-cooker soup that isn't thin and watery is **Structural Scie
 2.  **Combine:** Add the onion paste, broth, tomatoes, and chicken to the slow cooker. Stir to dissolve.
 3.  **Slow Cook:** Cover and cook on **Low for 4-6 hours** (or High for 3) until the chicken is tender.
 4.  **The Pull:** Remove chicken and shred into bite-sized pieces. Return to the pot.
-5.  **The Bind:** Stir in the frozen tortellini, fresh spinach, Parmesan, and **warmed heavy cream**. 
+5.  **The Bind:** Stir in the frozen tortellini, fresh spinach, Parmesan, and **warmed heavy cream**.
 6.  **Finish:** Cover and cook on High for 10 more minutes until the pasta is al dente and the spinach has collapsed.
 7.  **Serve:** Ladle into bowls and top with an extra "High Note" of black pepper.
 
 ## Serving Suggestions
--   [Garlic Bread](/recipes/garlic-bread)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+
+- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)

@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 Summer rolls are a masterclass in **Texture Integrity**. The secret to Success is **The Cold Snap Pattern**: you must cook the shrimp and vermicelli separately and then plunge them into an ice-water bath. This stops the cooking instantly and ensures the shrimp maintain a resilient "Snap" rather than turning mushy. We use **The 30-Second Soak**: dipping the rice paper into warm water for exactly 30 seconds ensures it has the "Bounce" to roll tightly without tearing. The bird chile sauce provide the mandatory savory-sweet **High Note**.
 
 ## Directions
@@ -35,6 +36,7 @@ Summer rolls are a masterclass in **Texture Integrity**. The secret to Success i
 7.  **Serve:** Serve immediately with the dipping sauce.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)
--   [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)
+- [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)

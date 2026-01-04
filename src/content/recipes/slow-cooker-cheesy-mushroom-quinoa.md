@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to slow-cooker quinoa that isn't a soggy porridge is **Structural Science** through **The Absorption Pattern**. We use a strict 1:2 ratio of grain to liquid and cook on "High" for a shorter duration; this ensures each grain of quinoa maintains its "Snap" and distinct curly tail. The addition of **Cream Cheese** at the very end provides the mandatory "Bounce," creating a risotto-like silkiness that standard shredded cheese cannot achieve.
 
 ## Directions
@@ -32,6 +33,7 @@ The secret to slow-cooker quinoa that isn't a soggy porridge is **Structural Sci
 5.  **Finish:** Stir once more. Garnish with fresh green onions for the mandatory **High Note**.
 
 ## Serving Suggestions
--   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   Roasted Cherry Tomatoes
+
+- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Roasted Cherry Tomatoes

@@ -23,7 +23,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the "Gold Standard" for technical comfort food. The secret to its Success is **Texture Integrity** through **The Staged Roast Pattern**: we roast the butternut squash at high heat (400°F) until tender and charred *before* folding it into the cheese sauce. This prevents the squash from dissolving into a mushy puree. We use **The Mornay Emulsion**: whisking Dijon and nutmeg into the roux creates a sophisticated "Bounce" that balances the heavy cheddar. The Panko topping provides the mandatory **Textural Snap**.
+
+This is the "Gold Standard" for technical comfort food. The secret to its Success is **Texture Integrity** through **The Staged Roast Pattern**: we roast the butternut squash at high heat (400°F) until tender and charred _before_ folding it into the cheese sauce. This prevents the squash from dissolving into a mushy puree. We use **The Mornay Emulsion**: whisking Dijon and nutmeg into the roux creates a sophisticated "Bounce" that balances the heavy cheddar. The Panko topping provides the mandatory **Textural Snap**.
 
 ## Directions
 
@@ -36,6 +37,7 @@ This is the "Gold Standard" for technical comfort food. The secret to its Succes
 7.  **Bake:** Bake at 350°F for 30 minutes until bubbling and mahogany gold.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

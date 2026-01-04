@@ -18,6 +18,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a "Gold Standard" sprout salad is **Texture Integrity** through **The Mandoline Pattern**. You must shave the raw sprouts at 1/16th of an inch; this transforms a dense, bitter vegetable into a light, airy pile with a resilient "Bounce." We use **The 15-Minute Set Pattern**: tossing the sprouts in the cider-honey emulsion and letting them rest for 15 minutes allows the acid to soften the fibers, resulting in a sophisticated mouthfeel. The Pecorino provides the mandatory salty **High Note**.
 
 ## Directions
@@ -30,6 +31,7 @@ The secret to a "Gold Standard" sprout salad is **Texture Integrity** through **
 6.  **Serve:** Season with an extra crack of black pepper and serve chilled.
 
 ## Serving Suggestions
--   [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
--   [Chicken Milanese](/recipes/chicken-milanese)
--   [Roasted Sunchokes with Brown Butter Vinaigrette](/recipes/roasted-sunchokes-with-brown-butter-cider-vinaigrette)
+
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Chicken Milanese](/recipes/chicken-milanese)
+- [Roasted Sunchokes with Brown Butter Vinaigrette](/recipes/roasted-sunchokes-with-brown-butter-cider-vinaigrette)

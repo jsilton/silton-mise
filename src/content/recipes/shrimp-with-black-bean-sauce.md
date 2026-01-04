@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to authentic "Lobster Sauce" style shrimp is **Structural Science** through **The Egg Ribbon Pattern**. You must pour the beaten egg slowly across the surface of the boiling sauce and let it sit for 10 seconds before folding; this creates long, silken ribbons that provide a velvety "Bounce." We maintain **Texture Integrity** through **The Pork-Bean Sear**: we fry the ground pork and mashed black beans first to develop a smoky, savory foundation that contrasts the sweet "Snap" of the shrimp.
 
 ## Directions
@@ -30,12 +31,13 @@ The secret to authentic "Lobster Sauce" style shrimp is **Structural Science** t
 1.  **Prep:** Rinse black beans and mash slightly. Whisk stock, oyster sauce, soy sauce, and sesame oil.
 2.  **The Render:** In a hot wok, boil the ground pork for 1 minute until no longer pink. Drain and set aside. (This ensures a clean, non-cloudy sauce).
 3.  **The Sear:** Heat 2 tbsp oil. Sauté garlic, ginger, peppers, black beans, and the cooked pork for 30 seconds. Add shrimp and Shaoxing wine. Stir-fry for 30 seconds.
-4.  **Simmer:** Pour in the stock mixture. Bring to a rapid boil. 
+4.  **Simmer:** Pour in the stock mixture. Bring to a rapid boil.
 5.  **Bind:** Stir in the cornstarch slurry until the sauce is thick and mirror-glossy.
 6.  **The Ribbon:** Turn heat to low. Pour the egg across the surface. Let sit for 10 seconds, then fold once.
 7.  **Serve:** Garnish with scallions and serve immediately over steamed jasmine rice.
 
 ## Serving Suggestions
--   [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+
+- [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)

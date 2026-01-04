@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Restaurant Quality" slow-cooker ramen is **Structural Science** through **The Bone-In Simmer Pattern**. By using whole chicken legs, we extract collagen and deep gelatinous fat that provides the mandatory "Bounce" to the broth. We use **The Miso Tempering Pattern**: we stir the miso in at the start to infuse the meat, but whisk in a secondary pulse at the end to maintain its raw, probiotic "High Note." The bok choy is added only during the final 10 minutes to ensure **Texture Integrity**.
 
 ## Directions
@@ -33,6 +34,7 @@ The secret to "Restaurant Quality" slow-cooker ramen is **Structural Science** t
 6.  **Serve:** Ladle the hot miso broth and chicken over the noodles. Top with a soft-boiled egg, nori, and sesame seeds.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

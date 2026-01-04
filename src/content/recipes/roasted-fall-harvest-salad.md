@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a high-performance "Fuel" salad that relies on **Structural Science**. The secret to Success is **The Massage Pattern**: you must massage the kale with olive oil and salt for 2 minutes; this breaks down the cellulose for a tender "Bounce." We maintain **Texture Integrity** through **The Crispy Chickpea Pattern**: by roasting the bone-dry chickpeas and squash at 450°F, we create a crunchy "Snap" that contrasts the fluffy quinoa. The apple cider in the dressing provides the mandatory **Acid Finish**.
 
 ## Directions
@@ -30,10 +31,11 @@ This is a high-performance "Fuel" salad that relies on **Structural Science**. T
 2.  **Quinoa:** Simmer quinoa in 1 cup water for 12 minutes. Let stand, covered, for 10 minutes (The Steam Cycle) for maximum fluff.
 3.  **Massage:** Place kale in a large bowl with 1 tsp oil and salt. **Massage for 2 minutes** until soft and dark green.
 4.  **Dress:** Whisk tahini, lemon juice, cider, and syrup until creamy.
-5.  **Assemble:** Toss kale with quinoa and half the dressing. 
+5.  **Assemble:** Toss kale with quinoa and half the dressing.
 6.  **Finish:** Top with the roasted chickpeas, squash, pepitas, and raisins. Drizzle with remaining dressing for the mandatory **High Note**.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Grilled Chicken with Herbed Corn Salsa](/recipes/grilled-chicken-with-herbed-corn-salsa)
--   Warm [Homemade Naan](/recipes/homemade-naan)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Grilled Chicken with Herbed Corn Salsa](/recipes/grilled-chicken-with-herbed-corn-salsa)
+- Warm [Homemade Naan](/recipes/homemade-naan)

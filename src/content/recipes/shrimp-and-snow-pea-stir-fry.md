@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the baseline for 20-minute "Speed" main dishes. The secret to Success is **The Cold Soak Pattern**: you must soak the rice noodles in hot water for 25 minutes rather than boiling them; this ensures they maintain a resilient "Bounce" and don't turn into a tangled mush. We use **The Sugared Sear Pattern**: marinating the shrimp in sweet chili sauce for 15 minutes allows the sugars to caramelize instantly when they hit the hot wok, providing a professional-grade mahogany "Snap."
 
 ## Directions
@@ -32,6 +33,7 @@ This is the baseline for 20-minute "Speed" main dishes. The secret to Success is
 6.  **Serve:** Return shrimp to the pan. Toss for 30 seconds. Serve immediately.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
--   [Miso Soup](/recipes/miso-soup)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Miso Soup](/recipes/miso-soup)

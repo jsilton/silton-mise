@@ -23,7 +23,8 @@ ingredients:
 ---
 
 ## Chef's Note
-The secret to a "Gold Standard" scampi is **Structural Science** through **The Mounting Pattern**. We reduce the white wine and lemon juice by half *before* whisking in the cold butter; this creates a stable, velvety emulsion that "Bounces" against the pasta rather than separating into oil. We maintain **Texture Integrity** by searing the shrimp for only 1 minute per side until they are pink but slightly underdone—they will finish cooking in the residual heat of the butter sauce, ensuring they stay "Snappy."
+
+The secret to a "Gold Standard" scampi is **Structural Science** through **The Mounting Pattern**. We reduce the white wine and lemon juice by half _before_ whisking in the cold butter; this creates a stable, velvety emulsion that "Bounces" against the pasta rather than separating into oil. We maintain **Texture Integrity** by searing the shrimp for only 1 minute per side until they are pink but slightly underdone—they will finish cooking in the residual heat of the butter sauce, ensuring they stay "Snappy."
 
 ## Directions
 
@@ -36,6 +37,7 @@ The secret to a "Gold Standard" scampi is **Structural Science** through **The M
 7.  **Serve:** Season with salt and plenty of black pepper. Top with Parmesan and serve immediately.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

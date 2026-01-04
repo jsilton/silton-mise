@@ -21,19 +21,21 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the definitive Silton "Fuel" for holiday mornings. The secret to its Success is **The Double-Bake Pattern**: we bake the casserole covered to set the internal custard, then uncover and increase the heat to 400°F for the final 15 minutes. This ensures a moist "Bounce" in the center with a shatteringly crisp "Snap" on the hash brown crust. We use **The Mustard Pulse**: whisking Dijon into the cream cuts through the heavy sausage fat, providing a mandatory **Acid Finish** that keeps the dish light.
 
 ## Directions
 
 1.  **The Sear:** In a large skillet, brown the sausage over medium-high until no pink remains. Add the bell pepper and scallion whites; sauté for 3 minutes. Let cool slightly.
-2.  **The Emulsion:** In a massive bowl, whisk eggs, heavy cream, mustard, hot sauce, salt, and pepper until very frothy. 
-3.  **Combine:** Fold in the sausage mixture, 1 1/2 cups of the cheese, and the thawed hash browns. 
+2.  **The Emulsion:** In a massive bowl, whisk eggs, heavy cream, mustard, hot sauce, salt, and pepper until very frothy.
+3.  **Combine:** Fold in the sausage mixture, 1 1/2 cups of the cheese, and the thawed hash browns.
 4.  **Assemble:** Pour into a greased 9x13-inch baking dish. Smooth into an even layer.
 5.  **Stage 1:** Cover with foil. Bake at 350°F for 50 minutes.
 6.  **Stage 2:** Remove foil. Top with the remaining 1/2 cup cheese. **Increase oven to 400°F**. Bake for 10-15 minutes until the top is deep golden and the center is firm.
 7.  **Serve:** Let rest for 10 minutes. Garnish with scallion greens and serve.
 
 ## Serving Suggestions
--   [Fresh Strawberry Vinaigrette Salad](/recipes/fresh-strawberry-vinaigrette-salad-dressing)
--   Warm [My Favorite Challah](/recipes/my-favorite-challah)
--   [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+
+- [Fresh Strawberry Vinaigrette Salad](/recipes/fresh-strawberry-vinaigrette-salad-dressing)
+- Warm [My Favorite Challah](/recipes/my-favorite-challah)
+- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
