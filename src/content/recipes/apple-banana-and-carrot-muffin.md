@@ -1,22 +1,22 @@
 ---
-title: Apple Banana and Carrot Muffins (The Fuel Muffin)
+title: Apple Banana and Carrot Muffins
 role: side
 vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
-servings: '12 muffins'
+servings: 12 muffins
 ingredients:
   - '1 Apple, finely grated (not pureed)'
   - '1 large Carrot, finely grated'
   - '1 large Banana, mashed'
-  - '2 large Eggs'
+  - 2 large Eggs
   - '3 tbsp Unsalted Butter, melted'
-  - '1 1/4 cups All-Purpose Flour'
-  - '1 1/2 tsp Baking Powder'
-  - '1 tsp Vanilla Extract'
-  - '1/2 tsp Cinnamon'
-  - 'Pinch of Salt'
+  - 1 1/4 cups All-Purpose Flour
+  - 1 1/2 tsp Baking Powder
+  - 1 tsp Vanilla Extract
+  - 1/2 tsp Cinnamon
+  - Pinch of Salt
 ---
 
 ## Chef's Note

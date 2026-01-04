@@ -1,5 +1,5 @@
 ---
-title: Chicken and White Bean Enchiladas (Suizas Style)
+title: Chicken and White Bean Enchiladas
 role: main
 vibe: nutritious
 prepTime: 20 min

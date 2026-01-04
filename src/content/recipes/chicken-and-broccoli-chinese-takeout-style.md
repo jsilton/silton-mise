@@ -1,5 +1,5 @@
 ---
-title: Chicken and Broccoli (Chinese Takeout Style)
+title: Chicken and Broccoli
 role: main
 vibe: quick
 prepTime: 15 min

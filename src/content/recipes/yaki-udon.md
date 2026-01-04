@@ -1,5 +1,5 @@
 ---
-title: Yaki Udon (The Loaded Bowl)
+title: Yaki Udon
 role: main
 vibe: quick
 prepTime: 10 min

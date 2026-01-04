@@ -1,5 +1,5 @@
 ---
-title: Bibimbap (The Ultimate Bowl)
+title: Bibimbap
 role: main
 vibe: nutritious
 prepTime: 10 min

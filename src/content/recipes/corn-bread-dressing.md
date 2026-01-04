@@ -1,5 +1,5 @@
 ---
-title: Corn Bread Dressing (Executive Family Style)
+title: Corn Bread Dressing
 role: side
 vibe: holiday
 prepTime: 30 min
@@ -8,16 +8,16 @@ totalTime: 90 min
 servings: '8'
 ingredients:
   - '1 tray (8x8) Cornbread, cut into 3/4-inch cubes'
-  - '3/4 cup Unsalted Butter'
+  - 3/4 cup Unsalted Butter
   - '4 Shallots, finely chopped'
   - '2 cloves Garlic, minced'
   - '1/4 lb Button Mushrooms, diced'
   - '1/4 cup Celery, diced'
   - '2 tbsp Fresh Parsley, chopped'
-  - '1 tbsp Fresh Thyme'
-  - '1/4 tsp Ground Sage'
-  - '1.5 cups Chicken Stock (No salt added)'
-  - 'Salt and Black Pepper'
+  - 1 tbsp Fresh Thyme
+  - 1/4 tsp Ground Sage
+  - 1.5 cups Chicken Stock (No salt added)
+  - Salt and Black Pepper
 ---
 
 ## Chef's Note
