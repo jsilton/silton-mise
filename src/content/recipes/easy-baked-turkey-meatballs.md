@@ -19,6 +19,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 Turkey meatballs often suffer from being dry and rubbery. We solve this with **Texture Integrity** through the **Moisture Guard Pattern**. The secret is the **Finely Minced Carrots**: as the meatballs bake, the carrots release moisture internally, creating a juicy "Bounce" that lean turkey lacks on its own. We use **The 2-Tbsp Portion Pattern** to ensure they cook quickly at high-heat (350°F) without drying out the exterior.
 
 ## Directions
@@ -31,6 +32,7 @@ Turkey meatballs often suffer from being dry and rubbery. We solve this with **T
 6.  **Serve:** Serve hot with your favorite tomato sauce or over spaghetti squash.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Zucchini Noodles with Avocado Pesto](/recipes/zucchini-noodles-with-avocado-pesto-and-shrimp)
--   [Garlic Bread](/recipes/garlic-bread)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Zucchini Noodles with Avocado Pesto](/recipes/zucchini-noodles-with-avocado-pesto-and-shrimp)
+- [Garlic Bread](/recipes/garlic-bread)

@@ -15,6 +15,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These are the ultimate **Modularity** component for hot summer mornings. We treat these as a "Base" because they can be prepped 5 days in advance. The secret to **Texture Integrity** is the **Honey Glide Pattern**: we microwave the honey for 10 seconds before mixing it with the granola—this ensures a thin, even coating that maintains its "Snap" even when frozen in yogurt. Always run the mold under hot water for 5 seconds to ensure a clean "Bounce" from the mold.
 
 ## Directions
@@ -27,6 +28,7 @@ These are the ultimate **Modularity** component for hot summer mornings. We trea
 6.  **Unmold:** Run the outside of the mold under warm water for 5-10 seconds to release. Serve immediately.
 
 ## Serving Suggestions
--   [Granola](/recipes/granola)
--   Fresh Fruit Platter
--   [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
+
+- [Granola](/recipes/granola)
+- Fresh Fruit Platter
+- [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)

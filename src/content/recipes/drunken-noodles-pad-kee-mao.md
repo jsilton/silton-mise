@@ -31,6 +31,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Street Quality" pad kee mao is **Structural Science** through **Velveting**. By working water and cornstarch into the chicken, we ensure it stays succulent even at the "Highest Heat" needed for the noodles. We maintain **Texture Integrity** through **The Scrape Pattern**: wide rice noodles tend to stick and tear; you must use a metal spatula to scrape the bottom of the wok aggressively during the final sauce reduction to create those slightly charred, chewy edges known as "Wok Hei."
 
 ## Directions
@@ -45,6 +46,7 @@ The secret to "Street Quality" pad kee mao is **Structural Science** through **V
 8.  **Finish:** Return chicken to the wok. Toss for 1 more minute until glossy. Serve immediately.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
--   Thai Iced Tea
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- Thai Iced Tea

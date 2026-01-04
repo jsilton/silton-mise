@@ -13,6 +13,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 Dashi is the foundation of Japanese cuisine and a masterclass in **Structural Science**. The secret to the Silton Standard is the **Umami Extraction Pattern**: you must remove the kombu just before the water hits a boil. If boiled, the kombu releases bitter, slimy compounds that ruin the clarity of the stock. This "First Dashi" (Ichiban Dashi) provides the clean, ocean-fresh **High Note** essential for professional-grade miso soups and noodle dishes.
 
 ## Directions
@@ -25,6 +26,7 @@ Dashi is the foundation of Japanese cuisine and a masterclass in **Structural Sc
 6.  **Store:** Use immediately or refrigerate for up to 4 days.
 
 ## Serving Suggestions
--   [Miso Soup](/recipes/miso-soup)
--   [Japanese-Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
--   [Yaki Udon](/recipes/yaki-udon)
+
+- [Miso Soup](/recipes/miso-soup)
+- [Japanese-Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+- [Yaki Udon](/recipes/yaki-udon)

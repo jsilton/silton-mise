@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate test of **Structural Science** in baking. The secret to the Silton Standard is the **24-Hour Chill Pattern**: you must refrigerate the dough for at least 24 hours before baking. This allows the flour to fully hydrate and the sugars to begin breaking down, resulting in a cookie with a deep, toffee-like complexity and a superior "Snap" on the edges. We use **Dutch-process Cocoa** for its darker, smoother profile and mandatory **Chocolate Discs** to create wide "pools" of chocolate rather than small nuggets.
 
 ## Directions
@@ -31,12 +32,13 @@ This is the ultimate test of **Structural Science** in baking. The secret to the
 2.  **Cream:** In a stand mixer, beat butter and both sugars for exactly 5 minutes until very light and aerated. Add the egg and vanilla; beat until combined.
 3.  **Combine:** On low speed, add the dry ingredients and mix until **just combined**. Fold in the chocolate discs.
 4.  **The Chill:** Press plastic wrap directly against the dough. Refrigerate for **at least 24 hours** (36 hours is the Gold Standard).
-5.  **Prep:** Preheat oven to 350°F. Line a large baking sheet with parchment paper. 
+5.  **Prep:** Preheat oven to 350°F. Line a large baking sheet with parchment paper.
 6.  **Portion:** Form the cold dough into balls larger than golf balls (about 3.5 oz each). Place only 5 balls per sheet, as they will spread significantly.
 7.  **Bake:** Bake for 18 minutes until the edges are set but the center still looks slightly soft.
 8.  **Cool:** Let cool on the sheet for 10 minutes to allow the internal structure to firm up.
 
 ## Serving Suggestions
--   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream) (for a warm cookie sundae)
--   Cold Glass of Whole Milk
--   Flaky Sea Salt (sprinkled on top)
+
+- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream) (for a warm cookie sundae)
+- Cold Glass of Whole Milk
+- Flaky Sea Salt (sprinkled on top)

@@ -27,6 +27,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This soup is a masterclass in **Texture Integrity** through our **Gingersnap Thickener Pattern**. Instead of a flour roux, we use crushed gingersnap cookies; the spices in the cookies complement the curry, while their starch provides a velvety body. The secret to the Silton Standard here is the **Acid Finish**: the combination of tart Granny Smith apple and apple cider vinegar provides the mandatory "High Note" that brightens the earthy carrots and rich cream.
 
 ## Directions
@@ -39,6 +40,7 @@ This soup is a masterclass in **Texture Integrity** through our **Gingersnap Thi
 6.  **Serve:** Ladle into bowls and top with toasted pumpkin seeds and fresh herbs for **Texture Integrity**.
 
 ## Serving Suggestions
--   [Anadama Bread](/recipes/anadama-bread) with Salted Butter
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Anadama Bread](/recipes/anadama-bread) with Salted Butter
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
