@@ -3,7 +3,7 @@ title: Lemon Basil Shrimp Risotto
 difficulty: easy
 cookingMethods: [roast, sauté]
 dietary: []
-occasions: []
+occasions: [date-night, entertaining, weekend-project]
 flavorProfile: [acidic, umami, rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 30 min
 totalTime: 45 min
 servings: '4'
+seasons: [spring, summer, year-round]
+nutritionalDensity: hearty
+leftovers: poor
+equipment: []
+pairsWith: [arugula-salad, roasted-asparagus]
 ingredients:
   - '1 1/2 lbs Large Shrimp (U10), peeled and deveined'
   - 2 cups Arborio Rice

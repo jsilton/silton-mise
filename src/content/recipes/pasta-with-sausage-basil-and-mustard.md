@@ -3,7 +3,7 @@ title: 'Pasta with Sausage, Basil & Mustard'
 difficulty: easy
 cookingMethods: [roast, simmer, boil]
 dietary: [vegetarian]
-occasions: []
+occasions: [weeknight, comfort-food, date-night]
 flavorProfile: [savory, acidic, umami, rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
 servings: '4'
+seasons: [year-round, fall, winter]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: []
+pairsWith: [green-salad, garlic-bread]
 ingredients:
   - 1 lb Penne or Rigatoni
   - '1 1/2 lbs Hot Italian Sausage, casings removed'

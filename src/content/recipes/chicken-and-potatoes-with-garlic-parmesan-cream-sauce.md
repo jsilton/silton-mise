@@ -3,7 +3,7 @@ title: Chicken and Potatoes with Garlic Parmesan Cream
 difficulty: intermediate
 cookingMethods: [bake, roast]
 dietary: []
-occasions: [comfort-food]
+occasions: [comfort-food, entertaining, weekend-project]
 flavorProfile: [umami, rich]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 15 min
 cookTime: 40 min
 totalTime: 55 min
 servings: '6'
+seasons: [year-round, fall, winter]
+nutritionalDensity: hearty
+leftovers: excellent
+equipment: [sheet-pan]
+pairsWith: [green-salad, roasted-broccoli, garlic-bread]
 ingredients:
   - '6 Bone-in, skin-on Chicken Thighs'
   - '1 lb Baby Dutch Potatoes, quartered'

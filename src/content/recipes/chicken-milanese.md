@@ -5,7 +5,7 @@ aliases:
 difficulty: easy
 cookingMethods: [roast, fry, no-cook]
 dietary: []
-occasions: []
+occasions: [weeknight, date-night, entertaining]
 flavorProfile: [acidic, umami, herbaceous]
 cuisines: [Italian]
 role: main
@@ -14,6 +14,11 @@ prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
 servings: '4'
+seasons: [spring, summer, year-round]
+nutritionalDensity: moderate
+leftovers: poor
+equipment: [large-skillet]
+pairsWith: [arugula-salad, roasted-vegetables, lemon-potatoes]
 ingredients:
   - '2 large Chicken Breasts, halved horizontally and pounded thin'
   - 1/2 cup All-Purpose Flour

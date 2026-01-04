@@ -3,7 +3,7 @@ title: Spinach & Ricotta Stuffed Shells
 difficulty: easy
 cookingMethods: [bake, roast, boil, no-cook, blend]
 dietary: [vegetarian]
-occasions: [comfort-food]
+occasions: [comfort-food, weekend-project, entertaining, potluck]
 flavorProfile: [umami, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,12 @@ prepTime: 20 min
 cookTime: 40 min
 totalTime: 60 min
 servings: '6'
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: excellent
+advancePrep: [make-ahead]
+equipment: []
+pairsWith: [garlic-bread, caesar-salad, side-salad]
 ingredients:
   - 12 oz Jumbo Pasta Shells
   - 1 lb Fresh Baby Spinach

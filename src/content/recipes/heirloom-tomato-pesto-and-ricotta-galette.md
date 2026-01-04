@@ -3,7 +3,7 @@ title: Heirloom Tomato & Pesto Galette
 difficulty: easy
 cookingMethods: [bake, roast, steam, no-cook, blend]
 dietary: [vegetarian]
-occasions: []
+occasions: [entertaining, weekend-project, potluck, summer]
 flavorProfile: [spicy, sweet, rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,12 @@ prepTime: 20 min
 cookTime: 25 min
 totalTime: 75 min
 servings: '8'
+seasons: [summer]
+nutritionalDensity: moderate
+leftovers: good
+advancePrep: [make-ahead-crust]
+equipment: []
+pairsWith: [arugula-salad, white-wine]
 ingredients:
   - 1 1/2 cups All-Purpose Flour
   - '3/4 cup Cold Butter, cubed'

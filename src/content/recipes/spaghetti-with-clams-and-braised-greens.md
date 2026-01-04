@@ -3,7 +3,7 @@ title: Spaghetti with Clams & Braised Greens
 difficulty: intermediate
 cookingMethods: [roast, sauté, boil, steam, braise, blend]
 dietary: [vegetarian]
-occasions: [comfort-food]
+occasions: [comfort-food, date-night, entertaining, weekend-project]
 flavorProfile: [spicy, acidic, umami, rich]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
 servings: '4'
+seasons: [year-round, summer, fall]
+nutritionalDensity: moderate
+leftovers: poor
+equipment: []
+pairsWith: [crusty-bread, white-wine]
 ingredients:
   - 1/2 lb Spaghetti
   - '4 dozen Littleneck Clams, scrubbed'

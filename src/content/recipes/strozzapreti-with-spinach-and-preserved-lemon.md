@@ -3,7 +3,7 @@ title: Strozzapreti with Preserved Lemon & Spinach
 difficulty: easy
 cookingMethods: [roast, fry, sauté, boil]
 dietary: [vegetarian]
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh]
 flavorProfile: [savory, acidic, rich]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
 servings: '4'
+seasons: [spring, summer, year-round]
+nutritionalDensity: moderate
+leftovers: good
+equipment: []
+pairsWith: [grilled-chicken, roasted-vegetables]
 ingredients:
   - 12 oz Fresh Strozzapreti (or Cavatappi)
   - 1 stick (8 tbsp) Unsalted Butter

@@ -3,7 +3,7 @@ title: Shrimp Fettuccine Alfredo
 difficulty: easy
 cookingMethods: [boil, steam]
 dietary: []
-occasions: [comfort-food]
+occasions: [comfort-food, weeknight, date-night, indulgent]
 flavorProfile: [rich, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
 servings: '4'
+seasons: [year-round]
+nutritionalDensity: hearty
+leftovers: good
+equipment: []
+pairsWith: [caesar-salad, garlic-bread]
 ingredients:
   - 1 lb Fettuccine Pasta
   - '1 lb Jumbo Shrimp, peeled and deveined'

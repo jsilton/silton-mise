@@ -3,7 +3,7 @@ title: Sheet Pan Pesto Chicken Bowls
 difficulty: easy
 cookingMethods: [bake, roast]
 dietary: []
-occasions: []
+occasions: [meal-prep, weeknight, post-workout]
 flavorProfile: [umami, herbaceous]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 20 min
 cookTime: 20 min
 totalTime: 40 min
 servings: '4'
+seasons: [spring, summer, year-round]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [sheet-pan]
+pairsWith: [quinoa, brown-rice, side-salad]
 ingredients:
   - '3 Chicken Breasts, diced into 1-inch cubes'
   - '1 lb Fresh Broccoli, cut into florets'

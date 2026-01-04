@@ -3,7 +3,7 @@ title: Chicken & Spinach Skillet Pasta
 difficulty: easy
 cookingMethods: [roast, simmer, boil]
 dietary: []
-occasions: []
+occasions: [weeknight, quick-lunch, light-and-fresh]
 flavorProfile: [acidic, umami, rich]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
 servings: '4'
+seasons: [spring, summer, year-round]
+nutritionalDensity: moderate
+leftovers: good
+equipment: [large-skillet]
+pairsWith: [caesar-salad, garlic-bread]
 ingredients:
   - 1 lb Penne or Rigatoni (Whole wheat or GF)
   - '1 lb Chicken Breast or Thighs, cut into bite-sized pieces'

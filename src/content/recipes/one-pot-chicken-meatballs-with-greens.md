@@ -3,7 +3,7 @@ title: One-Pot Chicken Meatballs with Greens
 difficulty: intermediate
 cookingMethods: [bake, sauté, simmer, steam, braise]
 dietary: []
-occasions: []
+occasions: [weeknight, meal-prep, comfort-food]
 flavorProfile: [acidic, rich]
 cuisines: [Italian]
 role: main
@@ -12,6 +12,11 @@ prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
 servings: '4'
+seasons: [year-round, fall, winter]
+nutritionalDensity: moderate
+leftovers: excellent
+equipment: [large-skillet]
+pairsWith: [crusty-bread, side-salad, polenta]
 ingredients:
   - 1 lb Ground Chicken
   - 1/3 cup Plain Greek Yogurt for richness
