@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import RecipeHeader from '../../components/RecipeHeader.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -15,100 +16,16 @@ const { Content } = await recipe.render();
 ---
 
 <Layout title={`${recipe.data.title} | Mise`}>
-  <!-- Breadcrumbs -->
-  <nav class="flex mb-6 text-sm text-slate-500" aria-label="Breadcrumb">
-    <ol class="inline-flex items-center space-x-1 md:space-x-3">
-      <li class="inline-flex items-center">
-        <a
-          href={import.meta.env.BASE_URL}
-          class="inline-flex items-center hover:text-indigo-600 transition-colors"
-        >
-          Codex
-        </a>
-      </li>
-      <li>
-        <div class="flex items-center">
-          <svg
-            class="w-3 h-3 text-slate-400 mx-1"
-            aria-hidden="true"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 6 10"
-          >
-            <path
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="m1 9 4-4-4-4"></path>
-          </svg>
-          <span class="ml-1 font-medium text-slate-900 truncate max-w-[200px] sm:max-w-none"
-            >{recipe.data.title}</span
-          >
-        </div>
-      </li>
-    </ol>
-  </nav>
+  <!-- Recipe Header with breadcrumb, metadata, and tags -->
+  <RecipeHeader {recipe} />
 
-  <article class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
-    <!-- Header -->
-    <div class="bg-slate-50/50 border-b border-slate-100 p-6 sm:p-10">
-      <h1
-        class="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-6 tracking-tight leading-tight"
-      >
-        {recipe.data.title}
-      </h1>
-
-      <div class="flex flex-wrap gap-6 text-sm text-slate-600">
-        {
-          recipe.data.prepTime && (
-            <div class="flex flex-col">
-              <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
-                Prep Time
-              </span>
-              <span class="font-medium">{recipe.data.prepTime}</span>
-            </div>
-          )
-        }
-        {
-          recipe.data.cookTime && (
-            <div class="flex flex-col">
-              <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
-                Cook Time
-              </span>
-              <span class="font-medium">{recipe.data.cookTime}</span>
-            </div>
-          )
-        }
-        {
-          recipe.data.totalTime && (
-            <div class="flex flex-col">
-              <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
-                Total Time
-              </span>
-              <span class="font-medium">{recipe.data.totalTime}</span>
-            </div>
-          )
-        }
-        {
-          recipe.data.servings && (
-            <div class="flex flex-col">
-              <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
-                Servings
-              </span>
-              <span class="font-medium">{recipe.data.servings}</span>
-            </div>
-          )
-        }
-      </div>
-    </div>
+  <!-- Recipe Content -->
+  <article class="mt-8 bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
 
     <div class="p-6 sm:p-10 grid md:grid-cols-[1fr_1.5fr] gap-12">
       <!-- Ingredients Column -->
       <div>
-        <h3
-          class="text-lg font-bold text-slate-900 mb-4 flex items-center border-b border-slate-100 pb-2"
-        >
+        <h3 class="text-lg font-bold text-slate-900 mb-4 flex items-center border-b border-slate-100 pb-2">
           Ingredients
         </h3>
         {
@@ -133,9 +50,7 @@ const { Content } = await recipe.render();
       </div>
 
       <!-- Content Column (Description, Directions, Notes, Nutrition) -->
-      <div
-        class="prose prose-slate prose-headings:font-bold prose-headings:text-slate-900 prose-p:text-slate-700 prose-li:text-slate-700 marker:text-slate-400 prose-a:text-indigo-600 hover:prose-a:text-indigo-500 max-w-none"
-      >
+      <div class="prose prose-slate prose-headings:font-bold prose-headings:text-slate-900 prose-p:text-slate-700 prose-li:text-slate-700 marker:text-slate-400 prose-a:text-indigo-600 hover:prose-a:text-indigo-500 max-w-none">
         <Content />
       </div>
     </div>

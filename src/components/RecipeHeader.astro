@@ -1,0 +1,145 @@
+---
+// RecipeHeader.astro - Recipe detail header with breadcrumb, title, metadata, and tags
+// Self-contained logical unit for recipe pages
+
+import TagSection from './TagSection.astro';
+import TagBadge from './TagBadge.astro';
+
+interface Recipe {
+  slug: string;
+  data: {
+    title: string;
+    prepTime?: string;
+    cookTime?: string;
+    totalTime?: string;
+    servings?: string;
+    difficulty?: string;
+    cuisines?: string[];
+    cookingMethods?: string[];
+    dietary?: string[];
+    occasions?: string[];
+    flavorProfile?: string[];
+  };
+}
+
+interface Props {
+  recipe: Recipe;
+  baseUrl?: string;
+}
+
+const { recipe, baseUrl = import.meta.env.BASE_URL } = Astro.props;
+---
+
+<div class="flex flex-col gap-4">
+  <!-- Breadcrumbs -->
+  <nav class="flex text-sm text-slate-500" aria-label="Breadcrumb">
+    <ol class="inline-flex items-center space-x-1 md:space-x-3">
+      <li class="inline-flex items-center">
+        <a
+          href={baseUrl}
+          class="inline-flex items-center hover:text-indigo-600 transition-colors"
+        >
+          Codex
+        </a>
+      </li>
+      <li>
+        <div class="flex items-center">
+          <svg
+            class="w-3 h-3 text-slate-400 mx-1"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 6 10"
+          >
+            <path
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="m1 9 4-4-4-4"
+            />
+          </svg>
+          <span class="ml-1 font-medium text-slate-900 truncate max-w-[200px] sm:max-w-none">
+            {recipe.data.title}
+          </span>
+        </div>
+      </li>
+    </ol>
+  </nav>
+
+  <!-- Header Section -->
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+    <!-- Title and Metadata -->
+    <div class="bg-slate-50/50 border-b border-slate-100 p-6 sm:p-10">
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-6 tracking-tight leading-tight">
+        {recipe.data.title}
+      </h1>
+
+      <!-- Time Metadata Grid -->
+      <div class="flex flex-wrap gap-6 text-sm text-slate-600 mb-8">
+        {recipe.data.prepTime && (
+          <div class="flex flex-col">
+            <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
+              Prep Time
+            </span>
+            <span class="font-medium">{recipe.data.prepTime}</span>
+          </div>
+        )}
+        {recipe.data.cookTime && (
+          <div class="flex flex-col">
+            <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
+              Cook Time
+            </span>
+            <span class="font-medium">{recipe.data.cookTime}</span>
+          </div>
+        )}
+        {recipe.data.totalTime && (
+          <div class="flex flex-col">
+            <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
+              Total Time
+            </span>
+            <span class="font-medium">{recipe.data.totalTime}</span>
+          </div>
+        )}
+        {recipe.data.servings && (
+          <div class="flex flex-col">
+            <span class="text-xs uppercase tracking-wide text-slate-400 font-semibold mb-1">
+              Servings
+            </span>
+            <span class="font-medium">{recipe.data.servings}</span>
+          </div>
+        )}
+      </div>
+
+      <!-- Tags Section -->
+      <div class="pt-6 border-t border-slate-100">
+        {/* Difficulty as single prominent badge */}
+        {recipe.data.difficulty && (
+          <div class="mb-4">
+            <h4 class="text-xs uppercase tracking-wide text-slate-500 font-semibold mb-2">Difficulty</h4>
+            <div class="flex gap-2">
+              <TagBadge tag={recipe.data.difficulty} category="difficulty" size="md" />
+            </div>
+          </div>
+        )}
+
+        {/* All other tag categories */}
+        {recipe.data.cuisines && recipe.data.cuisines.length > 0 && (
+          <TagSection title="Cuisines" tags={recipe.data.cuisines} category="cuisine" size="sm" />
+        )}
+        {recipe.data.cookingMethods && recipe.data.cookingMethods.length > 0 && (
+          <TagSection title="Cooking Methods" tags={recipe.data.cookingMethods} category="cooking-method" size="sm" />
+        )}
+        {recipe.data.dietary && recipe.data.dietary.length > 0 && (
+          <TagSection title="Dietary" tags={recipe.data.dietary} category="dietary" size="sm" />
+        )}
+        {recipe.data.occasions && recipe.data.occasions.length > 0 && (
+          <TagSection title="Occasions" tags={recipe.data.occasions} category="occasion" size="sm" />
+        )}
+        {recipe.data.flavorProfile && recipe.data.flavorProfile.length > 0 && (
+          <TagSection title="Flavor Profile" tags={recipe.data.flavorProfile} category="flavor" size="sm" />
+        )}
+      </div>
+    </div>
+  </div>
+</div>

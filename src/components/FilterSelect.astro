@@ -1,0 +1,25 @@
+---
+// FilterSelect.astro - Reusable filter select component
+// Usage: <FilterSelect label="Difficulty" id="filterDifficulty" options={[...]} />
+
+interface Props {
+  label: string;
+  id: string;
+  options?: Array<{ value: string; label: string }>;
+}
+
+const { label, id, options = [] } = Astro.props;
+---
+
+<div class="flex flex-col gap-1">
+  <label for={id} class="text-xs font-medium text-slate-600">{label}</label>
+  <select
+    {id}
+    class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+  >
+    <option value="">All</option>
+    {options.map((opt) => (
+      <option value={opt.value}>{opt.label}</option>
+    ))}
+  </select>
+</div>

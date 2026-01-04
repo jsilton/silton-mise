@@ -1,5 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import SearchBar from '../components/SearchBar.astro';
+import FilterPanel from '../components/FilterPanel.astro';
+import RecipeCard from '../components/RecipeCard.astro';
 import { getCollection } from 'astro:content';
 
 const recipes = await getCollection('recipes');
@@ -7,65 +10,28 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
 ---
 
 <Layout title="Mise | Recipe Codex">
-  <div class="flex flex-col md:flex-row justify-between items-end mb-8 gap-4">
+  <!-- Page Header -->
+  <div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-8 gap-6">
     <div>
       <h1 class="text-3xl font-bold text-slate-900">The Codex</h1>
       <p class="text-slate-500 mt-1">Exploring {recipes.length} family recipes.</p>
     </div>
-
-    <div class="w-full md:w-96 relative">
-      <input
-        type="text"
-        id="searchInput"
-        placeholder="Search by name or ingredient..."
-        class="w-full pl-10 pr-4 py-2 bg-white border border-slate-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-shadow"
-      />
-      <div
-        class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400"
-      >
-        <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-        </svg>
-      </div>
+    <div class="w-full md:w-96">
+      <SearchBar id="searchInput" placeholder="Search by name or ingredient..." />
     </div>
   </div>
 
+  <!-- Filter and Sort UI -->
+  <FilterPanel {recipes} />
+
   <!-- Recipe Grid -->
   <div id="recipeGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-    {
-      recipes.map((recipe) => (
-        <a
-          href={`${import.meta.env.BASE_URL}recipes/${recipe.slug}`}
-          class="recipe-card group bg-white rounded-lg border border-slate-200 hover:border-indigo-300 hover:shadow-md hover:shadow-indigo-500/10 transition-all duration-200 overflow-hidden flex flex-col h-full"
-        >
-          <div class="p-4 flex flex-col h-full">
-            <h2 class="text-base font-semibold text-slate-800 group-hover:text-indigo-600 line-clamp-2 mb-2 leading-tight">
-              {recipe.data.title}
-            </h2>
-
-            <div class="mt-auto pt-3 border-t border-slate-50 flex items-center justify-between text-[11px] text-slate-400">
-              <div class="flex items-center gap-2">
-                {recipe.data.prepTime && <span>{recipe.data.prepTime}</span>}
-                {recipe.data.cookTime && (
-                  <span class="flex items-center gap-1 before:content-['•'] before:mr-1">
-                    {recipe.data.cookTime} cook
-                  </span>
-                )}
-              </div>
-            </div>
-          </div>
-          <div class="hidden search-data">
-            {recipe.data.title.toLowerCase()} {recipe.data.ingredients?.join(' ').toLowerCase()}
-          </div>
-        </a>
-      ))
-    }
+    {recipes.map((recipe) => (
+      <RecipeCard {recipe} />
+    ))}
   </div>
 
+  <!-- No Results State -->
   <div id="noResults" class="hidden text-center py-20">
     <div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-slate-100 mb-4">
       <svg class="w-8 h-8 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -74,7 +40,7 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
           stroke-linejoin="round"
           stroke-width="2"
           d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-        ></path>
+        />
       </svg>
     </div>
     <h3 class="text-lg font-medium text-slate-900">No recipes found</h3>
@@ -82,47 +48,82 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
     <button
       id="clearSearch"
       class="mt-4 text-sm font-medium text-indigo-600 hover:text-indigo-800 hover:underline"
-      >Clear search</button
     >
+      Clear search
+    </button>
   </div>
 </Layout>
 
-<script>
+<script define:vars={{ recipes: JSON.stringify(recipes.map(r => ({ difficulty: r.data.difficulty, cuisines: r.data.cuisines, dietary: r.data.dietary, cookingMethods: r.data.cookingMethods, occasions: r.data.occasions, prepTime: r.data.prepTime, title: r.data.title }))) }}>
+  // Page filtering and sorting logic - works with FilterPanel and search
   const searchInput = document.getElementById('searchInput');
   const recipeCards = document.querySelectorAll('.recipe-card');
   const noResults = document.getElementById('noResults');
   const clearSearchBtn = document.getElementById('clearSearch');
 
-  function filterRecipes(query) {
-    let hasResults = false;
-    const lowerQuery = query.toLowerCase();
+  // Main filtering function - applies all active filters and sort
+  window.applyFiltersAndSort = function() {
+    const query = searchInput?.value?.toLowerCase() || '';
+    const state = window.filterState || {};
+    
+    let visibleCards = [];
 
     recipeCards.forEach((card) => {
-      const data = card.querySelector('.search-data').textContent;
-      if (data.includes(lowerQuery)) {
+      const searchData = card.querySelector('.search-data')?.textContent?.toLowerCase() || '';
+      const cardDifficulty = card.dataset.difficulty;
+      const cardCuisines = card.dataset.cuisines?.split(',').filter(c => c) || [];
+      const cardDietary = card.dataset.dietary?.split(',').filter(d => d) || [];
+      const cardMethods = card.dataset.cookingMethods?.split(',').filter(m => m) || [];
+      const cardOccasions = card.dataset.occasions?.split(',').filter(o => o) || [];
+
+      // Apply all active filters
+      const matchesSearch = !query || searchData.includes(query);
+      const matchesDifficulty = !state.difficulty || cardDifficulty === state.difficulty;
+      const matchesCuisine = !state.cuisine || cardCuisines.includes(state.cuisine);
+      const matchesDietary = !state.dietary || cardDietary.includes(state.dietary);
+      const matchesMethod = !state.cookingMethod || cardMethods.includes(state.cookingMethod);
+      const matchesOccasion = !state.occasion || cardOccasions.includes(state.occasion);
+
+      const isVisible = matchesSearch && matchesDifficulty && matchesCuisine && matchesDietary && matchesMethod && matchesOccasion;
+
+      if (isVisible) {
         card.style.display = 'flex';
-        hasResults = true;
+        visibleCards.push({ card, difficulty: cardDifficulty, prepTime: card.dataset.prepTime });
       } else {
         card.style.display = 'none';
       }
     });
 
-    if (noResults) {
-      noResults.style.display = hasResults ? 'none' : 'block';
+    // Apply sorting
+    if (state.sortMode === 'prepTime') {
+      visibleCards.sort((a, b) => parseInt(a.prepTime || '0') - parseInt(b.prepTime || '0'));
+    } else if (state.sortMode === 'difficulty') {
+      const diffOrder = { 'easy': 0, 'intermediate': 1, 'advanced': 2 };
+      visibleCards.sort((a, b) => diffOrder[a.difficulty] - diffOrder[b.difficulty]);
     }
-  }
 
-  if (searchInput) {
-    searchInput.addEventListener('input', (e) => {
-      filterRecipes(e.target.value);
-    });
-  }
+    // Reorder cards in grid
+    const grid = document.getElementById('recipeGrid');
+    visibleCards.forEach(({ card }) => grid.appendChild(card));
 
-  if (clearSearchBtn && searchInput) {
-    clearSearchBtn.addEventListener('click', () => {
-      searchInput.value = '';
-      filterRecipes('');
-      searchInput.focus();
-    });
-  }
+    // Toggle no results message
+    if (noResults) {
+      noResults.style.display = visibleCards.length === 0 ? 'block' : 'none';
+    }
+  };
+
+  // Search input listener
+  searchInput?.addEventListener('input', window.applyFiltersAndSort);
+
+  // Clear search button
+  clearSearchBtn?.addEventListener('click', () => {
+    searchInput.value = '';
+    window.updateFilterState?.();
+    window.applyFiltersAndSort();
+    searchInput.focus();
+  });
+
+  // Initial state update and render
+  window.updateFilterState?.();
+  window.applyFiltersAndSort();
 </script>

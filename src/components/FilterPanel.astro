@@ -1,0 +1,225 @@
+---
+// FilterPanel.astro - Complete filter and sort UI component
+// Includes filter dropdowns, sort options, reset button, and filtering logic
+// Self-contained: manages all data, rendering, and client-side interactivity
+
+interface Props {
+  recipes: Array<{
+    data: {
+      difficulty?: string;
+      cuisines?: string[];
+      dietary?: string[];
+      cookingMethods?: string[];
+      occasions?: string[];
+    };
+  }>;
+}
+
+const { recipes = [] } = Astro.props;
+
+// Collect all unique values for each filter dimension
+const uniqueFilters = {
+  cuisines: Array.from(new Set(recipes.flatMap(r => r.data.cuisines || []))).sort(),
+  dietary: Array.from(new Set(recipes.flatMap(r => r.data.dietary || []))).sort(),
+  cookingMethods: Array.from(new Set(recipes.flatMap(r => r.data.cookingMethods || []))).sort(),
+  occasions: Array.from(new Set(recipes.flatMap(r => r.data.occasions || []))).sort(),
+};
+
+// Format values for display (capitalize)
+const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).replace(/-/g, ' ');
+---
+
+<div class="mb-6 p-4 bg-slate-50 rounded-lg border border-slate-200">
+  <div class="flex flex-col gap-4">
+    <!-- Header with reset button -->
+    <div class="flex items-center justify-between">
+      <h3 class="text-sm font-semibold text-slate-700">Filters & Sort</h3>
+      <button
+        id="resetFilters"
+        class="text-xs text-indigo-600 hover:text-indigo-800 font-medium"
+      >
+        Reset
+      </button>
+    </div>
+
+    <!-- Filter Controls Grid -->
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+      <!-- Difficulty Filter -->
+      <div class="flex flex-col gap-1">
+        <label for="filterDifficulty" class="text-xs font-medium text-slate-600">Difficulty</label>
+        <select
+          id="filterDifficulty"
+          class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+        >
+          <option value="">All</option>
+          <option value="easy">Easy</option>
+          <option value="intermediate">Intermediate</option>
+          <option value="advanced">Advanced</option>
+        </select>
+      </div>
+
+      <!-- Cuisine Filter -->
+      <div class="flex flex-col gap-1">
+        <label for="filterCuisine" class="text-xs font-medium text-slate-600">Cuisine</label>
+        <select
+          id="filterCuisine"
+          class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+        >
+          <option value="">All</option>
+        </select>
+      </div>
+
+      <!-- Dietary Filter -->
+      <div class="flex flex-col gap-1">
+        <label for="filterDietary" class="text-xs font-medium text-slate-600">Dietary</label>
+        <select
+          id="filterDietary"
+          class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+        >
+          <option value="">All</option>
+        </select>
+      </div>
+
+      <!-- Cooking Method Filter -->
+      <div class="flex flex-col gap-1">
+        <label for="filterCookingMethod" class="text-xs font-medium text-slate-600">Cooking Method</label>
+        <select
+          id="filterCookingMethod"
+          class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+        >
+          <option value="">All</option>
+        </select>
+      </div>
+
+      <!-- Occasion Filter -->
+      <div class="flex flex-col gap-1">
+        <label for="filterOccasion" class="text-xs font-medium text-slate-600">Occasion</label>
+        <select
+          id="filterOccasion"
+          class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+        >
+          <option value="">All</option>
+        </select>
+      </div>
+
+      <!-- Sort By -->
+      <div class="flex flex-col gap-1">
+        <label for="sortBy" class="text-xs font-medium text-slate-600">Sort By</label>
+        <select
+          id="sortBy"
+          class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+        >
+          <option value="title">Alphabetical</option>
+          <option value="prepTime">Prep Time</option>
+          <option value="difficulty">Difficulty</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script define:vars={{ uniqueFilters }}>
+  // Populate dynamic filter dropdowns
+  function initializeFilters() {
+    const selects = {
+      cuisine: document.getElementById('filterCuisine'),
+      dietary: document.getElementById('filterDietary'),
+      cookingMethod: document.getElementById('filterCookingMethod'),
+      occasion: document.getElementById('filterOccasion'),
+    };
+
+    if (selects.cuisine && uniqueFilters.cuisines.length > 0) {
+      uniqueFilters.cuisines.forEach((cuisine) => {
+        const option = document.createElement('option');
+        option.value = cuisine;
+        option.textContent = cuisine.charAt(0).toUpperCase() + cuisine.slice(1);
+        selects.cuisine.appendChild(option);
+      });
+    }
+
+    if (selects.dietary && uniqueFilters.dietary.length > 0) {
+      uniqueFilters.dietary.forEach((diet) => {
+        const option = document.createElement('option');
+        option.value = diet;
+        option.textContent = diet.charAt(0).toUpperCase() + diet.slice(1);
+        selects.dietary.appendChild(option);
+      });
+    }
+
+    if (selects.cookingMethod && uniqueFilters.cookingMethods.length > 0) {
+      uniqueFilters.cookingMethods.forEach((method) => {
+        const option = document.createElement('option');
+        option.value = method;
+        option.textContent = method.charAt(0).toUpperCase() + method.slice(1);
+        selects.cookingMethod.appendChild(option);
+      });
+    }
+
+    if (selects.occasion && uniqueFilters.occasions.length > 0) {
+      uniqueFilters.occasions.forEach((occasion) => {
+        const option = document.createElement('option');
+        option.value = occasion;
+        option.textContent = occasion.charAt(0).toUpperCase() + occasion.slice(1);
+        selects.occasion.appendChild(option);
+      });
+    }
+  }
+
+  // Expose filter state and filtering function to parent scope
+  window.filterState = {
+    difficulty: '',
+    cuisine: '',
+    dietary: '',
+    cookingMethod: '',
+    occasion: '',
+    sortMode: 'title',
+  };
+
+  window.updateFilterState = function() {
+    window.filterState.difficulty = document.getElementById('filterDifficulty').value;
+    window.filterState.cuisine = document.getElementById('filterCuisine').value;
+    window.filterState.dietary = document.getElementById('filterDietary').value;
+    window.filterState.cookingMethod = document.getElementById('filterCookingMethod').value;
+    window.filterState.occasion = document.getElementById('filterOccasion').value;
+    window.filterState.sortMode = document.getElementById('sortBy').value;
+  };
+
+  // Attach event listeners
+  document.getElementById('filterDifficulty')?.addEventListener('change', () => {
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
+  document.getElementById('filterCuisine')?.addEventListener('change', () => {
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
+  document.getElementById('filterDietary')?.addEventListener('change', () => {
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
+  document.getElementById('filterCookingMethod')?.addEventListener('change', () => {
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
+  document.getElementById('filterOccasion')?.addEventListener('change', () => {
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
+  document.getElementById('sortBy')?.addEventListener('change', () => {
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
+
+  document.getElementById('resetFilters')?.addEventListener('click', () => {
+    document.getElementById('filterDifficulty').value = '';
+    document.getElementById('filterCuisine').value = '';
+    document.getElementById('filterDietary').value = '';
+    document.getElementById('filterCookingMethod').value = '';
+    document.getElementById('filterOccasion').value = '';
+    document.getElementById('sortBy').value = 'title';
+    window.updateFilterState();
+    window.applyFiltersAndSort?.();
+  });
+
+  initializeFilters();
+</script>

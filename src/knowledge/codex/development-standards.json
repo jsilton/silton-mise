@@ -1,0 +1,124 @@
+{
+  "id": "architecture-and-practices",
+  "title": "Development Standards & Architecture",
+  "description": "Core coding practices, component architecture, and deployment workflow for the project",
+  "severity": "high",
+  "source": "CODE_PRACTICES.md",
+  "created": "2026-01-04",
+  "guidelines": [
+    {
+      "category": "component-architecture",
+      "rule": "Only create components when reusable (2+ locations), self-contained, or reducing duplication",
+      "examples": [
+        "✓ RecipeCard - used in homepage grid, reusable",
+        "✓ FilterPanel - logical unit with state management",
+        "✓ TagBadge - single-use pattern across categories",
+        "✗ SingleUseWrapper - only used once, inline instead"
+      ],
+      "detection": "Check file count - should stay < 15 components for this project size"
+    },
+    {
+      "category": "styling",
+      "rule": "Use Tailwind CSS only - no additional CSS files",
+      "examples": [
+        "✓ class=\"text-xs bg-white border border-slate-300 rounded\"",
+        "✗ import './styles.css' or <style> tags"
+      ],
+      "detection": "Search for .css files in src/ - should only be in node_modules"
+    },
+    {
+      "category": "tag-colors",
+      "rule": "Tag categories have consistent color mapping",
+      "mapping": {
+        "cooking-method": "blue",
+        "cuisine": "purple",
+        "dietary": "green",
+        "occasion": "amber",
+        "flavor": "rose",
+        "difficulty": "slate"
+      },
+      "detection": "All tag colors defined in TagBadge.astro"
+    },
+    {
+      "category": "data-structure",
+      "rule": "Recipe frontmatter must be complete and consistent",
+      "required_fields": [
+        "title",
+        "origin (single country only)",
+        "cuisines (array)",
+        "difficulty (easy|intermediate|advanced)",
+        "role",
+        "vibe",
+        "prepTime",
+        "cookTime",
+        "totalTime",
+        "servings",
+        "ingredients (array)"
+      ],
+      "auto_generated": [
+        "cookingMethods",
+        "dietary",
+        "occasions",
+        "flavorProfile"
+      ]
+    },
+    {
+      "category": "deployment",
+      "rule": "Always run QA before deploying major changes",
+      "steps": [
+        "1. npm run qa (automated tests)",
+        "2. Manual test homepage: search, filters, sort",
+        "3. Manual test recipe detail: tags, links, layout",
+        "4. git commit with descriptive message",
+        "5. npm run deploy (builds + ready to push)"
+      ],
+      "detection": "Check if npm run qa passes 100%"
+    },
+    {
+      "category": "testing",
+      "rule": "Test these primary features before any deployment",
+      "features": {
+        "homepage": [
+          "Search by recipe name and ingredients",
+          "Filter by difficulty, cuisine, dietary, cooking method, occasion",
+          "Combine filters with search",
+          "Sort by alphabetical, prep time, difficulty",
+          "Reset filters and clear search"
+        ],
+        "recipe-detail": [
+          "All 6 tag categories display",
+          "Ingredients with checkboxes",
+          "Markdown content renders",
+          "Links work",
+          "Breadcrumb navigation"
+        ],
+        "responsive": [
+          "Mobile layout (375px)",
+          "Tablet layout (768px)",
+          "Desktop layout (1024px+)"
+        ]
+      }
+    },
+    {
+      "category": "git-practices",
+      "rule": "Use descriptive commit messages with type prefix",
+      "types": {
+        "feat": "new feature or component",
+        "fix": "bug fix",
+        "refactor": "code reorganization without functionality change",
+        "docs": "documentation updates",
+        "perf": "performance improvements",
+        "chore": "build, dependencies, tooling"
+      },
+      "example": "feat: add RecipeHeader component for recipe detail metadata\n\nEncapsulates breadcrumb, time metadata, and all 6 tag sections.\nReduces recipe detail page from 212 to 50 lines."
+    }
+  ],
+  "knowledge_references": [
+    "CODE_PRACTICES.md - comprehensive standards guide",
+    "DEPLOYMENT.md - deployment workflow and checklist",
+    "scripts/qa-test.mjs - automated QA verification",
+    "CONTRIBUTING.md - content guidelines"
+  ],
+  "last_updated": "2026-01-04",
+  "update_notes": "Added QA test suite, deployment guide, and comprehensive standards documentation"
+}
