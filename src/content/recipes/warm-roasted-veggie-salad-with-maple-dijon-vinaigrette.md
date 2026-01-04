@@ -1,43 +1,41 @@
 ---
-title: Warm Roasted Veggie Salad with Maple Dijon Vinaigrette
+title: Warm Roasted Veggie Salad
+role: side
+vibe: fuel
 prepTime: 10 min
 cookTime: 25 min
-servings: Serves 6
-ingredients:
-  - 1 Medium Sweet Potato cut into 1/2 inch cubes – this is approximately 1 cup
-  - >-
-    6 Ounces Brussels Sprouts trimmed and cut in half – this is approximately 1
-    1/2 cups
-  - 1 Medium Red Onion sliced
-  - 2 Cloves Garlic mashed
-  - 2 Tablespoons Olive Oil
-  - 1 Teaspoon Kosher Salt
-  - ½ Teaspoon Ground Black Pepper
-  - ⅓ Cup Olive Oil
-  - 2 Tablespoons Apple Cider Vinegar
-  - 2 Tablespoons Pure Maple Syrup
-  - 1 Tablespoon Dijon Mustard
-  - 2 Cloves Garlic mashed
-  - ½ Teaspoon Dried Thyme
-  - 1 Pinch Sea Salt to taste
-  - 1 Pinch Ground Black Pepper to taste
-  - 3 Cups Curly Kale Leaves chopped with the stems removed and loosely packed
-  - 1 Pinch Sea Salt this will be used to help soften the kale!
-  - ½ Cup Dried Cranberries
-  - ½ Cup Parmesan Cheese freshly grated
 totalTime: 35 min
-role: base
-vibe: fuel
+servings: '6'
+ingredients:
+  - '--- The Roasted Snap ---'
+  - '1 medium Sweet Potato, 1/2-inch cubes'
+  - '6 oz Brussels Sprouts, halved'
+  - '1 Red Onion, sliced'
+  - '2 tbsp Extra-Virgin Olive Oil'
+  - '--- The Maple-Dijon Emulsion ---'
+  - '1/3 cup Extra-Virgin Olive Oil'
+  - '2 tbsp Apple Cider Vinegar (The Acid Finish)'
+  - '2 tbsp Pure Maple Syrup'
+  - '1 tbsp Dijon Mustard'
+  - '--- The Finish ---'
+  - '3 cups Curly Kale, massaged'
+  - '1/2 cup Parmesan, grated'
+  - '1/2 cup Dried Cranberries'
 ---
+
+## Chef's Note
+This salad is a study in **Texture Integrity** through **The Roasted Stacks Pattern**. The secret to its Success is **The Massage Pattern**: you must rub the kale with sea salt for 2 minutes *before* adding the hot vegetables; this breaks down the tough cellulose for a tender "Bounce." We maintain the "Snap" by roasting the sweet potatoes and sprouts at 375°F until charred. The maple-mustard emulsion provides the mandatory **Acid Finish** that bridges the sweet stone fruit and earthy greens.
 
 ## Directions
 
-1. To make this salad, start by preheating your oven to 375 F and lining a baking sheet with parchment paper.
-2. Next, prepare the roasted veggies. Wash and chop the sweet potato, Brussels sprouts, and red onion, and add them to a bowl alongside the mashed garlic, sea salt, olive oil, and black pepper. Toss them until the veggies are fully coated in the oil and seasonings, and then transfer the veggies to the baking sheet.
-3. Place the tray with the veggies in the oven for 20-25 minutes, until the veggies have roasted and have slight char marks on them.
-4. Then, while the veggies are in the oven, prepare the Maple Dijon Vinaigrette by whisking the dressing ingredients together, in a small bowl. Taste and adjust the salt and pepper as needed, then set it aside until the rest of the salad is complete.
-5. Next, prepare the kale. Wash and chop the curly kale, removing the stems from the leaves. Chop the kale into small pieces and add it to a large bowl.
-6. Then, add a pinch of sea salt to the kale and massage the kale with your hands for 1-2 minutes to break up the fibers.
-7. Once the kale has softened, remove the warm roasted veggies from the oven and add them to the bowl with the kale, followed by the dried cranberries and grated parmesan cheese.
-8. Finally, pour the dressing over top of the salad and use your clean hands to toss it, to ensure that all of the veggies and kale are evenly coated in the dressing.
-9. Once it's done, serve it and enjoy! Store any leftovers in an airtight container, in the fridge, for up to three days.
+1.  **Roast:** Preheat oven to 375°F. Toss sweet potatoes, sprouts, and onion with 2 tbsp oil, salt, and pepper. Roast for 20-25 minutes until caramelized and tender.
+2.  **The Emulsion:** In a small jar, whisk together the 1/3 cup oil, vinegar, syrup, Dijon, and garlic until thick and opaque.
+3.  **Massage:** Place chopped kale in a large bowl. Sprinkle with a pinch of sea salt. **Massage for 2 minutes** until soft and dark green.
+4.  **Assemble:** Add the warm roasted vegetables directly to the kale bowl. 
+5.  **Bind:** Add the cranberries and Parmesan. Pour the dressing over the top.
+6.  **Toss:** Toss vigorously with your hands until every leaf is coated in the sweet-savory emulsion. Serve immediately.
+
+## Serving Suggestions
+-   [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
+-   [Chicken Milanese](/recipes/chicken-milanese)
+-   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

@@ -1,49 +1,39 @@
 ---
-title: Vegetable Muffin
-prepTime: 10 min
-cookTime: 20 min
-servings: 12 muffins
-ingredients:
-  - 2 large eggs can sub 2 "flax eggs"
-  - 1 cup mashed overripe banana can sub with 1 cup unsweetened applesauce
-  - 1 cup grated carrots
-  - 1 cup loosely packed spinach or kale
-  - ¼ cup oil I use melted coconut oil or avocado
-  - ¼ cup maple syrup or honey
-  - 1 teaspoon vanilla extract
-  - 2 teaspoons apple cider vinegar
-  - '1 cup white whole wheat flour can sub 1:1 gluten free flour mix, if needed'
-  - 1 teaspoons baking soda
-  - 1 teaspoons baking powder
-  - ¼ cup cocoa powder
-  - 1 teaspoon ground cinnamon
-  - ¼ teaspoon salt
-  - >-
-    ¼ cup chocolate chips** or to taste. If you omit, add a couple tablespoons
-    of granulated sugar to help bring up the sweetness.
-totalTime: 30 min
+title: Vegetable Green Muffins
 role: side
 vibe: speed
+prepTime: 10 min
+cookTime: 20 min
+totalTime: 30 min
+servings: '12'
+ingredients:
+  - '--- The Emerald Emulsion ---'
+  - '1 cup Spinach or Kale, packed'
+  - '1 cup Ripe Banana or Applesauce'
+  - '1/4 cup Coconut or Avocado Oil'
+  - '1/4 cup Maple Syrup'
+  - '2 large Eggs'
+  - '2 tsp Apple Cider Vinegar (The Acid Finish)'
+  - '--- The Ancient Grain Mix ---'
+  - '1 cup White Whole Wheat Flour'
+  - '1/4 cup Cocoa Powder'
+  - '1 tsp Ground Cinnamon'
+  - '1 tsp Baking Soda + 1 tsp Baking Powder'
+  - '1/4 cup Dark Chocolate Chips'
 ---
+
+## Chef's Note
+These are high-performance **Modularity** components for busy families. The secret to their Success is **Structural Science** through **The High-Speed Emulsion**. You must pulverize the raw greens and wet ingredients in a blender until they form a perfectly smooth, neon-green liquid. This ensures the moisture is evenly distributed, resulting in a cake-like "Bounce" that masks the fibrous greens. The addition of **Apple Cider Vinegar** is the mandatory **Acid Finish** needed to activate the baking soda for a tall rise.
 
 ## Directions
 
-1. Preheat your oven to 350 ℉ and line a 12-hole muffin tin with liners. Set aside
-2. In your blender, combine eggs, banana / applesauce, carrots, spinach/kale, maple syrup/ honey, oil, vinegar, and vanilla.
-3. Blend until mixture is smooth.
-4. Add flour, baking powder, baking soda, salt, cocoa powder and cinnamon. Process until just mixed.
-5. If you do not have a high speed blender, combine everything in a bowl and mix by hand.
-6. Finally, fold in chocolate chips (if using).
-7. Portion batter into prepared muffin tin and top with extra chocolate chips if desired.
-8. Bake for 20-22 minutes or until a toothpick inserted into the middle comes out clean.
-9. Let cool in pan for 5 minutes before transferring to a cooling rack. Enjoy and let cool completely before storing leftovers in an air-tight container in fridge or freezer.
+1.  **Emulsify:** In a high-powered blender, combine eggs, banana, spinach, syrup, oil, and vinegar. Blend on high for 60 seconds until vibrant green.
+2.  **Dry Mix:** In a large bowl, whisk together flour, cocoa, cinnamon, baking soda, and salt.
+3.  **Combine:** Pour the green emulsion into the dry ingredients. Stir with a spatula until **just mixed**. Fold in the chocolate chips.
+4.  **Bake:** Preheat oven to 350°F. Line a 12-cup tin. Fill each 3/4 full. Bake for 20-22 minutes until a toothpick comes out clean.
+5.  **Cool:** Let rest in the pan for 5 minutes. These freeze perfectly for up to 3 months.
 
-## Notes
-
-\*\*chocolate usually contains milk. If using the chocolate chips, opt for a dairy-free brand like Enjoy Life if dairy-free is important.
-
-## Nutrition
-
-- Serving: 1muffin | Calories: 135kcal | Carbohydrates: 17g | Protein: 3g | Fat: 7g | Saturated Fat: 1g | Polyun
-- saturated Fat: 2g | Monoun
-- saturated Fat: 3g | Trans Fat: 0.02g | Cholesterol: 31mg | Sodium: 198mg | Potassium: 131mg | Fiber: 2g | Sugar: 7g | Vitamin A: 2385IU | Vitamin C: 6mg | Calcium: 63mg | Iron: 1mg
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Fresh Sliced Apples
+-   Cold Glass of Milk

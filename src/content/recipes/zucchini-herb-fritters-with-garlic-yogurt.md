@@ -1,43 +1,43 @@
 ---
-title: Zucchini-Herb Fritters with Garlic Yogurt
-servings: About 12 servings
-ingredients:
-  - Garlic Yogurt
-  - ½ cup plain yogurt (not Greek)
-  - 2 tablespoons finely chopped fresh mint
-  - 2 tablespoons fresh lemon juice
-  - 2 tablespoons olive oil
-  - 1 teaspoon honey
-  - '1 garlic clove, finely grated'
-  - Kosher salt and freshly ground black pepper
-  - Fritters And Assembly
-  - '2 small zucchini, ends trimmed'
-  - '1 small russet potato, peeled'
-  - ½ medium onion
-  - '2 teaspoons kosher salt, plus more'
-  - '2 large eggs, beaten to blend'
-  - '1 garlic clove, finely grated'
-  - ½ teaspoon ground cumin
-  - '3 tablespoons finely chopped fresh parsley, plus more for serving'
-  - '2 tablespoons finely chopped fresh mint, plus more for serving'
-  - Freshly ground black pepper
-  - ⅓ cup all-purpose flour
-  - ½ teaspoon baking powder
-  - ½ cup vegetable oil
-  - Olive oil (for serving)
+title: Zucchini Herb Fritters
 role: main
 vibe: fuel
+prepTime: 30 min
+cookTime: 10 min
+totalTime: 40 min
+servings: '12 fritters'
+ingredients:
+  - '2 small Zucchini, grated'
+  - '1 small Russet Potato, grated'
+  - '--- The "Bounce" Binder ---'
+  - '2 large Eggs, beaten'
+  - '1/3 cup All-Purpose Flour'
+  - '1/2 tsp Baking Powder'
+  - '--- The Flavor Pulse ---'
+  - '1/2 medium Onion, grated'
+  - '3 tbsp Fresh Parsley + 2 tbsp Fresh Mint'
+  - '1 clove Garlic, grated'
+  - '1/2 tsp Ground Cumin'
+  - '--- The Garlic Yogurt (Acid Finish) ---'
+  - '1/2 cup Plain Yogurt'
+  - '1 tbsp Fresh Lemon Juice'
+  - '1 tbsp Fresh Mint, chopped'
 ---
+
+## Chef's Note
+The secret to fritters that aren't a soggy mess is **Structural Science** through **The Ice-Shock Squeeze Pattern**. You must grate the zucchini and potato, salt them heavily, and let them sit for 30 minutes. Then, wrap them in a kitchen towel and **squeeze with maximum force** until bone-dry. This ensures the fritters have a resilient "Bounce" while the exterior develops a shatteringly crisp "Snap" in the oil. The garlic yogurt provides the mandatory **Acid Finish** to cut the deep-fried richness.
 
 ## Directions
 
-1. Garlic Yogurt
-2. Mix yogurt, mint, lemon juice, oil, honey, and garlic in a small bowl; season with salt and pepper. Cover; chill.
-3. Fritters and Assembly
-4. Grate zucchini, potato, and onion on the large holes of a box grater. Transfer to a mesh sieve set over a bowl and toss with 2 tsp. salt. Let vegetables sit until they release their liquid, 30−40 minutes.
-5. Mix eggs, garlic, cumin, 3 Tbsp. parsley, and 2 Tbsp. mint in a medium bowl; season with salt and pepper. Gather up half of zucchini mixture in a kitchen towel; squeeze out excess liquid. Add to bowl with egg mixture and repeat with remaining zucchini mixture. Sprinkle flour and baking powder over; mix gently.
-6. Heat vegetable oil in a large skillet over medium-high. Working in batches, spoon scoops of mixture into skillet, flattening gently with a spatula. Cook until golden brown and crisp, about 3 minutes per side. Transfer to a wire rack; season with salt. Drizzle yogurt sauce with olive oil and top with more herbs; serve alongside warm fritters.
+1.  **The Squeeze:** Grate zucchini, potato, and onion. Toss with 2 tsp salt. Let stand in a sieve for 30 minutes. **Squeeze in a towel until no juice remains**.
+2.  **The Mix:** In a large bowl, whisk eggs, garlic, cumin, and all fresh herbs. 
+3.  **Bind:** Add the dry vegetables to the eggs. Sprinkle the flour and baking powder over the top. Mix gently until a thick, sticky batter forms.
+4.  **The Snap:** Heat 1/2-inch of neutral oil in a large skillet. 
+5.  **Fry:** Drop 1/4-cup scoops into the hot oil. Flatten with a spatula. Fry for 3 minutes per side until deep golden brown.
+6.  **Drain:** Transfer to a wire rack (The Air-Snap Pattern) to keep the bottom crispy.
+7.  **Serve:** Whisk yogurt ingredients. Serve the warm fritters with a dollop of cold garlic yogurt.
 
-## Nutrition
-
-- Per fritter: Calories (kcal) 150 Fat (g) 13 Saturated Fat (g) 2 Cholesterol (mg) 30 Carbohydrates (g) 8 Dietary Fiber (g) 1 Total Sugars (g) 2 Protein (g) 2 Sodium (mg) 360 ...Read More
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

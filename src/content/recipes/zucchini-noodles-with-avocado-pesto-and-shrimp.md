@@ -1,34 +1,39 @@
 ---
-title: Zucchini Noodles with Avocado Pesto & Shrimp
-prepTime: 35 min
-cookTime: 35 min
-servings: '4'
-ingredients:
-  - '5-6 medium zucchini (2 1/4-2 1/2 pounds total), trimmed'
-  - '¾ teaspoon salt, divided'
-  - 1 ripe avocado
-  - 1 cup packed fresh basil leaves
-  - ¼ cup unsalted shelled pistachios
-  - 2 tablespoons lemon juice
-  - ¼ teaspoon ground pepper
-  - '¼ cup extra-virgin olive oil plus 2 tablespoons, divided'
-  - '3 cloves garlic, minced'
-  - >-
-    1 pound raw shrimp (21-25 count), peeled and deveined, tails left on if
-    desired
-  - 1-2 teaspoons Old Bay seasoning
-totalTime: 70 min
+title: Zucchini Noodles with Avocado & Shrimp
 role: main
 vibe: speed
+prepTime: 15 min
+cookTime: 10 min
+totalTime: 25 min
+servings: '4'
+ingredients:
+  - '5 medium Zucchini, spiralized'
+  - '1 lb Shrimp, peeled and deveined'
+  - '--- The Avocado Pesto Emulsion ---'
+  - '1 ripe Avocado'
+  - '1 cup Fresh Basil'
+  - '1/4 cup Pistachios, unsalted'
+  - '2 tbsp Fresh Lemon Juice (The Acid Finish)'
+  - '--- The Snap Stacks ---'
+  - '3 cloves Garlic, minced'
+  - '1 tsp Old Bay Seasoning (The High Note)'
+  - '1/4 cup Extra-Virgin Olive Oil'
 ---
+
+## Chef's Note
+This is the baseline for 25-minute high-performance "Fuel." The secret to zucchini noodles that aren't watery is **Texture Integrity** through **The Salt-Squeeze Pattern**. You must toss the spiralized strands with salt and let them drain for 15 minutes *before* sautéing; this ensures they maintain a resilient "Bounce" and don't turn the **Avocado Pesto** into a thin soup. We use **Old Bay** as the mandatory savory-salt **High Note** to introduce a Maryland "Snap" to the sweet shrimp.
 
 ## Directions
 
-1. Using a spiral vegetable slicer or a vegetable peeler, cut zucchini lengthwise into long, thin strands or strips. Stop when you reach the seeds in the middle (seeds make the noodles fall apart). Place the zucchini "noodles" in a colander and toss with 1/2 teaspoon salt. Let drain for 15 to 30 minutes, then gently squeeze to remove any excess water.
-2. Meanwhile, combine avocado, basil, pistachios, lemon juice, pepper and the remaining 1/4 teaspoon salt in a food processor. Pulse until finely chopped. Add 1/4 cup oil and process until smooth.
-3. Heat 1 tablespoon oil in a large skillet over medium-high heat. Add garlic and cook, stirring, for 30 seconds. Add shrimp and sprinkle with Old Bay; cook, stirring occasionally, until the shrimp is almost cooked through, 3 to 4 minutes. Transfer to a large bowl.
-4. Add the remaining 1 tablespoon oil to the pan. Add the drained zucchini noodles and gently toss until hot, about 3 minutes. Transfer to the bowl, add the pesto and gently toss to combine.
+1.  **Noodles:** Spiralize zucchini. Toss with 1/2 tsp salt in a colander. Let stand for 15 minutes. Gently squeeze to remove all excess water.
+2.  **Pesto:** In a food processor, pulse avocado, basil, pistachios, lemon juice, and oil until perfectly smooth and vibrant green.
+3.  **The Snap:** In a large skillet, heat 1 tbsp oil. Sauté garlic for 30 seconds. Add shrimp and Old Bay. Cook for 3-4 minutes until pink and "Snappy." Remove.
+4.  **Bind:** Add the dry zucchini noodles to the pan. Toss over medium-high for exactly 3 minutes until hot but still firm.
+5.  **Combine:** Remove from heat. Add the avocado pesto and the cooked shrimp. 
+6.  **Toss:** Toss vigorously until every strand is coated in the green silk.
+7.  **Serve:** Serve immediately.
 
 ## Serving Suggestions
-
-Couscous or Crusty Bread, Everyday Arugula Salad
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+-   [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)

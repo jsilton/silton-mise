@@ -1,27 +1,33 @@
 ---
-title: The Original Rice Krispies Treats™
-prepTime: 10 min
-cookTime: 30 min
-servings: '12'
-ingredients:
-  - 3 tablespoons butter
-  - '1 package (10 oz., about 40) JET-PUFFED Marshmallows'
-  - OR
-  - 5-1/2 cups JET-PUFFED Miniature Marshmallows
-  - 6 cups Kellogg's® Rice Krispies® cereal
-totalTime: 40 min
+title: Rice Krispies Treats (The Silton Standard)
 role: dessert
 vibe: project
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 40 min
+servings: '12'
+ingredients:
+  - '6 cups Rice Krispies Cereal'
+  - '10 oz (1 package) Fresh Marshmallows'
+  - '3 tbsp Unsalted Butter (Cold)'
+  - '--- The Custom Snap ---'
+  - 'Pinch of Sea Salt'
+  - '1/2 tsp Pure Vanilla Extract'
 ---
+
+## Chef's Note
+This is the baseline for high-speed **Modularity**. The secret to a Rice Krispie treat that isn't a rock-hard brick is **Structural Science** through **The Low-Heat Emulsion Pattern**. You must melt the butter and marshmallows on the **lowest possible heat**; high heat denatures the sugar and leads to a brittle "Snap." We use **Sea Salt and Vanilla** as the mandatory high notes to balance the corn-syrup sweetness, providing a sophisticated "Bounce" that commercial versions lack.
 
 ## Directions
 
-1. 1. In large saucepan melt butter over low heat. Add marshmallows and stir until completely melted. Remove from heat.
-2. 2. Add KELLOGG'S® RICE KRISPIES® cereal. Stir until well coated.
-3. 3. Using buttered spatula or wax paper evenly press mixture into 13 x 9 x 2-inch pan coated with cooking spray. Cool. Cut into 2-inch squares. Best if served the same day.
-4. MICROWAVE DIRECTIONS:
-5. In microwave-safe bowl heat butter and marshmallows on HIGH for 3 minutes, stirring after 2 minutes. Stir until smooth. Follow steps 2 and 3 above. Microwave cooking times may vary.
+1.  **The Melt:** In a large heavy-bottomed pot, melt butter over **low heat**. Add marshmallows and stir constantly with a greased spatula until 90% melted.
+2.  **Emulsify:** Remove from heat immediately. Stir in the sea salt and vanilla extract. 
+3.  **The Fold:** Gently fold in the cereal until every grain is coated in the marshmallow silk. 
+4.  **The Press:** Transfer to a greased 9x13-inch pan. Use a piece of wax paper to **press down very gently**—if you pack them too tight, you destroy the "Bounce" air pockets.
+5.  **The Set:** Let cool completely at room temperature for 30 minutes. **Do not refrigerate.**
+6.  **Cut:** Slice into 2-inch squares and serve the same day for the Gold Standard texture.
 
-## Notes
-
-For best results, use fresh marshmallows.1 jar (7 oz.) marshmallow crème can be substituted for marshmallows.Diet, reduced calorie or tub margarine is not recommended.Store no more than two days at room temperature in airtight container.To freeze, place in layers separated by wax paper in airtight container. Freeze for up to 6 weeks. Let stand at room temperature for 15 minutes before serving.
+## Serving Suggestions
+-   [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+-   Fresh Raspberries
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

@@ -1,39 +1,38 @@
 ---
 title: The Best Belgian Waffles
-prepTime: 15 min
-cookTime: 25 min
-servings: 4-6
-ingredients:
-  - 2 cups flour
-  - 4 teaspoons baking powder
-  - 1/2 teaspoon salt
-  - 1/4 cup sugar
-  - 2 eggs
-  - 1/2 cup vegetable oil
-  - 2 cups milk
-  - 1 teaspoon vanilla
-totalTime: 40 min
 role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 25 min
+totalTime: 40 min
+servings: '6'
+ingredients:
+  - '2 cups All-Purpose Flour'
+  - '--- The Cloud Aeration ---'
+  - '2 large Eggs, separated'
+  - '2 cups Whole Milk'
+  - '1/2 cup Vegetable Oil'
+  - '1/4 cup Granulated Sugar'
+  - '--- The Leavening ---'
+  - '4 tsp Baking Powder'
+  - '1 tsp Pure Vanilla Extract'
+  - '1/2 tsp Sea Salt'
 ---
+
+## Chef's Note
+The secret to a "Gold Standard" waffle is **Structural Science** through **The Cloud Aeration Pattern**. You must beat the egg whites to stiff peaks *separately* and fold them into the batter at the very end. This introduces millions of tiny air pockets that expand instantly in the waffle iron, creating a shatteringly crisp "Snap" on the exterior with a cloud-like "Bounce" inside. We use a **High Baking Powder Ratio** to ensure the vertical rise needed for deep Belgian pockets.
 
 ## Directions
 
-1. Oil the waffle maker.
-2. Sift the dry ingredients together in a large bowl.
-3. In separate bowl, separate egg whites and beat until stiff peaks form.
-4. Mix together the egg yolks, milk, oil , and vanilla, stir slightly.
-5. Add to dry ingredients and mix well.
-6. Fold in egg whites.
-7. Cook in waffle iron on medium-high heat for around 5-10 minute.
+1.  **Aeration:** In a clean bowl, beat the 2 egg whites until stiff peaks form. Set aside.
+2.  **Dry Mix:** Sift together flour, baking powder, sugar, and salt in a large bowl.
+3.  **The Emulsion:** In a separate bowl, whisk together egg yolks, milk, oil, and vanilla until smooth.
+4.  **Combine:** Pour the wet ingredients into the dry. Stir with a whisk until **just combined** (small lumps are mandatory).
+5.  **The Fold:** Gently fold the whipped egg whites into the batter using a rubber spatula. Do not over-mix, or you will deflate the "Bounce."
+6.  **Bake:** Pour 1/2 cup portions into a preheated, oiled waffle iron. Cook for 5-7 minutes until deep golden brown and the steam stops.
+7.  **Serve:** Serve immediately with warm maple syrup and [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce).
 
-## Nutrition
-
-- Calories: 636 Calories from Fat 312 49%
-- Total Fat: 34.7 g 53%
-- Saturated Fat: 7.2 g 35%
-- Cholesterol: 110.1 mg 36%
-- Sodium: 750.5 mg 31%
-- Dietary Fiber: 1.7 g 6%
-- Sugars: 12.9 g 51%
-- Protein: 13.6 g 27%
+## Serving Suggestions
+-   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+-   Fresh Sliced Strawberries
+-   Crispy Bacon

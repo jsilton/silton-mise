@@ -1,27 +1,36 @@
 ---
 title: The New England Express
-servings: 8 servings
-ingredients:
-  - Thyme Syrup
-  - ⅓ cup sugar
-  - 8 sprigs thyme
-  - Assembly
-  - 2 cups apple cider
-  - 1½ cups dark rum
-  - ¾ cup fresh lime juice
-  - 1 teaspoon Angostura bitters
-  - Club soda
-  - 8 sprigs thyme
-  - 8 lime slices
-role: main
+role: drink
 vibe: fuel
+prepTime: 10 min
+cookTime: 5 min
+totalTime: 15 min
+servings: '8'
+ingredients:
+  - '--- The Thyme Syrup ---'
+  - '1/3 cup Granulated Sugar'
+  - '8 sprigs Fresh Thyme'
+  - '--- The Build ---'
+  - '2 cups Apple Cider (unfiltered)'
+  - '1 1/2 cups Dark Rum (The "Deep Note")'
+  - '3/4 cup Fresh Lime Juice (The Acid Finish)'
+  - '1 tsp Angostura Bitters'
+  - 'Club Soda (to top)'
 ---
+
+## Chef's Note
+This cocktail is a masterclass in **Modern Heritage** flavor layering. The secret to its Success is **The Herbal Syrup Pattern**: we boil the sugar into a simple syrup but steep the fresh thyme for 10 minutes *after* removing from heat. This introduces a savory, botanical "Deep Note" that bridges the gap between the earthy apple cider and the rich molasses of the dark rum. The fresh lime juice provides the mandatory **Acid Finish** that defines the "Express" punch.
 
 ## Directions
 
-1. Thyme syrup
-2. Bring sugar and ⅓ cup water to a boil in a small saucepan, stirring to dissolve sugar. Remove from heat, add thyme sprigs, and cover. Let stand 10 minutes, then strain into a small jar. Let cool.
-3. DO AHEAD: Syrup can be made 1 month ahead. Cover and chill.
-4. Assembly
-5. Mix thyme syrup, cider, rum, lime juice, and bitters in a pitcher. Divide among rocks glasses filled with ice; top off with club soda. Garnish with thyme sprigs and lime slices.
-6. DO AHEAD: Thyme syrup, cider, rum, lime juice, and bitters can be mixed 4 hours ahead. Cover and chill.
+1.  **The Syrup:** In a small pan, boil sugar and 1/3 cup water until dissolved. Remove from heat. Add thyme sprigs. Cover and **let stand for 10 minutes**. Strain and chill.
+2.  **The Base:** In a large pitcher, combine the chilled thyme syrup, apple cider, dark rum, lime juice, and bitters. Stir vigorously.
+3.  **Thermal Prep:** Fill 8 rocks glasses with massive ice cubes.
+4.  **Assemble:** Pour the cider mixture into each glass, filling 3/4 full. 
+5.  **Effervescence:** Top each glass with a splash of club soda for the mandatory "Bounce."
+6.  **Garnish:** Garnish with a fresh thyme sprig and a lime slice for the final aromatic **High Note**.
+
+## Serving Suggestions
+-   [Grandmommy's Pecan Pie](/recipes/grandmommys-pecan-pie)
+-   [Oreo Truffles](/recipes/easy-oreo-truffles)
+-   [Cranberry Orange Sauce](/recipes/cranberry-orange-sauce) (on a cracker with brie)

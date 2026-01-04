@@ -1,41 +1,36 @@
 ---
 title: Vanilla Earl Grey Overnight Oats
-prepTime: 10 min
-totalTime: 370 min
-servings: 'Yield: 2'
-ingredients:
-  - 1 Earl Grey tea bag
-  - 1 cup hot boiling water
-  - 1 tbsp pure honey
-  - 2 cups uncooked old fashioned rolled oats (or quick oats) *see first note
-  - ½ cup almond milk (or milk of your choice)
-  - 1 tsp vanilla extract
-  - cookie or wafer (I used a stroopwafel)
 role: main
 vibe: fuel
+prepTime: 10 min
+cookTime: 0 min
+totalTime: 370 min
+servings: '2'
+ingredients:
+  - '2 cups Rolled Oats (Old-fashioned preferred)'
+  - '--- The Earl Grey Emulsion ---'
+  - '1 cup Boiling Water + 1 Earl Grey Tea Bag'
+  - '1/2 cup Almond Milk (or Whole Milk)'
+  - '1 tbsp Pure Honey'
+  - '1 tsp Pure Vanilla Extract'
+  - '--- The Finish ---'
+  - '1 Stroopwafel or Crisp Cookie (The "Snap" garnish)'
+  - 'Pinch of Sea Salt'
 ---
+
+## Chef's Note
+This is a high-performance **Fuel** breakfast that utilizes **Structural Science** through **The Botanical Infusion Pattern**. By steeping the oats in a concentrated Earl Grey base *before* the milk, we ensure the bergamot essential oils penetrate the starch cells of the grain. This results in a "Bounce" that is fragrant and complex rather than just sweet. We maintain **Texture Integrity** through **The 6-Hour Set**: overnight hydration is mandatory to ensure the oats are "squeaky" to the bite (al dente). The Stroopwafel provides the final mandatory **Textural Snap**.
 
 ## Directions
 
-1. In a medium bowl, steep the Earl Grey tea bag in the hot boiling water for 3-5 minutes (depending on how strong you like your tea). Discard the tea bag and stir in the honey until it completely dissolves.
-2. Then add the oats, milk, and vanilla extract into the bowl. Whisk together until well-combined.
-3. Carefully spoon into two (half pint) mason jars (or airtight containers). Seal the jars with lids and place in the refrigerator for at least 6 hours or overnight.
-4. After the oats are ready, open the jars then give the oats a stir and taste. Add additional milk if you prefer a thinner consistency and/or more honey for a sweeter flavour.
-5. Finish by topping the overnight oats with a cookie or wafer if you like. Enjoy!
+1.  **The Infusion:** Steep the Earl Grey bag in 1 cup boiling water for 5 minutes. Discard the bag. Stir in the honey while hot until dissolved.
+2.  **Emulsify:** Whisk in the milk, vanilla, and sea salt. 
+3.  **Combine:** Place the oats in a large bowl. Pour the tea-milk mixture over the top. Stir vigorously until the oats are fully submerged.
+4.  **The Set:** Divide into two half-pint mason jars. Cover and **refrigerate for at least 6 hours** (ideally 12).
+5.  **Adjust:** Open the jar. If the oats are too thick, stir in a splash of fresh milk to reach a velvety "Bounce."
+6.  **Serve:** Top with a crumbled Stroopwafel or wafer for the mandatory **High Note**.
 
-## Notes
-
-I used quick oats (aka instant oats). These oats produce a softer and creamier texture than old-fashioned rolled oats. If you prefer a chewier texture that holds together better (it’s also the usual overnight oats choice), go with old-fashioned rolled oats.
-
-## Nutrition
-
-- TOTAL FAT: 6g
-- SATURATED FAT: 1g
-- TRANS FAT: 0g
-- SATURATED FAT: 4g
-- CHOLESTEROL: 0mg
-- SODIUM: 13mg
-- CARBOHYDRATES: 66g
-- FIBER: 8g
-- SUGAR: 11g
-- PROTEIN: 11g
+## Serving Suggestions
+-   [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+-   Fresh Sliced Pears
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)

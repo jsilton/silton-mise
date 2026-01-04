@@ -1,46 +1,40 @@
 ---
-title: Warm-Spiced Butternut Squash Soup
-prepTime: 20 min
-cookTime: 135 min
-servings: Serves 10
-ingredients:
-  - 4 pounds whole butternut squash
-  - '1/4 cup extra-virgin olive oil, divided'
-  - 7 cups water
-  - 1/2 teaspoon whole allspice
-  - 1/2 teaspoon black peppercorns
-  - 6 thyme sprigs
-  - 3 whole cloves
-  - 1 (3-inch) cinnamon stick
-  - 1 star anise pod
-  - '1 yellow onion, chopped'
-  - 1 1/2 teaspoons kosher salt
-  - 1 tablespoon cider vinegar
-  - 1/8 teaspoon crushed red pepper
-  - 1/2 cup pomegranate arils
-  - 1/4 cup chopped fresh cilantro
-totalTime: 155 min
+title: Spiced Butternut Squash Soup
 role: main
 vibe: comfort
+prepTime: 20 min
+cookTime: 135 min
+totalTime: 155 min
+servings: '10'
+ingredients:
+  - '4 lbs Whole Butternut Squash'
+  - '--- The Harvest Broth ---'
+  - '7 cups Filtered Water'
+  - '1 (3-inch) Cinnamon Stick'
+  - '1 Star Anise pod + 3 Whole Cloves'
+  - '1/2 tsp Whole Allspice + 1/2 tsp Peppercorns'
+  - '--- The Aromatic Base ---'
+  - '1 Yellow Onion, chopped'
+  - '1/4 cup Extra-Virgin Olive Oil'
+  - '1 tbsp Apple Cider Vinegar (The Acid Finish)'
+  - '--- The High Note ---'
+  - '1/2 cup Pomegranate Arils'
+  - '1/4 cup Fresh Cilantro'
 ---
+
+## Chef's Note
+This is the ultimate holiday **Project** soup. The secret to its Success is **The Scrap-Stock Pattern**. We don't just use water; we simmer the squash peels, seeds, and trimmings with whole cinnamon and star anise for 45 minutes to create a concentrated "Harvest Broth." This introduces a botanical "Deep Note" that standard stock lacks. We maintain **Texture Integrity** through **The Two-Stage Simmer**: roasting the squash cubes in the pot with onions *before* adding the broth creates a Maillard "Bounce" that defines the puree.
 
 ## Directions
 
-1. Peel and seed squash, reserving peels, trimmings, and seeds. Cube peeled and seeded squash. Heat a large Dutch oven over medium-high heat. Add 1 tablespoon oil; swirl to coat. Add squash scraps; sauté 8 minutes or until lightly browned. Add 7 cups water, allspice, and next 5 ingredients (through anise). Bring to a boil; cover, reduce heat, and simmer 45 minutes. Strain mixture into a large bowl; discard solids.
-2. Wipe pan clean with paper towels; heat over medium heat. Add remaining 3 tablespoons oil and onion; cover and cook 5 minutes, stirring occasionally. Add cubed squash; cover and cook 10 minutes, stirring occasionally. Add reserved broth and salt; bring to a boil. Cover and simmer 40 minutes or until squash is very tender.
-3. Place half of squash mixture in a blender. Remove center piece of blender lid (to allow steam to escape); secure blender lid on blender. Place a clean towel over opening in blender lid (to avoid splatters). Blend until smooth. Pour into a large bowl. Repeat procedure with remaining squash mixture. Stir in vinegar and red pepper. Ladle soup into shallow bowls. Top evenly with pomegranate and cilantro.
-
-## Nutrition
-
-- Calories: 125Total Carbohydrates: Carbohydrate 20g
-- Cholesterol: 0.0mg
-- Fat: 5.6g
-- Fiber: 3g
-- Protein: 2g
-- fat: 0.8g
-- Sodium: 294mg
-- fat: 4g
+1.  **Harvest Broth:** Peel and seed the squash. Place all trimmings, seeds, and whole spices in a pot with 7 cups water. Simmer for 45 minutes. Strain and reserve the liquid.
+2.  **Sauté:** Cube the squash flesh. In a large Dutch oven, sauté onion in 1 tbsp oil until soft. Add squash cubes; cook for 10 minutes until edges are browned.
+3.  **Simmer:** Pour the spiced harvest broth over the squash. Bring to a boil, then simmer for 40 minutes until the squash is very tender.
+4.  **The Emulsion:** Transfer to a blender. Remove the center cap to allow steam to escape. Puree until perfectly smooth.
+5.  **Finish:** Stir in the cider vinegar and red pepper flakes for the mandatory **Acid Finish**.
+6.  **Serve:** Ladle into bowls. Top with pomegranate arils and fresh cilantro for the final **High Note**.
 
 ## Serving Suggestions
-
-Grilled Cheese, Crusty Bread
+-   [Sourdough Grilled Cheese](/recipes/grilled-cheese-and-tomato-soup)
+-   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+-   Warm [Anadama Bread](/recipes/anadama-bread)

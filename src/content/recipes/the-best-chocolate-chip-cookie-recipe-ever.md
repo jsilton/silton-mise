@@ -1,37 +1,37 @@
 ---
-title: The Best Chocolate Chip Cookie Recipe Ever
-prepTime: 10 min
-cookTime: 8 min
-servings: 36 cookies
-ingredients:
-  - 1X 2X 3X
-  - 1 cup salted butter softened
-  - 1 cup granulated sugar
-  - 1 cup light brown sugar packed
-  - 2 teaspoons pure vanilla extract
-  - 2 large eggs
-  - 3 cups all-purpose flour
-  - 1 teaspoon baking soda
-  - ½ teaspoon baking powder
-  - 1 teaspoon sea salt
-  - 2 cups chocolate chips (14 oz)
-totalTime: 18 min
+title: The Best Chocolate Chip Cookies
 role: dessert
 vibe: speed
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 20 min
+servings: '36'
+ingredients:
+  - '1 cup (2 sticks) Unsalted Butter, softened'
+  - '1 cup Granulated Sugar'
+  - '1 cup Light Brown Sugar, packed'
+  - '2 large Eggs'
+  - '2 tsp Pure Vanilla Extract'
+  - '--- The Cookie Structure ---'
+  - '3 cups All-Purpose Flour'
+  - '1 tsp Baking Soda + 1/2 tsp Baking Powder'
+  - '1 tsp Sea Salt'
+  - '2 cups (14 oz) Semi-sweet Chocolate Chips'
 ---
+
+## Chef's Note
+This is the definitive "Speed" dessert for the Silton Standard. The secret to Success is **The Under-Bake Pattern**: you must remove the cookies from the oven when the edges are barely golden but the centers still look "wet" and underdone. The residual heat on the baking pan (The 2-Minute Set) will finish the cook, resulting in a cookie with a permanent "Bounce" and soft, gooey center. We maintain **Texture Integrity** by using a full 3 cups of flour to provide the structural "Snap" needed to hold the massive amount of chocolate.
 
 ## Directions
 
-1. Preheat oven to 375 degrees F. Line three baking sheets with parchment paper and set aside.
-2. In a medium bowl mix flour, baking soda, baking powder and salt. Set aside.
-3. Cream together butter and sugars until combined.
-4. Beat in eggs and vanilla until light (about 1 minute).
-5. Mix in the dry ingredients until combined.
-6. Add chocolate chips and mix well.
-7. Roll 2-3 Tablespoons (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets.
-8. Bake in preheated oven for approximately 8-10 minutes. Take them out when they are just barely starting to turn brown.
-9. Let them sit on the baking pan for 2 minutes before removing to cooling rack.
+1.  **Dry Mix:** Whisk flour, baking soda, baking powder, and salt. 
+2.  **Cream:** In a stand mixer, beat softened butter and both sugars for 2 minutes until light and fluffy. Add eggs and vanilla; beat until emulsified.
+3.  **Incorporate:** Gradually add the dry mix until **just combined**. Fold in the chocolate chips.
+4.  **Shape:** Preheat oven to 375°F. Line sheets with parchment. Roll 2-tbsp balls of dough and place 2 inches apart.
+5.  **Bake:** Bake for 8-10 minutes. **Pull them early**—the Gold Standard is a pale, soft center.
+6.  **The Set:** Let rest on the hot pan for exactly 2 minutes before transferring to a wire rack.
 
-## Nutrition
-
-- Serving: 1cookie | Calories: 183kcal | Carbohydrates: 26g | Protein: 2g | Fat: 8g | Saturated Fat: 5g | Cholesterol: 27mg | Sodium: 153mg | Potassium: 31mg | Fiber: 1g | Sugar: 18g | Vitamin A: 197IU | Vitamin C: 1mg | Calcium: 24mg | Iron: 1mg
+## Serving Suggestions
+-   Cold Glass of Milk
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream) (as a sandwich)
+-   [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)

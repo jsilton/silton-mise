@@ -1,40 +1,41 @@
 ---
 title: Tomato Cobbler with Cornmeal-Cheddar Biscuits
-servings: 6 to 8
+role: main
+vibe: comfort
+prepTime: 20 min
+cookTime: 60 min
+totalTime: 80 min
+servings: '8'
 ingredients:
-  - 3 1/2 to 4 pounds cherry tomatoes
-  - 1/2 tablespoon olive oil
-  - '2 medium red onions, peeled and thinly sliced'
-  - '1 1/2 teaspoons salt, divided'
-  - '4 cloves garlic, minced'
-  - 1/4 cup red wine (or 2 tablespoons balsamic vinegar)
-  - 1/4 cup all-purpose flour
-  - 1 1/4 cups all-purpose flour
-  - 3/4 cup cornmeal
-  - 1 tablespoon baking powder
-  - 1/2 teaspoon baking soda
-  - 1/2 teaspoon salt
-  - 6 tablespoons cold unsalted butter
-  - '1 1/2 cups grated cheddar cheese, divided'
-  - '3/4 to 1 cup buttermilk, plus extra for brushing'
-role: side
-vibe: fuel
+  - '--- The Tomato Reduction ---'
+  - '4 lbs Cherry Tomatoes, whole'
+  - '2 Red Onions, thinly sliced'
+  - '1/4 cup Red Wine (The "Deep Note" Standard)'
+  - '1/4 cup All-Purpose Flour'
+  - '4 cloves Garlic, minced'
+  - '--- The Cornmeal Snap ---'
+  - '1 1/4 cups All-Purpose Flour + 3/4 cup Cornmeal'
+  - '6 tbsp Unsalted Butter, cold and cubed'
+  - '1 1/2 cups Sharp Cheddar, shredded'
+  - '1 cup Whole Buttermilk'
+  - '1 tbsp Baking Powder'
 ---
+
+## Chef's Note
+This is a masterclass in **Texture Integrity**. The secret to Success is **The Caramelized Onion Bind Pattern**: we sauté the red onions for a full 20 minutes until they become a sweet, jammy paste *before* adding the cherry tomatoes. This creates a rich "Bounce" base that holds the whole tomatoes in suspension. We use **Structural Science** for the biscuits: the addition of cornmeal provides a gritty "Snap" that contrasts the velvety tomatoes. The red wine provides the mandatory **Acid Finish** to cut the rich cheddar crust.
 
 ## Directions
 
-1. Heat the oven to 375°F with a rack placed in the middle of the oven.
-2. Pick the stems off of the cherry tomatoes and rinse them under running water. Larger tomatoes can be sliced in half, but I generally just leave the tomatoes whole.
-3. Warm the olive oil in a 12-inch cast iron or high-sided stainless steel skillet over medium-high heat. When warm, add the onions and 1/2 teaspoon of salt. Sauté until the onions are very soft and tender, at least 10 minutes, or if you have the patience, lower the heat and continue cooking for another 20 or 30 minutes to caramelize the onions. (Read more: How To Caramelize Onions.)
-4. Stir the garlic into the onions and cook until fragrant, 30 to 60 seconds. Pour in the wine (or balsamic) and cook until the wine has mostly evaporated. Stir in the flour and cook until the flour is paste-like. Remove the pan from heat. Stir in the cherry tomatoes and 1 teaspoon of salt, carefully stirring and folding until the onions are evenly mixed with the tomatoes.
-5. To prepare the biscuits, combine the flour, cornmeal, baking powder, baking soda, and salt in the bowl of a food processor. Pulse a few times to combine. Cut the cold butter into chunks and scatter it over the flour. Pulse a few times until the butter has been cut into pea-sized pieces.
-6. Transfer the flour-and-butter mixture to a bowl and stir in 1 cup of the cheddar (reserve the other 1/2 cup for sprinkling over the top). Form a well in the middle and pour in 3/4 cup of buttermilk for firmer biscuits, or 1 cup of buttermilk for looser biscuits. Use a spatula to gently stir the buttermilk into the flour; continue stirring until all the buttermilk has been incorporated and no more dry flour remains. (Alternatively, you can make the biscuits entirely in a bowl and use your fingers or a pastry cutter to cut in the butter.)
-7. Drop the dough over the tomatoes, making 7 to 8 biscuits. Brush the biscuits with a little buttermilk. Place the skillet on a baking sheet to catch drips, and then transfer to the oven.
-8. Cook for 55 to 60 minutes, until the tomatoes are very bubbly and the tops of the biscuits are nicely browned. About 10 minutes before the end of baking, sprinkle the tops of the biscuits with the remaining 1/2 cup of cheddar.
-9. Remove from the oven and let the cobbler rest for at least 15 minutes before eating. Leftovers will keep for about a week.
+1.  **Reduction:** In a massive skillet, sauté onions in oil for 20 minutes until mahogany brown. Add garlic and wine; simmer until the wine has vanished.
+2.  **The Paste:** Stir in 1/4 cup flour until paste-like. Remove from heat. Gently fold in the cherry tomatoes and salt. Pour into a large baking dish.
+3.  **The Dough:** In a food processor, pulse flour, cornmeal, baking powder, and cold butter until pea-sized. Transfer to a bowl.
+4.  **Emulsify:** Stir in 1 cup of the cheese and the buttermilk until a shaggy, sticky dough forms.
+5.  **Drop:** Spoon walnut-sized mounds of dough over the tomatoes—you want gaps for the steam to escape (The Steam Cycle).
+6.  **Bake:** Preheat oven to 375°F. Bake for 55-60 minutes until the tomatoes are bubbling and the biscuits are deep golden.
+7.  **The Snap:** During the final 10 minutes, sprinkle the remaining cheese over the biscuits.
+8.  **Set:** Let rest for 15 minutes (mandatory) before serving.
 
-## Nutrition
-
-- Calories: 379
-- Fat: 17.8 g (27.4%)Saturated 10.0 g (49.9%)Carbs 43.1 g (14.4%)Fiber 4.3 g (17.0%)Sugars 8.5 g
-- Protein: 11.8 g (23.6%)Sodium 810.0 mg (33.8%)
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+-   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

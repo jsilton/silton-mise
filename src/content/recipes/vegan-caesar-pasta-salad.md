@@ -1,38 +1,35 @@
 ---
 title: Vegan Caesar Pasta Salad
-prepTime: 15 min
-cookTime: 10 min
-servings: '4'
-ingredients:
-  - >-
-    8 ounces rotini or bowtie pasta (or pasta of choice -- gluten free, if
-    desired)
-  - 1 batch vegan caesar dressing
-  - '2 hearts romaine, chopped'
-  - '1 firm but slightly ripe avocado, diced or sliced'
-  - 1 ½ cups halved cherry or grape tomatoes
-  - >-
-    1 ½ cups roasted chickpeas -- we love the Biena ranch flavor or sea salt
-    (regular, unroasted chickpeas is also fine, but roasted will have more
-    flavor)*
-  - 'Freshly ground salt and pepper, to taste'
-totalTime: 25 min
 role: side
 vibe: fuel
+prepTime: 15 min
+cookTime: 10 min
+totalTime: 25 min
+servings: '4'
+ingredients:
+  - '8 oz Rotini or Cavatappi Pasta'
+  - '--- The Vegan Caesar Emulsion ---'
+  - '1 1/2 cups [Vegan Caesar Dressing](/recipes/vegan-caesar-dressing)'
+  - '1 1/2 cups Roasted Chickpeas (The "Snap" Protein)'
+  - '--- The Texture Base ---'
+  - '2 hearts Romaine Lettuce, chopped'
+  - '1 ripe Avocado, sliced'
+  - '1 1/2 cups Cherry Tomatoes, halved'
+  - 'Sea Salt and Black Pepper'
 ---
+
+## Chef's Note
+The secret to a "Gold Standard" vegan pasta salad is **Texture Integrity** through **The Layered Snap Pattern**. We use **Roasted Chickpeas** instead of croutons; their earthy, brittle crunch provides a necessary contrast to the soft "Bounce" of the rotini. We maintain the Silton Standard by dressing the hot pasta *before* adding the fresh greens; the residual heat of the noodle slightly absorbs the **Caesar Emulsion**, ensuring the flavor is locked into the starch. The avocado provides the final fatty **High Note**.
 
 ## Directions
 
-1. Boil the pasta according to directions on the package. Drain, then transfer to a large bowl.
-2. While pasta is cooking, you can make the vegan Caesar dressing. Once done, toss the dressing in the bowl with the cooked pasta until well combined.
-3. Next, add in the romaine, sliced avocado, halved tomatoes and roasted chickpeas; toss again until well combined. Add more salt and pepper to taste. Caesar salads usually need to have a decent amount of salt in order for the flavor to be spot on, so be generous with your salt and pepper! Serves 4.
+1.  **Boil:** Cook pasta in salted water until **al dente**. Drain.
+2.  **The Bind:** While the pasta is still warm, transfer to a large bowl and toss with 1/2 cup of the [Vegan Caesar Dressing](/recipes/vegan-caesar-dressing). Let stand for 5 minutes.
+3.  **Combine:** Add the romaine, cherry tomatoes, and the remaining dressing. Toss gently with your hands (The Gold Standard).
+4.  **The Snap:** Fold in the roasted chickpeas and the avocado slices just before serving. 
+5.  **Serve:** Season generously with black pepper and sea salt. Serve chilled or at room temperature.
 
-## Nutrition
-
-- Calories: 588cal
-- Carbohydrates: 79.7g
-- Protein: 19.5g
-- Fat: 24.7g
-- Saturated Fat: 2.8g
-- Fiber: 12g
-- Sugar: 8.5g
+## Serving Suggestions
+-   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+-   [Tuna Poke Bowls](/recipes/tuna-poke-bowls)

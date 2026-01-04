@@ -1,27 +1,40 @@
 ---
 title: Tuscan Spaghetti Squash
-cookTime: 1 min
-servings: 'Serves: 4 servings'
-ingredients:
-  - 1 large spaghetti squash
-  - 1 tbsp. extra-virgin olive oil
-  - kosher salt
-  - Freshly ground black pepper
-  - 4 slices bacon
-  - '2 cloves garlic, minced'
-  - '1 1/2 c. cherry tomatoes, halved'
-  - 2 c. baby spinach
-  - 1/2 c. heavy cream
-  - 1/3 c. grated Parmesan
-  - 'Basil, for garnish'
-totalTime: 1 min
 role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 45 min
+totalTime: 55 min
+servings: '4'
+ingredients:
+  - '1 large Spaghetti Squash'
+  - '4 slices Smoked Bacon, chopped'
+  - '--- The Creamy Emulsion ---'
+  - '1/2 cup Heavy Cream'
+  - '1/3 cup Parmesan, freshly grated'
+  - '1 1/2 cups Cherry Tomatoes, halved'
+  - '2 cups Fresh Baby Spinach'
+  - '2 cloves Garlic, minced'
+  - '--- The Finish ---'
+  - 'Fresh Basil, chopped (The High Note)'
+  - 'Extra-Virgin Olive Oil'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+The secret to spaghetti squash that doesn't feel like a side dish is **Structural Science** through **The Bacon-Fat Sear Pattern**. We roast the squash flesh-side down to maintain moisture (The "Bounce"), but then toss the "noodles" directly into rendered bacon fat and cream. This creates a savory, emulsified glaze that clings to each strand. We maintain **Texture Integrity** by adding the cherry tomatoes and spinach at the very end—this ensures you have bright, "Snappy" bursts of color against the rich Tuscan cream.
 
 ## Directions
 
-1. Preheat oven to 400 degrees F.
-2. Cut squash in half lengthwise. Rub all over with olive oil and season with salt and pepper. Place flesh side-down on baking sheet. Bake for 40-45 minutes, until the spaghetti squash is tender. Let cool until cool enough to handle, then use two forks to pull apart spaghetti squash flesh into fine noodle-like strings.
-3. Meanwhile, cook bacon in a medium skillet until crispy. Transfer to a paper towel-lined plate to drain.
-4. Pour off half the bacon fat and add garlic, tomatoes and spinach to the skillet. Season with salt and pepper. Add heavy cream and Parmesan and let simmer until slightly thickened. Add spaghetti squash and toss until fully coated. Crumble bacon over the squash and stir to combine. Garnish with basil.
+1.  **Roast Squash:** Preheat oven to 400°F. Halve squash, rub with oil, and roast flesh-side down for 40-45 minutes until fork-tender. 
+2.  **Shred:** Let cool for 5 minutes. Use two forks to scrape the flesh into "noodles." Set aside.
+3.  **The Snap:** In a large skillet, fry bacon until crispy. Remove to a plate, leaving the fat in the pan.
+4.  **Aromatics:** Add garlic and cherry tomatoes to the bacon fat. Sauté for 2 minutes until the tomatoes just begin to soften.
+5.  **Emulsify:** Pour in the heavy cream and Parmesan. Simmer for 2 minutes until the sauce is thick and bubbly.
+6.  **Bind:** Add the spaghetti squash and spinach to the skillet. Toss vigorously for 1 minute until the spinach has collapsed.
+7.  **Serve:** Top with the crispy bacon and fresh basil for the final aromatic **High Note**.
+
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Garlic Bread](/recipes/garlic-bread)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
