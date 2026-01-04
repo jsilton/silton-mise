@@ -1,36 +1,36 @@
 ---
 title: Easy Baked Turkey Meatballs
-servings: 'Serves: 12'
-ingredients:
-  - 2 pounds 100% ground turkey breast
-  - 1/2 cup unseasoned breadcrumbs
-  - 1/2 cup carrot
-  - 1/4 cup onion
-  - 2 eggs
-  - 1 tablespoon Italian seasoning
-  - 1 teaspoon salt
-  - 1 teaspoon garlic powder
-  - Dash of red pepper flakes (optional)
 role: main
-vibe: holiday
+vibe: speed
+prepTime: 15 min
+cookTime: 30 min
+totalTime: 45 min
+servings: '12'
+ingredients:
+  - '2 lbs Ground Turkey (93/7 fat ratio preferred)'
+  - '1/2 cup Unseasoned Breadcrumbs'
+  - '1/2 cup Carrots, finely minced'
+  - '1/4 cup Yellow Onion, finely minced'
+  - '2 large Eggs'
+  - '1 tbsp Italian Seasoning'
+  - '1 tsp Garlic Powder'
+  - '1 tsp Sea Salt'
+  - 'Pinch of Red Pepper Flakes'
 ---
+
+## Chef's Note
+Turkey meatballs often suffer from being dry and rubbery. We solve this with **Texture Integrity** through the **Moisture Guard Pattern**. The secret is the **Finely Minced Carrots**: as the meatballs bake, the carrots release moisture internally, creating a juicy "Bounce" that lean turkey lacks on its own. We use **The 2-Tbsp Portion Pattern** to ensure they cook quickly at high-heat (350°F) without drying out the exterior.
 
 ## Directions
 
-1. Preheat the oven to 350°F. Finely mince carrot and onion by hand or in a food processor and then combine all ingredients. Use your hands to gently mix.
-2. Shape meatballs into 2-tablespoon-sized-balls and place on a baking sheet covered in parchment paper.
-3. Bake for 30 minutes at 350 degrees, checking at 30 minutes to ensure there is no pink in the middle of the meatballs. Cook for 5 more minutes if needed.
-4. Serve with pasta or spaghetti squash, and your favorite tomato sauce. You can veg it up by adding sautéed onion, zucchini, red pepper, and grape tomatoes.
-5. You can freeze the meatballs in a plastic bag in the freezer for up to 3 months, letting them defrost in the fridge or microwave before eating.
+1.  **Prep:** Preheat oven to 350°F. Line a large baking sheet with parchment paper.
+2.  **Mince:** Use a food processor or sharp knife to finely mince the carrots and onions until they are almost a paste—this ensures they integrate perfectly into the meat.
+3.  **Combine:** In a large bowl, combine turkey, breadcrumbs, minced veg, eggs, and seasonings. Use your hands to mix **gently** until just incorporated. Do not over-mix, or the meatballs will become tough.
+4.  **Shape:** Form the mixture into 2-tablespoon-sized balls (about the size of a golf ball). Arrange on the prepared baking sheet.
+5.  **Bake:** Bake for 25-30 minutes until the internal temperature reaches 165°F and there is no pink in the center.
+6.  **Serve:** Serve hot with your favorite tomato sauce or over spaghetti squash.
 
-## Nutrition
-
-- Per serving: Calories: 142
-- Total Fat: 6g
-- Saturated Fat: 2g
-- saturated Fat: 0g
-- Cholesterol: 92mg
-- Sodium: 298mg
-- Dietary Fiber: 0g
-- Sugars: 1g
-- Protein: 16g
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Zucchini Noodles with Avocado Pesto](/recipes/zucchini-noodles-with-avocado-pesto-and-shrimp)
+-   [Garlic Bread](/recipes/garlic-bread)

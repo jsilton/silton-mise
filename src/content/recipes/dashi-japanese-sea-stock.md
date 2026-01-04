@@ -1,21 +1,30 @@
 ---
 title: Dashi (Japanese Sea Stock)
-prepTime: 5 min
-cookTime: 10 min
-servings: About 6 cups
-ingredients:
-  - 6 cups cold water
-  - '1 oz (30 grams) kombu (dried kelp), about 20 square inches'
-  - '2 (5-gram) packages katsuo bushi (dried bonito flakes), about 1 cup'
-totalTime: 15 min
 role: base
 vibe: speed
+prepTime: 5 min
+cookTime: 10 min
+totalTime: 15 min
+servings: '6 cups'
+ingredients:
+  - '6 cups Cold Water'
+  - '1 oz (30g) Kombu (Dried Kelp), approx 20 sq inches'
+  - '2 packs (5g each) Katsuo Bushi (Dried Bonito Flakes), approx 1 cup'
 ---
+
+## Chef's Note
+Dashi is the foundation of Japanese cuisine and a masterclass in **Structural Science**. The secret to the Silton Standard is the **Umami Extraction Pattern**: you must remove the kombu just before the water hits a boil. If boiled, the kombu releases bitter, slimy compounds that ruin the clarity of the stock. This "First Dashi" (Ichiban Dashi) provides the clean, ocean-fresh **High Note** essential for professional-grade miso soups and noodle dishes.
 
 ## Directions
 
-1. Bring cold water and kombu just to a boil in a large saucepan over high heat. Remove from heat and remove kombu (saving it for pickled Napa cabbage ). Sprinkle katsuo bushi over liquid; let stand 3 minutes and, if necessary, stir to make katsuo bushi sink. Pour through a cheesecloth-lined sieve or a coffee filter into a bowl. Reserve katsuo bushi for rice with soy-glazed bonito flakes and sesame seeds .
+1.  **Steep:** Place cold water and kombu in a large saucepan. Let sit for 10 minutes to begin the extraction.
+2.  **Boil:** Bring to a simmer over medium-high heat. **Just before it reaches a boil**, remove and discard the kombu (or save for pickling).
+3.  **Bloom:** Sprinkle the katsuo bushi (bonito flakes) over the liquid. Let it come to a full boil, then immediately remove from heat.
+4.  **Settle:** Let stand for 3 minutes without stirring until the flakes sink to the bottom.
+5.  **Strain:** Pour through a fine-mesh sieve or coffee filter into a clean bowl. Do not squeeze the flakes, as this will cloud the stock.
+6.  **Store:** Use immediately or refrigerate for up to 4 days.
 
-## Notes
-
-If making stock for miso soup it is not necessary to save the kombu or katsuo bushi. • Stock keeps 4 days. Cool, uncovered, before chilling, covered.
+## Serving Suggestions
+-   [Miso Soup](/recipes/miso-soup)
+-   [Japanese-Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+-   [Yaki Udon](/recipes/yaki-udon)

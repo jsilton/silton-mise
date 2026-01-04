@@ -1,39 +1,42 @@
 ---
-title: Double Chocolate Cookies
-cookTime: 60 min
-servings: Yield 9 to 10 big cookies
-ingredients:
-  - 1 cup/145 grams all-purpose flour
-  - ¾ cup/75 grams Dutch-process cocoa powder
-  - ¾ teaspoon kosher salt
-  - ½ teaspoon baking powder
-  - ½ teaspoon baking soda
-  - '10 tablespoons/141 grams unsalted butter, at room temperature'
-  - ¾ cup/150 grams dark brown sugar
-  - ⅔ cup/133 grams granulated sugar
-  - 1 large egg
-  - 2 teaspoons pure vanilla extract
-  - >-
-    2 cups/305 grams semisweet or bittersweet chocolate discs (or use 2 cups/340
-    grams chocolate chips)
-totalTime: 60 min
+title: Double Chocolate Cookies (The 24-Hour Standard)
 role: dessert
-vibe: fuel
+vibe: comfort
+prepTime: 20 min
+cookTime: 18 min
+totalTime: 1500 min
+servings: '10 jumbo cookies'
+ingredients:
+  - '10 tbsp Unsalted Butter, room temp'
+  - '3/4 cup Dark Brown Sugar, packed'
+  - '2/3 cup Granulated Sugar'
+  - '1 large Egg'
+  - '2 tsp Pure Vanilla Extract'
+  - '--- The Cocoa Base ---'
+  - '1 cup All-Purpose Flour'
+  - '3/4 cup Dutch-process Cocoa Powder'
+  - '3/4 tsp Kosher Salt'
+  - '1/2 tsp Baking Powder'
+  - '1/2 tsp Baking Soda'
+  - '--- The Snap ---'
+  - '2 cups Semisweet Chocolate Discs (preferred)'
 ---
+
+## Chef's Note
+This is the ultimate test of **Structural Science** in baking. The secret to the Silton Standard is the **24-Hour Chill Pattern**: you must refrigerate the dough for at least 24 hours before baking. This allows the flour to fully hydrate and the sugars to begin breaking down, resulting in a cookie with a deep, toffee-like complexity and a superior "Snap" on the edges. We use **Dutch-process Cocoa** for its darker, smoother profile and mandatory **Chocolate Discs** to create wide "pools" of chocolate rather than small nuggets.
 
 ## Directions
 
-1. In a medium bowl, whisk together flour, cocoa powder, salt, baking powder and baking soda. Set aside.
-2. In a stand mixer fitted with the paddle attachment, beat together butter, brown sugar and granulated sugar until very light, about 5 minutes. Add egg and vanilla and beat until well combined.
-3. With the mixer on low, add the dry ingredients and beat just until combined. Add the chocolate discs and mix briefly to combine. Press plastic wrap against the dough and chill it for at least 24 hours and up to 36.
-4. Heat oven to 350 degrees. Line a baking sheet with parchment paper. Portion the dough out into balls slightly larger than golf balls, about 3 1/2 ounces each, and transfer five balls to the baking sheet. (They will spread significantly.) Bake the cookies until set, being careful to remove cookies from the oven when still soft in the center, about 18 minutes. Transfer the parchment with the cookies to a rack to cool. Repeat with the remaining dough, baking a second batch of four or five cookies. Serve warm.
+1.  **Dry Mix:** In a medium bowl, whisk together flour, cocoa, salt, baking powder, and baking soda until no lumps remain.
+2.  **Cream:** In a stand mixer, beat butter and both sugars for exactly 5 minutes until very light and aerated. Add the egg and vanilla; beat until combined.
+3.  **Combine:** On low speed, add the dry ingredients and mix until **just combined**. Fold in the chocolate discs.
+4.  **The Chill:** Press plastic wrap directly against the dough. Refrigerate for **at least 24 hours** (36 hours is the Gold Standard).
+5.  **Prep:** Preheat oven to 350°F. Line a large baking sheet with parchment paper. 
+6.  **Portion:** Form the cold dough into balls larger than golf balls (about 3.5 oz each). Place only 5 balls per sheet, as they will spread significantly.
+7.  **Bake:** Bake for 18 minutes until the edges are set but the center still looks slightly soft.
+8.  **Cool:** Let cool on the sheet for 10 minutes to allow the internal structure to firm up.
 
-## Nutrition
-
-- Calories: 491Total Carbohydrates: 71 gram
-- Cholesterol: 59 milligram
-- Total Fat: 22 gramsDietary fiber: 4 gram
-- Protein: 5 gram
-- Saturated fat: 13 gram
-- Sodium: 261 milligram
-- Trans Fat: 0 grams
+## Serving Suggestions
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream) (for a warm cookie sundae)
+-   Cold Glass of Whole Milk
+-   Flaky Sea Salt (sprinkled on top)

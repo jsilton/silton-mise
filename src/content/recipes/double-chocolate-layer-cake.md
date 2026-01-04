@@ -1,48 +1,46 @@
 ---
 title: Double Chocolate Layer Cake
-servings: Serves 12 to 14
-ingredients:
-  - For cake layers
-  - 3 ounces fine-quality semisweet chocolate such as Callebaut
-  - 1 1/2 cups hot brewed coffee
-  - 3 cups sugar
-  - 2 1/2 cups all-purpose flour
-  - 1 1/2 cups unsweetened cocoa powder (not Dutch process)
-  - 2 teaspoons baking soda
-  - 3/4 teaspoon baking powder
-  - 1 1/4 teaspoons salt
-  - 3 large eggs
-  - 3/4 cup vegetable oil
-  - 1 1/2 cups well-shaken buttermilk
-  - 3/4 teaspoon vanilla
-  - 1 pound fine-quality semisweet chocolate such as Callebaut
-  - 1 cup heavy cream
-  - 2 tablespoons sugar
-  - 2 tablespoons light corn syrup
-  - 1/2 stick (1/4 cup) unsalted butter
-  - Special equipment
-  - two 10- by 2-inch round cake pans
 role: dessert
 vibe: project
+prepTime: 45 min
+cookTime: 70 min
+totalTime: 115 min
+servings: '12'
+ingredients:
+  - '--- The Cake Layers ---'
+  - '3 oz Semisweet Chocolate, finely chopped'
+  - '1 1/2 cups Hot Brewed Coffee'
+  - '3 cups Granulated Sugar'
+  - '2 1/2 cups All-Purpose Flour'
+  - '1 1/2 cups Unsweetened Cocoa Powder (not Dutch-process)'
+  - '2 tsp Baking Soda'
+  - '3/4 tsp Baking Powder'
+  - '1 1/4 tsp Sea Salt'
+  - '3 large Eggs'
+  - '3/4 cup Vegetable Oil'
+  - '1 1/2 cups Buttermilk, well-shaken'
+  - '--- The Glossy Ganache ---'
+  - '1 lb Semisweet Chocolate, chopped'
+  - '1 cup Heavy Cream'
+  - '2 tbsp Granulated Sugar'
+  - '2 tbsp Light Corn Syrup (The "Gloss" Hack)'
+  - '1/4 cup Unsalted Butter, cubed'
 ---
+
+## Chef's Note
+This is the "Gold Standard" of chocolate cakes. The secret to its intense depth is **The Coffee Bloom Pattern**: we melt the raw chocolate directly into hot coffee, which "blooms" the cocoa solids and releases aromatic compounds that water cannot. We maintain **Texture Integrity** in the frosting by using the **Corn Syrup Gloss Hack**—a tiny amount of corn syrup ensures the ganache stays mirror-shiny and pliable for days. This cake is intentionally low-heat (300°F) to ensure an even, flat-topped rise without a dome.
 
 ## Directions
 
-1. Make cake layers:
-2. Preheat oven to 300°F. and grease pans. Line bottoms with rounds of wax paper and grease paper.
-3. Finely chop chocolate and in a bowl combine with hot coffee. Let mixture stand, stirring occasionally, until chocolate is melted and mixture is smooth.
-4. Into a large bowl sift together sugar, flour, cocoa powder, baking soda, baking powder, and salt. In another large bowl with an electric mixer beat eggs until thickened slightly and lemon colored (about 3 minutes with a standing mixer or 5 minutes with a hand-held mixer). Slowly add oil, buttermilk, vanilla, and melted chocolate mixture to eggs, beating until combined well. Add sugar mixture and beat on medium speed until just combined well. Divide batter between pans and bake in middle of oven until a tester inserted in center comes out clean, 1 hour to 1 hour and 10 minutes.
-5. Cool layers completely in pans on racks. Run a thin knife around edges of pans and invert layers onto racks. Carefully remove wax paper and cool layers completely. Cake layers may be made 1 day ahead and kept, wrapped well in plastic wrap, at room temperature.
-6. Make frosting:
-7. Finely chop chocolate. In a 1 1/2- to 2-quart saucepan bring cream, sugar, and corn syrup to a boil over moderately low heat, whisking until sugar is dissolved. Remove pan from heat and add chocolate, whisking until chocolate is melted. Cut butter into pieces and add to frosting, whisking until smooth.
-8. Transfer frosting to a bowl and cool, stirring occasionally, until spreadable (depending on chocolate used, it may be necessary to chill frosting to spreadable consistency).
-9. Spread frosting between cake layers and over top and sides. Cake keeps, covered and chilled, 3 days. Bring cake to room temperature before serving.
+1.  **The Bloom:** Preheat oven to 300°F. Grease two 10-inch pans and line with parchment. Whisk the 3 oz chopped chocolate into the hot coffee until smooth. Let cool.
+2.  **Dry Mix:** Sift together sugar, flour, cocoa, baking soda, baking powder, and salt. 
+3.  **Aeration:** In a stand mixer, beat eggs until pale and thickened (3-5 mins). Slowly stream in oil, buttermilk, vanilla, and the cooled coffee-chocolate mixture.
+4.  **Combine:** Add the dry mix and beat on medium speed until **just combined**. The batter will be very thin.
+5.  **Bake:** Divide between pans. Bake for 60-70 minutes until a tester comes out clean. Cool completely in the pans before inverting.
+6.  **The Ganache:** Bring cream, sugar, and corn syrup to a boil. Pour over the 1 lb chopped chocolate. Let sit for 5 minutes, then whisk. Add butter cubes and stir until mirror-glossy.
+7.  **Assemble:** Frost between layers and over the top and sides. Let set for 1 hour at room temperature before serving.
 
-## Nutrition
-
-- Calories: 802
-- Carbohydrates: 112 g(37%)Fat 42 g(64%)Protein 10 g(19%)Saturated Fat 17 g(87%)Sodium 570 mg(24%)Polyun
-- saturated Fat: 4 g
-- Fiber: 7 g(29%)Monoun
-- saturated Fat: 19 g
-- Cholesterol: 85 mg(28%)per serving (12 servings) Powered by
+## Serving Suggestions
+-   [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+-   Fresh Sliced Raspberries
+-   [Hot-and-Sour Soup](/recipes/hot-and-sour-soup) (The classic Silton "Night Before" pairing)

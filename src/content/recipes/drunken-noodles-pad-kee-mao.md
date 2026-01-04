@@ -1,46 +1,50 @@
 ---
 title: Drunken Noodles (Pad Kee Mao)
-prepTime: 20 min
-cookTime: 30 min
-servings: 'Serves: 4 servings'
-ingredients:
-  - 2 tablespoons water
-  - '12 ounces boneless skinless chicken thighs (or breast, thinly sliced)'
-  - 2 teaspoons cornstarch
-  - 1 teaspoon oil
-  - 1 teaspoon soy sauce
-  - 8 ounces wide dried rice noodles
-  - 1 1/2 teaspoons brown sugar (dissolved in 1 tablespoon hot water)
-  - '2 teaspoons soy sauce (Thai soy sauce preferred, but any soy sauce will do)'
-  - 1 teaspoon dark soy sauce (see note)
-  - 1 tablespoon fish sauce
-  - 2 teaspoons oyster sauce
-  - pinch ground white pepper
-  - 3 tablespoons vegetable or canola oil (divided)
-  - 3 cloves garlic (sliced)
-  - ¼ teaspoon fresh grated ginger
-  - '2 shallots (sliced, about 1/3 cups)'
-  - 1 scallion (julienned into 3-inch/8cm pieces)
-  - 4 Thai red chili peppers (deseeded and julienned or chopped)
-  - 1 cup holy basil or Thai basil (loosely packed)
-  - '5 to 6 pieces baby corn (split in half, optional)'
-  - 2 teaspoons Shaoxing wine
-totalTime: 50 min
 role: main
 vibe: fuel
+prepTime: 20 min
+cookTime: 15 min
+totalTime: 35 min
+servings: '4'
+ingredients:
+  - '12 oz Chicken Thighs, thinly sliced'
+  - '8 oz Wide Dried Rice Noodles (Bánh Phở)'
+  - '--- The Velveting Marinade ---'
+  - '2 tbsp Water'
+  - '2 tsp Cornstarch'
+  - '1 tsp Light Soy Sauce'
+  - '--- The Kee Mao Sauce ---'
+  - '1 1/2 tsp Brown Sugar (dissolved in 1 tbsp hot water)'
+  - '2 tsp Light Soy Sauce'
+  - '1 tsp Dark Soy Sauce (for color)'
+  - '1 tbsp Fish Sauce'
+  - '2 tsp Oyster Sauce'
+  - 'Pinch of White Pepper'
+  - '--- The Stir-Fry ---'
+  - '1 cup Thai Basil or Holy Basil, packed'
+  - '4 Thai Red Chilies, chopped'
+  - '3 cloves Garlic, sliced'
+  - '2 Shallots, sliced'
+  - '5-6 pieces Baby Corn, halved'
+  - '2 tsp Shaoxing Wine'
+  - 'Neutral Oil'
 ---
+
+## Chef's Note
+The secret to "Street Quality" pad kee mao is **Structural Science** through **Velveting**. By working water and cornstarch into the chicken, we ensure it stays succulent even at the "Highest Heat" needed for the noodles. We maintain **Texture Integrity** through **The Scrape Pattern**: wide rice noodles tend to stick and tear; you must use a metal spatula to scrape the bottom of the wok aggressively during the final sauce reduction to create those slightly charred, chewy edges known as "Wok Hei."
 
 ## Directions
 
-1. Work the 2 tablespoons of water into the sliced chicken with your hands until the chicken absorbs the liquid. Add the cornstarch, oil, and soy sauce, and mix until the chicken is evenly coated. Set aside for 20 minutes.
-2. Follow the directions on the rice noodle package to prepare your noodles. Soak the noodles in hot tap water for 20 minutes, or quickly boil them just until al dente, then rinse under cold water.
-3. Stir together the dissolved brown sugar mixture, soy sauces, fish sauce, oyster sauce, and white pepper in a small bowl and set aside.
-4. Heat your wok until it’s close to smoking, and spread 2 tablespoons of oil around the perimeter of the wok. Add the chicken and let it sear for 1 minute on each side until it’s about 90% cooked. Remove from the wok and set aside. If the heat was high enough and you seared the meat correctly, your wok should be still clean with nothing sticking to it. If not, you can wash the wok to prevent the rice noodles from sticking.
-5. Continue with the wok on high heat and add 1 tablespoon of oil, along with the garlic and grated ginger.
-6. After a few seconds, add the shallots. Stir-fry for 20 seconds and add the scallions, chilies, basil, baby corn, and shaoxing wine. Stir-fry for another 20 seconds and add in the rice noodles. Use a scooping motion to mix everything for another minute until the noodles warm up.
-7. Next, add the prepared sauce mixture and stir-fry at the highest heat for about 1 minute until the noodles are uniform in color. Take care to use your metal spatula to scrape the bottom of the wok to prevent sticking.
-8. Add the seared chicken, and stir-fry for another 1 to 2 minutes. Serve!
+1.  **Velvet:** Work water into chicken until absorbed. Toss with cornstarch, oil, and soy sauce. Let sit for 20 minutes.
+2.  **Noodles:** Soak rice noodles in hot tap water for 20 minutes (or flash-boil) until **al dente**. Rinse in cold water and drain.
+3.  **The Sauce:** Whisk together all Kee Mao sauce ingredients. Set aside.
+4.  **The Sear:** Heat wok until smoking. Spread 2 tbsp oil around the perimeter. Sear chicken for 1 minute per side until 90% cooked. Remove chicken and set aside.
+5.  **Aromatics:** Add 1 tbsp oil, garlic, and ginger. Sauté for 10 seconds. Add shallots, scallions, chilies, basil, and baby corn. Splash the Shaoxing wine around the rim.
+6.  **Toss:** Add the noodles. Use a "scooping" motion to mix for 1 minute until warmed through.
+7.  **Bind:** Pour in the sauce. Stir-fry at **MAXIMUM HEAT** for 1 minute, scraping the bottom of the pan to prevent sticking, until noodles are uniform in color.
+8.  **Finish:** Return chicken to the wok. Toss for 1 more minute until glossy. Serve immediately.
 
-## Nutrition
-
-- Calories: 444kcal (22%) Carbohydrates: 54g (18%) Protein: 20g (40%) Fat: 15g (23%) Saturated Fat: 10g (50%) Cholesterol: 81mg (27%) Sodium: 953mg (40%) Potassium: 317mg (9%) Fiber: 1g (4%) Sugar: 3g (3%) Vitamin A: 400IU (8%) Vitamin C: 10.6mg (13%) Calcium: 37mg (4%) Iron: 1.5mg (8%)
+## Serving Suggestions
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+-   Thai Iced Tea
