@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 We skip the traditional flour dredging to keep this dish light and the flavors clean. The secret to a "Restaurant Quality" piccata without the mess is the **Structural Science** of the **Monter au Beurre** (The Butter Mount). By whisking cold butter into the hot lemon broth off the heat, we create a stable, glossy emulsion that clings to the chicken. The capers and lemon provide the mandatory **High Note** finish to cut through the richness.
 
 ## Directions
@@ -32,6 +33,7 @@ We skip the traditional flour dredging to keep this dish light and the flavors c
 6.  **Finish:** Return chicken to the pan to coat. Garnish with plenty of fresh parsley.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Pasta al Limone](/recipes/pasta-al-limone)
--   [Roasted Asparagus](/recipes/roasted-asparagus)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Pasta al Limone](/recipes/pasta-al-limone)
+- [Roasted Asparagus](/recipes/roasted-asparagus)

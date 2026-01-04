@@ -26,6 +26,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to this 25-minute "Speed" meal is the **Structural Science** of **Velveting** and **High-Heat Folding**. By marinating the chicken in a cornstarch-oil-soy mixture, we create a barrier that keeps the breast meat juicy in the wok. We maintain **Texture Integrity** by using a "bottom-to-top" folding motion—this ensures the snow peas stay bright green and "Shatteringly Crisp" rather than steaming into a limp yellow mess.
 
 ## Directions
@@ -39,6 +40,7 @@ The secret to this 25-minute "Speed" meal is the **Structural Science** of **Vel
 7.  **Serve:** Plate immediately over steamed rice.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)

@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 Cooking a whole fish is the ultimate expression of **Modern Heritage**. To ensure **Texture Integrity**, we use the **Triple Slash Pattern**: cutting three deep slits into the thickest part of the fish. This allows the heat and the seasoning sauce to penetrate the core, preventing the outside from overcooking before the middle is done. We finish with the **Smoking Oil Method**, pouring just-smoking peanut oil over fresh scallions to release their aromatic essence directly into the skin.
 
 ## Directions
@@ -35,6 +36,7 @@ Cooking a whole fish is the ultimate expression of **Modern Heritage**. To ensur
 7.  **Finish:** Pour the reserved pan juices over the fish. Garnish with cilantro and serve immediately.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Steamed Bok Choy with Oyster Sauce](/recipes/steamed-bok-choy-with-oyster-sauce)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Steamed Bok Choy with Oyster Sauce](/recipes/steamed-bok-choy-with-oyster-sauce)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)

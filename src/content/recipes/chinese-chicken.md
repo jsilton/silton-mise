@@ -23,6 +23,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This recipe is a tribute to **Modern Heritage**. We take a classic stir-fry and elevate it with **The Sausage Hack**: steaming the Chinese sausage directly on top of the rice. This infuses the rice with the sweet, smoky fat of the sausage while keeping the stir-fry clean. We prioritize **Texture Integrity** by searing the broccoli separately first—this ensures it maintains its "Snap" and bright green color while the chicken develops a deep, sherry-infused "Bounce."
 
 ## Directions
@@ -35,6 +36,7 @@ This recipe is a tribute to **Modern Heritage**. We take a classic stir-fry and 
 6.  **Serve:** Remove sausage from the rice and slice into 1/4-inch coins. Serve the chicken over the fragrant rice with the sausage slices on the side.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Garlic Sauce Base](/recipes/chinese-garlic-sauce-base)
--   [Quick Pickled Red Onions](/recipes/pickled-red-onions)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Garlic Sauce Base](/recipes/chinese-garlic-sauce-base)
+- [Quick Pickled Red Onions](/recipes/pickled-red-onions)

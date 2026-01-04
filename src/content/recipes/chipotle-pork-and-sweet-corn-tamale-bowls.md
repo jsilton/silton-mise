@@ -30,6 +30,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This dish is a masterclass in **Modularity**. Instead of the labor-intensive process of steaming tamales, we deconstruct the flavors into a high-speed "Fuel" bowl. The secret to the **Texture Integrity** is the **Staged Polenta**: we stir the frozen corn and cheese into the hot polenta at the very end so the corn stays "Snappy" while the base becomes creamy. The **Acid Finish** from the lime-tossed avocado is mandatory to cut through the smoky heat of the chipotle.
 
 ## Directions
@@ -42,6 +43,7 @@ This dish is a masterclass in **Modularity**. Instead of the labor-intensive pro
 6.  **Assemble:** Scoop the sweet corn polenta into deep bowls. Top with a generous scoop of smoky pork. Crown with the avocado-lime mix, radishes, a dollop of yogurt, and crushed chips for "Snap."
 
 ## Serving Suggestions
--   [Mexican Street Corn Salad (Esquites)](/recipes/mexican-street-corn-salad)
--   [Quick Pickled Red Onions](/recipes/pickled-red-onions)
--   Cold Mexican Lager or Lime Seltzer
+
+- [Mexican Street Corn Salad (Esquites)](/recipes/mexican-street-corn-salad)
+- [Quick Pickled Red Onions](/recipes/pickled-red-onions)
+- Cold Mexican Lager or Lime Seltzer

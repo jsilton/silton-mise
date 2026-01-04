@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a high-protein "Fuel" meal that relies on **Structural Science** for its tenderness. By using **Greek Yogurt** in the sauce and lemon juice as an **Enzyme Tenderizer**, we break down the chicken's muscle fibers before they hit the high heat of the grill. The paprika-oil marinade provides the "Snap" and deep color. Always use **Skin-on** thighs if possible—the rendered fat provides the "High Note" of flavor that skinless meat lacks.
 
 ## Directions
@@ -31,6 +32,7 @@ This is a high-protein "Fuel" meal that relies on **Structural Science** for its
 5.  **Serve:** Transfer to a platter. Serve immediately with the chilled yogurt sauce and lemon wedges.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   Warm [Homemade Naan](/recipes/homemade-naan)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- Warm [Homemade Naan](/recipes/homemade-naan)

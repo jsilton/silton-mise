@@ -29,6 +29,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The challenge with eggplant is preventing it from becoming an oil-soaked sponge. We use **Texture Integrity** through the **Perimeter Sear Pattern**: instead of deep-frying, we sear the eggplant in a lightly oiled wok over medium heat until the skin is purple-gold and the flesh is translucent but holds its shape. We use the **Angle Cut** (triangular chunks) to maximize the surface area for the **Garlic Sauce** to cling to. The hit of rice vinegar at the end provides the mandatory **High Note**.
 
 ## Directions
@@ -37,11 +38,12 @@ The challenge with eggplant is preventing it from becoming an oil-soaked sponge.
 2.  **Angle Cut:** Cut eggplants on an angle, rotating the eggplant 90 degrees after each cut to create triangular chunks.
 3.  **The Sear:** Heat 1.5 tbsp oil in a wok over medium-high heat. Spread eggplant in a single layer. Sear for 4 minutes, flipping occasionally until browned. Add another 1.5 tbsp oil if needed and continue for 4 more minutes until soft but not mushy. Remove eggplant.
 4.  **Aromatics:** Increase heat to high. Add remaining oil. Brown the ground pork (if using). Add the ginger, chilies, and the remaining garlic. Stir-fry for 1 minute until fragrant.
-5.  **The Glaze:** Add eggplant back to the wok. Give the sauce a final stir and pour it in. 
+5.  **The Glaze:** Add eggplant back to the wok. Give the sauce a final stir and pour it in.
 6.  **Simmer:** Simmer for 1-2 minutes until the sauce is thick enough to coat a spoon and the eggplant is glossy.
 7.  **Finish:** Stir in scallions and serve immediately with steamed rice.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
