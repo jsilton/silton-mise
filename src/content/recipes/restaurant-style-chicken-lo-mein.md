@@ -1,41 +1,45 @@
 ---
 title: Restaurant-Style Chicken Lo Mein
-prepTime: 20 min
-cookTime: 30 min
-servings: 'Serves: 6'
-ingredients:
-  - '8 oz. boneless skinless chicken thighs (225g, cut into thin strips)'
-  - 2 teaspoons cornstarch
-  - 2 teaspoons water
-  - 2 teaspoons oil (plus more for cooking)
-  - 1 clove garlic (minced)
-  - 4 cups cabbage (shredded)
-  - 2 medium carrots (julienned)
-  - 1 tablespoon shaoxing wine (or dry sherry cooking wine)
-  - 16 oz. fresh lo mein egg noodles (450g)
-  - 1 tablespoon soy sauce
-  - 4 teaspoons dark soy sauce
-  - 1 teaspoon sesame oil
-  - 1/8 teaspoon salt
-  - 1/8 teaspoon sugar
-  - 2 cups mung bean sprouts
-  - 2 scallions (julienned)
-totalTime: 50 min
 role: main
 vibe: fuel
+prepTime: 20 min
+cookTime: 15 min
+totalTime: 35 min
+servings: '6'
+ingredients:
+  - '1 lb Fresh Lo Mein Egg Noodles'
+  - '8 oz Chicken Thighs, cut into thin strips'
+  - '--- The Velveting Marinade ---'
+  - '2 tsp Cornstarch'
+  - '2 tsp Water'
+  - '2 tsp Peanut Oil'
+  - '--- The Stir-Fry ---'
+  - '4 cups Cabbage, shredded'
+  - '2 Carrots, julienned'
+  - '2 cups Mung Bean Sprouts (The Snap)'
+  - '--- The Lo Mein Sauce ---'
+  - '1 tbsp Light Soy Sauce'
+  - '4 tsp Dark Soy Sauce (for color)'
+  - '1 tbsp Shaoxing Wine'
+  - '1 tsp Toasted Sesame Oil'
+  - '1/8 tsp Sugar + 1 clove Garlic, minced'
 ---
+
+## Chef's Note
+The secret to "Restaurant Quality" Lo Mein is **Structural Science** through **The Velveting Pattern**. By marinating the chicken in cornstarch and water, we ensure it remains juicy even under high heat. We maintain **Texture Integrity** through **The 60-Second Steam**: we add a splash of water and cover the wok for exactly one minute; this "shocks" the cabbage and carrots into tenderness while keeping the noodles resilient. The dark soy sauce is the mandatory **High Note** for that iconic takeout bronze.
 
 ## Directions
 
-1. In a medium bowl, combine the chicken with 2 teaspoons each of cornstarch, water, and oil. In a wok over high heat, add 2 tablespoons oil, and sear the chicken for a couple minutes until browned. Remove from the wok, and set aside.
-2. Add another couple tablespoons of oil to the wok, and add the garlic. After 10 seconds, add the cabbage and carrots. Stir-fry on high heat for a minute and add the wine in a circle around the perimeter of the wok.
-3. Add the noodles and chicken back to the wok and mix well from the bottom up for about 30 seconds. If the noodles aren't coming apart, add about 1/4 cup water to the noodles to loosen them up a bit.
-4. Then cover the wok for one minute. Remove the cover and add the soy sauce, dark soy sauce, sesame oil, salt, and sugar. Stir-fry for 30 seconds, and add the bean sprouts and scallions. Stir-fry for one more minute and serve.
-
-## Nutrition
-
-- Calories: 306kcal (15%) Carbohydrates: 42g (14%) Protein: 13g (26%) Fat: 5g (8%) Saturated Fat: 1g (5%) Cholesterol: 58mg (19%) Sodium: 502mg (21%) Potassium: 343mg (10%) Fiber: 3g (12%) Sugar: 4g (4%) Vitamin A: 3510IU (70%) Vitamin C: 23.8mg (29%) Calcium: 45mg (5%) Iron: 1.6mg (9%)
+1.  **Velvet:** Toss chicken with cornstarch, water, and oil. Let stand for 15 minutes.
+2.  **The Sear:** Heat a wok until smoking. Add 2 tbsp oil. Sear chicken for 2 minutes until browned. remove.
+3.  **Aromatics:** Add fresh oil and garlic. Sauté for 10 seconds. Add cabbage and carrots. Stir-fry for 1 minute.
+4.  **Deglaze:** Pour the Shaoxing wine around the perimeter of the wok. 
+5.  **Combine:** Add the fresh noodles and chicken back to the wok. If the noodles are stuck, add 1/4 cup water. 
+6.  **The Steam:** Cover the wok for exactly 1 minute to soften the vegetables.
+7.  **The Glaze:** Remove lid. Add both soy sauces, sesame oil, and sugar. Stir-fry for 30 seconds until the noodles are evenly dark and glossy.
+8.  **Finish:** Fold in the mung bean sprouts and scallions. Toss for 30 more seconds and serve immediately.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+-   [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)

@@ -1,39 +1,44 @@
 ---
 title: Pad Thai
-prepTime: 40 min
-cookTime: 40 min
-servings: 2-3 servings
-ingredients:
-  - 1/2 package Thai rice noodles
-  - 1-1/3 cup bean sprouts
-  - 1/2 banana flower (Optional)
-  - 1-1/2 cup green onion
-  - 2 tablespoon cooking oil
-  - 2 tablespoons tamarind paste
-  - 2 tablespoon sugar
-  - 1 minced shallots
-  - 1 tablespoon preserved turnip (Optional)
-  - 1/3 cup extra firm tofu
-  - 1/2 lime
-  - 1/2-1/4 lb shrimp
-  - ground pepper
-  - 1/2 teaspoon ground dried chili pepper
-  - 3 cloves minced garlic
-  - 4 teaspoons fish sauce
-  - 1 egg
-totalTime: 80 min
 role: main
 vibe: comfort
+prepTime: 40 min
+cookTime: 20 min
+totalTime: 60 min
+servings: '3'
+ingredients:
+  - '1/2 pkg Wide Rice Noodles (Bánh Phở)'
+  - '1/4 lb Shrimp, peeled and deveined'
+  - '1/3 cup Extra-firm Tofu, julienned'
+  - '--- The Pad Thai Emulsion ---'
+  - '2 tbsp Tamarind Paste (The Acid Finish)'
+  - '2 tbsp Palm Sugar (or Granulated Sugar)'
+  - '4 tsp Fish Sauce'
+  - '1/2 tsp Ground Dried Chili'
+  - '--- The Stir-Fry ---'
+  - '1 1/3 cups Fresh Bean Sprouts'
+  - '1 1/2 cups Chinese Chives (Green Onions)'
+  - '3 cloves Garlic, minced'
+  - '1 large Egg'
+  - '1/2 cup Peanuts, toasted and crushed'
+  - '1/2 Lime, wedges'
 ---
+
+## Chef's Note
+Pad Thai is a masterclass in the **Acid-Salt-Sweet balance**. The secret to "Gold Standard" noodles is **The Cold Soak Pattern**: you must soak the rice noodles in room-temperature water for 40 minutes rather than boiling them. This ensures they maintain a resilient "Bounce" and absorb the **Tamarind Emulsion** without becoming mushy. The tamarind provides the mandatory **Acid Finish** that defines the dish. Always add the bean sprouts at the very end to ensure a fresh, watery "Snap" that contrasts the chewy noodles.
 
 ## Directions
 
-1. Start with soaking the dry noodles in lukewarm or room temperature water while preparing the other ingredients. By the time you are ready to put ingredients in the pan, the noodles should be flexible but not mushy.
-2. Julienne tofu and cut into 1 inch long matchsticks. When cut, the super firm tofu/pressed tofu should have a mozzarella cheese consistency. You can fry the tofu separately until golden brown and hard, or you can fry with other ingredients below.
-3. Cut the Chinese chives into 1 inch long pieces. Set aside a few fresh chives for a garnish. Rinse the bean sprouts and save half for serving fresh. Mince shallot and garlic together.
-4. Use a wok. If you do not have a wok, any big pot will do. Heat it up on high heat and pour oil in the wok. Fry the peanuts until toasted and remove them from the wok. The peanuts can be toasted in the pan without oil as well. Add shallot, preserved turnip, garlic and tofu and stir them until they start to brown. The noodles should be flexible but not expanded at this point.
-5. Drain the noodles and add to the wok. Stir quickly to keep things from sticking. Add tamarind, sugar, fish sauce and chili pepper. Stir. The heat should remain high. If your wok is not hot enough, you will see a lot of juice in the wok at this point. Turn up the heat, if it is the case.
-6. Make room for the egg by pushing all noodles to the side of the wok. Crack the egg onto the wok and scramble it until it is almost all cooked. Fold the egg into the noodles. The noodles should soft and chewy. Pull a strand out and taste. If the noodles are too hard (not cooked), add a little bit of water.
-7. When you get the right taste, add shrimp and stir. Sprinkle white pepper around.
-8. Add bean sprouts and chives. Stir a few more times. The noodles should be soft, dry and very tangled.
-9. Pour onto the serving plate and sprinkle with ground pepper and peanuts. Serve hot with the banana flower slice, a wedge of lime on the side, raw Chinese chives and raw bean sprouts on top.
+1.  **The Soak:** Place dry noodles in a large bowl of cool water. Soak for 40 minutes until flexible but still firm. Drain.
+2.  **The Snap:** Heat 1 tbsp oil in a wok. Fry peanuts until golden; remove. Fry tofu matchsticks until golden and firm; remove.
+3.  **Aromatics:** Heat 1 tbsp oil. Sauté garlic and shallots until fragrant. Add the drained noodles and the tamarind mixture (sugar, fish sauce, chili).
+4.  **Toss:** Stir-fry over high heat. If the noodles feel too firm, add 1 tbsp of water at a time until they are chewy and translucent.
+5.  **The Egg:** Push noodles to the side. Scramble the egg until set, then fold into the noodles.
+6.  **Combine:** Add the shrimp and cooked tofu. Toss for 2 minutes until shrimp are pink and just opaque (The Shrimp Snap).
+7.  **Finish:** Fold in the bean sprouts and chives. Toss for 15 seconds.
+8.  **Serve:** Mound on a plate. Top with crushed peanuts, extra sprouts, and a lime wedge for the final **High Note**.
+
+## Serving Suggestions
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+-   Thai Iced Tea

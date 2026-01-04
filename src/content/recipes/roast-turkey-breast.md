@@ -1,23 +1,36 @@
 ---
-title: Roast Turkey Breast
-prepTime: 10 min
-cookTime: 60 min
-servings: 'Yield: 6 to 8 servings'
-ingredients:
-  - '1 (4 to 5 lbs) turkey breast, skin on'
-  - 2 tbsp melted butter
-  - 'Kosher salt, to taste'
-  - 'Freshly ground black pepper, to taste'
-  - 1/2 cup chicken stock or turkey stock for basting
-totalTime: 70 min
+title: Roast Turkey Breast (The Holiday Standard)
 role: main
 vibe: holiday
+prepTime: 10 min
+cookTime: 60 min
+totalTime: 70 min
+servings: '8'
+ingredients:
+  - '1 (4-5 lb) Turkey Breast, skin-on'
+  - '--- The Butter Glaze ---'
+  - '2 tbsp Unsalted Butter, melted'
+  - '1/2 cup Chicken or Turkey Stock (for basting)'
+  - '--- The High Note Rub ---'
+  - '1 tsp Kosher Salt'
+  - '1 tsp Black Pepper'
+  - 'Fresh Rosemary or Thyme sprigs'
 ---
+
+## Chef's Note
+The secret to a holiday turkey breast that isn't dry is **Structural Science** through **The 155°F Carry-Over Pattern**. Most recipes bake until the bird reaches 165°F, which results in sawdust-dry meat. We pull the turkey at exactly 155°F; the residual energy will carry it to a safe 165°F during the mandatory **20-minute rest**, preserving the "Bounce" and moisture of the protein. We maintain **Texture Integrity** by using a rack to ensure the skin develops a uniform, golden "Snap" all the way around.
 
 ## Directions
 
-1. Preheat oven to 450 F.
-2. Place the turkey breast on a rack in a roasting pan.
-3. Brush turkey with the melted butter, then season generously with Kosher salt and black pepper.
-4. Roast for 45 minutes to 1 hour, basting twice with stock—once after about 15 minutes and again about 15 minutes later (see note below)
-5. When thermometer reads 155 F, remove the turkey from the oven. Cover loosely with foil and let it rest for about 20 minutes (or when the thermometer reads 120 F) before carving and serving.
+1.  **Prep:** Preheat oven to 450°F. Place the turkey breast on a rack inside a roasting pan—this ensures air circulation for crispy skin.
+2.  **Glaze:** Brush the skin generously with melted butter. Season aggressively with salt and pepper.
+3.  **Sear:** Bake at 450°F for 15 minutes to kickstart the "Snap" of the skin. 
+4.  **Baste:** Reduce heat to 350°F. Pour 1/2 cup stock into the pan. Roast for 45-60 minutes, basting every 20 minutes with the pan juices.
+5.  **The Pull:** Use an instant-read thermometer. Remove the turkey when it hits **155°F** in the thickest part. 
+6.  **Rest:** Transfer to a carving board. Cover loosely with foil and **let rest for 20 minutes** (mandatory for moisture).
+7.  **Serve:** Carve into 1/2-inch slices and serve with the pan drippings.
+
+## Serving Suggestions
+-   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+-   [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+-   [Perfect Mashed Potatoes (The Gold Standard)](/recipes/perfect-mashed-potatoes)

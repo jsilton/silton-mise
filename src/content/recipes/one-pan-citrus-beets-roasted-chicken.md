@@ -1,48 +1,40 @@
 ---
-title: One Pan Citrus Beets Roasted Chicken
-prepTime: 20 min
-cookTime: 60 min
-servings: 'Yield: 4 servings'
-ingredients:
-  - 4 bone-in organic chicken thighs
-  - 2 tbsp cold butter
-  - 1 tsp chili powder blend
-  - '3-4 fresh garlic cloves, minced'
-  - 2 tbsp minced fresh rosemary
-  - Zest of 1 small orange
-  - '4 carrots, peeled and sliced in half lengthwise'
-  - '1 fennel bulb, core removed and chopped into large chunks'
-  - '1 ½ tsp sea salt, divided'
-  - '3 tbsp butter, melted'
-  - >-
-    4 large beets {or 6 small}, stems removed, peeled and sliced into ¼” thick
-    rounds
-  - Juice of half an orange
-totalTime: 80 min
+title: One-Pan Citrus Beet Roasted Chicken
 role: main
 vibe: fuel
+prepTime: 20 min
+cookTime: 60 min
+totalTime: 80 min
+servings: '4'
+ingredients:
+  - '4 Bone-in Chicken Thighs, skin-on'
+  - '--- The Fuel Base ---'
+  - '4 large Beets, sliced into 1/4-inch rounds'
+  - '4 Carrots, halved lengthwise'
+  - '1 Fennel Bulb, chopped into chunks'
+  - '--- The Aromatic Glaze ---'
+  - '3 tbsp Unsalted Butter, melted'
+  - 'Zest and Juice of 1 Orange (The High Note)'
+  - '2 tbsp Fresh Rosemary, minced'
+  - '4 cloves Garlic, minced'
+  - '1 tsp Chili Powder'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is a masterclass in **Texture Integrity** through **The Single-Layer Roast Pattern**. The secret to Success is placing the butter-topped chicken directly onto the beets; as the chicken fat renders, it emulsifies with the orange juice and chili to create a vibrant, earthy glaze for the vegetables. We use **The Acid Finish** (fresh orange juice) to cut through the sweetness of the beets and the richness of the skin-on thighs, ensuring a bright "High Note" in every bite.
 
 ## Directions
 
-1. Preheat the oven to 400 degrees F. Get a large baking pan/sheet ready and set aside.
-2. Place chicken thighs on baking pan/sheet, spread out at least 3 inches apart. Add ½ tablespoon cold butter to the top of each chicken thigh. Evenly distribute the chili powder over the tops of the chicken thighs. Set aside.
-3. In a large mixing bowl, add half of the garlic, half of the rosemary, half of the orange zest, carrots, fennel, ½ teaspoon sea salt and half of the melted butter. Stir to combine and spread out on the baking pan. Add the beets and remaining garlic, rosemary, orange zest and melted butter to the mixing bowl. Sprinkle with ½ teaspoon sea salt and stir to combine. Spread the beets out on baking pan/sheet. Squeeze the juice of half an orange over all of the vegetables. Evenly distribute and sprinkle the remaining ½ teaspoon of sea salt over the chicken thighs. Place baking pan/sheet in preheated oven and bake for 1 hour until vegetables are tender and is cooked chicken through with a golden brown skin.
-4. Serve immediately.
-
-## Nutrition
-
-- :Calories: 510 Total Fat: 33g
-- Saturated Fat: 15g
-- Trans Fat: 1g
-- saturated Fat: 17g
-- Cholesterol: 205mg
-- Sodium: 1346mg
-- Carbohydrates: 25g
-- Fiber: 4g
-- Sugar: 17g
-- Protein: 33g
+1.  **Prep:** Preheat oven to 400°F. Line a large rimmed baking sheet with parchment.
+2.  **The Chicken:** Place chicken thighs on the pan, spaced 3 inches apart. Top each thigh with a small pat of cold butter and a sprinkle of chili powder.
+3.  **The Veg:** In a large bowl, toss the carrots, fennel, and beets with the melted butter, half the garlic, rosemary, and orange zest. 
+4.  **Layer:** Arrange the vegetables around the chicken in a single layer. 
+5.  **Finish:** Squeeze the orange juice over the entire pan. Season generously with salt and pepper.
+6.  **Bake:** Bake for 60 minutes until the chicken skin is deep golden and crispy and the beets are fork-tender.
+7.  **Serve:** Serve the chicken on a bed of the citrus-glazed vegetables.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Basmati Rice](/recipes/basmati-rice)
+-   [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)

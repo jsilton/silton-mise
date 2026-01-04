@@ -1,49 +1,40 @@
 ---
 title: One-Pot Chicken Meatballs with Greens
+role: main
+vibe: fuel
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
-servings: 4 servings
+servings: '4'
 ingredients:
-  - 1/2 cup panko bread crumbs
-  - 1/3 cup full-fat thick yogurt (preferably Greek or Icelandic)
-  - '2 garlic cloves, minced or grated'
-  - '2 scallions, white and light green parts thinly sliced'
-  - 2 teaspoons dried oregano
-  - 1/4 teaspoon crushed red pepper
-  - Salt
-  - 1 pound ground chicken
-  - '1/4 cup olive oil, plus more as needed'
-  - >-
-    1 pound rainbow or Swiss chard (1 large or 2 small bunches), tender stalks
-    sliced and leaves cut into 1-inch ribbons
-  - '1 lemon, halved, 1/2 thinly sliced'
-  - 1 teaspoon ground cumin
-role: main
-vibe: fuel
+  - '1 lb Ground Chicken'
+  - '1/3 cup Plain Greek Yogurt (The "Bounce" Hack)'
+  - '1/2 cup Panko Breadcrumbs'
+  - '2 cloves Garlic, minced'
+  - '2 Scallions, thinly sliced'
+  - '--- The Braise ---'
+  - '1 lb Swiss Chard, sliced into ribbons'
+  - '1 Lemon, halved (one half sliced, one half juiced)'
+  - '1/4 cup Extra-Virgin Olive Oil'
+  - '1 tsp Ground Cumin'
+  - '2 tsp Dried Oregano'
+  - '1/4 tsp Red Pepper Flakes'
 ---
+
+## Chef's Note
+The secret to succulent chicken meatballs is **Structural Science** through **The Yogurt-Panko Pattern**. By combining ground chicken with Greek yogurt, we create an internal moisture guard that prevents the lean meat from drying out during the sear. We maintain **Texture Integrity** through **The Smothered Braise**: we sear the meatballs to develop a "Snap," then pile the chard and lemon slices directly on top to steam in the Dutch oven. This ensures the greens stay vibrant while the lemon juice provides the mandatory **Acid Finish**.
 
 ## Directions
 
-1. In a large bowl, combine the bread crumbs, yogurt, garlic, scallions, oregano, crushed red pepper and 1 teaspoon salt. Add the chicken and gently mix until fully combined.
-2. Coat your palms in olive oil, then shape the meat into 14 medium meatballs (about 2 inches each), making sure each is lightly coated with oil by refreshing the coating on your hands. Set the meatballs directly on a sheet pan or on parchment paper.
-3. Heat a 12-inch Dutch oven (or other heavy pot with a tight-fitting lid) over medium heat for 2 minutes until hot. Pour in 2 tablespoons of olive oil, tilting the pot to coat the surface, then add the meatballs. Let cook until they are golden halfway up the sides, occasionally turning them when they easily release, adding extra oil if needed, about 7 minutes.
-4. Meanwhile, to another large bowl, add the greens, lemon slices, cumin and remaining 2 tablespoons olive oil, and season with salt; toss to coat the leaves, scrunching them up as needed.
-5. Smother the meatballs with the greens and lemon slices. Cover, reduce the heat to medium, and cook until the meatballs are cooked through and the greens tender, 12 to 13 minutes.
-6. Use a soup ladle to scoop up the meatballs, resting them on the greens, browned-side up and ladling any juices on top of the meatballs and greens. Cut the remaining lemon into wedges for serving, if desired.
-
-## Nutrition
-
-- Trans Fat: 0 gram
-- Fat: 24 gram
-- Calories: 356
-- Saturated Fat: 5 gramsUn
-- saturated Fat: 18 gram
-- Sodium: 695 milligram
-- Sugar: 3 gram
-- Fiber: 3 gramsCarbohydrate: 14 gram
-- Protein: 24 grams
+1.  **The Mix:** In a large bowl, combine chicken, yogurt, panko, garlic, scallions, and herbs. Mix **gently** until just combined.
+2.  **Shape:** Coat your palms in oil. Form the mixture into 14 uniform balls (about 2 inches each).
+3.  **The Sear:** Heat 2 tbsp oil in a large pot over medium. Sauté meatballs for 7 minutes until golden on all sides.
+4.  **The Layer:** In a separate bowl, toss the chard with cumin, salt, and 2 tbsp oil. 
+5.  **The Braise:** Pile the chard and lemon slices directly on top of the meatballs. Cover tightly.
+6.  **Cook:** Simmer for 12-15 minutes until the meatballs are cooked through (165°F) and the chard is tender.
+7.  **Serve:** Use a ladle to scoop meatballs and greens together. Squeeze the remaining lemon half over the top for the mandatory **High Note**.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Garlic Bread](/recipes/garlic-bread)
+-   [Basmati Rice](/recipes/basmati-rice)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

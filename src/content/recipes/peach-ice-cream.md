@@ -1,22 +1,36 @@
 ---
 title: Peach Ice Cream
-servings: Serves 6-8
-ingredients:
-  - 1 1/2 cups whole milk
-  - 2 eggs
-  - 2 egg yolks
-  - 1 1/4 cups sugar
-  - 1 1/4 cups heavy cream
-  - '1 pint ripe peaches, chopped, with peel on'
-  - Juice of 1/2 lemon
 role: dessert
 vibe: fuel
+prepTime: 20 min
+cookTime: 15 min
+totalTime: 240 min
+servings: '8'
+ingredients:
+  - '1 pint Ripe Peaches, chopped (skin-on)'
+  - '1 1/2 cups Whole Milk'
+  - '1 1/4 cups Heavy Cream'
+  - '1 1/4 cups Granulated Sugar (divided)'
+  - '2 large Eggs + 2 large Egg Yolks'
+  - '1/2 Lemon, juiced (The Acid Finish)'
+  - 'Pinch of Sea Salt'
 ---
+
+## Chef's Note
+The secret to this "Heritage" peach ice cream is the **Skin-on Standard**. We chop the peaches with the skins on; during the maceration process, the pigments from the skin bleed into the sugar, providing a natural rosy color and a deeper, more complex peach aroma. We use **The Double-Boiler Pattern**: cooking the custard gently over simmering water ensures a stable "Bounce" that never turns into scrambled eggs. The lemon juice provides the mandatory **Acid Finish** to cut the heavy cream.
 
 ## Directions
 
-1. Place milk in the top of a double boiler and bring just to a simmer over gently boiling water over medium heat.
-2. Meanwhile, whisk together eggs, egg yolks, and 3/4 cup of the sugar in a mixing bowl. Lightly whisk 1/4 cup of the hot milk into egg mixture, then whisk egg mixture into remaining milk in top of double boiler. Cook, stirring constantly with a wooden spoon, until mixture is thick enough to coat back of a spoon, about 15 minutes.
-3. Transfer mixture to a mixing bowl; stir in 1 1/4 cups heavy cream; refrigerate until cold.
-4. Combine peaches, remaining sugar, and lemon juice in a mixing bowl; the peel will add a rosy color. Cover and refrigerate for 2 hours.
-5. Drain and stir accumulated peach juices into cream base (return fruit to the refrigerator). Pour base into an ice cream maker and process according to manufacturer's directions. Just before mixture is set, add peaches.
+1.  **Macerate:** Toss chopped peaches with 1/2 cup sugar and lemon juice. **Refrigerate for at least 2 hours** to draw out the syrup.
+2.  **Custard:** Place milk in a double boiler over medium heat. Bring just to a simmer.
+3.  **Emulsify:** In a bowl, whisk eggs, yolks, and 3/4 cup sugar. Slowly whisk 1/2 cup of the hot milk into the eggs to temper. 
+4.  **Thicken:** Return the mixture to the double boiler. Cook, stirring constantly with a wooden spoon, for 15 minutes until the custard is thick enough to coat the spoon.
+5.  **Chill:** Whisk in the heavy cream. Refrigerate until stone-cold (at least 4 hours).
+6.  **Churn:** Drain the peaches. Stir the accumulated peach syrup into the custard base. Pour into your ice cream maker.
+7.  **Finish:** Add the chopped peaches during the final minute of churning to maintain **Texture Integrity**. 
+8.  **Set:** Freeze for 2 hours before serving.
+
+## Serving Suggestions
+-   [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake)
+-   Fresh Sliced Berries
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

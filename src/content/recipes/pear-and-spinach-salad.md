@@ -1,26 +1,36 @@
 ---
-title: Pear and Spinach Salad
-prepTime: 15 min
-cookTime: 25 min
-servings: 4 to 6 servings
-ingredients:
-  - '1/4 red onion, thinly sliced'
-  - 2 tablespoons Dijon mustard
-  - 2 tablespoons red wine vinegar
-  - 2 tablespoons water
-  - 1 tablespoon olive oil
-  - 1 tablespoon honey
-  - 1/2 teaspoon kosher salt
-  - 1/2 teaspoon freshly ground black pepper
-  - 5 cups baby spinach (about 5 ounces)
-  - '1 medium Bosc pear, quartered and thinly sliced'
-totalTime: 40 min
+title: Pear & Spinach Salad
 role: side
 vibe: fuel
+prepTime: 15 min
+cookTime: 0 min
+totalTime: 25 min
+servings: '4'
+ingredients:
+  - '5 cups Baby Spinach (1 bag)'
+  - '1 large Bosc Pear, quartered and thinly sliced'
+  - '1/4 Red Onion, thinly sliced'
+  - '--- The Dijon-Honey Emulsion ---'
+  - '2 tbsp Dijon Mustard'
+  - '2 tbsp Red Wine Vinegar (The Acid Finish)'
+  - '1 tbsp Extra-Virgin Olive Oil'
+  - '1 tbsp Honey'
+  - '2 tbsp Water'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is a baseline "Speed" side that relies on **Structural Science**. The secret to Success is **The Onion Shock Pattern**: you must soak the red onion slices in ice water for 10 minutes before adding them to the salad. This removes the harsh sulfurous "bite," leaving only a sweet "Snap" that won't overpower the delicate Bosc pear. We use **The Emulsion Pattern**: whisking the Dijon and vinegar with honey creates a stable, thick binding that has the "Bounce" to coat the spinach leaves without weighing them down.
 
 ## Directions
 
-1. Place onion in a small bowl of ice water and let sit for 10 minutes.
-2. Meanwhile, place mustard, vinegar, water, oil, honey, salt, and pepper in a medium nonreactive bowl and whisk until combined.
-3. Strain onion from ice water, pat dry, and place in a large nonreactive bowl. Add spinach, pear, and 3 tablespoons of the dressing and toss until evenly coated. Taste, season with salt and freshly ground black pepper, and add more dressing as desired.
+1.  **Shock:** Place sliced red onions in a bowl of ice water. Let stand for 10 minutes. Drain and pat **bone-dry**.
+2.  **The Dressing:** In a small jar, whisk together Dijon, vinegar, oil, honey, water, salt, and pepper until thick and opaque.
+3.  **Assemble:** Place the baby spinach and sliced pears in a large bowl. Add the dry red onions.
+4.  **Bind:** Drizzle 3 tbsp of the dressing over the salad. Toss gently with your hands (The Gold Standard) until every leaf is lightly glossy.
+5.  **Serve:** Season with an extra crack of black pepper. Serve immediately to maintain **Texture Integrity**.
+
+## Serving Suggestions
+-   [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+-   [Chicken Piccata (The Un-Fried Standard)](/recipes/chicken-piccata-unfried)
+-   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

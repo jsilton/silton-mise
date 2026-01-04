@@ -1,21 +1,35 @@
 ---
-title: Play Dough
-ingredients:
-  - 1 cup flour
-  - 1/2 cup salt
-  - 2 tsp cream of tartar
-  - 1 cup water
-  - 1 tbsp cooking oil
-  - Oil of wintergreen
-  - Food coloring
+title: Play-Dough (The Stovetop Standard)
 role: base
 vibe: fuel
-servings: Unknown
+prepTime: 5 min
+cookTime: 5 min
+totalTime: 10 min
+servings: '1 large batch'
+ingredients:
+  - '1 cup All-Purpose Flour'
+  - '1/2 cup Fine Salt'
+  - '2 tsp Cream of Tartar'
+  - '1 cup Water'
+  - '1 tbsp Vegetable Oil'
+  - '--- For Customization ---'
+  - 'Oil of Wintergreen (optional for aroma)'
+  - 'Food Coloring or Liquid Watercolors'
 ---
+
+## Chef's Note
+This is the baseline **Modularity** component for family productivity. The secret to a play-dough that has a resilient, professional "Bounce" is **Structural Science** through **The Heat-Gelatinization Pattern**. Unlike no-cook versions, cooking the dough on the stovetop ensures the starch molecules are fully cross-linked, resulting in a "Snap" that doesn't stick to hands. The **Cream of Tartar** is mandatory—it acts as a gluten-stiffener and a natural preservative.
 
 ## Directions
 
-1. Mix 1 cup flour, 1/2 cup salt, and 2 tsp cream of tartar in saucepan (do not omit cream of tartar).
-2. Add 1 cup water, 1 tbsp cooking oil, several drops of oil of wintergreen (optional) and food coloring.
-3. Cook, stirring for 3 minutes or until mix pulls away from pan.
-4. Knead immediately. Store in airtight container.
+1.  **Combine:** In a medium non-stick saucepan, whisk together the flour, salt, and cream of tartar.
+2.  **Emulsify:** Add the water, oil, and food coloring. Whisk until no lumps remain.
+3.  **The Cook:** Place over medium heat. Stir constantly with a wooden spoon for 3-5 minutes.
+4.  **The Pull:** The mixture will look like a liquid, then suddenly clump together. Continue stirring until the dough pulls away from the sides of the pan and forms a single, non-sticky ball.
+5.  **Knead:** Remove from heat and place on a clean surface. Once cool enough to touch, knead for 1 minute until perfectly smooth.
+6.  **Store:** Store in an airtight container for up to 6 months to maintain the "Bounce."
+
+## Serving Suggestions
+-   Quiet Mornings
+-   Rainy Day Projects
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)

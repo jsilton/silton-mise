@@ -1,26 +1,35 @@
 ---
-title: Quick and Easy Drop Biscuits
-prepTime: 15 min
-cookTime: 30 min
-servings: About 20 small biscuits or about 8 large biscuits
-ingredients:
-  - >-
-    4 ounces (1 stick) cold unsalted butter, cut into 1/4-inch pieces and
-    refrigerated
-  - 1 1/2 cups all-purpose flour (8 ounces)
-  - 2 teaspoons baking powder
-  - 1 teaspoon kosher salt
-  - 3/4 cup whole milk
-totalTime: 45 min
+title: Quick & Easy Drop Biscuits
 role: main
-vibe: fuel
+vibe: speed
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '12 small biscuits'
+ingredients:
+  - '1 1/2 cups All-Purpose Flour'
+  - '4 oz (1 stick) Unsalted Butter, cold and cubed'
+  - '3/4 cup Whole Milk (chilled)'
+  - '--- The Rise Mix ---'
+  - '2 tsp Baking Powder'
+  - '1 tsp Sea Salt'
+  - '1/4 tsp Garlic Powder (Optional)'
 ---
+
+## Chef's Note
+The drop biscuit is the ultimate test of **Structural Science** in speed-baking. The secret to a tall, flaky "Bounce" is **The Cold Fat Pattern**: the butter must be refrigerator-cold and cubed into pea-sized pieces. When these cold fat pockets hit the 400°F oven, they steam instantly, creating layers within the crumb. We use **The Shaggy Dough Pattern**: you must stir the milk until the dough **just comes together**; over-mixing will destroy the air pockets and turn your biscuits into leaden pucks.
 
 ## Directions
 
-1. 1. Preheat oven to 400°F and line a baking sheet with parchment paper; alternatively grease a baking sheet with butter.
-2. 2. In a large bowl, whisk together flour, baking powder, and salt.
-3. 3. Toss butter into the dry ingredients until coated with flour. Working quickly and using your fingers or a pastry blender, rub or cut butter into flour until it resembles coarse meal. Alternatively, add flour mixture and butter to food processor and pulse 2 to 3 times to form pea-sized pieces; transfer to a large bowl.
-4. 4. Add milk and stir with a fork until it just comes together into a slightly sticky, shaggy dough.
-5. 5. For small biscuits: Using a teaspoon or small ice cream scoop, mound walnut sized balls of dough onto the prepared baking sheet. For large biscuits: Using a 1/4-cup measuring scoop, mound balls of dough onto the prepared baking sheet.
-6. 6. Bake biscuits until golden brown, about 15 minutes for small biscuits and 20 minutes for large ones. Let cool slightly, then transfer to wire rack. Serve warm or at room temperature.
+1.  **Thermal Prep:** Preheat oven to 400°F. Line a baking sheet with parchment paper.
+2.  **Dry Mix:** In a large bowl, whisk together flour, baking powder, and salt.
+3.  **The Bind:** Add the cold butter cubes. Use your fingers or a pastry blender to rub the butter into the flour until it resembles coarse meal with a few larger chunks (The Snap Pockets).
+4.  **Hydrate:** Pour in the milk. Stir with a fork for exactly 15-20 seconds until a sticky, shaggy dough forms. **Stop immediately.**
+5.  **Drop:** Using a large spoon or cookie scoop, drop walnut-sized mounds onto the pan. Do not smooth the tops—the "nooks and crannies" are essential for the final "Snap."
+6.  **Bake:** Bake for 15-18 minutes until the tops are golden brown and the bottoms are crispy.
+7.  **Serve:** Serve warm with plenty of salted butter and honey.
+
+## Serving Suggestions
+-   [Turkey and Sweet Potato Chili](/recipes/chili)
+-   [One-Pot Chicken Meatballs with Greens](/recipes/one-pot-chicken-meatballs-with-greens)
+-   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)

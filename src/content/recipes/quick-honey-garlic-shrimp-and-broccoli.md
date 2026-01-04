@@ -1,24 +1,35 @@
 ---
-title: Quick Honey Garlic Shrimp and Broccoli
+title: Quick Honey Garlic Shrimp & Broccoli
+role: main
+vibe: speed
 prepTime: 5 min
-cookTime: 5 min
+cookTime: 10 min
+totalTime: 15 min
 servings: '4'
 ingredients:
-  - '1 lb. shrimp, peeled and deveined'
-  - 1 cup broccoli florets (frozen or fresh)
-  - 1 tablespoon oil
-  - Sauce
-  - '1 teaspoon garlic, minced'
-  - '½ teaspoon ginger, minced'
-  - 4 tablespoons honey
-  - 3 tablespoons soy sauce
-totalTime: 10 min
-role: side
-vibe: speed
+  - '1 lb Shrimp, peeled and deveined'
+  - '1 cup Fresh Broccoli Florets'
+  - '--- The 5-Minute Glaze ---'
+  - '4 tbsp Honey'
+  - '3 tbsp Low-sodium Soy Sauce'
+  - '1 tsp Garlic, minced'
+  - '1/2 tsp Fresh Ginger, minced'
+  - '1 tbsp Neutral Oil'
 ---
+
+## Chef's Note
+This is the baseline for 15-minute "Fuel." The secret to its Success is **The Microwave Steam Pattern**: we steam the broccoli in the microwave for 2 minutes *before* it hits the pan; this ensures it reaches a "tender-snap" consistency without needing a separate blanching pot. We maintain **Texture Integrity** through **The Batch Sear**: we cook the shrimp in small batches on high heat to ensure a caramelized "Snap" rather than steaming them in their own juices.
 
 ## Directions
 
-1. Place broccoli florets in a small bowl, fill with a few teaspoons of water and steam in microwave for 2 minutes.
-2. Combine the sauce ingredients and divide it into half. Marinate the shrimp with one half of the sauce for 5-10 minutes (or up to 24 hours). Discard marinade.
-3. Heat a heavy duty skillet to high heat. Add 1 tablespoon oil to pan then add shrimp. Sear them on both sides in batches of 2 until browned, about 1 minute per side. Add the shrimp back to the pan along with the broccoli, drizzle with remaining sauce, and mix well to combine.
+1.  **Steam:** Place broccoli in a small bowl with 2 tsp water. Cover and microwave for 2 minutes. Drain.
+2.  **The Sauce:** In a small jar, whisk honey, soy sauce, garlic, and ginger until smooth. 
+3.  **Velvet:** Toss the shrimp with half of the sauce. Let sit for 5 minutes.
+4.  **The Sear:** Heat oil in a heavy skillet or wok on **high**. Add shrimp in two batches. Sear for 1 minute per side until pink and charred. remove.
+5.  **Bind:** Add the steamed broccoli and the remaining sauce to the pan. Toss for 1 minute over high heat until the honey bubbles and thickens into a glossy glaze.
+6.  **Serve:** Return shrimp to the pan. Toss for 30 seconds. Serve immediately over steamed rice.
+
+## Serving Suggestions
+-   [Basmati Rice](/recipes/basmati-rice)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)

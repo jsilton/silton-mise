@@ -1,43 +1,40 @@
 ---
 title: Pumpkin Breakfast Cookies
+role: main
+vibe: fuel
 prepTime: 10 min
 cookTime: 15 min
-servings: 'Yield: 12 cookies'
-ingredients:
-  - '¼ cup Spectrum® coconut oil, melted'
-  - ¼ cup honey
-  - 1 cup rolled old-fashioned oats
-  - 1 cup quick cooking oats
-  - '⅔ cup unsweetened, dried cranberries'
-  - ⅔ cup pumpkin seeds
-  - ¼ cup ground flaxseed
-  - 1 teaspoon pumpkin pie spice
-  - ½ teaspoon sea salt
-  - ½ cup pumpkin puree
-  - '2 eggs, beaten'
 totalTime: 25 min
-role: dessert
-vibe: speed
+servings: '12 cookies'
+ingredients:
+  - '1/2 cup Pure Pumpkin Puree'
+  - '1/4 cup Coconut Oil, melted'
+  - '1/4 cup Honey'
+  - '2 large Eggs, beaten'
+  - '--- The Ancient Grain Mix ---'
+  - '1 cup Old-fashioned Rolled Oats'
+  - '1 cup Quick-cooking Oats'
+  - '1/4 cup Ground Flaxseed'
+  - '--- The Snap Stacks ---'
+  - '2/3 cup Unsweetened Dried Cranberries'
+  - '2/3 cup Pumpkin Seeds (Pepitas)'
+  - '1 tsp Pumpkin Pie Spice'
+  - '1/2 tsp Sea Salt'
 ---
+
+## Chef's Note
+These are high-performance **Modularity** components for busy mornings. The secret to their incredible texture is **The Double-Oat Pattern**: by using both rolled and quick-cooking oats, we create a cookie with a dense, chewy "Bounce" and a structural "Snap" that won't crumble. We use **Coconut Oil and Honey** as the primary emulsifiers to ensure a clean energy profile. These cookies are intentionally designed **not to spread**; you must flatten them by hand before baking to achieve the Gold Standard shape.
 
 ## Directions
 
-1. Preheat oven to 350 F. Line a baking sheet.
-2. In a small bowl warm Spectrum® coconut oil and honey (either microwave, inside preheating oven or on the stove top).
-3. In a large bowl combine both kinds of oats, cranberries, pumpkin seeds, ground flax, pumpkin pie spice and salt. Add pumpkin puree, eggs and warmed coconut oil and honey. Stir until fully combined.
-4. Drop about ¼ cup sized scoops of the mixture onto a cookie sheet and flatten (cookies won't spread while baking). Bake for about 15-20 minutes until edges are lightly browned.
-5. Let cookies cool on baking sheet before moving to an airtight storage container.
+1.  **The Emulsion:** In a small bowl, whisk the melted coconut oil and honey until smooth. In a separate large bowl, whisk the eggs and pumpkin puree. Combine the two mixtures.
+2.  **The Dry Mix:** In a massive bowl, toss together both types of oats, flaxseed, cranberries, pumpkin seeds, and spices.
+3.  **Combine:** Pour the pumpkin emulsion over the dry ingredients. Stir vigorously until a thick, sticky dough forms.
+4.  **Shape:** Preheat oven to 350°F. Line a baking sheet with parchment. Scoop 1/4-cup portions of dough and **press down firmly** with your palm to create a 3/4-inch thick disk.
+5.  **Bake:** Bake for 15-20 minutes until the edges are golden brown and the center feels firm.
+6.  **The Set:** Let cool completely on the pan. This is mandatory for the flax and coconut oil to set the "Bounce."
 
-## Notes
-
-To make this recipe egg-free, many ready have commented that they used flax egg (or chia egg) as successful replacement.To make vegan, replace honey with maple syrup or agave.
-
-## Nutrition
-
-- Calories: 192Total Carbohydrates: 22g
-- Total Fat: 10g
-- Dietary fiber: 4g
-- Protein: 5g
-- Saturated fat: 5g
-- Sodium: 106g
-- Sugar: 11g
+## Serving Suggestions
+-   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+-   Fresh Apple Slices
+-   [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)

@@ -1,28 +1,33 @@
 ---
-title: Old Fashioned Vanilla Ice Cream
-prepTime: 5 min
-cookTime: 10 min
-servings: 'Yield for recipe as written: 1 quart'
-ingredients:
-  - 4 egg yolks
-  - 1/2 cup granulated sugar
-  - 1 cup whole milk
-  - 1 cup heavy cream
-  - 2 teaspoons vanilla extract or vanilla bean paste
-totalTime: 15 min
+title: Old-Fashioned Vanilla Ice Cream
 role: dessert
 vibe: speed
+prepTime: 5 min
+cookTime: 10 min
+totalTime: 300 min
+servings: '1 quart'
+ingredients:
+  - '4 large Egg Yolks'
+  - '1/2 cup Granulated Sugar'
+  - '1 cup Whole Milk'
+  - '1 cup Heavy Cream'
+  - '2 tsp Pure Vanilla Bean Paste (The "Gold" Standard)'
+  - 'Pinch of Sea Salt'
 ---
+
+## Chef's Note
+This is the baseline **Modularity** component for all Silton desserts. The secret to its incredible "Bounce" is **Structural Science** through **The Tempering Pattern**: you must slowly whisk the hot milk into the egg yolks to ensure a stable emulsion without scrambling the proteins. We use **Vanilla Bean Paste** instead of extract to provide the mandatory visual "High Note" of black seeds and a deeper, more resinous aroma. The longer you chill the base (up to 24 hours), the creamier the final snap will be.
 
 ## Directions
 
-1. Add egg yolks and sugar to a medium saucepan and whisk until a light yellow color and well combined. In another small sauce pan, heat milk over medium-low heat until it just begins to simmer. Do not stir. Gradually add milk to egg and sugar mixture, stirring constantly. Return to heat until it reaches 165º F, but do not allow it to come to a boil. As soon as it reaches the correct temperature, remove it from the heat. Pour custard base into an airtight container and store in the refrigerator until it chills to 65º F. The longer the custard base chills, the creamier your ice cream will be.
-2. Once the custard base is ready, stir in the heavy cream and vanilla extract and pour it into your ice cream maker and process according to your ice cream maker's instructions.
+1.  **The Base:** In a small saucepan, heat milk over medium-low until just simmering. 
+2.  **Emulsify:** In a medium bowl, whisk egg yolks and sugar until pale yellow. Slowly stream in the hot milk while whisking constantly.
+3.  **Thicken:** Return the mixture to the pan. Heat until it reaches 165°F and coats the back of a spoon. **Do not boil.**
+4.  **The Chill:** Transfer to a container and refrigerate for **at least 4 hours** (overnight is best) until cold.
+5.  **Churn:** Stir in the heavy cream and vanilla bean paste. Pour into your ice cream maker.
+6.  **Set:** Churn according to instructions (usually 20 mins). Transfer to a freezer-safe container and freeze for 2 hours before serving.
 
-## Notes
-
-This recipe can easily be doubled for a 2-quart ice cream maker or multiplied for a gallon container.
-
-## Nutrition
-
-- Serving: 0.5cup | Calories: 198kcal | Carbohydrates: 15g | Protein: 2g | Fat: 14g | Saturated Fat: 8g | Cholesterol: 141mg | Sodium: 28mg | Potassium: 72mg | Sugar: 14g | Vitamin A: 12.3% | Vitamin C: 0.2% | Calcium: 6.5% | Iron: 1.4%
+## Serving Suggestions
+-   [Best Homemade Brownies](/recipes/best-homemade-brownies)
+-   [Apple Pie](/recipes/apple-pie)
+-   [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider) (as a "float")

@@ -1,18 +1,33 @@
 ---
 title: Perfect Cranberry Sauce
-prepTime: 15 min
-cookTime: 22 min
-ingredients:
-  - 12-ounce bag of fresh or frozen cranberries
-  - 1 cup sugar
-  - 1 strip orange or lemon zest
-  - salt and pepper to taste
-totalTime: 37 min
 role: base
 vibe: holiday
-servings: Unknown
+prepTime: 15 min
+cookTime: 22 min
+totalTime: 37 min
+servings: '8'
+ingredients:
+  - '12 oz Fresh or Frozen Cranberries'
+  - '1 cup Granulated Sugar'
+  - '1 strip Orange Zest (The High Note)'
+  - '2 tbsp Filtered Water'
+  - 'Pinch of Sea Salt'
 ---
+
+## Chef's Note
+This is the baseline **Modularity** component for the Silton holiday table. The secret to its Success is **The Reserve Burst Pattern**: we cook 3/4 of the cranberries until they burst and release their pectin, then stir in the remaining whole berries at the very end. This ensures the sauce has a thick, jammy "Bounce" while maintaining the textural "Snap" of whole fruit. The orange zest provides the mandatory **Acid Finish** that balances the tart berries and sweet sugar.
 
 ## Directions
 
-1. Empty a 12-ounce bag of fresh or frozen cranberries into a saucepan and transfer 1/2 cup to a small bowl. Add 1 cup sugar, 1 strip orange or lemon zest and 2 tablespoons water to the pan and cook over low heat, stirring occasionally, until the sugar dissolves and the cranberries are soft, about 10 minutes. Increase the heat to medium and cook until the cranberries burst, about 12 minutes. Reduce the heat to low and stir in the reserved cranberries. Add sugar, salt and pepper to taste and cool to room temperature before serving.
+1.  **Reserve:** Measure the berries. Set aside 1/2 cup of the best-looking whole cranberries.
+2.  **Dissolve:** In a medium saucepan, combine the remaining cranberries, sugar, orange zest, and water.
+3.  **Simmer:** Cook over low heat, stirring occasionally, for 10 minutes until the sugar dissolves and the berries begin to soften.
+4.  **The Burst:** Increase heat to medium. Cook for 10-12 minutes until the berries pop and the liquid transforms into a thick, glossy syrup.
+5.  **Texture:** Remove from heat. Immediately stir in the **Reserved Whole Cranberries**.
+6.  **Set:** Season with a pinch of salt. Let cool completely to room temperature—the sauce will continue to thicken into a "Bounce" as it cools.
+7.  **Store:** Keeps in the fridge for up to 2 weeks.
+
+## Serving Suggestions
+-   [Roast Turkey Breast](/recipes/roast-turkey-breast)
+-   [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+-   [Buttermilk Waffles](/recipes/buttermilk-waffles) (as a morning topping)

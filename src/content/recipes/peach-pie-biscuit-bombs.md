@@ -1,35 +1,36 @@
 ---
 title: Peach Pie Biscuit Bombs
-prepTime: 10 min
-cookTime: 15 min
-servings: 'Yield: 8 biscuit bombs'
-ingredients:
-  - 1 package refrigerated Grands Flaky Biscuits
-  - 1 cup sliced fresh peaches (1" pieces)
-  - 3-4 ounces soft Brie cheese
-  - 2 tablespoons brown sugar
-  - 1 teaspoon ground cinnamon
-  - 1 tablespoon honey (optional)
-  - 3 tablespoons butter
-totalTime: 25 min
 role: dessert
 vibe: project
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '8'
+ingredients:
+  - '1 pkg Refrigerated Flaky Biscuits (Grands)'
+  - '1 cup Fresh Peaches, sliced into 1-inch pieces'
+  - '4 oz Brie Cheese, rinds removed'
+  - '--- The Sweet Snap ---'
+  - '2 tbsp Light Brown Sugar'
+  - '1 tsp Ground Cinnamon'
+  - '1 tbsp Honey'
+  - '3 tbsp Unsalted Butter (Beurre Noisette)'
 ---
+
+## Chef's Note
+This is a high-speed **Modern Heritage** update to the hand pie. The secret to its elite flavor is **The Beurre Noisette Pattern**: we brush the biscuits with butter that has been cooked until nutty and brown *before* baking. This creates a toasted, savory "Snap" that balances the creamy Brie and sweet peaches. We maintain **Texture Integrity** by using Brie; the cheese acts as a thermal guard, preventing the peach juices from turning the biscuit base into mush.
 
 ## Directions
 
-1. Preheat the oven to 375F.
-2. Split the biscuits in half. Place 3-4 pieces of peach in the center of the bottom half of each biscuit. Add a small spoonful of the Brie (about a teaspoon). the sprinkle them all with brown sugar and cinnamon. Drizzle with a little honey (if you are using it).
-3. Place the top back on each biscuit and gently press the edges down to lightly seal and close. Take each one in your hand and gently form into balls so the biscuit is wrapped all the way around the filling. Place them about 2" apart on an ungreased baking sheet.
-4. Put the butter in a small saucepan over medium heat. Melt it and then let it snap and crackle in the pan until it smells nutty. Remove from the heat. Brush each bomb with the browned butter, making sure to get the browned bits from the bottom of the pan.
-5. Bake for 12-15 minutes. the tops will be golden.
-6. Brush the pie bombs with the brown butter again after baking and serve warm.
+1.  **Prep:** Preheat oven to 375°F. Line a baking sheet with parchment.
+2.  **Split:** Pull each raw biscuit in half horizontally. 
+3.  **Layer:** Place 3 peach slices and 1 tsp of Brie in the center of the bottom half. Sprinkle with brown sugar and cinnamon. Drizzle with a drop of honey.
+4.  **Seal:** Place the top half back on. Pinch the edges firmly and roll gently in your palms to form a uniform "ball." Arrange 2 inches apart on the pan.
+5.  **The Sizzle:** In a small pan, melt 3 tbsp butter until it crackles and turns nutty brown. Brush each "bomb" generously with the brown butter.
+6.  **Bake:** Bake for 12-15 minutes until the tops are deep golden brown and the biscuit has a flaky "Bounce."
+7.  **Serve:** Brush once more with the remaining brown butter. Serve warm while the Brie is molten.
 
-## Nutrition
-
-- Calories: 0 calorie
-- Sodium: 0 grams sodium
-- Fiber: 0 grams fiber
-- Sugar: 0 grams sugarCarbohydrate: 0 grams carbohydrate
-- Cholesterol: 0 milligrams cholesterol
-- Protein: 0 grams protein
+## Serving Suggestions
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+-   Fresh Mint sprigs
+-   [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)

@@ -1,47 +1,39 @@
 ---
-title: 'One-Pot Chicken, Quinoa, Mushrooms & Spinach'
-cookTime: 40 min
-servings: Serving size 1 thigh + ¾ c quinoa mixture
-ingredients:
-  - '6 boneless, skinless chicken thighs, trimmed'
-  - '3/4 tsp crushed, dried rosemary'
-  - 1/2 tsp smoked paprika
-  - 1/2 tsp salt
-  - 1/2 tsp ground pepper
-  - '2 tsp olive oil, divided'
-  - '1/2 yellow onion, chopped'
-  - '8 oz. crimini mushrooms, sliced'
-  - 1 cup quinoa
-  - 2 cups low-fat chicken broth
-  - 1 1/2 cups sliced spinach leaves
-  - 'Salt and pepper, to taste'
-totalTime: 40 min
-role: base
+title: One-Pot Chicken, Quinoa, & Mushrooms
+role: main
 vibe: fuel
+prepTime: 10 min
+cookTime: 30 min
+totalTime: 40 min
+servings: '6'
+ingredients:
+  - '6 Chicken Thighs, boneless and skinless'
+  - '1 cup Dry Quinoa (rinsed)'
+  - '8 oz Cremini Mushrooms, sliced'
+  - '1/2 Yellow Onion, chopped'
+  - '--- The Flavor Pulse ---'
+  - '2 cups Low-sodium Chicken Broth'
+  - '1 1/2 cups Fresh Spinach, sliced'
+  - '3/4 tsp Dried Rosemary'
+  - '1/2 tsp Smoked Paprika'
+  - '2 tsp Extra-Virgin Olive Oil'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is the Gold Standard for a high-performance "Fuel" meal. The secret to quinoa that isn't mushy is **Texture Integrity** through **The Staged Simmer Pattern**. We sear the chicken thighs and sauté the mushrooms separately to develop a "Snap" crust before adding the broth. By nestling the chicken into the quinoa, we ensure the grains absorb the savory juices of the meat as they bloom. The smoked paprika provides the mandatory savory **High Note**.
 
 ## Directions
 
-1. Place the chicken thighs in a medium bowl. Add the rosemary, smoked paprika, salt and pepper, and toss to coat the chicken.
-2. Heat 1 teaspoon of olive oil in large nonstick skillet set over medium-high heat. Add the chicken and cook for 2 minutes on each side. Transfer the chicken to a plate.
-3. Heat the remaining 1 teaspoon of olive oil in the skillet. Add the onion and mushrooms, and cook until the vegetables are tender, 4 to 5 minutes.
-4. Stir the quinoa and broth into the vegetables. Bring to a boil, then cover, reduce heat and simmer for 15 minutes. Nestle the chicken into the quinoa, and cook (covered) until the liquid is absorbed and the chicken is cooked through, about 15 minutes (total of 30 minutes).
-5. Transfer the chicken to a plate. Stir the spinach into the quinoa. Serve with the chicken. Season to taste.
+1.  **The Sear:** Season chicken with rosemary and paprika. Heat 1 tsp oil in a large skillet. Sear chicken for 2 minutes per side until golden. Remove to a plate.
+2.  **The Veg:** Add the remaining oil to the pan. Sauté onion and mushrooms for 5 minutes until tender and browned.
+3.  **The Simmer:** Stir in the dry quinoa and broth. Bring to a boil.
+4.  **Nestle:** Place the chicken thighs back into the pan, pressing them down into the quinoa. Cover tightly.
+5.  **Cook:** Reduce heat to low and simmer for 15-20 minutes until the liquid is fully absorbed and the chicken is cooked through.
+6.  **Wilt:** Remove from heat. Gently stir in the fresh spinach—it will collapse in the residual heat.
+7.  **Serve:** Fluff the quinoa with a fork and serve immediately.
 
-## Nutrition
-
-- Calories: 398kcal
-- Calories from fat: 111
-- Total Fat: 12g
-- Saturated Fat: 3g
-- Cholesterol: 184mg
-- Sodium: 838mg
-- Dietary Fiber: 3g
-- Sugars: 2g
-- Protein: 45g
-- 0: 00 calorie diet. Your daily values may be higher or lower depending on your calorie needs:Calories 2000
-- Total Fat Less than: 65g
-- Sat Fat Less than: 25g
-- Cholesterol Less than: 300mg
-- Sodium Less than: 2
-- Dietary Fiber: 25g
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roasted Asparagus](/recipes/roasted-asparagus)
+-   [Cucumber Raita](/recipes/cucumber-raita)
