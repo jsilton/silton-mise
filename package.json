@@ -9,7 +9,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "format": "prettier --write .",
-    "validate:recipes": "node ./scripts/validate-recipes.mjs"
+    "validate-recipes": "node ./scripts/validate-recipes.mjs",
+    "qa": "node ./scripts/qa-test.mjs",
+    "deploy": "npm run qa && npm run build && echo 'Ready to deploy - push /dist/ to production'"
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.0",
