@@ -4,7 +4,7 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://jordansilton.com',
-  base: '/silton-mise',
+  base: '/silton-mise/',
   integrations: [tailwind()],
   server: {
     host: true,

@@ -7,7 +7,7 @@ const recipesCollection = defineCollection({
     // What is this dish?
     role: z.enum(['main', 'side', 'base', 'dessert', 'drink', 'condiment']).optional(),
     // When should I cook it?
-    vibe: z.enum(['speed', 'fuel', 'comfort', 'project', 'holiday']).optional(),
+    vibe: z.enum(['quick', 'nutritious', 'comfort', 'technical', 'holiday']).optional(),
 
     prepTime: z.string().optional(),
     cookTime: z.string().optional(),

@@ -53,7 +53,7 @@ const VIBE_RULES = [
     type: 'holiday',
     match: ['thanksgiving', 'turkey', 'stuffing', 'cranberry', 'rosh hashanah', 'brisket'],
   },
-  { type: 'project', match: ['lasagna', 'risotto', 'paella', 'dumpling', 'pie', 'cake', 'wonton'] },
+  { type: 'technical', match: ['lasagna', 'risotto', 'paella', 'dumpling', 'pie', 'cake', 'wonton'] },
   {
     type: 'comfort',
     match: [
@@ -68,8 +68,8 @@ const VIBE_RULES = [
       'chili',
     ],
   },
-  { type: 'fuel', match: ['salad', 'bowl', 'grilled', 'roasted', 'smoothie', 'oats'] },
-  { type: 'speed', match: ['stir-fry', 'taco', 'burger', 'skillet', 'shrimp', 'salmon'] },
+  { type: 'nutritious', match: ['salad', 'bowl', 'grilled', 'roasted', 'smoothie', 'oats'] },
+  { type: 'quick', match: ['stir-fry', 'taco', 'burger', 'skillet', 'shrimp', 'salmon'] },
 ];
 
 const PAIRINGS = [
@@ -129,9 +129,9 @@ function refine() {
       let vibe = inferTag(data.title, VIBE_RULES, null);
 
       if (!vibe) {
-        if (totalMin > 0 && totalMin <= 30) vibe = 'speed';
+        if (totalMin > 0 && totalMin <= 30) vibe = 'quick';
         else if (totalMin > 60) vibe = 'comfort';
-        else vibe = 'fuel'; // Middle ground
+        else vibe = 'nutritious'; // Middle ground
       }
       data.vibe = vibe;
       modified = true;
