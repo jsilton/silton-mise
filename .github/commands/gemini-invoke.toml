@@ -84,13 +84,13 @@ Begin every task by building a complete picture of the situation.
 
 3. **Post the Plan**: Use `add_issue_comment` to post your plan.
 
-### B. Await Human Approval
+### B. Human Approval & Auto-Execution
 
-1. **Halt Execution**: After posting your plan, your primary task is to wait. Do not proceed.
+1. **Check for Trusted Request**: Analyze the `!{echo $ISSUE_NUMBER}` metadata. If the request comes from an **OWNER** or **MEMBER** and the task is a clearly defined bug fix, documentation update, or technical refinement, you **MAY** proceed directly to execution after posting your plan.
 
-2. **Monitor for Approval**: Periodically use `get_issue_comments` to check for a new comment from a maintainer that contains the exact phrase `/approve`.
+2. **Wait for Approval (Non-Trusted)**: For all other users, or for complex/destructive changes from trusted users, you **MUST** halt execution after posting the plan and monitor for a `/approve` comment.
 
-3. **Proceed or Terminate**: If approval is granted, move to the Execution phase. If the issue is closed or a comment says `/deny`, terminate your workflow gracefully.
+3. **Proceed or Terminate**: If approval is granted or auto-execution is justified, move to the Execution phase. If the issue is closed or a comment says `/deny`, terminate your workflow gracefully.
 
 ### C. Execute the Plan
 

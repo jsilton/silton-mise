@@ -1,75 +1,88 @@
-# Silton Mise
+# Silton Mise (The Silton Standard)
 
-The version-controlled culinary standard for the Silton kitchen.
+The version-controlled culinary standard for the Silton family kitchen.
 
 ## Overview
 
-This project is a static recipe site built with [Astro](https://astro.build). It manages a collection of family recipes, providing a fast, searchable, and clean interface for cooking.
+Silton Mise is a high-performance, static recipe repository and site built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com). It represents the definitive collection of family heritage and technical "Gold Standard" recipes, curated and refined by the **Executive Chef (Gemini AI)**.
 
-## Features
+## The Silton Standard
 
-- **Static Site Generation:** Fast, pre-built HTML pages.
-- **Content Collections:** Recipes are stored as Markdown files in `src/content/recipes`.
-- **Search:** Instant client-side search by recipe name or ingredient.
-- **Clean UI:** A distraction-free reading experience optimized for the kitchen.
+Every recipe in this collection adheres to the Silton Standard:
+- **Modularity:** Common bases (sauces, stocks, rubs) are separated for reuse.
+- **Texture Integrity:** Technical patterns like the "Bone-Dry Standard" or "Staged Roasting" are applied to ensure perfect mouthfeel.
+- **Modern Heritage:** Classical family recipes are updated with modern culinary science (e.g., Beurre Noisette, 137°F Pork Standard).
+- **The High Note:** Every dish is finished with a balancing element (acid, salt, or aromatic) to bridge flavor profiles.
+
+## Technical Features
+
+- **Blazing Fast:** Static site generation for instant page loads.
+- **Agentic Automation:** Integrated with **Gemini AI** for automatic issue triage, recipe refinement, and quality audits.
+- **Self-Healing Pipeline:** The "Kitchen Brigade" CI/CD automatically formats code and validates recipe schema.
+- **Automated Deployment:** Continuous deployment to [jordansilton.com/silton-mise](https://jordansilton.com/silton-mise/) via GitHub Actions.
 
 ## Development
 
-1.  Install dependencies:
-
+1.  **Install Ingredients:**
     ```bash
     npm install
     ```
 
-2.  Start the development server:
-
+2.  **Fire the Oven (Dev):**
     ```bash
     npm run dev
     ```
 
-3.  Build for production:
+3.  **Service (Build):**
     ```bash
     npm run build
     ```
 
 ## Adding Recipes
 
-Add new recipes as `.md` files in `src/content/recipes/`.
+New recipes are added as `.md` files in `src/content/recipes/`.
 
-**Frontmatter Schema:**
+### Frontmatter Schema (Mandatory)
 
 ```yaml
 ---
-title: 'Recipe Name'
+title: 'Recipe Name (The [X] Standard)'
+role: 'main | side | dessert | base | drink | condiment'
+vibe: 'fuel | comfort | project | holiday | speed'
 prepTime: '15 min'
 cookTime: '20 min'
 totalTime: '35 min'
 servings: '4'
 ingredients:
+  - '--- Section Header ---'
   - 'Item 1'
-  - 'Item 2'
+  - '[Related Recipe](/recipes/related-slug)'
 ---
 ```
 
-**Body Content:**
+### Content Structure
 
-The body of the markdown file should contain the description, directions, notes, and nutrition info using standard Markdown headers.
+Every file **must** include a `## Chef's Note` explaining the technical patterns applied and a `## Directions` section with bolded step headers.
 
 ```markdown
-## Description
-
-A brief description of the dish.
+## Chef's Note
+The secret to this dish is **Structural Science** through **The [Pattern Name]**.
 
 ## Directions
 
-1. Step 1
-2. Step 2
+1. **The Prep:** Step details...
+2. **The Sear:** Step details...
 
-## Notes
-
-Any special notes.
-
-## Nutrition
-
-Nutritional information.
+## Serving Suggestions
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
 ```
+
+## AI Governance
+
+This repository utilizes the **Kitchen Brigade** automation suite:
+- **Triage:** Automatically labels and classifies new issues.
+- **Invoke:** Can be called via `@gemini-cli` to implement features or fix bugs directly in the repository.
+- **Refine:** Standardizes legacy recipes to the Silton Standard using the Codex of Culinary Mastery.
+
+---
+*Service is Go!*
