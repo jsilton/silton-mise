@@ -1,0 +1,86 @@
+name: The Kitchen Brigade
+
+on:
+  push:
+    branches: ['main']
+  pull_request:
+    branches: ['main']
+
+jobs:
+  # 1. THE SOUS CHEF: Integrity & Build
+  sous-chef:
+    name: "Sous Chef (Build & Lint)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Ingredients (Dependencies)
+        run: npm ci
+
+      - name: Check Plating (Formatting)
+        run: npx prettier --check .
+
+      - name: Fire the Oven (Build)
+        run: npm run build
+
+  # 2. THE EXPEDITOR: Data Validation
+  expeditor:
+    name: "Expeditor (Data Check)"
+    needs: sous-chef
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: Inspect the Pass
+        run: node scripts/validate_recipes.js
+
+  # 3. THE MAÎTRE D': AI Review (Product & UX Oversight)
+  maitre-d:
+    name: "Maître d' (AI Review)"
+    needs: [sous-chef, expeditor]
+    if: success()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write # Allow commenting on PRs
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Read The Codex
+        id: codex
+        run: |
+          content=$(cat CONTRIBUTING.md)
+          echo "codex<<EOF" >> $GITHUB_OUTPUT
+          echo "$content" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Consult the Executive Chef (Gemini)
+        uses: google-github-actions/run-gemini-cli@v0
+        with:
+          gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
+          prompt: >
+            You are the Maître d' and Executive Chef of the Silton family kitchen software project.
+            A new change has successfully passed the Sous Chef (Build) and Expeditor (Data) stations.
+            
+            Your job is to provide a high-level summary and approval for the team.
+            
+            CONTEXT:
+            - The project follows the "Silton Codex" rules: ${{ steps.codex.outputs.codex }}
+            - The commit message is: "${{ github.event.head_commit.message }}"
+            
+            TASK:
+            1. Summarize the change in 1-2 professional but kitchen-themed sentences.
+            2. Confirm if the "Silton Standard" (CONTRIBUTING.md) appears to be upheld based on the commit message.
+            3. If this is a Pull Request, offer a brief UX or Product critique if relevant (e.g., "Changing the layout might affect mobile users").
+            4. End with a "Service is Go!" confirmation.
