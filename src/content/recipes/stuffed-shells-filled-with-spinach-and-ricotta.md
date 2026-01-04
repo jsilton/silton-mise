@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to stuffed shells that aren't watery is **Structural Science** through **The Ice-Shock Squeeze Pattern**. You must blanch the spinach for only 20 seconds and then squeeze it in a towel until **bone-dry** before pureeing with the cheese. This ensures the filling has a dense, custardy "Bounce" rather than weeping into the sauce. We use **The Single-Layer Pattern**: arranging the shells in a tight, single layer ensures the edges develop a "Snappy" golden crust under the broiler.
 
 ## Directions
@@ -29,12 +30,13 @@ The secret to stuffed shells that aren't watery is **Structural Science** throug
 1.  **Blanch:** Boil spinach for 20 seconds. Shock in ice water. Squeeze until **completely dry**.
 2.  **The Filling:** In a food processor, pulse garlic and the dry spinach until finely chopped. Add ricotta, egg, 1/3 cup Parmesan, chives, and salt. Pulse until perfectly smooth and thick.
 3.  **Boil Shells:** Cook jumbo shells in salted water for 10 minutes until **al dente**. Drain and toss with olive oil to prevent sticking.
-4.  **Assemble:** Grease a 9x13-inch baking dish. Spread a thin layer of sauce on the bottom. 
+4.  **Assemble:** Grease a 9x13-inch baking dish. Spread a thin layer of sauce on the bottom.
 5.  **Fill:** Stuff each shell with a rounded tablespoon of the ricotta mix. Arrange in a single layer.
 6.  **Bake:** Top with remaining sauce and cover tightly with foil. Bake at 350°F for 30 minutes.
 7.  **The Snap:** Remove foil. Sprinkle with remaining Parmesan. Broil for 2 minutes until the edges are crispy and golden.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

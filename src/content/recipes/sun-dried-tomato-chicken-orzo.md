@@ -20,6 +20,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate high-speed "Fuel" main. The secret to its Success is **The Boursin Melt Pattern**: we place a block of Boursin cheese directly in the center of the baking dish surrounded by the raw orzo and broth. As it bakes, the cheese emulsifies with the chicken juices to create a thick, garlic-herb "Bounce" that standard cream cannot mimic. We maintain **Texture Integrity** through **The Lemon Sizzle**: placing fresh lemon slices over the chicken provides a mandatory **Acid Finish** that keeps the rich cheese from feeling heavy.
 
 ## Directions
@@ -33,6 +34,7 @@ This is the ultimate high-speed "Fuel" main. The secret to its Success is **The 
 7.  **Serve:** Garnish with extra black pepper and serve hot.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 These are the definitive "Speed" fuel for children and busy adults. The secret to their Success is **Structural Science** through **The Emerald Emulsion Pattern**. You must blend the raw spinach, banana, and wet ingredients in a high-speed blender until it becomes a vibrant, neon-green liquid. This ensures the spinach is completely pulverized, resulting in a tender, cake-like "Bounce" where the vegetable acts as a moisture guard rather than a chunky intrusion. The cinnamon provides the mandatory aromatic **High Note**.
 
 ## Directions
@@ -33,6 +34,7 @@ These are the definitive "Speed" fuel for children and busy adults. The secret t
 5.  **Cool:** Let cool completely in the pan to allow the moisture to set into a "Bounce."
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   Fresh Sliced Apples
--   Cold Glass of Milk
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- Fresh Sliced Apples
+- Cold Glass of Milk

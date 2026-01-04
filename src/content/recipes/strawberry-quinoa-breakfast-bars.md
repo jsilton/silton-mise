@@ -19,7 +19,8 @@ ingredients:
 ---
 
 ## Chef's Note
-These are high-performance **Modularity** components for busy mornings. The secret to their incredible "Bounce" is **Structural Science** through **The Quinoa-Egg Bind**. By using pre-cooked quinoa, we introduce a protein-rich moisture that prevents the oats from becoming dry and crumbly. We maintain **Texture Integrity** by mashing the bananas into a smooth paste *before* adding the eggs; this creates a stable emulsion that acts as a healthy "glue" for the strawberries. The raisins provide a necessary chewy "Snap."
+
+These are high-performance **Modularity** components for busy mornings. The secret to their incredible "Bounce" is **Structural Science** through **The Quinoa-Egg Bind**. By using pre-cooked quinoa, we introduce a protein-rich moisture that prevents the oats from becoming dry and crumbly. We maintain **Texture Integrity** by mashing the bananas into a smooth paste _before_ adding the eggs; this creates a stable emulsion that acts as a healthy "glue" for the strawberries. The raisins provide a necessary chewy "Snap."
 
 ## Directions
 
@@ -31,6 +32,7 @@ These are high-performance **Modularity** components for busy mornings. The secr
 6.  **Set:** Let cool **completely** in the pan (mandatory for structure). Slice into 9 squares.
 
 ## Serving Suggestions
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
--   Fresh Orange Slices
+
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- Fresh Orange Slices

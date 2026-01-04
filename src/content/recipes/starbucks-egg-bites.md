@@ -16,7 +16,8 @@ ingredients:
 ---
 
 ## Chef's Note
-The secret to the iconic "Velvet" texture of professional egg bites is **Structural Science** through **The Blender Emulsion**. By blending the eggs with full-fat cottage cheese, we introduce a massive amount of protein-rich moisture that creates a custardy "Bounce" standard egg muffins lack. We maintain **Texture Integrity** through **The Bacon Press**: we top each bite with crispy bacon *before* baking, ensuring a savory "Snap" on the surface. For the ultimate Gold Standard result, place a tray of water on the bottom rack of the oven to create a "Steam Bath" during baking.
+
+The secret to the iconic "Velvet" texture of professional egg bites is **Structural Science** through **The Blender Emulsion**. By blending the eggs with full-fat cottage cheese, we introduce a massive amount of protein-rich moisture that creates a custardy "Bounce" standard egg muffins lack. We maintain **Texture Integrity** through **The Bacon Press**: we top each bite with crispy bacon _before_ baking, ensuring a savory "Snap" on the surface. For the ultimate Gold Standard result, place a tray of water on the bottom rack of the oven to create a "Steam Bath" during baking.
 
 ## Directions
 
@@ -29,6 +30,7 @@ The secret to the iconic "Velvet" texture of professional egg bites is **Structu
 7.  **Serve:** Serve immediately or refrigerate for up to 5 days.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   Fresh Sliced Tomatoes
--   [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Fresh Sliced Tomatoes
+- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)

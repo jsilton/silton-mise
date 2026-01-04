@@ -24,12 +24,13 @@ ingredients:
 ---
 
 ## Chef's Note
-The secret to meatless meatballs that aren't mushy is **Structural Science** through **The Walnut-Starch Bind**. By combining pressed tofu with ground walnuts and whole-wheat crumbs, we create a multi-dimensional "Snap" that mimics beef. We maintain **Texture Integrity** by sautéing the mirepoix vegetables until tender *before* adding them to the tofu; this ensures the "meatballs" set firmly in the oven. The Dijon mustard provides the mandatory **Acid Finish** needed to bridge the earthy soy and nutty walnuts.
+
+The secret to meatless meatballs that aren't mushy is **Structural Science** through **The Walnut-Starch Bind**. By combining pressed tofu with ground walnuts and whole-wheat crumbs, we create a multi-dimensional "Snap" that mimics beef. We maintain **Texture Integrity** by sautéing the mirepoix vegetables until tender _before_ adding them to the tofu; this ensures the "meatballs" set firmly in the oven. The Dijon mustard provides the mandatory **Acid Finish** needed to bridge the earthy soy and nutty walnuts.
 
 ## Directions
 
 1.  **Foundation:** In a large skillet, sauté onion, carrot, pepper, and garlic in olive oil for 10 minutes until soft. Let cool slightly.
-2.  **The Base:** In a massive bowl, crumble the pressed tofu with your hands until it looks like ground meat. 
+2.  **The Base:** In a massive bowl, crumble the pressed tofu with your hands until it looks like ground meat.
 3.  **Emulsify:** Add the eggs, breadcrumbs, walnuts, herbs, mustard, sesame oil, and soy sauce to the tofu.
 4.  **Combine:** Add the sautéed vegetables. Mix vigorously with your hands until a sticky, uniform dough forms.
 5.  **Shape:** Form into 1.5-inch balls. Arrange on an oiled baking sheet.
@@ -37,6 +38,7 @@ The secret to meatless meatballs that aren't mushy is **Structural Science** thr
 7.  **Serve:** Add the meatballs to your favorite [Roasted Tomato Sauce](/recipes/roasted-tomato-basil-soup) and serve over [Fresh Egg Pasta](/recipes/fresh-egg-pasta).
 
 ## Serving Suggestions
--   [Fresh Egg Pasta (The Silton Standard)](/recipes/fresh-egg-pasta)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Garlic Bread](/recipes/garlic-bread)
+
+- [Fresh Egg Pasta (The Silton Standard)](/recipes/fresh-egg-pasta)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/recipes/garlic-bread)

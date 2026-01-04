@@ -17,6 +17,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the definitive "Speed" cocktail for the Silton home bar. The secret to its Success is **The Smoked Salt Pulse**. Instead of rimming the glass (which provides inconsistent flavor), we add a tiny pinch of **Smoked Sea Salt** directly into the shaker. This introduces a "Deep Note" that amplifies the wood-aged notes of the reposado tequila. We use a **1:1:1 ratio** of tequila, orange liqueur, and lime to ensure a perfect balance where the acid provides a sharp "Snap" against the velvety agave "Bounce."
 
 ## Directions
@@ -29,6 +30,7 @@ This is the definitive "Speed" cocktail for the Silton home bar. The secret to i
 6.  **Garnish:** Express a lime wedge over the surface and drop it in for the final aromatic **High Note**.
 
 ## Serving Suggestions
--   [Guacamole (The Silton Standard)](/recipes/guacamole)
--   [Seafood-Chorizo Tacos](/recipes/seafood-chorizo-tacos)
--   [Mexican Street Corn Salad (Esquites)](/recipes/mexican-street-corn-salad)
+
+- [Guacamole (The Silton Standard)](/recipes/guacamole)
+- [Seafood-Chorizo Tacos](/recipes/seafood-chorizo-tacos)
+- [Mexican Street Corn Salad (Esquites)](/recipes/mexican-street-corn-salad)

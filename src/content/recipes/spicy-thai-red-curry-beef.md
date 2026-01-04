@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the baseline for 20-minute "Speed" main dishes. The secret to its Success is **The Coconut Cream Bloom Pattern**: you must spoon the thick layer of cream from the top of the can into the skillet first and fry the curry paste in it until the oil separates. This "blooms" the aromatics and creates a professional depth usually only found in slow-simmered curries. We maintain **Texture Integrity** through **The 3-Minute Sear**: we flash-fry the thin beef slices at the very end to ensure a succulent "Bounce" rather than a chewy texture.
 
 ## Directions
@@ -34,6 +35,7 @@ This is the baseline for 20-minute "Speed" main dishes. The secret to its Succes
 6.  **Serve:** Serve immediately over [Basmati Rice](/recipes/basmati-rice) with lime wedges.
 
 ## Serving Suggestions
--   [Basmati Rice (The Silton Standard)](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)
+
+- [Basmati Rice (The Silton Standard)](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)

@@ -22,7 +22,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the "Gold Standard" for technical comfort food. The secret to its Success is **The Maillard Roast Pattern**: we roast fresh tomatoes and whole garlic cloves until charred and soft *before* pureeing. This concentrates the natural sugars and provides a smoky depth that canned tomatoes lack. We use **The Basil Emulsion**: by blending the fresh basil directly into the hot soup, we achieve a vibrant green "High Note" that pierces through the rich cream.
+
+This is the "Gold Standard" for technical comfort food. The secret to its Success is **The Maillard Roast Pattern**: we roast fresh tomatoes and whole garlic cloves until charred and soft _before_ pureeing. This concentrates the natural sugars and provides a smoky depth that canned tomatoes lack. We use **The Basil Emulsion**: by blending the fresh basil directly into the hot soup, we achieve a vibrant green "High Note" that pierces through the rich cream.
 
 ## Directions
 
@@ -34,6 +35,7 @@ This is the "Gold Standard" for technical comfort food. The secret to its Succes
 6.  **Serve:** Serve with a drizzle of high-quality olive oil.
 
 ## Serving Suggestions
--   [Sourdough Grilled Cheese](/recipes/grilled-cheese-and-tomato-soup)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Sourdough Grilled Cheese](/recipes/grilled-cheese-and-tomato-soup)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

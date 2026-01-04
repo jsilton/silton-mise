@@ -21,6 +21,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to a "Gold Standard" Vongole is **Texture Integrity** through **The Cold Soak Pattern**. You must soak the clams in cold, salted water for 20 minutes before cooking; this encourages them to purge any internal sand, ensuring a clean "Snap" to the dish. We use **Dry Vermouth** instead of white wine to introduce a botanically rich "Deep Note" that pierces through the salty sea liquor. The 1-minute **Lid Shake Cycle** is mandatory to emulsify the oil and clam juices into a silky, translucent glaze.
 
 ## Directions
@@ -31,10 +32,11 @@ The secret to a "Gold Standard" Vongole is **Texture Integrity** through **The C
 4.  **The Snap:** Add the vermouth and the clams. Cover tightly. **Shake the pan vigorously** for 2-3 minutes until all clams have popped open.
 5.  **Bind:** Add the hot drained pasta directly to the skillet. Increase heat to medium-high.
 6.  **Emulsify:** Toss vigorously for 1 minute until the pasta has absorbed the clam liquor and the oil has emulsified into a glossy film.
-7.  **Finish:** Stir in the lemon juice and half the parsley. 
+7.  **Finish:** Stir in the lemon juice and half the parsley.
 8.  **Serve:** Garnish with the remaining parsley and a final drizzle of oil. Discard any clams that did not open.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

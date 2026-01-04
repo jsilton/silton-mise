@@ -16,6 +16,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the baseline **Modularity** component for all high-performance "Fuel" bowls. The secret to its Success is **The Infusion Pattern**: while the broccoli steams, we warm the olive oil and garlic in a small pan for exactly 1 minute. This "blooms" the garlic, removing its harsh sulfurous bite while creating a nutty, aromatic dressing that provides a savory "Bounce" to the greens. We maintain **Texture Integrity** by steaming for exactly 4 minutes to ensure a bright green "Snap."
 
 ## Directions
@@ -28,6 +29,7 @@ This is the baseline **Modularity** component for all high-performance "Fuel" bo
 6.  **Serve:** Serve immediately as a clean, restorative side.
 
 ## Serving Suggestions
--   [Easy Pan-Seared Chicken Breasts](/recipes/easy-pan-seared-chicken-breasts)
--   [Baked Cod with Lemon Panko](/recipes/baked-cod-with-lemon-panko)
--   [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+
+- [Easy Pan-Seared Chicken Breasts](/recipes/easy-pan-seared-chicken-breasts)
+- [Baked Cod with Lemon Panko](/recipes/baked-cod-with-lemon-panko)
+- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)

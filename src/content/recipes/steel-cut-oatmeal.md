@@ -20,7 +20,8 @@ ingredients:
 ---
 
 ## Chef's Note
-The secret to "Gold Standard" oatmeal is **Structural Science** through **The Toasting Pattern**. You must fry the dry oats in butter for 2 minutes *before* adding the water; this creates a protective nutty shell that ensures each grain maintains a resilient "Snap" rather than turning into a gluey mash. We use **Buttermilk** as the mandatory **Acid Finish**; stirring it in at the very end provides a sophisticated tang that balances the sweet brown sugar and gives the porridge a rich, custardy "Bounce."
+
+The secret to "Gold Standard" oatmeal is **Structural Science** through **The Toasting Pattern**. You must fry the dry oats in butter for 2 minutes _before_ adding the water; this creates a protective nutty shell that ensures each grain maintains a resilient "Snap" rather than turning into a gluey mash. We use **Buttermilk** as the mandatory **Acid Finish**; stirring it in at the very end provides a sophisticated tang that balances the sweet brown sugar and gives the porridge a rich, custardy "Bounce."
 
 ## Directions
 
@@ -31,6 +32,7 @@ The secret to "Gold Standard" oatmeal is **Structural Science** through **The To
 5.  **Serve:** Serve hot with fresh berries or a drizzle of maple syrup.
 
 ## Serving Suggestions
--   Fresh Sliced Strawberries
--   [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
--   [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+
+- Fresh Sliced Strawberries
+- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)

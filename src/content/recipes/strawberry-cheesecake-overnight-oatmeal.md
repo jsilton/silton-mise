@@ -20,7 +20,8 @@ ingredients:
 ---
 
 ## Chef's Note
-The secret to "Cheesecake" oats that aren't a dense brick is **Structural Science** through **The Softened Emulsion Pattern**. You must whisk the cream cheese and Greek yogurt together *before* adding the milk and oats; this creates a stable, cheesecake-like base with a sophisticated "Bounce." We use **Lemon Juice and Zest** as the mandatory **Acid Finish** to cut through the heavy cream cheese, providing the signature tang of a real cheesecake. Always add the berries just before refrigerating to maintain **Texture Integrity**.
+
+The secret to "Cheesecake" oats that aren't a dense brick is **Structural Science** through **The Softened Emulsion Pattern**. You must whisk the cream cheese and Greek yogurt together _before_ adding the milk and oats; this creates a stable, cheesecake-like base with a sophisticated "Bounce." We use **Lemon Juice and Zest** as the mandatory **Acid Finish** to cut through the heavy cream cheese, providing the signature tang of a real cheesecake. Always add the berries just before refrigerating to maintain **Texture Integrity**.
 
 ## Directions
 
@@ -32,6 +33,7 @@ The secret to "Cheesecake" oats that aren't a dense brick is **Structural Scienc
 6.  **Serve:** Stir once more. Garnish with a fresh strawberry and a "High Note" crack of black pepper (trust me).
 
 ## Serving Suggestions
--   [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
--   Fresh Sliced Almonds
--   [Classic Martini](/recipes/classic-martini) (if serving as a brunch dessert)
+
+- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- Fresh Sliced Almonds
+- [Classic Martini](/recipes/classic-martini) (if serving as a brunch dessert)

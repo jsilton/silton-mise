@@ -22,6 +22,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a technical "Heritage" dish known as **Bian Dou Men Mian**. The secret to its Success is **The Double-Texture Pattern**: we steam the fresh noodles separately first to set their structure (The "Bounce"), then braise them directly on top of the green beans and pork without stirring. This allows the bottom of the noodles to absorb the savory **Dark Soy Glaze** while the top remains light and airy. We maintain **Texture Integrity** through **The Pork Render**: browning the pork belly in a single layer provides a smoky "Snap" that balances the soft beans.
 
 ## Directions
@@ -29,13 +30,14 @@ This is a technical "Heritage" dish known as **Bian Dou Men Mian**. The secret t
 1.  **Velvet:** Toss pork with marinade ingredients. Let stand for 20 minutes.
 2.  **Steam Noodles:** Line a steamer with parchment. Pile noodles on top, drizzle with 1 tbsp oil, and steam for 10-12 minutes until flexible. Set aside.
 3.  **The Sear:** In a wok, sauté ginger, star anise, garlic, and scallions for 1 minute. Add the pork and stir-fry over high heat until opaque and browned.
-4.  **The Snap:** Add the green beans. Sauté for 3 minutes until bright green. 
+4.  **The Snap:** Add the green beans. Sauté for 3 minutes until bright green.
 5.  **The Bind:** Stir in both soy sauces, sugar, and water. Bring to a boil.
 6.  **The Layer:** Lay the steamed noodles directly on top of the beans. **Do not stir.** Cover tightly with a lid.
 7.  **Braise:** Cook for 5-7 minutes over medium-high until the liquid is almost gone.
 8.  **Toss:** Uncover and toss the noodles with the beans until every strand is mahogany-brown and glossy. Serve immediately.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
--   [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)

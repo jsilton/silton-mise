@@ -22,7 +22,8 @@ ingredients:
 ---
 
 ## Chef's Note
-The secret to this 30-minute "Speed" meal is **The Tomato-Oil Sear Pattern**. You must use the oil reserved from the sun-dried tomato jar to sear the chicken; this infuses the protein with a deep, concentrated tomato intensity *before* the cream is added. We maintain **Texture Integrity** through **The Mozzarella Bind**: by whisking the cheese directly into the simmering cream, we create a stable, tacky glaze that has the "Bounce" to cling to the penne without needing a heavy flour roux. The red pepper flakes provide the mandatory savory **High Note**.
+
+The secret to this 30-minute "Speed" meal is **The Tomato-Oil Sear Pattern**. You must use the oil reserved from the sun-dried tomato jar to sear the chicken; this infuses the protein with a deep, concentrated tomato intensity _before_ the cream is added. We maintain **Texture Integrity** through **The Mozzarella Bind**: by whisking the cheese directly into the simmering cream, we create a stable, tacky glaze that has the "Bounce" to cling to the penne without needing a heavy flour roux. The red pepper flakes provide the mandatory savory **High Note**.
 
 ## Directions
 
@@ -30,11 +31,12 @@ The secret to this 30-minute "Speed" meal is **The Tomato-Oil Sear Pattern**. Yo
 2.  **The Sear:** Add sliced chicken (seasoned with paprika and salt). Cook over high heat for 2 minutes per side until charred. Remove to a plate.
 3.  **Boil:** Cook penne until **al dente**. **Reserve 1 cup of pasta water**.
 4.  **Emulsify:** In the skillet, combine the half-and-half and mozzarella. Bring to a gentle boil, then simmer, stirring constantly, until the cheese has melted into a thick, glossy silk.
-5.  **Bind:** Return the chicken and any juices to the pan. Add the hot pasta, spinach, and basil. 
+5.  **Bind:** Return the chicken and any juices to the pan. Add the hot pasta, spinach, and basil.
 6.  **Toss:** Toss vigorously for 1 minute. Add pasta water 1/4 cup at a time until the sauce is creamy and the spinach has just wilted.
 7.  **Serve:** Season with extra red pepper flakes and serve hot.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

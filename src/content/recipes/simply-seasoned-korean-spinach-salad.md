@@ -17,6 +17,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Gold Standard" Korean spinach is **Structural Science** through **The 30-Second Blanch Pattern**. Spinach is 90% water; by plunging it into boiling water for exactly 30 seconds and then into ice water, we lock in the vibrant green chlorophyll and provide a resilient "Bounce." We maintain **Texture Integrity** through **The Squeeze**: you must gather the chilled spinach and squeeze until it is a dry, dense ball before seasoning. The toasted sesame oil is the mandatory savory **High Note**.
 
 ## Directions
@@ -24,12 +25,13 @@ The secret to "Gold Standard" Korean spinach is **Structural Science** through *
 1.  **Thermal Prep:** Bring a large pot of water to a boil with 1 tsp salt. Prepare an ice-water bath.
 2.  **Blanch:** Plunge washed spinach into boiling water. Cook for 30 seconds until just wilted.
 3.  **Shock:** Drain immediately and submerge in ice water for 2 minutes.
-4.  **The Squeeze:** Squeeze the spinach with your hands until **bone-dry**. No water should remain. 
+4.  **The Squeeze:** Squeeze the spinach with your hands until **bone-dry**. No water should remain.
 5.  **Cut:** Cut the dry spinach ball into 2-inch sections.
 6.  **Bind:** In a large bowl, whisk sesame oil, garlic, salt, and scallions. Add the spinach and toss vigorously with your hands to separate the leaves.
 7.  **Finish:** Garnish with sesame seeds. Serve chilled or at room temperature.
 
 ## Serving Suggestions
--   [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
--   [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
--   [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)
+
+- [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
+- [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
+- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)

@@ -22,7 +22,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the baseline for 10-minute "Speed" main dishes. The secret to its Success is **The Cold Soak Pattern**: we soak the shrimp in cold salted water for 5 minutes *before* patting them dry; this "plumps" the protein and ensures a resilient "Bounce" under high heat. We maintain **Texture Integrity** through **The 5-Second Garlic Pulse**: we add the garlic and ginger to the hot oil for only 5 seconds before the shrimp—this captures the raw aromatic "High Note" without any bitter browning.
+
+This is the baseline for 10-minute "Speed" main dishes. The secret to its Success is **The Cold Soak Pattern**: we soak the shrimp in cold salted water for 5 minutes _before_ patting them dry; this "plumps" the protein and ensures a resilient "Bounce" under high heat. We maintain **Texture Integrity** through **The 5-Second Garlic Pulse**: we add the garlic and ginger to the hot oil for only 5 seconds before the shrimp—this captures the raw aromatic "High Note" without any bitter browning.
 
 ## Directions
 
@@ -35,6 +36,7 @@ This is the baseline for 10-minute "Speed" main dishes. The secret to its Succes
 7.  **Serve:** Stir in the scallions and serve immediately over rice.
 
 ## Serving Suggestions
--   [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+
+- [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)

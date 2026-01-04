@@ -20,11 +20,12 @@ ingredients:
 ---
 
 ## Chef's Note
-This is the definitive Boston-Chinese "Heritage" standard. The name is literal: the sauce is designed *for* lobster, though we use shrimp here. The secret to its Success is **Structural Science** through **The Egg Ribbon Pattern**: you must turn off the heat and slowly drizzle the beaten egg into the boiling sauce while stirring gently; this creates silken ribbons that provide a velvety "Bounce." We use **Fermented Black Beans** as the "Deep Note" to provide the earthy backbone that defines the dish.
+
+This is the definitive Boston-Chinese "Heritage" standard. The name is literal: the sauce is designed _for_ lobster, though we use shrimp here. The secret to its Success is **Structural Science** through **The Egg Ribbon Pattern**: you must turn off the heat and slowly drizzle the beaten egg into the boiling sauce while stirring gently; this creates silken ribbons that provide a velvety "Bounce." We use **Fermented Black Beans** as the "Deep Note" to provide the earthy backbone that defines the dish.
 
 ## Directions
 
-1.  **The Render:** Heat 1 tbsp oil in a wok. Brown the ground pork until crispy (5 mins). 
+1.  **The Render:** Heat 1 tbsp oil in a wok. Brown the ground pork until crispy (5 mins).
 2.  **Aromatics:** Add the garlic and mashed black beans. Sauté for 1 minute until fragrant.
 3.  **The Snap:** Add the shrimp. Stir-fry for 2 minutes over high heat until just pink.
 4.  **Simmer:** Pour in the chicken stock and soy sauces. Bring to a rapid boil.
@@ -33,6 +34,7 @@ This is the definitive Boston-Chinese "Heritage" standard. The name is literal: 
 7.  **Serve:** Garnish with green onions. Serve immediately over white rice.
 
 ## Serving Suggestions
--   [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+
+- [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)

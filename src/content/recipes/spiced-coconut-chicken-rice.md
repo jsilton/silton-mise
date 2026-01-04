@@ -22,20 +22,22 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a high-performance "Fuel" meal that relies on **Structural Science** through **The Hydration Pattern**. You must soak the basmati rice for 45 minutes; this ensures each grain is long, distinct, and has a resilient "Snap" rather than turning into a sticky paste. We use **The Coconut-Towel Method**: covering the pot with a kitchen towel under the lid ensures that excess steam is absorbed, resulting in a "risotto-style" creaminess from the coconut milk with individual grain integrity.
 
 ## Directions
 
 1.  **The Soak:** Rinse rice 3 times until water is clear. Soak in cool water for 45 minutes. Drain.
 2.  **Foundation:** In a large heavy pot, sauté shallots and garlic in oil until golden (3 mins).
-3.  **The Bloom:** Add chicken, turmeric, cayenne, and salt. Sauté for 2 minutes until spices are toasted and chicken is opaque. 
+3.  **The Bloom:** Add chicken, turmeric, cayenne, and salt. Sauté for 2 minutes until spices are toasted and chicken is opaque.
 4.  **Braise:** Pour in 3/4 cup water. Simmer on low, covered, for 20 minutes until chicken is tender.
-5.  **The Bind:** Add the drained rice, coconut milk, and remaining salt. Stir once. 
+5.  **The Bind:** Add the drained rice, coconut milk, and remaining salt. Stir once.
 6.  **The Towel:** Bring to a boil. Place a clean kitchen towel over the pot, then secure the lid. Reduce heat to **lowest setting**. Cook for 15 minutes.
 7.  **Wilt:** Remove from heat. Layer the kale ribbons over the rice. Cover and let stand for 10 minutes (The Steam Cycle).
 8.  **Serve:** Fluff the rice and chicken together. Serve with pickled chiles and lime wedges for the final **High Note**.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Cucumber Raita](/recipes/cucumber-raita)
--   [Homemade Naan](/recipes/homemade-naan)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Cucumber Raita](/recipes/cucumber-raita)
+- [Homemade Naan](/recipes/homemade-naan)

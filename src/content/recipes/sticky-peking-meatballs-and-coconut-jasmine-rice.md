@@ -24,6 +24,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the ultimate high-speed **Modularity** hack for busy weeknights. The secret to its Success is **The Coconut Emulsion Pattern**: we cook jasmine rice directly in full-fat coconut milk; the fat provides a velvety "Bounce" that standard water-boiled rice lacks. We maintain **Texture Integrity** through **The Frozen Sear**: we fry the meatballs while still frozen on high heat—this ensures a dark, "Snappy" Maillard crust before the interior becomes too soft. The lemon juice over the kale provides the mandatory **Acid Finish**.
 
 ## Directions
@@ -35,6 +36,7 @@ This is the ultimate high-speed **Modularity** hack for busy weeknights. The sec
 5.  **Serve:** Mound coconut rice in bowls. Top with 5 meatballs and a pile of "Acid" kale.
 
 ## Serving Suggestions
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
--   [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)
+
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)

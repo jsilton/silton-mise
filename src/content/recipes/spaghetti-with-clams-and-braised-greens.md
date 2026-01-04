@@ -23,19 +23,21 @@ ingredients:
 ---
 
 ## Chef's Note
-This is a masterclass in **Structural Science** and flavor concentration. The secret to its Success is **The Red Pepper Emulsion Pattern**: we puree roasted red peppers into the clam-steaming liquid to create a thick, vibrant "Bounce" that standard clam sauces lack. We maintain **Texture Integrity** through **The Staged Braise**: we wilt the greens in the garlic-chili oil *before* combining them with the pasta and clams. The mandatory **Acid Finish** comes from mounting the sauce with cold butter and fresh lemon at the very end.
+
+This is a masterclass in **Structural Science** and flavor concentration. The secret to its Success is **The Red Pepper Emulsion Pattern**: we puree roasted red peppers into the clam-steaming liquid to create a thick, vibrant "Bounce" that standard clam sauces lack. We maintain **Texture Integrity** through **The Staged Braise**: we wilt the greens in the garlic-chili oil _before_ combining them with the pasta and clams. The mandatory **Acid Finish** comes from mounting the sauce with cold butter and fresh lemon at the very end.
 
 ## Directions
 
-1.  **Steaming:** In a large pot, heat 1/4 cup oil. Sauté half the garlic for 1 minute. Add clams and wine. Cover and boil for 5-7 minutes until clams open. 
+1.  **Steaming:** In a large pot, heat 1/4 cup oil. Sauté half the garlic for 1 minute. Add clams and wine. Cover and boil for 5-7 minutes until clams open.
 2.  **The Puree:** Transfer opened clams to a plate. Strain the liquid into a blender. Add roasted peppers and pulse until smooth.
-3.  **The Greens:** Wipe the pot. Heat 1/4 cup oil. Sauté remaining garlic and chili flakes. Add the chard in batches; sauté for 3 minutes until wilted. 
+3.  **The Greens:** Wipe the pot. Heat 1/4 cup oil. Sauté remaining garlic and chili flakes. Add the chard in batches; sauté for 3 minutes until wilted.
 4.  **Boil:** Cook spaghetti until **very al dente**.
 5.  **Bind:** Pour the pepper broth into the greens. Add the hot pasta and the cold butter.
 6.  **Emulsify:** Toss vigorously over medium heat. Add lemon juice, zest, and Parmesan. Stir until the sauce is glossy.
 7.  **Serve:** Return clams to the pot to warm through. Serve in shallow bowls with plenty of extra Parmesan.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   [Garlic Bread](/recipes/garlic-bread)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/recipes/garlic-bread)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

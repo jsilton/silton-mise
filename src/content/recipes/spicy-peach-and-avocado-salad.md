@@ -22,7 +22,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This salad is a study in **Texture Integrity** through **The Maceration Pattern**. The secret to its Success is tossing the firm peaches in the Fresno-lemon emulsion for 15 minutes *before* adding the avocado. This allows the acid to soften the peaches slightly while infusing them with chili heat. We maintain the "Bounce" by adding the avocado and pistachios only at the moment of serving—this ensures you have a spectrum of creamy, crunchy, and "Snappy" textures in every bite.
+
+This salad is a study in **Texture Integrity** through **The Maceration Pattern**. The secret to its Success is tossing the firm peaches in the Fresno-lemon emulsion for 15 minutes _before_ adding the avocado. This allows the acid to soften the peaches slightly while infusing them with chili heat. We maintain the "Bounce" by adding the avocado and pistachios only at the moment of serving—this ensures you have a spectrum of creamy, crunchy, and "Snappy" textures in every bite.
 
 ## Directions
 
@@ -33,6 +34,7 @@ This salad is a study in **Texture Integrity** through **The Maceration Pattern*
 5.  **Finish:** Season with one final crack of black pepper and a drizzle of high-quality oil.
 
 ## Serving Suggestions
--   [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
--   [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
+- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
