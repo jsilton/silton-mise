@@ -9,6 +9,7 @@ Silton Mise is a high-performance, static recipe repository and site built with 
 ## The Silton Standard
 
 Every recipe in this collection adheres to the Silton Standard:
+
 - **Modularity:** Common bases (sauces, stocks, rubs) are separated for reuse.
 - **Texture Integrity:** Technical patterns like the "Bone-Dry Standard" or "Staged Roasting" are applied to ensure perfect mouthfeel.
 - **Modern Heritage:** Classical family recipes are updated with modern culinary science (e.g., Beurre Noisette, 137°F Pork Standard).
@@ -24,11 +25,13 @@ Every recipe in this collection adheres to the Silton Standard:
 ## Development
 
 1.  **Install Ingredients:**
+
     ```bash
     npm install
     ```
 
 2.  **Fire the Oven (Dev):**
+
     ```bash
     npm run dev
     ```
@@ -66,6 +69,7 @@ Every file **must** include a `## Chef's Note` explaining the technical patterns
 
 ```markdown
 ## Chef's Note
+
 The secret to this dish is **Structural Science** through **The [Pattern Name]**.
 
 ## Directions
@@ -74,15 +78,18 @@ The secret to this dish is **Structural Science** through **The [Pattern Name]**
 2. **The Sear:** Step details...
 
 ## Serving Suggestions
+
 - [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
 ```
 
 ## AI Governance
 
 This repository utilizes the **Kitchen Brigade** automation suite:
+
 - **Triage:** Automatically labels and classifies new issues.
 - **Invoke:** Can be called via `@gemini-cli` to implement features or fix bugs directly in the repository.
 - **Refine:** Standardizes legacy recipes to the Silton Standard using the Codex of Culinary Mastery.
 
 ---
-*Service is Go!*
+
+_Service is Go!_
