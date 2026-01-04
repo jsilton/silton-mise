@@ -27,7 +27,8 @@ ingredients:
 ---
 
 ## Chef's Note
-The challenge with gluten-free baking is preventing a gritty or dry texture. We solve this with **Structural Science** through **The Emulsion Beat Pattern**: we beat the oil and sugar for a full minute *before* adding eggs, which creates a stable fat-sugar network that traps moisture. The **Acid Finish** is doubled here: we use both juice and zest in the batter, then finish with a sharp lemon buttercream. This provides the mandatory "High Note" that ensures the cupcakes taste fresh rather than heavy.
+
+The challenge with gluten-free baking is preventing a gritty or dry texture. We solve this with **Structural Science** through **The Emulsion Beat Pattern**: we beat the oil and sugar for a full minute _before_ adding eggs, which creates a stable fat-sugar network that traps moisture. The **Acid Finish** is doubled here: we use both juice and zest in the batter, then finish with a sharp lemon buttercream. This provides the mandatory "High Note" that ensures the cupcakes taste fresh rather than heavy.
 
 ## Directions
 
@@ -40,6 +41,7 @@ The challenge with gluten-free baking is preventing a gritty or dry texture. We 
 7.  **Finish:** Frost generously. Store in an airtight container for up to 4 days.
 
 ## Serving Suggestions
--   [Elderberry Syrup](/recipes/elderberry-syrup) (as a drizzle)
--   Fresh Raspberries
--   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+
+- [Elderberry Syrup](/recipes/elderberry-syrup) (as a drizzle)
+- Fresh Raspberries
+- [Classic Martini](/recipes/classic-martini) (The Cold Standard)

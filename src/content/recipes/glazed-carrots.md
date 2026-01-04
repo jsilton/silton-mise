@@ -17,6 +17,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 The secret to "Gold Standard" glazed carrots is **Structural Science** through **The Monter au Beurre Pattern** (The Butter Mount). Instead of just boiling carrots in sugar water, we par-boil them in just 1 inch of water, drain, and then mount the butter and sugar into the hot pan. This creates a thick, velvet-like emulsion that clings to the **Stick Cut** carrots rather than pooling at the bottom. The **White Pepper** is the mandatory "High Note" that prevents the glaze from being one-dimensional.
 
 ## Directions
@@ -28,6 +29,7 @@ The secret to "Gold Standard" glazed carrots is **Structural Science** through *
 5.  **Finish:** Stir in fresh thyme if using. Serve immediately.
 
 ## Serving Suggestions
--   [Roast Turkey Breast](/recipes/roast-turkey-breast)
--   [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+
+- [Roast Turkey Breast](/recipes/roast-turkey-breast)
+- [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

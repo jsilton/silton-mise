@@ -31,6 +31,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is the plant-based answer to the takeout classic. The secret to its "Restaurant Quality" texture is **Structural Science** through **The Cornstarch Guard Pattern**. By using a high ratio of cornstarch and baking powder in the batter, we create a light, porous "Snap" that remains crispy even after being tossed in the sticky glaze. The **Rice Vinegar** in the batter provides an immediate **Acid Finish** from within, ensuring the cauliflower stays bright and flavorful.
 
 ## Directions
@@ -44,6 +45,7 @@ This is the plant-based answer to the takeout classic. The secret to its "Restau
 7.  **Serve:** Garnish with sesame seeds and serve immediately over steamed rice.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)

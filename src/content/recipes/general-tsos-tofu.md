@@ -30,7 +30,8 @@ ingredients:
 ---
 
 ## Chef's Note
-This is a 35-minute "Speed" hero. The secret to tofu that isn't soggy is **Texture Integrity** through **The Honey-Heat Bind Pattern**. We toss the tofu in honey and hot sauce *before* the cornstarch; this creates a sticky surface that the starch and sesame seeds can fuse to, creating a shatteringly crisp "Snap" that lasts even after being glazed. The **Dark Soy Sauce** is essential for the mandatory deep amber color of a "Gold Standard" General Tso.
+
+This is a 35-minute "Speed" hero. The secret to tofu that isn't soggy is **Texture Integrity** through **The Honey-Heat Bind Pattern**. We toss the tofu in honey and hot sauce _before_ the cornstarch; this creates a sticky surface that the starch and sesame seeds can fuse to, creating a shatteringly crisp "Snap" that lasts even after being glazed. The **Dark Soy Sauce** is essential for the mandatory deep amber color of a "Gold Standard" General Tso.
 
 ## Directions
 
@@ -38,11 +39,12 @@ This is a 35-minute "Speed" hero. The secret to tofu that isn't soggy is **Textu
 2.  **The Fry:** Heat oil in a cast-iron skillet until 350°F. Fry tofu in a single layer for 4-5 minutes, turning once, until golden and very crisp. Remove to a sheet pan.
 3.  **The Aromatics:** Heat 1 tbsp oil in a wok. Sauté ginger, garlic, and dried chilies for 30 seconds. Add bell peppers and a splash of Shaoxing wine (if using).
 4.  **The Simmer:** Pour in the vegetable stock and bring to a boil. Add the broccoli.
-5.  **The Glaze:** Immediately add the soy sauces, vinegar, sugar, and sesame oil. Stir in the cornstarch slurry. 
-6.  **Bind:** Simmer for 1 minute until the sauce is thick and mirror-glossy. 
+5.  **The Glaze:** Immediately add the soy sauces, vinegar, sugar, and sesame oil. Stir in the cornstarch slurry.
+6.  **Bind:** Simmer for 1 minute until the sauce is thick and mirror-glossy.
 7.  **Toss:** Add the crispy tofu back to the wok. Toss vigorously for 30 seconds until perfectly coated. Serve immediately over rice.
 
 ## Serving Suggestions
--   [Basmati Rice](/recipes/basmati-rice)
--   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
--   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+
+- [Basmati Rice](/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)

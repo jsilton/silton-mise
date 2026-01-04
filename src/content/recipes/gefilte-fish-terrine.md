@@ -25,6 +25,7 @@ ingredients:
 ---
 
 ## Chef's Note
+
 This is a **Modern Heritage** update to a classic Passover staple. We replace the boiled grey "loaves" with a baked salmon-carp terrine. The secret to the Silton Standard is **The Coarse Grind Pattern**: we pulse the fish in a food processor just until ground, rather than a paste; this ensures a meaty "Bounce" in every slice. We use a **Bain-Marie** (water bath) during baking to ensure the heavy cream and eggs set into a silky, souffle-like structure without drying out.
 
 ## Directions
@@ -39,6 +40,7 @@ This is a **Modern Heritage** update to a classic Passover staple. We replace th
 8.  **Finish:** Toss arugula, radishes, and horseradish with lemon juice. Serve the chilled slices topped with the fresh salad for the mandatory **Acid Finish**.
 
 ## Serving Suggestions
--   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
--   Fresh Horseradish (Chrein)
--   Matzos
+
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- Fresh Horseradish (Chrein)
+- Matzos
