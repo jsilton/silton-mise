@@ -1,38 +1,43 @@
 ---
 title: Shrimp and Corn Chowder
+role: main
+vibe: speed
+prepTime: 20 min
+cookTime: 40 min
+totalTime: 60 min
 servings: '6'
 ingredients:
-  - Chowder
-  - '2 pounds medium shrimp, shelled and deveined'
-  - '6 garlic cloves, minced'
-  - '2 scallions, minced'
-  - 2 tablespoons fresh lime juice
-  - Salt
-  - 2 cups fresh or thawed frozen corn kernels
-  - 2 cups whole milk
-  - 2 tablespoons Annatto oil (recipe follows)
-  - '1 large red onion, finely chopped'
-  - '1 red bell pepper, finely chopped'
-  - 1 teaspoon ground cumin
-  - '3 plum tomatoes—peeled, seeded and finely chopped'
-  - 6 cups fish or chicken stock or canned low-sodium broth
-  - '1 unripe (green) plantain, peeled and coarsely grated'
-  - 2 tablespoons cilantro leaves
-  - 1/4 teaspoon cayenne pepper
-  - 'Tangy Corn Salsa, for serving'
-  - Annatto Oil
-  - 1 cup corn oil
-  - ¼ cup annatto seeds
-role: side
-vibe: speed
+  - '2 lbs Medium Shrimp, peeled and deveined'
+  - '2 cups Fresh Corn Kernels'
+  - '--- The Annatto Emulsion ---'
+  - '2 tbsp Annatto Oil (or Olive Oil)'
+  - '1/2 cup Red Onion, finely chopped'
+  - '1 Red Bell Pepper, chopped'
+  - '1 tsp Ground Cumin'
+  - '--- The Silk Base ---'
+  - '2 cups Whole Milk'
+  - '6 cups Fish or Chicken Stock'
+  - '1 Green (Unripe) Plantain, grated (The Starch Bind)'
+  - '--- The Finish ---'
+  - '2 tbsp Fresh Lime Juice (The Acid Finish)'
+  - '2 tbsp Fresh Cilantro'
+  - '1/4 tsp Cayenne Pepper'
 ---
+
+## Chef's Note
+The secret to an elite chowder without heavy flour is **Structural Science** through **The Plantain Bind Pattern**. By grating an unripe green plantain directly into the stock, we introduce a natural starch that thickens the soup into a velvety "Bounce" as it simmers. We maintain **Texture Integrity** through **The 2-Minute Shrimp Standard**: we add the marinated shrimp at the very end and cook for exactly 2 minutes; this ensures they are "Snappy" and succulent. The lime juice provides the mandatory **Acid Finish** to cut the creamy corn milk.
 
 ## Directions
 
-1. Make the Annatto Oil
-2. In a small saucepan, combine the oil and annatto seeds and bring to a simmer over low heat. Remove the pan from the heat, cover and let the oil cool completely, about 30 minutes. Strain the Annatto Oil into a jar.
-3. Make the Chowder
-4. In a large, shallow glass or stainless-steel bowl, toss the shrimp with two-thirds of the minced garlic, the scallions, lime juice and 1 teaspoon of salt. Cover with plastic wrap and refrigerate for at least 1 hour or for up to 3 hours.
-5. In a food processor, puree the corn with the milk. Pour the puree through a coarse strainer, pressing on the solids to extract as much liquid as possible.
-6. Heat the Annatto Oil in a large sauce-pan or enameled cast-iron casserole. Add the remaining garlic, onion, bell pepper and cumin and cook over moderate heat, stirring, until the vegetables are slightly softened, about 5 minutes. Stir in the tomatoes and cook for 2 minutes longer. Add the corn milk, stock, plantain, cilantro and cayenne and bring to a boil. Simmer over moderately low heat until very flavorful, about 20 minutes.
-7. Pour the soup through a coarse strainer. Working in batches, puree the vegetables in a blender. Return the puree and the strained broth to the saucepan and bring to a simmer. Add the shrimp and its marinade and cook over moderate heat until the shrimp are just opaque throughout, about 2 minutes. Season with salt and serve in warmed soup plates or bowls with the Tangy Corn Salsa.
+1.  **Marinate:** Toss shrimp with garlic, scallions, lime juice, and salt. Refrigerate for 1 hour.
+2.  **Corn Milk:** In a food processor, puree half the corn with the milk. Strain through a coarse sieve, pressing to extract all the liquid.
+3.  **The Base:** In a large pot, heat the oil. Sauté onion, pepper, and cumin for 5 minutes. Stir in the tomatoes.
+4.  **Simmer:** Add the corn milk, stock, grated plantain, and remaining whole corn kernels. Bring to a boil, then simmer for 20 minutes until thick and aromatic.
+5.  **Refine:** For the Gold Standard texture, ladle 2 cups of the soup into a blender and pulse until smooth, then return to the pot.
+6.  **The Snap:** Add the shrimp and its marinade. Cook for 2-3 minutes until just opaque. 
+7.  **Serve:** Stir in cilantro and cayenne. Serve in warmed bowls.
+
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Garlic Bread](/recipes/garlic-bread)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

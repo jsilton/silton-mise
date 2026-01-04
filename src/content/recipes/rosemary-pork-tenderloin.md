@@ -1,25 +1,37 @@
 ---
 title: Rosemary Pork Tenderloin
-prepTime: 15 min
-cookTime: 30 min
-servings: 'Yield: 6 servings'
-ingredients:
-  - 1/3 cup Dijon mustard
-  - 2 tablespoons freshly ground black pepper
-  - >-
-    1 tablespoon freshly chopped rosemary leaves, plus 4 sprigs rosemary, with
-    hard woody stems
-  - '5 large garlic cloves, 2 cloves minced, 3 cloves smashed'
-  - '2 pork tenderloins, about 1-pound each'
-  - 4 slices maple bacon
-totalTime: 45 min
 role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 30 min
+totalTime: 105 min
+servings: '6'
+ingredients:
+  - '2 Pork Tenderloins (1 lb each)'
+  - '--- The Dijon-Rosemary Glue ---'
+  - '1/3 cup Dijon Mustard (The High Note)'
+  - '1 tbsp Fresh Rosemary, minced'
+  - '2 cloves Garlic, minced'
+  - '2 tsp Black Pepper'
+  - '--- The Bacon Anchor ---'
+  - '4 slices Maple Bacon'
+  - '4 sprigs Fresh Rosemary (whole)'
+  - '3 cloves Garlic, smashed'
 ---
+
+## Chef's Note
+This is the "Gold Standard" for technical pork roasting. The secret to Success is **Structural Science** through **The Bacon Anchor Pattern**: we wrap the tenderloins in maple bacon and secure them with twine. The bacon fat renders into the lean pork, providing a self-basting "Bounce." We maintain **Texture Integrity** through **The 1-Hour Marinate**: the mustard acts as an enzyme tenderizer while the rosemary-garlic glue provides a savory "Snap" to the crust. Always pull at 145°F for a perfect blush-pink center.
 
 ## Directions
 
-1. In a small bowl, whisk together the Dijon mustard, fresh ground black pepper, chopped rosemary, and minced garlic and mix well. Rub the mustard mixture over the surface of the tenderloins and wrap in plastic wrap. Marinate in the refrigerator for 1 hour.
-2. Preheat oven to 375 degrees F.
-3. Place rosemary sprigs and smashed garlic in the center of a roasting pan. Remove the plastic wrap from the tenderloins and top each with 2 slices of maple bacon. Tie with kitchen twine to secure bacon strips.
-4. Place the roasting pan in the oven and bake for 25 to 30 minutes or until an instant-read thermometer, inserted in the tenderloins, registers 160 degrees F. Remove from oven when desired doneness is reached and let sit for 5 to 10 minutes on a cutting board. Remove kitchen twine, slice and serve with your favorite sides. Garnish with the rosemary sprigs and garlic. Enjoy!
+1.  **Glue:** Whisk Dijon, minced garlic, pepper, and minced rosemary. Rub heavily over the pork. Wrap in plastic and **refrigerate for 1 hour**.
+2.  **Wrap:** Preheat oven to 375°F. Remove pork from plastic. Lay 2 bacon slices over each tenderloin. Secure with kitchen twine.
+3.  **Thermal Prep:** Place whole rosemary sprigs and smashed garlic in a roasting pan. Lay the pork directly on top of the herbs.
+4.  **Roast:** Bake for 25-30 minutes until an instant-read thermometer hits **145°F** (The Carry-Over Standard).
+5.  **Rest:** Transfer to a board and **let rest for 10 minutes** (mandatory).
+6.  **Serve:** Remove twine, slice into 1-inch rounds, and garnish with the roasted rosemary.
+
+## Serving Suggestions
+-   [Patate al Forno (The Gold Standard)](/recipes/patate-al-forno)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

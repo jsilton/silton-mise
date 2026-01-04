@@ -1,37 +1,41 @@
 ---
-title: 'Slow Cooker Creamy Tortellini, Spinach and Chicken Soup'
-prepTime: 15 min
-cookTime: 240 min
-servings: 'Yield: 8 servings'
-ingredients:
-  - '1 medium yellow onion, diced'
-  - 1/3 cup all purpose flour
-  - 1 Tbsp dried basil
-  - '2 cloves of garlic, minced'
-  - 2 Tbsp tomato paste
-  - 3 Tbsp olive oil
-  - 4 cups chicken broth
-  - 2 (14.5 oz) cans petite diced tomatoes
-  - '1 to 1 1/2 lbs boneless, skinless chicken thighs'
-  - 1 tsp salt
-  - 1/2 tsp pepper
-  - 4 cups frozen cheese tortellini (or you can use fresh)
-  - 3 cups packed spinach (you can definitely add more than this if you want)
-  - 1/2 cup Parmesan cheese
-  - 1 cup heavy cream or 1 cup half and half
-totalTime: 255 min
+title: Slow Cooker Creamy Tortellini Soup
 role: main
 vibe: comfort
+prepTime: 15 min
+cookTime: 240 min
+totalTime: 255 min
+servings: '8'
+ingredients:
+  - '1 1/2 lbs Chicken Thighs, boneless and skinless'
+  - '4 cups Cheese Tortellini (frozen)'
+  - '--- The Starch-Bind Base ---'
+  - '1/3 cup All-Purpose Flour'
+  - '2 tbsp Tomato Paste'
+  - '1 Yellow Onion, diced'
+  - '4 cups Chicken Broth'
+  - '2 cans (14.5 oz) Petite Diced Tomatoes'
+  - '--- The Finish ---'
+  - '1 cup Heavy Cream (warmed)'
+  - '3 cups Fresh Spinach'
+  - '1/2 cup Parmesan, grated'
+  - '1 tbsp Dried Basil'
 ---
+
+## Chef's Note
+The secret to a slow-cooker soup that isn't thin and watery is **Structural Science** through **The Microwave Roux Pattern**. We "cook" the onions, flour, and tomato paste in the microwave first to create a toasted, thick paste before it hits the pot; this ensures the soup has a rich "Bounce" from the start. We maintain **Texture Integrity** by adding the tortellini and heavy cream only in the final 10 minutes—this ensures the pasta stays "Snappy" and the cream doesn't curdle.
 
 ## Directions
 
-1. In a microwave-safe bowl add the onions, flour, basil, garlic, tomato paste and drizzle with olive oil. Microwave for 5 minutes, stirring every 90 seconds or so. (The mixture will be pasty and look weird but don’t worry it will all be okay in the end). Add the mixture to the slow cooker\*.
-2. Add broth, tomatoes, chicken, salt and pepper to the slow cooker. Stir.
-3. Cover and cook on LOW for 4-6 hours or on HIGH for 3-4 hours (or until chicken is very tender).
-4. Remove the lid and add in tortellini and spinach, Parmesan cheese and warmed cream (cream should be warmed because it may cause curdling if added in cold).
-5. Use a fork to remove the chicken out of the slow cooker. On a cutting board, shred or cut the chicken into bite-size pieces. Add the chicken back into the slow cooker. Put the lid back on and cook on HIGH for about 10 more minutes, or until the tortellini are cooked through. Ladle into serving bowls and enjoy!
+1.  **The Roux:** In a microwave-safe bowl, combine onion, flour, basil, garlic, and tomato paste with 3 tbsp oil. Microwave for 5 minutes, stirring every 90 seconds, until a thick paste forms.
+2.  **Combine:** Add the onion paste, broth, tomatoes, and chicken to the slow cooker. Stir to dissolve.
+3.  **Slow Cook:** Cover and cook on **Low for 4-6 hours** (or High for 3) until the chicken is tender.
+4.  **The Pull:** Remove chicken and shred into bite-sized pieces. Return to the pot.
+5.  **The Bind:** Stir in the frozen tortellini, fresh spinach, Parmesan, and **warmed heavy cream**. 
+6.  **Finish:** Cover and cook on High for 10 more minutes until the pasta is al dente and the spinach has collapsed.
+7.  **Serve:** Ladle into bowls and top with an extra "High Note" of black pepper.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Garlic Bread](/recipes/garlic-bread)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)

@@ -1,41 +1,41 @@
 ---
 title: Shanghai Fried Noodles (Cu Chao Mian)
-prepTime: 10 min
-cookTime: 20 min
-servings: 'Serves: 4'
-ingredients:
-  - >-
-    6 ounces boneless pork (pork shoulder, butt or loin, sliced into thin
-    strips)
-  - 3/4 teaspoon cornstarch
-  - ½ teaspoon light soy sauce
-  - 1/8 teaspoon dark soy sauce
-  - 1 teaspoon shaoxing wine (or dry cooking sherry)
-  - 1/8 teaspoon sugar
-  - >-
-    3 tablespoons neutral oil (such as vegetable, canola, or avocado oil,
-    divided)
-  - '8 shiitake mushrooms (fresh or dried, thinly sliced)'
-  - 1 pound Japanese-style udon noodles
-  - 2 1/2 teaspoons light soy sauce
-  - 2 1/2 teaspoons dark soy sauce
-  - ¼ teaspoon sugar
-  - 1 bunch choy sum or baby bok choy (washed and trimmed)
-totalTime: 30 min
 role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '1 lb Japanese-style Udon or thick Egg Noodles'
+  - '6 oz Pork Tenderloin, sliced into thin strips'
+  - '--- The Velveting Marinade ---'
+  - '3/4 tsp Cornstarch'
+  - '1 tsp Shaoxing Wine'
+  - '1/2 tsp Light Soy Sauce'
+  - '--- The Shanghai Glaze ---'
+  - '2 1/2 tsp Dark Soy Sauce (for the iconic "Gold" color)'
+  - '2 1/2 tsp Light Soy Sauce'
+  - '1/4 tsp Sugar'
+  - '--- The Stir-Fry ---'
+  - '8 Fresh Shiitake Mushrooms, sliced'
+  - '1 bunch Baby Bok Choy, trimmed'
+  - 'Neutral Oil'
 ---
+
+## Chef's Note
+The secret to authentic Shanghai Fried Noodles is **The Dark Soy Pattern**. Unlike other stir-fries, this dish relies on a heavy hit of dark soy sauce to achieve a deep, mahogany lacquer and a subtle sweetness. We use **Structural Science** through **The Velveting Pattern**: marinating the pork in cornstarch and wine ensures it maintains a succulent "Bounce" under the high heat of the wok. We maintain **Texture Integrity** by using thick udon noodles, which provide a chewy, resilient "Snap" against the soft bok choy.
 
 ## Directions
 
-1. Mix together the pork and marinade ingredients (the cornstarch, light and dark soy sauce, wine, and sugar). Set aside while you prepare the other ingredients.
-2. When ready to cook, heat a wok over high heat until just starting to smoke. Add 1 tablespoon of oil around the perimeter of the wok. Add the pork, and stir-fry until browned. Reduce the heat to medium, remove the pork from the wok and set aside. Add the remaining oil to the wok and stir-fry the mushrooms for 2 minutes. Break up the noodles gently with your hands, and add them to the wok with the mushrooms.
-3. Add the soy sauces and sugar. Stir-fry everything together until the noodles get an even, deep brown color. If you’re not seeing the color you want, add a little more dark soy sauce.
-4. Add the leafy greens (choy sum and baby bok choy both work well), along with the pork. Mix in with the noodles until the greens are wilted. Serve immediately.
-5. TIPS & NOTES:
-6. Note: to reconstitute dried shiitake mushrooms, soak in hot water for at least 2 hours or overnight.
-7. Some people like to add a few drops of Chinese black vinegar right before eating—totally up to you.
+1.  **Velvet:** Toss pork strips with cornstarch, wine, and soy sauce. Let stand for 10 minutes.
+2.  **The Sear:** Heat 1 tbsp oil in a wok until smoking. Sear the pork for 2 minutes until browned. Remove.
+3.  **The Snap:** Add 1 tbsp oil. Sauté shiitakes for 2 minutes. Add the noodles and use your hands to gently separate them. 
+4.  **Glaze:** Add both soy sauces and sugar. Stir-fry for 3 minutes over high heat until the noodles are evenly dark and glossy.
+5.  **Finish:** Add the bok choy and the cooked pork. Toss for 1 minute until the greens are just wilted but the stems stay crunchy.
+6.  **Serve:** Serve immediately. Add a dash of Chinese black vinegar at the table for the mandatory **Acid Finish**.
 
-## Nutrition
-
-- Calories: 579kcal (29%) Carbohydrates: 88g (29%) Protein: 25g (50%) Fat: 13g (20%) Saturated Fat: 1g (5%) Cholesterol: 28mg (9%) Sodium: 958mg (40%) Potassium: 255mg (7%) Fiber: 5g (20%) Sugar: 2g (2%)Vitamin A: 5000IU (100%) Vitamin C: 63.5mg (77%) Calcium: 118mg (12%) Iron: 1.5mg (8%)
+## Serving Suggestions
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Cantonese Shumai (Siu Mai)](/recipes/cantonese-shumai-siu-mai)
+-   [Miso Soup](/recipes/miso-soup)

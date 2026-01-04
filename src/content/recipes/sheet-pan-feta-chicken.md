@@ -1,33 +1,38 @@
 ---
 title: Sheet Pan Feta Chicken
-prepTime: 15 min
-cookTime: 35 min
-servings: '4'
-ingredients:
-  - 1/4 cup balsamic vinegar
-  - 2 tablespoons extra-virgin olive oil
-  - 2 tablespoons honey
-  - 1 tablespoon Dijon mustard
-  - 1 1/2 teaspoons kosher salt
-  - 1/2 teaspoon garlic powder
-  - 1/2 teaspoon dried oregano
-  - '1/2 teaspoon black pepper, plus more for garnish'
-  - '4 small (6- to 8-ounces each) boneless, skinless chicken breasts, patted dry'
-  - '1 large red onion, peeled and cut into 1-inch wedges'
-  - 4 cups cherry or grape tomatoes
-  - 8 ounces feta cheese packed in brine
-  - 'Chopped fresh basil leaves, for garnish'
-totalTime: 50 min
 role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 25 min
+totalTime: 40 min
+servings: '4'
+ingredients:
+  - '4 small Chicken Breasts (6 oz each), patted bone-dry'
+  - '8 oz Feta Cheese, block-style (in brine)'
+  - '4 cups Cherry Tomatoes'
+  - '1 large Red Onion, cut into wedges'
+  - '--- The Balsamic Emulsion ---'
+  - '1/4 cup Balsamic Vinegar'
+  - '2 tbsp Extra-Virgin Olive Oil'
+  - '2 tbsp Honey'
+  - '1 tbsp Dijon Mustard'
+  - '1/2 tsp Dried Oregano + 1/2 tsp Garlic Powder'
+  - 'Fresh Basil for garnish'
 ---
+
+## Chef's Note
+This is a masterclass in **Texture Integrity** through **The Burst-Tomato Pattern**. The secret to Success is adding the tomatoes in two stages: we roast the first batch until they burst and emulsify with the balsamic vinegar to create a sauce, then add the second batch for the final 10 minutes. This ensures you have both a rich "Bounce" sauce and whole, "Snappy" tomatoes in every bite. We use **Slabs of Feta** instead of crumbles; the roasted cheese develops a brown, caramelized skin that provides a savory "Snap" against the sweet honey-balsamic glaze.
 
 ## Directions
 
-1. Preheat oven to to 425°F. Whisk together vinegar, olive oil, honey, mustard, salt, garlic powder, oregano, and pepper in a medium bowl until well combined. Add chicken breasts and turn to coat. Transfer chicken breasts to a large rimmed baking sheet. Add onion to bowl and toss gently to coat. Arrange onions on baking sheet around chicken. Add tomatoes to bowl, toss to coat, and set aside.
-2. Pat feta dry and carefully slice crosswise into four thinner slabs; pat dry again. Nestle feta between chicken and onions on baking sheet.
-3. Bake in preheated oven for 10 minutes. Add reserved tomatoes to baking sheet, filling in any empty gaps. Drizzle any remaining vinegar mixture in bowl over baking sheet. Return to oven and continue baking until tomatoes have just burst and a thermometer inserted into thickest part of chicken registers 160°F, 10 to 15 minutes more. Garnish with fresh basil and black pepper and serve hot.
+1.  **Prep:** Preheat oven to 425°F. In a medium bowl, whisk together vinegar, oil, honey, mustard, and spices.
+2.  **The Base:** Toss chicken and onions in the balsamic mixture. Place on a large sheet pan. Arrange 2 cups of the tomatoes and the slabs of feta around the meat.
+3.  **Stage 1:** Bake for 10 minutes. 
+4.  **Stage 2:** Add the remaining 2 cups of tomatoes to the pan. Drizzle with any leftover balsamic glaze from the bowl. 
+5.  **Bake:** Roast for 10-15 more minutes until the chicken reaches **160°F** (it will carry to 165°F) and the tomatoes have just burst.
+6.  **Finish:** Garnish with a massive amount of fresh basil and cracked black pepper for the mandatory **High Note**.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+-   Warm [Homemade Naan](/recipes/homemade-naan)

@@ -1,27 +1,37 @@
 ---
 title: Skillet Biscuits with Berries
-cookTime: 40 min
-servings: 'Serves : 8'
-ingredients:
-  - 1 1/2 cups all-purpose flour
-  - 2 tablespoons light brown sugar
-  - 1 1/2 teaspoons baking powder
-  - 1/2 teaspoon salt
-  - '1 1/2 sticks cold unsalted butter, cut into 1/4-inch pieces'
-  - 1/4 cup plus 2 tablespoons half-and-half
-  - '3/4 cup granulated sugar, plus more for sprinkling'
-  - 12 ounces raspberries
-  - 12 ounces blackberries
-  - 1 1/2 teaspoons finely grated orange zest
-  - 1 cinnamon stick
-  - 'Sweetened whipped cream, for serving'
-totalTime: 40 min
-role: main
+role: dessert
 vibe: speed
+prepTime: 10 min
+cookTime: 40 min
+totalTime: 50 min
+servings: '8'
+ingredients:
+  - '1 1/2 cups All-Purpose Flour'
+  - '1 1/2 sticks (12 tbsp) Unsalted Butter, cold and cubed'
+  - '1/4 cup + 2 tbsp Half-and-Half'
+  - '--- The Berry Reduction ---'
+  - '12 oz Raspberries + 12 oz Blackberries'
+  - '3/4 cup Granulated Sugar'
+  - '1 1/2 tsp Orange Zest'
+  - '1 Cinnamon Stick (The "Deep Note")'
+  - '--- For Garnish ---'
+  - 'Sweetened Whipped Cream'
 ---
+
+## Chef's Note
+This is a high-speed "Project" dessert that relies on **Structural Science**. The secret to the Silton Standard is **The Cobbler-Biscuit Hybrid Pattern**: we cook the berries in an ovenproof skillet until they form a thick, jammy syrup, then drop cold-butter biscuits directly onto the fruit. As it bakes, the bottom of the biscuits steam in the berry juice (The "Bounce") while the tops develop a shatteringly crisp "Snap" under the broiler. The orange zest provides the mandatory **Acid Finish**.
 
 ## Directions
 
-1. In a large bowl, combine the flour, brown sugar, baking powder and salt. Using a pastry blender, cut in the butter until the mixture resembles coarse meal. Add the half-and-half and stir until the dough is evenly moistened. Using an ice cream scoop or a large spoon, scoop the dough into 8 loose mounds and place on a wax paper–lined baking sheet.
-2. Preheat the broiler and position a rack 6 inches from the heat. In a large, deep, ovenproof skillet, combine the 3/4 cup of granulated sugar with the berries, orange zest, cinnamon stick and 1 cup of water and bring to a vigorous boil. Simmer over moderate heat, stirring occasionally, until the berries are juicy and just broken down, 10 minutes.
-3. Arrange the mounds of dough on top of the fruit. Cover and simmer over very low heat until the biscuits are springy to the touch and cooked through, 15 minutes. Sprinkle the biscuits with granulated sugar and broil for 5 minutes, shifting the panas necessary, until the biscuits are lightly browned in spots. Let cool slightly and discard the cinnamon stick. Serve the biscuits and berries with whipped cream.
+1.  **The Dough:** In a bowl, cut cold butter into flour, sugar, and baking powder until pea-sized. Stir in half-and-half until a shaggy dough forms. Scoop into 8 loose balls.
+2.  **The Reduction:** In a large ovenproof skillet, combine 3/4 cup sugar, berries, orange zest, cinnamon, and 1 cup water. Boil vigorously for 10 minutes until berries are broken down.
+3.  **Assemble:** Arrange the dough mounds on top of the bubbling fruit. 
+4.  **Cook:** Cover the skillet. Simmer over **very low** heat for 15 minutes until the biscuits are springy and cooked through.
+5.  **The Snap:** Remove lid. Sprinkle biscuits with sugar. Place the entire skillet under the **broiler** for 5 minutes until the tops are charred and crispy.
+6.  **Serve:** Serve warm from the skillet with a massive dollop of whipped cream for the final **High Note**.
+
+## Serving Suggestions
+-   [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+-   Fresh Mint sprigs
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

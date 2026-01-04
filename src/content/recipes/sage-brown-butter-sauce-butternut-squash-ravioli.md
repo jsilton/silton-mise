@@ -1,31 +1,37 @@
 ---
-title: Sage Brown Butter Sauce Butternut Squash Ravioli
-cookTime: 15 min
-servings: 'Yield: 2-4'
-ingredients:
-  - 16 ounces butternut squash ravioli
-  - 1/2 cup unsalted butter (1 stick)
-  - '2 tablespoons fresh sage, minced'
-  - 1/2 cup heavy whipping cream
-  - 1/2 cup chicken broth
-  - 1/2 teaspoon lemon juice
-  - 1/4 cup freshly grated parmesan
-  - coarse salt
-  - fresh ground black pepper
-  - 3-4 extra fresh sage leaves for garnish if desired
-totalTime: 15 min
-role: base
+title: Sage Brown Butter Ravioli
+role: main
 vibe: speed
+prepTime: 5 min
+cookTime: 15 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '16 oz Butternut Squash Ravioli (fresh or frozen)'
+  - '1/2 cup (1 stick) Unsalted Butter'
+  - '2 tbsp Fresh Sage, minced'
+  - '--- The Creamy Emulsion ---'
+  - '1/2 cup Heavy Cream'
+  - '1/2 cup Chicken Broth'
+  - '1/4 cup Freshly Grated Parmesan'
+  - '1/2 tsp Fresh Lemon Juice (The Acid Finish)'
+  - 'Coarse Sea Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is a 15-minute "Speed" masterpiece. The secret to its elite flavor is **The Beurre Noisette Pattern**: we cook the butter until it foams and the milk solids turn a deep "peanut butter" brown *before* adding the sage. This creates a nutty, toasted foundation that defines the dish. We use **The Broth-Cream Bind**: adding chicken broth to the brown butter prevents it from feeling greasy, while the heavy cream provides the mandatory "Bounce" to the sauce. The lemon juice is the final **Acid Finish** needed to cut the rich squash.
 
 ## Directions
 
-1. Cook butternut squash ravioli according to box instructions. Drain.
-2. Make the sauce: While cooking ravioli, melt butter in a large, preferably light colored, skillet over medium heat, stirring frequently and swirling the pot to ensure even cooking.\* After about 5 minutes, the butter will start to foam up. Add the minced sage and continuing stirring and swirling the pot. Golden brown flecks, milk solids, should start to form on the bottom of the pan. Continue stirring to make sure these don’t stick and burn. When the butter is nutty in aroma and golden brown in color with plenty of flecks, about 2 more minutes, remove from heat and cool for 2 minutes.
-3. Slowly pour the chicken broth and whisk frequently, as the butter will foam up, until completely incorporated. Repeat this process with the cream. Be careful of splatter!
-4. Add the lemon juice and parmesan cheese, whisking until completely combined. Add salt and pepper to taste.
-5. Stir in the cooked ravioli. Garnish with extra parmesan cheese and fried sage if desired\*.
+1.  **Boil:** Cook ravioli in salted water according to package directions. Drain.
+2.  **Brown Butter:** In a large light-colored skillet (mandatory to see color), melt butter over medium. Whisk constantly for 5 minutes until it smells like nuts and golden flecks appear.
+3.  **Crisp Sage:** Add the sage. Fry for 1 minute until the leaves are "Snappy" and fragrant.
+4.  **Emulsify:** Carefully pour in the broth and cream (it will splatter). Whisk vigorously until a smooth, thick emulsion forms. 
+5.  **Bind:** Stir in the Parmesan and lemon juice. 
+6.  **Toss:** Add the cooked ravioli to the pan. Toss for 1 minute until every pillow is coated in the brown butter silk.
+7.  **Serve:** Garnish with extra Parmesan and a crack of black pepper.
 
-## Notes
-
-If desired for garnish, add a few fresh sage leaves to the butter and cook 1-2 minutes, until crispy but not browned. Using a slotted spoon, remove from the pan to a paper towel lined plate. Sprinkle with a pinch of coarse salt and set aside.This sauce will appear a little on the thin side and thickens up as it cools.
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+-   [Garlic Bread](/recipes/garlic-bread)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

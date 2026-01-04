@@ -1,42 +1,39 @@
 ---
 title: Shrimp Wonton Soup
-prepTime: 10 min
-cookTime: 20 min
-servings: 'Serving size: 4'
-ingredients:
-  - 1 lb. wonton wrapper
-  - Several green vegetables
-  - Soup Base for each severing
-  - Drops of sesame oil
-  - '1 small garlic clove, minced'
-  - ½ teaspoon salt
-  - 1 teaspoon light soy sauce
-  - 1 pieces of dried seaweed (nori)
-  - Green onion and coriander for garnishing
-  - Filling
-  - 200g minced pork
-  - 100g minced shrimp
-  - '3 green onions, finely chopped'
-  - '1 small bunch of coriander, finely chopped'
-  - '1 inch ginger, grated'
-  - 1 tablespoon light soy sauce
-  - 1 egg white
-  - 1 teaspoon sesame oil
-  - 1 teaspoon salt
-totalTime: 30 min
 role: main
 vibe: project
+prepTime: 30 min
+cookTime: 10 min
+totalTime: 40 min
+servings: '4'
+ingredients:
+  - '--- The Filling Paste ---'
+  - '200g Ground Pork'
+  - '100g Shrimp, minced'
+  - '1 Egg White (The "Bounce" binder)'
+  - '1 tsp Toasted Sesame Oil'
+  - '1 tbsp Light Soy Sauce'
+  - '1 inch Fresh Ginger, grated'
+  - '3 Scallions, chopped'
+  - '--- The Soup Base ---'
+  - '[Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)'
+  - '1 sheet Nori, shredded'
+  - 'Baby Bok Choy or Spinach'
 ---
+
+## Chef's Note
+The secret to elite wontons is **Structural Science** through **The Directional Stir Pattern**. You must mix the pork and shrimp in **one direction only** until the proteins emulsify into a sticky, tacky paste; this ensures the filling has a resilient "Bounce" rather than crumbling like a meatball. We maintain **Texture Integrity** by using our [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)—the addition of shredded nori and sesame oil at the very end provides the mandatory aromatic **High Note**.
 
 ## Directions
 
-1. In a large bowl, mix minced pork and shrimp with green onions, grated ginger, coriander, light soy sauce, egg white, sesame oil and salt. Stir in one direction until the filling becomes sticky and you get a paste texture.
-2. Scoop around 1 teaspoon filling, place in the center of the wrapper. Assemble the wonton one by one.
-3. In serving bowls, add all the seasonings in the bottle and set aside.
-4. Boil some water in pot; add wonton in to cook for around 3-4 minutes depending on the size of your wonton. Blend green vegetables too.
-5. Scoop around 1 cup of boiling water from the pot to the serving bowls to tune the seasoning and then transfer all the wonton and green vegetables to bowls. Pour extra water to soak the wonton.
-6. Serve immediately with green onion and coriander garnished.
+1.  **The Filling:** In a large bowl, combine pork, shrimp, ginger, scallions, and all seasonings. Stir vigorously in one direction for 3 minutes until sticky.
+2.  **Assemble:** Place 1 tsp filling in the center of a [Wonton Wrapper](/recipes/fresh-wonton-wrappers). Dab edges with water, fold into a triangle, and pinch the corners together.
+3.  **The Base:** In serving bowls, add a drop of sesame oil, 1 tsp soy sauce, and shredded nori.
+4.  **Boil:** Bring a pot of [Wonton Broth](/recipes/cantonese-wonton-broth) to a boil. Add the wontons. Cook for 3-4 minutes until they float. During the final 1 minute, add the greens.
+5.  **Bind:** Ladle 1 cup of the boiling broth into each serving bowl to "wake up" the seasonings. 
+6.  **Serve:** Transfer wontons and greens to the bowls. Garnish with fresh coriander and serve immediately.
 
 ## Serving Suggestions
-
-Couscous or Crusty Bread, Everyday Arugula Salad
+-   [Fresh Wonton Wrappers](/recipes/fresh-wonton-wrappers)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)

@@ -1,46 +1,41 @@
 ---
-title: 'Soba Noodles with Shiitakes, Broccoli and Tofu'
-totalTime: 20 min
-servings: Serves 4 to 6
-ingredients:
-  - 1/2 cup chicken or vegetable stock
-  - 1 tablespoon rice wine or dry sherry
-  - 1 tablespoon soy sauce (more to taste)
-  - 1/2 teaspoon sugar
-  - Salt to taste
-  - 1 tablespoon minced garlic
-  - 1 tablespoon minced ginger
-  - >-
-    1/4 to 1/2 teaspoon red pepper flakes, or 1 to 2 serrano or Thai chiles,
-    minced
-  - 8 ounces soba noodles
-  - 2 teaspoons sesame oil
-  - 1/2 pound baby broccoli
-  - '2 tablespoons grapeseed oil, peanut oil, sunflower oil or canola oil'
-  - '1/2 pound tofu, cut in dominoes or small dice'
-  - >-
-    6 ounces fresh shiitake mushrooms, stemmed (discard stems or use for stock),
-    caps sliced
-  - '1 bunch scallions, thinly sliced, dark green parts separated'
-  - 1/2 cup coarsely chopped cilantro
-role: side
+title: Soba Noodles with Shiitakes & Tofu
+role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '8 oz Soba Noodles (Buckwheat)'
+  - '1/2 lb Extra-firm Tofu, diced'
+  - '1/2 lb Baby Broccoli, sliced'
+  - '6 oz Fresh Shiitake Mushrooms, sliced'
+  - '--- The Ginger-Soy Emulsion ---'
+  - '1/2 cup Chicken or Vegetable Stock'
+  - '1 tbsp Soy Sauce + 1 tbsp Shaoxing Wine'
+  - '1 tbsp Fresh Ginger, minced'
+  - '1 tbsp Garlic, minced'
+  - '2 tsp Toasted Sesame Oil (The "Deep Note")'
+  - '--- The Finish ---'
+  - '1/2 cup Fresh Cilantro, chopped'
+  - '1/2 tsp Red Pepper Flakes'
 ---
+
+## Chef's Note
+The secret to perfect Soba is **Texture Integrity** through **The Buckwheat Shock Pattern**. Soba noodles are more delicate than wheat pasta; you must rinse them under cold running water for 1 minute immediately after boiling to remove the surface starch and ensure a clean, "Snappy" bite. We use **The Wok Sear**: flash-frying the tofu and shiitakes on the highest possible heat ensures they develop a charred exterior that provides a smoky "Snap" against the earthy, nutty "Bounce" of the noodles.
 
 ## Directions
 
-1. Combine stock, soy sauce, rice wine or sherry, sugar and salt to taste in a small bowl. Stir until sugar and salt dissolve. Combine garlic, ginger, and pepper flakes or minced chile in another bowl.
-2. Bring a large saucepan or pot of water to a boil, add salt to taste and baby broccoli. As soon as water comes back to a boil (about 1 minute), use a skimmer to remove broccoli and transfer it to a bowl of cold water. Drain in a colander, then on paper towels. Cut stems away from florets and slice about 1/2 inch thick. Bring water back to a boil and cook soba. Drain and toss with 2 teaspoons sesame oil.
-3. Place all ingredients within reach of your wok. Heat a 14-inch flat-bottomed wok over high heat until a drop of water evaporates within a second or two when added. Swirl in 1 tablespoon of the oil and add tofu. Stir-fry 1 to 2 minutes, until it begins to color, and remove to a plate. Add remaining oil and garlic, ginger and chile. Stir-fry for no more than 10 seconds and add mushrooms. Stir-fry for 1 minute and add broccoli and the light parts of the scallions. Stir-fry 1 to 2 minutes. Add the noodles, tofu and the stock mixture. Reduce heat to medium and stir-fry 1 to 2 minutes. Add cilantro and the dark green part of the scallions, stir-fry another 30 seconds to a minute, until well combined, and serve.
+1.  **The Sauce:** In a small bowl, whisk stock, soy sauce, wine, ginger, and garlic.
+2.  **Blanch:** Boil baby broccoli for 1 minute. Shock in ice water. Drain and pat **bone-dry**.
+3.  **Boil Soba:** Cook soba noodles for 4-5 minutes until al dente. Drain and rinse under cold water for 1 minute. Toss with 1 tsp sesame oil.
+4.  **The Sear:** Heat 1 tbsp oil in a wok until smoking. Sear tofu for 2 minutes until golden. Remove.
+5.  **The Snap:** Add 1 tbsp oil. Sauté shiitakes and scallions for 2 minutes. Add the blanched broccoli.
+6.  **Bind:** Add the noodles, tofu, and the stock mixture. Toss vigorously over high heat for 2 minutes until the liquid has emulsified into a glossy glaze.
+7.  **Serve:** Stir in the cilantro and sesame oil. Serve immediately.
 
-## Nutrition
-
-- Trans Fat: 0 gram
-- Fat: 8 gram
-- Calories: 255
-- Saturated Fat: 1 gramUn
-- saturated Fat: 7 gram
-- Sodium: 498 milligram
-- Sugar: 3 gram
-- Fiber: 3 gramsCarbohydrate: 37 gram
-- Protein: 12 grams
+## Serving Suggestions
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+-   [Miso Soup](/recipes/miso-soup)

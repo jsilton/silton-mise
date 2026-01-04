@@ -1,38 +1,37 @@
 ---
 title: Sheet Pan Chicken Fajitas
-prepTime: 15 min
-cookTime: 15 min
-servings: 'Serves: 6'
-ingredients:
-  - 1/4 cup Taco seasoning
-  - 1 tbsp Olive oil
-  - '1 Lime, juiced'
-  - '2 lbs Boneless skinless chicken breasts, cut into thin slices'
-  - '1 Red onion, sliced thin'
-  - '1 Red bell pepper, sliced thin'
-  - '1 Yellow bell pepper, sliced thin'
-  - '1 Green bell pepper, sliced thin'
-  - 'Small flour tortillas, warmed, optional'
-  - 'Avocado, optional'
-  - 'Cilantro, optional'
-  - 'Salsa or hot sauce, optional'
-totalTime: 30 min
 role: main
 vibe: speed
+prepTime: 15 min
+cookTime: 15 min
+totalTime: 30 min
+servings: '6'
+ingredients:
+  - '2 lbs Chicken Breasts, thinly sliced'
+  - '1 Red, 1 Yellow, 1 Green Bell Pepper, sliced'
+  - '1 Red Onion, thinly sliced'
+  - '--- The Fajita Pulse ---'
+  - '1/4 cup Taco Seasoning (The Silton Standard)'
+  - '1 tbsp Extra-Virgin Olive Oil'
+  - '1 Lime, juiced (The Acid Finish)'
+  - '--- For Serving ---'
+  - 'Warm Flour Tortillas'
+  - 'Avocado and Fresh Cilantro'
 ---
+
+## Chef's Note
+This is the baseline for 30-minute "Speed" fuel. The secret to Success is **The High-Heat Char Pattern**: we roast the entire pan at 375°F but finish with a **3-minute broil**. This ensures the chicken stays moist (The "Bounce") while the peppers develop those charred, blackened edges (The "Snap") usually only found on a cast-iron sizzle platter. The fresh lime juice added *after* baking is the mandatory **Acid Finish** that keeps the seasoning from feeling flat.
 
 ## Directions
 
-1. In a large bowl make a marinade using the taco seasoning, olive oil and lime juice.
-2. Toss the chicken, red onion and bell peppers together with the marinade. If you have time, allow to marinate, covered for 1 hour. If not, bake right away.
-3. Preheat oven to 375° F.
-4. Spread the chicken and vegetable mixture onto a rimmed sheet pan. Bake for 15-20 minutes, or until meat is cooked through. If you want to add some char to meat and veggies, broil for another 3 minutes.
-5. Serve with warm tortillas, salsa, guacamole, avocado, sour cream and fresh cilantro.
-
-## Nutrition
-
-- CALORIES: 341
+1.  **Marinate:** In a large bowl, toss the chicken, peppers, and onions with the oil, taco seasoning, and half the lime juice. **Let stand for 10 minutes** while the oven heats.
+2.  **Spread:** Preheat oven to 375°F. Spread the mixture onto a large rimmed sheet pan in a single, even layer. 
+3.  **Bake:** Roast for 15-20 minutes until the chicken is cooked through (165°F). 
+4.  **The Snap:** Turn the oven to "Broil" (High). Move the pan to the top rack. Broil for 2-3 minutes until the vegetables are charred and the chicken skin is crispy.
+5.  **Finish:** Squeeze the remaining lime juice over the hot pan. 
+6.  **Serve:** Serve with warm tortillas, avocado, and cilantro for the final aromatic **High Note**.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Guacamole (The Silton Standard)](/recipes/guacamole)
+-   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+-   [Pickled Red Onions](/recipes/pickled-red-onions)

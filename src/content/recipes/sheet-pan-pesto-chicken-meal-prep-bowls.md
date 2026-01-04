@@ -1,38 +1,38 @@
 ---
-title: Sheet Pan Pesto Chicken Meal Prep Bowls
-prepTime: 20 min
-cookTime: 20 min
-servings: 'Servings: 4'
-ingredients:
-  - '3 tbsp olive oil, divided'
-  - 1/2 cup Parmesan cheese
-  - 2 cloves garlic minced
-  - 1/2 tsp salt
-  - 1/2 tsp pepper
-  - '3 chicken breasts, diced'
-  - 1 package Cherry tomatoes
-  - '1 head broccoli, cut into florets'
-  - '1 small zucchini, cut thickly'
-  - 1 package mushrooms cut in half
-  - 1 box pasta
-  - pesto
-totalTime: 40 min
+title: Sheet Pan Pesto Chicken Bowls
 role: main
 vibe: fuel
+prepTime: 20 min
+cookTime: 20 min
+totalTime: 40 min
+servings: '4'
+ingredients:
+  - '3 Chicken Breasts, diced into 1-inch cubes'
+  - '1 lb Fresh Broccoli, cut into florets'
+  - '1 small Zucchini, thickly sliced'
+  - '8 oz Mushrooms, halved'
+  - '1 pint Cherry Tomatoes'
+  - '--- The Pesto Emulsion ---'
+  - '1/2 cup [Basil Pesto](/recipes/basil-pesto)'
+  - '1/2 cup Parmesan, freshly grated'
+  - '3 tbsp Extra-Virgin Olive Oil'
+  - '2 cloves Garlic, minced'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is the ultimate **Modularity** component for high-performance meal prep. The secret to Success is **The Double-Stage Roast Pattern**: we roast the chicken and mushrooms first to develop a Maillard "Snap," then add the delicate broccoli and zucchini for the final 10 minutes. This prevents the vegetables from turning into a mushy film. We use **The Pesto Emulsion** as a thermal guard: by tossing the chicken in pesto *before* roasting, we create a fat barrier that keeps the lean breast meat succulent and "Bouncy."
 
 ## Directions
 
-1. Preheat oven to 400 F. In a Magic Bullet, blender or food processor, blend 2 tbsp olive oil, basil, parmesan cheese, garlic, salt and pepper together until smooth (you may need to add 1-2 tsp of water to get it to blend). You will only use about half of the pesto; either cut the recipe in half for this serving or save the rest for another meal.
-2. Add chicken and mushrooms to large sheet pan and toss with 1 tbsp of olive oil and 2 tbsp of pesto. Bake in oven for 10 minutes. Remove from oven and drain excess liquid.
-3. Add remaining vegetables and another 1-2 tbsp of pesto. Toss to combine then bake another 10 minutes until chicken is fully cooked. Remove from oven and divide among 4 meal prep bowls. Keeps in fridge up to 5 days.
-
-## Nutrition
-
-- Calories: 312kcal | Carbohydrates: 5g | Protein: 30g | Fat: 15g | Saturated Fat: 5g | Polyun
-- saturated Fat: 2g | Monoun
-- saturated Fat: 10g | Cholesterol: 70mg | Sodium: 682mg | Potassium: 441mg | Fiber: 1g | Sugar: 2g | Vitamin A: 450IU | Vitamin C: 36.3mg | Calcium: 330mg | Iron: 1.4mg
+1.  **Prep:** Preheat oven to 400°F. Line a massive sheet pan with parchment.
+2.  **The Pesto:** In a small bowl, whisk pesto, Parmesan, garlic, salt, and pepper.
+3.  **Stage 1:** Toss the diced chicken and mushrooms with 1 tbsp oil and 2 tbsp of the pesto mixture. Spread on the pan. Bake for 10 minutes.
+4.  **Stage 2:** Remove pan. Add the broccoli, zucchini, and cherry tomatoes. Toss with another 2 tbsp of pesto. 
+5.  **Bake:** Roast for 10 more minutes until the chicken is cooked through (165°F) and the broccoli is tender-crisp.
+6.  **Store:** Divide among 4 bowls. Serve over pasta or rice. Keeps in the fridge for 5 days with a perfect "Bounce" when reheated.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Greek-Style Lamb Burgers](/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce) (as a side)

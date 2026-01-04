@@ -1,28 +1,37 @@
 ---
 title: Shrimp & Snow Pea Stir Fry
-prepTime: 10 min
-servings: 'Yields: 4'
-ingredients:
-  - 8 oz. rice linguini noodles
-  - '8 oz. raw shrimp, peeled and deveined'
-  - Kosher salt
-  - Freshly ground black pepper
-  - '1/4 c. plus 1 tbsp. sweet chili sauce, divided'
-  - '8 oz. snow peas, sliced on the diagonal'
-  - '2 tbsp. Canola oil, divided'
-totalTime: 10 min
 role: main
 vibe: speed
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 20 min
+servings: '4'
+ingredients:
+  - '8 oz Rice Linguine Noodles'
+  - '8 oz Raw Shrimp, peeled and deveined'
+  - '8 oz Fresh Snow Peas, sliced diagonally'
+  - '--- The Chili-Soy Glaze ---'
+  - '5 tbsp Sweet Chili Sauce'
+  - '1 tbsp Low-sodium Soy Sauce'
+  - '--- The High Note Pulse ---'
+  - '1 tbsp Fresh Ginger, grated'
+  - '1 clove Garlic, minced'
+  - 'Neutral Oil'
 ---
+
+## Chef's Note
+This is the baseline for 20-minute "Speed" main dishes. The secret to Success is **The Cold Soak Pattern**: you must soak the rice noodles in hot water for 25 minutes rather than boiling them; this ensures they maintain a resilient "Bounce" and don't turn into a tangled mush. We use **The Sugared Sear Pattern**: marinating the shrimp in sweet chili sauce for 15 minutes allows the sugars to caramelize instantly when they hit the hot wok, providing a professional-grade mahogany "Snap."
 
 ## Directions
 
-1. Bring 3-4 quarts of water to a boil and remove from heat. Place rice linguine noodles in a large metal or glass bowl and cover in hot water for 25 minutes, stirring with a fork frequently to break up any noodle clumps. After about 15 minutes water should be cool enough to pull out and separate any clumped noodles.
-2. Rinse shrimp and place on a paper towel lined plate. Pat dry and season with salt and pepper on both sides. Add shrimp and 1 tablespoon sweet chili sauce to a container with a lid. Refrigerate for at least 15 minutes and up to overnight.
-3. Drain and rinse noodles and return to the bowl. Gather your ingredients (noodles, shrimp, remaining 1/4 cup sweet chili sauce, and snow peas) in bowls and place on a sheet tray next to the stove.
-4. Heat a large skillet or wok over high heat. Add 1 tablespoon oil and swirl in pan to coat. When you see the first wisp of smoke, add shrimp and cook until they begin to turn pink, 1 minute each side. The sugars in the sweet chili sauce should caramelize just a little bit and create tasty bits in the pan.
-5. Make space in the middle of the pan, add remaining 1 tablespoon oil and sliced snow peas and cook 2 minutes. Add prepared noodles and ¼ cup of sweet chili sauce. Continue to cook until noodles are coated and heated through, about 4 to 6 minutes. Serve immediately.
+1.  **Noodles:** Place rice noodles in a bowl of hot (not boiling) water. Let soak for 25 minutes until flexible. Drain and rinse in cold water.
+2.  **Velvet:** Toss shrimp with 1 tbsp sweet chili sauce and salt. **Let stand for 15 minutes**.
+3.  **The Sear:** Heat 1 tbsp oil in a wok until smoking. Sear shrimp for 1 minute per side until charred and pink. Remove.
+4.  **The Snap:** Add 1 tbsp oil. Sauté snow peas, ginger, and garlic for 2 minutes over high heat until bright green.
+5.  **Bind:** Add the drained noodles and the remaining sweet chili sauce. Toss vigorously for 4 minutes until the noodles are hot and glossy.
+6.  **Serve:** Return shrimp to the pan. Toss for 30 seconds. Serve immediately.
 
 ## Serving Suggestions
-
-Couscous or Crusty Bread, Everyday Arugula Salad
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+-   [Miso Soup](/recipes/miso-soup)

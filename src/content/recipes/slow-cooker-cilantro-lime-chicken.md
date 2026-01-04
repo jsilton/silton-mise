@@ -1,45 +1,39 @@
 ---
 title: Slow Cooker Cilantro Lime Chicken
-prepTime: 10 min
-cookTime: 480 min
-servings: 'Yield: 6 servings'
-ingredients:
-  - '1 1/2 pounds boneless, skinless chicken breasts'
-  - '1 (15-ounce) can black beans, drained and rinsed'
-  - 1 (10-ounce can) Ro*Tel® Mild Diced Tomatoes & Green Chilies
-  - '1 cup corn kernels, frozen, canned or roasted'
-  - '1/2 cup salsa, homemade or store-bought'
-  - 1/2 cup chopped fresh cilantro leaves
-  - '1 red onion, diced'
-  - '1 jalapeño, diced'
-  - 2 teaspoons cumin
-  - 2 teaspoons chili powder
-  - '4 cloves garlic, minced'
-  - 'Kosher salt and freshly ground black pepper, to taste'
-  - Juice of 2 limes
-  - tortillas
-  - taco shells
-  - shredded cheese
-  - avocado
-totalTime: 490 min
 role: main
 vibe: comfort
+prepTime: 10 min
+cookTime: 480 min
+totalTime: 490 min
+servings: '6'
+ingredients:
+  - '1 1/2 lbs Chicken Breasts'
+  - '1 can (15 oz) Black Beans, rinsed'
+  - '1 can (10 oz) Rotel Diced Tomatoes & Chilies'
+  - '1 cup Corn Kernels'
+  - '1/2 cup Salsa Verde'
+  - '--- The Aromatic Pulse ---'
+  - '1/2 cup Fresh Cilantro, chopped'
+  - '1 Red Onion, diced'
+  - '1 Jalapeño, diced'
+  - '2 tsp Cumin + 2 tsp Chili Powder'
+  - '--- The High Note Finish ---'
+  - 'Juice of 2 Limes (The Acid Finish)'
+  - 'Avocado and Tortillas for serving'
 ---
+
+## Chef's Note
+This is the ultimate **Modularity** component for tacos and bowls. The secret to its Success is **The Salsa-Acid Pattern**: we slow-cook the chicken in a bath of salsa verde and Rotel; the acidity of the tomatillos acts as a continuous enzyme tenderizer, resulting in a protein that has a succulent "Bounce" rather than a stringy texture. We maintain **Texture Integrity** by adding the fresh lime juice and an extra pulse of cilantro only *after* shredding—this provides the mandatory **High Note** of freshness.
 
 ## Directions
 
-1. In a gallon size Ziploc bag or large bowl, combine chicken, beans, tomatoes, corn, salsa, cilantro, onion, jalapeno, cumin, chili powder and garlic. Place in freezer for up to 1 month.\*
-2. Place chicken mixture into a 6-qt slow cooker; season with salt and pepper, to taste. Cover and cook on low heat for 7-8 hours or high heat for 3-4 hours. Stir in lime juice.
-3. Serve immediately.
-
-## Nutrition
-
-- Calories: 242.0 Calories from Fat 45
-- Saturated Fat: 1.0g 5%
-- Trans Fat: 0g
-- Cholesterol: 65.0mg 22%
-- Sodium: 1139mg
+1.  **Combine:** In a 6-quart slow cooker, combine chicken, beans, tomatoes, corn, salsa, cilantro, onion, jalapeño, and spices.
+2.  **Cook:** Cover and cook on **Low for 7-8 hours** (or High for 3-4 hours).
+3.  **The Pull:** Using two forks, shred the chicken directly in the pot. Stir to ensure every strand is coated in the spicy juices.
+4.  **Finish:** Stir in the fresh lime juice. Season with a generous amount of sea salt and pepper.
+5.  **Serve:** Serve immediately in charred tortillas or over [Cilantro Lime Rice](/recipes/cilantro-lime-rice).
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Guacamole (The Silton Standard)](/recipes/guacamole)
+-   [Pickled Red Onions](/recipes/pickled-red-onions)
+-   [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)

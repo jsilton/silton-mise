@@ -1,47 +1,39 @@
 ---
 title: Slow Cooker Chicken Noodle Soup
-prepTime: 15 min
-cookTime: 510 min
-servings: 'Yield: 10 servings'
-ingredients:
-  - '1 1/2 pounds boneless, skinless chicken breasts'
-  - 'Kosher salt and freshly ground black pepper, to taste'
-  - 8 cups chicken stock
-  - '4 cloves garlic, minced'
-  - '1 onion, diced'
-  - '3 carrots, peeled and diced'
-  - '3 stalks celery, diced'
-  - 1/2 teaspoon dried thyme
-  - 1/2 teaspoon dried rosemary
-  - 2 bay leaves
-  - corkscrew noodles
-  - Juice of 1 lemon
-  - 2 tablespoons chopped fresh parsley
-totalTime: 525 min
 role: main
 vibe: comfort
+prepTime: 15 min
+cookTime: 510 min
+totalTime: 525 min
+servings: '10'
+ingredients:
+  - '1 1/2 lbs Chicken Breasts or Thighs'
+  - '8 cups High-quality Chicken Stock'
+  - '--- The Mirepoix Base ---'
+  - '1 Yellow Onion, diced'
+  - '3 Carrots, diced'
+  - '3 stalks Celery, diced'
+  - '4 cloves Garlic, minced'
+  - '1/2 tsp Dried Thyme + 1/2 tsp Dried Rosemary'
+  - '--- The Finish ---'
+  - '2 cups Corkscrew (Fusilli) Pasta'
+  - '1 Lemon, juiced (The Acid Finish)'
+  - '1/4 cup Fresh Parsley, chopped'
 ---
+
+## Chef's Note
+This is the "Gold Standard" for technical comfort food. The secret to its Success is **The Late-Noodle Pattern**. You must never cook the pasta for the full duration; we add the noodles only during the final 40 minutes of the slow-cook cycle. This ensures the pasta has a resilient "Bounce" and doesn't dissolve into the broth. The fresh lemon juice added at the very end is the mandatory **Acid Finish** that transforms a heavy stew into a bright, restorative "High Note" soup.
 
 ## Directions
 
-1. Season chicken with salt and pepper, to taste. Place chicken into a 6-qt slow cooker.
-2. Stir in chicken stock, garlic, onion, carrots, celery, thyme, rosemary and bay leaves; season with salt and pepper, to taste. Cover and cook on low heat for 6-8 hours.
-3. Remove chicken from the slow cooker and shred, using two forks.
-4. Stir in pasta and chicken into the slow cooker. Cover and cook on low heat for an additional 30-40 minutes, or until pasta is tender.
-5. Stir in lemon juice and parsley.
-6. Serve immediately.
-
-## Nutrition
-
-- Calories: 253.4 Calories from Fat 31.5
-- Saturated Fat: 0.8g 4%
-- Trans Fat: 0g
-- Cholesterol: 46.2mg 15%
-- Sodium: 347.9mg 14%
-- Dietary Fiber: 2.6g 10%
-- Sugars: 7.0g
-- Protein: 24.3g
+1.  **Foundation:** Place chicken, stock, onion, carrots, celery, garlic, and dried herbs in a 6-quart slow cooker. Season with salt and pepper.
+2.  **Slow Cook:** Cover and cook on **Low for 6-8 hours** until the chicken is fork-tender.
+3.  **The Pull:** Remove the chicken. Use two forks to shred it into large chunks. Return to the pot.
+4.  **The Pasta:** Stir in the dry noodles. Cover and cook on **Low for 30-40 minutes** until the pasta is perfectly al dente.
+5.  **Finish:** Stir in the lemon juice and fresh parsley. 
+6.  **Serve:** Ladle into massive bowls. Serve immediately to maintain **Texture Integrity**.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Garlic Bread](/recipes/garlic-bread)
+-   [Sourdough Grilled Cheese](/recipes/grilled-cheese-and-tomato-soup)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

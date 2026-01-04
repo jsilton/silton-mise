@@ -1,36 +1,39 @@
 ---
 title: Seared Salmon with Summer Vegetables
-cookTime: 60 min
+role: main
+vibe: speed
+prepTime: 20 min
+cookTime: 20 min
+totalTime: 40 min
 servings: '6'
 ingredients:
-  - '3/4 cup unsalted butter (6 ounces), divided'
-  - 1 cup thinly sliced red onion
-  - '3 garlic cloves (2 thinly sliced and 1 whole), divided'
-  - >-
-    1/4 pound shiitake mushrooms, stems removed and reserved, caps quartered,
-    divided
-  - '1 medium-size ripe tomato, coarsely chopped'
-  - 1 teaspoon whole black peppercorns
-  - 1 bay leaf
-  - 1/3 cup balsamic vinegar
-  - 1/3 cup water
-  - Salt
-  - Freshly ground black pepper
-  - '3 tablespoons olive oil, divided'
-  - 1 pound fresh spinach
-  - 2 cups fresh corn kernels
-  - '1 (1-pound) center-cut salmon fillet, sliced crosswise into 6 strips'
-  - 3 tablespoons finely chopped chives
-totalTime: 60 min
-role: side
-vibe: speed
+  - '1 lb Center-cut Salmon, sliced into 6 strips'
+  - '--- The Balsamic Emulsion ---'
+  - '1/3 cup Balsamic Vinegar'
+  - '1/2 cup Unsalted Butter, cubed and chilled'
+  - '1 medium Tomato, chopped'
+  - '1/4 lb Shiitake Mushrooms (caps only, sliced)'
+  - '--- The Fuel Base ---'
+  - '1 lb Fresh Spinach'
+  - '2 cups Fresh Corn kernels'
+  - '1 Red Onion, thinly sliced'
+  - '3 cloves Garlic'
 ---
+
+## Chef's Note
+This is a 40-minute "Project" meal disguised as a "Speed" dinner. The secret to its Success is **The Mounting Pattern (Beurre Rouge)**: we reduce balsamic vinegar and tomatoes into a syrupy base, then whisk in **cold butter** one cube at a time. This creates a thick, mirror-glossy emulsion with a velvet "Bounce" that standard sauces lack. We maintain **Texture Integrity** by searing the salmon strips on high heat for exactly 3 minutes per side to develop a "Snap" crust while keeping the center medium-rare.
 
 ## Directions
 
-1. Cut 6 tablespoons butter into 1/2-inch cubes, and refrigerate until ready to use. Melt 2 tablespoons butter in a medium nonreactive saucepan over medium-low. Add onion, sliced garlic, shiitake stems, tomato, black peppercorns, and bay leaf, and cook until vegetables are soft but not brown, about 12 minutes. Add balsamic vinegar and 1/3 cup water, increase heat to medium-high, and cook, stirring occasionally, until mixture is syrupy, about 4 minutes.
-2. Reduce heat to low, and add cubed butter, 2 to 3 pieces at a time, whisking thoroughly between additions. Season sauce with salt and pepper to taste. Pour sauce through a fine wire-mesh strainer into a bowl; discard solids. Keep sauce warm over a double boiler.
-3. Spear whole garlic clove with a dinner fork. Heat 2 tablespoons olive oil in a large skillet over high until just beginning to smoke. Add spinach; cook, stirring using fork with garlic clove, until spinach is wilted. Season with salt and pepper to taste; transfer to a colander to drain. Discard garlic clove.
-4. Wipe skillet clean with paper towels. Reduce heat to medium, and add 3 tablespoons butter. Add shiitake caps, and cook, stirring, until softened, about 3 minutes. Stir in corn kernels; cook until completely heated through, about 3 minutes. Season with salt and pepper to taste. Transfer to a bowl, and keep warm.
-5. Increase heat to high, and add remaining 1 tablespoon butter and remaining 1 tablespoon olive oil to skillet. Season salmon strips with salt and pepper to taste. Add fish to skillet, and cook until browned but barely cooked through, about 3 minutes per side.
-6. Divide spinach among 6 plates; surround with corn and shiitakes. Place a salmon strip on top of spinach, and spoon vinegar sauce on fish. Garnish with a sprinkling of chives; serve immediately.
+1.  **The Reduction:** In a saucepan, simmer vinegar, tomato, onion, 1 garlic clove, and mushroom stems until reduced to a thick syrup (4 mins).
+2.  **Mounting:** Reduce heat to low. Whisk in cold butter cubes, 2 at a time, until the sauce is creamy and opaque. Strain through a fine-mesh sieve and keep warm.
+3.  **The Wilt:** Sauté spinach in a hot pan with a fork-pierced garlic clove until collapsed. Drain and set aside.
+4.  **The Snap:** In the same pan, sauté shiitake caps and corn in butter for 6 minutes until charred and tender.
+5.  **The Sear:** Season salmon. In a clean skillet, heat 1 tbsp oil until smoking. Sear salmon strips for 3 minutes per side until a crust forms.
+6.  **Serve:** Divide spinach among plates. Top with corn, shiitakes, and a salmon strip. 
+7.  **Finish:** Drizzle the balsamic emulsion over the fish. Garnish with chives for the mandatory **High Note**.
+
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Patate al Forno (The Gold Standard)](/recipes/patate-al-forno)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

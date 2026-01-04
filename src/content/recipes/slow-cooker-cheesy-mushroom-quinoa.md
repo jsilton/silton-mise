@@ -1,31 +1,37 @@
 ---
 title: Slow Cooker Cheesy Mushroom Quinoa
+role: main
+vibe: comfort
 prepTime: 10 min
 cookTime: 180 min
-servings: 'Serves: 4'
-ingredients:
-  - 4 cups vegetable broth
-  - 2 cups uncooked quinoa
-  - '2 green onions, chopped'
-  - '½ red pepper, diced'
-  - '8 ounces mushrooms, sliced'
-  - 4 ounces cream cheese
-  - 1 tablespoon minced garlic
-  - 1 teaspoon Italian seasoning
-  - >-
-    salt and pepper to taste (I used about 2 teaspoons salt and 1 teaspoon
-    pepper)
-  - 1 cup shredded parmesan or Italian blend cheese
 totalTime: 190 min
-role: base
-vibe: comfort
+servings: '4'
+ingredients:
+  - '2 cups Uncooked Quinoa (rinsed)'
+  - '8 oz Mushrooms, sliced'
+  - '4 cups Vegetable or Chicken Broth'
+  - '--- The Creamy Emulsion ---'
+  - '4 oz Cream Cheese, cubed'
+  - '1 cup Italian Blend Cheese, shredded'
+  - '1/2 Red Bell Pepper, diced'
+  - '2 Green Onions, chopped'
+  - '1 tbsp Garlic, minced'
+  - '1 tsp Italian Seasoning'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+The secret to slow-cooker quinoa that isn't a soggy porridge is **Structural Science** through **The Absorption Pattern**. We use a strict 1:2 ratio of grain to liquid and cook on "High" for a shorter duration; this ensures each grain of quinoa maintains its "Snap" and distinct curly tail. The addition of **Cream Cheese** at the very end provides the mandatory "Bounce," creating a risotto-like silkiness that standard shredded cheese cannot achieve.
 
 ## Directions
 
-1. Add all ingredients except for Italian cheese to slow cooker. Cover and cook on high for 2-3 hours on high, or 4-5 hours on low.
-2. Stir all ingredients together. Top with cheese, cover and allow to cook for another 15 minutes or so until cheese is melty. Garnish with chopped cilantro or parsley if desired and serve.
+1.  **Combine:** Add quinoa, mushrooms, broth, red pepper, garlic, and herbs to the slow cooker. Stir well.
+2.  **Cook:** Cover and cook on **High for 2-3 hours** (or Low for 4-5 hours) until the liquid is fully absorbed.
+3.  **Emulsify:** Open the lid. Add the cream cheese cubes. Stir vigorously for 1 minute until the cream cheese has melted and emulsified with the grain.
+4.  **Bind:** Top with the Italian cheese blend. Cover and cook for another 15 minutes until molten.
+5.  **Finish:** Stir once more. Garnish with fresh green onions for the mandatory **High Note**.
 
-## Notes
-
-This serves 4 as a main dish but you could easily half the recipe and serve it up as a side dish too!If you don't need/want the recipe to be vegetarian you can sub chicken broth for the vegetable broth if desired.
+## Serving Suggestions
+-   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   Roasted Cherry Tomatoes

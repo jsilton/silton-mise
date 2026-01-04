@@ -1,28 +1,30 @@
 ---
-title: Royal Icing
-prepTime: 5 min
-servings: Servings 36
-ingredients:
-  - 3 egg whites
-  - 1 pound confectioners’ sugar (450g)
-  - 1 teaspoon vanilla extract
-totalTime: 5 min
-role: main
+title: Royal Icing (The Professional Standard)
+role: base
 vibe: speed
+prepTime: 5 min
+cookTime: 0 min
+totalTime: 5 min
+servings: '36 cookies'
+ingredients:
+  - '3 large Egg Whites (room temp)'
+  - '1 lb Confectioners’ Sugar, sifted'
+  - '1 tsp Pure Vanilla Extract'
 ---
+
+## Chef's Note
+The secret to a "Gold Standard" royal icing is **Structural Science** through **The Low-Speed Aeration Pattern**. You must beat the egg whites on low speed until frothy *before* adding the sugar; this breaks down the protein chains without introducing large air bubbles, resulting in a glass-smooth "Snap" finish that doesn't crack. We maintain **Texture Integrity** through **The Flood & Outline Method**: use the icing thick for borders and add a drop of water for a "15-second consistency" to flood the centers for a mirror-glossy look.
 
 ## Directions
 
-1. In the bowl of a stand mixer or large mixing bowl, beat egg whites on medium-low speed until frothy, about 1 minute.
-2. With the mixer on low speed, slowly add in confectioners’ sugar and vanilla.
-3. Once fully incorporated, increase speed to medium-high and beat until stiff peaks shiny peaks form.
-4. Divide icing among small bowls, and dye with gel food coloring if desired. (Keep any icing that isn’t being immediately used covered with plastic wrap as it dries out very quickly.) Transfer to piping bags and decorate cookies.
+1.  **Froth:** In a stand mixer, beat egg whites on medium-low for 1 minute until bubbly but not peaking.
+2.  **Incorporate:** Switch to low speed. Slowly add the sifted sugar and vanilla. 
+3.  **Emulsify:** Once combined, increase speed to medium-high. Beat for 2-3 minutes until the icing is stiff, glossy, and holds a "Snap" peak.
+4.  **Dye:** Divide into small bowls. Stir in gel food coloring (The High Note).
+5.  **Consistency:** For flooding, add water 1/2 tsp at a time until a ribbon of icing disappears back into the bowl in exactly 15 seconds.
+6.  **Store:** Keep bowls tightly covered with plastic wrap—this icing sets instantly when exposed to air.
 
-## Notes
-
-Eggs are easier to separate when cold. Egg whites whip up easier when closer to room temperature. I recommend separating them in advance if you have the time.You can whip egg whites by hand, but it’ll require a lot of elbow grease to get it done.Do not rush the recipe and dump all the sugar into the egg whites at once. You lose volume if you add the sugar too quickly.Whipping the egg whites at a low speed allows the protein in the whites to break down better. This helps the whipped egg whites become more elastic and become more voluminous.Make sure the bowl you whip your whites in is super clean. Any residue water or fat will prevent the egg whites from becoming fluffy.While I prefer using gel food coloring, you can use what you have on hand. Remember that gel food coloring is more concentrated, so you can add less, whereas liquid food coloring may thin out the frosting if you add too much to it.If your icing has started to harden, add a drop or two of water to bring it back to your desired consistency. However, avoid making the icing too thin as it’ll lead to air bubbles.For the best flavor, use real vanilla extract instead of artificial vanilla.When using royal icing to decorate cookies, pipe the icing first, then flood it. Outlining means piping a thin outline of the cookie with thicker icing and flooding means filling the middle with thinner icing. Piping an outline first keeps the icing from sliding off the cookies.Add a few drops of water to the icing and stir with a spatula for a flooding consistency. Continue adding water until you achieve the desired consistency.
-
-## Nutrition
-
-- Calories: 51kcal
-- Calories: 51kcal | Carbohydrates: 13g | Protein: 1g | Fat: 1g | Sodium: 4mg | Potassium: 4mg | Sugar: 12g | Calcium: 1mg | Iron: 1mg
+## Serving Suggestions
+-   [Sugar Cookies (The Silton Standard)](/recipes/sugar-cookie)
+-   [Snickerdoodles](/recipes/snickerdoodles)
+-   [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake) (as a drizzle)

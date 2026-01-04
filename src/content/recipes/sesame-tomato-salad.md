@@ -1,36 +1,36 @@
 ---
 title: Sesame Tomato Salad
-totalTime: 20 min
-servings: 6 to 8 servings
-ingredients:
-  - 1/2 cup extra-virgin olive oil
-  - 6 tablespoons low-sodium soy sauce
-  - 2 tablespoons distilled white vinegar
-  - 2 tablespoons toasted sesame oil
-  - 1 teaspoon minced garlic
-  - '1 teaspoon granulated sugar, plus more to taste'
-  - >-
-    3 pounds mixed tomatoes, large tomatoes chopped or sliced and small tomatoes
-    halved
-  - Kosher salt (such as Diamond Crystal) and black pepper
-  - 1/4 cup chopped basil
 role: side
 vibe: fuel
+prepTime: 10 min
+cookTime: 0 min
+totalTime: 20 min
+servings: '6'
+ingredients:
+  - '3 lbs Mixed Heirloom Tomatoes, chopped or halved'
+  - '--- The Sesame Emulsion ---'
+  - '1/2 cup Extra-Virgin Olive Oil'
+  - '2 tbsp Toasted Sesame Oil (The "Deep Note")'
+  - '6 tbsp Low-sodium Soy Sauce'
+  - '2 tbsp Distilled White Vinegar (The Acid Finish)'
+  - '1 clove Garlic, minced'
+  - '1 tsp Granulated Sugar'
+  - '1/4 cup Fresh Basil, chopped'
+  - 'Flaky Sea Salt'
 ---
+
+## Chef's Note
+This salad is a study in **Modularity** and flavor layering. The secret to its Success is **The Sesame Emulsion Pattern**: we whisk toasted sesame oil into a traditional vinaigrette base to introduce a nutty, roasted depth that contrasts the sweet, watery tomatoes. We maintain **Texture Integrity** by using a mix of heirloom varieties—the varying firmness of each tomato provides a spectrum of "Snaps" and "Bounces." The soy sauce acts as the primary salt source, introducing an umami backbone that defines the dish.
 
 ## Directions
 
-1. In a medium bowl, combine olive oil, soy sauce, vinegar, sesame oil, garlic and sugar; whisk to combine.
-2. Arrange the tomatoes on a serving platter and season with salt and pepper. Drizzle with half of the dressing and top with basil. Serve the remaining dressing on the side.
+1.  **The Dressing:** In a small jar, whisk together the olive oil, sesame oil, soy sauce, vinegar, garlic, and sugar until completely emulsified and opaque.
+2.  **Prep:** Arrange the tomatoes on a large, shallow platter (layering them too deep will crush the bottom pieces). 
+3.  **Bind:** Drizzle half of the dressing over the tomatoes. Let stand for 5 minutes—this allows the tomatoes to release their juices and mix with the emulsion.
+4.  **Finish:** Top with fresh basil, flaky sea salt, and a crack of black pepper.
+5.  **Serve:** Serve the remaining dressing on the side for the mandatory **High Note** of freshness.
 
-## Nutrition
-
-- Trans Fat: 0 gram
-- Fat: 18 gram
-- Calories: 223
-- Saturated Fat: 2 gramsUn
-- saturated Fat: 14 gram
-- Sodium: 870 milligram
-- Sugar: 10 gram
-- Fiber: 4 gramsCarbohydrate: 15 gram
-- Protein: 4 grams
+## Serving Suggestions
+-   [Greek-Style Lamb Burgers](/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce)
+-   [Tuna Poke Bowls](/recipes/tuna-poke-bowls)
+-   [Japanese-Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)

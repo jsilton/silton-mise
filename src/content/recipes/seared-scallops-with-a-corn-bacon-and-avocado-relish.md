@@ -1,40 +1,38 @@
 ---
-title: 'Seared Scallops with a Corn, Bacon and Avocado Relish'
+title: Seared Scallops with Corn & Avocado Relish
+role: main
+vibe: speed
 prepTime: 10 min
 cookTime: 10 min
-servings: 'Yield: 4 servings'
-ingredients:
-  - Salt and freshly ground black pepper
-  - 'Vegetable oil, for oiling pan'
-  - 16 dry sea scallops
-  - 2 avocados
-  - '12 strips bacon, cooked and chopped'
-  - '1 lemon, halved'
-  - '4 ears corn, shucked'
-  - 1 medium onion
-  - 1 red bell pepper
-  - 2 tablespoons chopped fresh parsley
 totalTime: 20 min
-role: side
-vibe: speed
+servings: '4'
+ingredients:
+  - '16 Dry Sea Scallops (The Gold Standard)'
+  - '--- The Corn-Bacon Relish ---'
+  - '4 ears Fresh Corn, shucked'
+  - '12 strips Bacon, cooked and chopped'
+  - '2 Ripe Avocados, diced'
+  - '1 Red Bell Pepper, diced'
+  - '1 small Onion, diced'
+  - '--- The High Note Finish ---'
+  - '1 Lemon, halved'
+  - '2 tbsp Fresh Parsley, chopped'
+  - 'Neutral Oil'
 ---
+
+## Chef's Note
+The secret to "Restaurant Quality" scallops is **Texture Integrity** through **The Dry Sear Pattern**. You must use "Dry" scallops (no chemical additives) and pat them with paper towels until they are **bone-dry** before they hit the pan. This ensures an immediate, mahogany "Snap" on the surface while the center remains a sweet, buttery "Bounce." We use **The Bacon-Corn Bind**: sautéing the corn in the rendered bacon fat bridges the gap between the smoky pork and the delicate seafood. The lemon provides the mandatory **Acid Finish**.
 
 ## Directions
 
-1. Take a small bowl and place it upside-down inside a large bowl. (This will provide a small stand for your corn, making it easier to remove the kernels, and the large bowl will catch them as the fall, avoiding a mess.) Using a knife, remove the kernels from the corn, letting them fall into the bowl.
-2. Dice the onion and red bell pepper and add them to the bowl with the corn. Add 1 tablespoon of the chopped parsley and season with salt and pepper. Mix to evenly distribute the ingredients.
-3. Set a pan over medium heat and add some oil. Add the corn mixture to the pan and cook until the onions begin to soften, tossing occasionally, about 5 minutes. Remove from the heat and let cool.
-4. Sprinkle the sea scallops with salt and pepper. Set a pan over medium-high heat and add some oil. Add the scallops and sear until golden in color, about 1 minute on each side. Remove from the heat and let rest.
-5. Dice the avocados and add them to the corn relish along with the chopped bacon. Season with salt and pepper and mix together.
-6. Evenly distribute the relish among 4 plates and top each with 4 scallops. Garnish with the remaining 1 tablespoon parsley and a squeeze of lemon.
+1.  **Relish:** Use the "Inverted Bowl Hack" to cut corn kernels into a large bowl. Add onion, pepper, and 1 tbsp parsley.
+2.  **Sauté:** Heat 1 tbsp oil in a large skillet. Sauté the corn mixture for 5 minutes until tender and caramelized. Remove from heat and let cool for 2 minutes.
+3.  **Bind:** Fold in the diced avocados and crispy bacon. Season with salt and plenty of black pepper.
+4.  **The Snap:** Wipe the skillet. Heat oil over high until just beginning to smoke. Season scallops with salt. Sear for exactly **1 minute per side** until a deep golden crust forms. Remove immediately.
+5.  **Assemble:** Mound the warm corn-avocado relish on 4 plates. Top each with 4 seared scallops.
+6.  **Finish:** Squeeze fresh lemon juice over the scallops and garnish with the remaining parsley for the final **High Note**.
 
-## Nutrition
-
-- Fat: 58g
-- Calories: 765
-- Saturated Fat: 15g
-- Sodium: 1095mg
-- Fiber: 11g
-- Cholesterol: 81mg
-- Sugar: 11g
-- Protein: 29g
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+-   [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)

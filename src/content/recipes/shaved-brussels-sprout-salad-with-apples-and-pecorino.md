@@ -1,23 +1,35 @@
 ---
-title: Shaved Brussels Sprout Salad with Apples and Pecorino
-cookTime: 30 min
-servings: 'Yield: 4 servings'
-ingredients:
-  - 3 tablespoons cider vinegar
-  - 2 tablespoons honey
-  - 1/4 cup olive oil
-  - 'salt and freshly ground black pepper, to taste'
-  - '1 Granny Smith apple or other tart, green apple'
-  - 16 ounces Brussels sprouts
-  - '3 ounces Pecorino Romano cheese, finely grated (about 1 cup)'
-totalTime: 30 min
+title: Shaved Brussels Sprout Salad
 role: side
 vibe: fuel
+prepTime: 15 min
+cookTime: 0 min
+totalTime: 30 min
+servings: '4'
+ingredients:
+  - '1 lb Brussels Sprouts, shaved paper-thin'
+  - '1 Granny Smith Apple, matchsticked'
+  - '1 cup Pecorino Romano, finely grated'
+  - '--- The Cider-Honey Emulsion ---'
+  - '1/4 cup Extra-Virgin Olive Oil'
+  - '3 tbsp Apple Cider Vinegar (The Acid Finish)'
+  - '2 tbsp Honey'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+The secret to a "Gold Standard" sprout salad is **Texture Integrity** through **The Mandoline Pattern**. You must shave the raw sprouts at 1/16th of an inch; this transforms a dense, bitter vegetable into a light, airy pile with a resilient "Bounce." We use **The 15-Minute Set Pattern**: tossing the sprouts in the cider-honey emulsion and letting them rest for 15 minutes allows the acid to soften the fibers, resulting in a sophisticated mouthfeel. The Pecorino provides the mandatory salty **High Note**.
 
 ## Directions
 
-1. To prepare dressing, whisk together cider vinegar and honey. Drizzle in olive oil and whisk until combined. Season to taste with salt and pepper.
-2. Core apple and cut into small cubes or matchsticks. Place in a small bowl and toss with 1 tablespoon of dressing to prevent the apples from browning.
-3. Trim ends of Brussels sprouts and remove any outer damaged leaves and discard. Using a mandoline slicer or a very sharp knife, slice sprouts as thinly as possible (I'm talking like 1/16 of a inch). Discard ends and any large core pieces or chunks. Place shaved sprouts in a large bowl. Toss with apples and remaining dressing. Set aside and let sit for at least 15 minutes or more.
-4. Divide salad among serving dishes, and top with a healthy sprinkling of grated Pecorino.
+1.  **The Dressing:** In a large bowl, whisk together vinegar, honey, oil, salt, and pepper until thick and emulsified.
+2.  **The Snap:** Core the apple and cut into fine matchsticks. Immediately toss with 1 tbsp of the dressing to prevent browning.
+3.  **Shave:** Use a mandoline or a very sharp chef's knife to shave the Brussels sprouts as thinly as possible. Discard the tough woody stems.
+4.  **Bind:** Add the shaved sprouts to the dressing. Toss vigorously with your hands until every strand is coated. Let stand at room temperature for **at least 15 minutes**.
+5.  **Finish:** Add the apples and the Pecorino. Toss gently to combine.
+6.  **Serve:** Season with an extra crack of black pepper and serve chilled.
+
+## Serving Suggestions
+-   [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+-   [Chicken Milanese](/recipes/chicken-milanese)
+-   [Roasted Sunchokes with Brown Butter Vinaigrette](/recipes/roasted-sunchokes-with-brown-butter-cider-vinaigrette)

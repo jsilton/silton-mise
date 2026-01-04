@@ -1,44 +1,38 @@
 ---
 title: Shrimp Vodka Pasta
-prepTime: 20 min
-cookTime: 25 min
-servings: Serves 4
-ingredients:
-  - 1 lb rigatoni pasta
-  - 2 tablespoons olive oil
-  - '1 lb shrimp, peeled and deveined'
-  - '3 garlic cloves, minced'
-  - 1/2 cup vodka
-  - 3 cups marinara sauce
-  - '1 large broccoli crown, chopped'
-  - 1/2 cup chopped fresh basil
-  - 1/3 cup heavy whipping cream
-  - 1/2 teaspoon kosher salt
-  - 1/2 teaspoon black pepper
-totalTime: 45 min
 role: main
 vibe: speed
+prepTime: 20 min
+cookTime: 10 min
+totalTime: 30 min
+servings: '4'
+ingredients:
+  - '1 lb Rigatoni Pasta'
+  - '1 lb Shrimp, peeled and deveined'
+  - '--- The Vodka Emulsion ---'
+  - '3 cups Marinara Sauce (The "Silk" Base)'
+  - '1/2 cup Vodka (The "High Note" Pulse)'
+  - '1/3 cup Heavy Cream'
+  - '1 large Broccoli crown, chopped'
+  - '3 cloves Garlic, minced'
+  - '1/2 cup Fresh Basil, chopped'
+  - 'Extra-Virgin Olive Oil'
 ---
+
+## Chef's Note
+The secret to a professional vodka sauce is **The Burn-Off Pattern**. You must simmer the vodka with the garlic for exactly 1 minute *before* adding the marinara; this evaporates the harsh ethanol while concentrating the floral aromatics of the spirit. We maintain **Texture Integrity** through **The Staged Sauté**: we sear the broccoli and shrimp separately and remove them, adding them back only in the final minute. This ensures the broccoli has a smoky "Snap" and the shrimp maintain their "Bounce."
 
 ## Directions
 
-1. Cook pasta per directions. Drain.
-2. Heat oil in a large skillet over medium-high heat. Add broccoli; sauté for 5 minutes or until done. Remove broccoli from pan.
-3. Wipe down skillet, add oil over medium-high heat. Add shrimp; sauté for 4 minutes or until done. Remove shrimp from pan.
-4. Add 1 1/2 teaspoons oil and garlic to pan; sauté 1 minute. Carefully add vodka; cook 1 minute. Add marinara, 1/4 cup basil, cream, salt, and pepper; bring to a simmer. Stir in pasta, broccoli and shrimp. Sprinkle with remaining basil.
-
-## Nutrition
-
-- Calories: 427
-- Fat: 12.6g
-- fat: 4.9g
-- fat: 4.8g
-- fat: 1.4g
-- Protein: 24.6g
-- Fiber: 2.4g
-- Cholesterol: 184mg
-- Sodium: 632mg
+1.  **Boil:** Cook rigatoni until **very al dente**. Drain.
+2.  **The Snap:** In a large skillet, heat 1 tbsp oil. Sauté broccoli for 5 minutes until tender-crisp. Remove. Sauté shrimp for 3 minutes until pink. Remove.
+3.  **The Emulsion:** Wipe the pan. Add 1 tbsp oil and garlic; sauté for 30 seconds. Pour in the vodka. Let it bubble for 1 minute.
+4.  **Bind:** Add the marinara sauce and heavy cream. Bring to a low simmer for 5 minutes until the sauce is a deep, creamy orange.
+5.  **Combine:** Return the pasta, broccoli, and shrimp to the skillet. Stir in half the fresh basil.
+6.  **Toss:** Toss over medium heat for 1 minute until the sauce clings to the rigatoni. 
+7.  **Serve:** Garnish with the remaining basil and a "High Note" pat of Parmesan.
 
 ## Serving Suggestions
-
-Couscous or Crusty Bread, Everyday Arugula Salad
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Garlic Bread](/recipes/garlic-bread)
+-   Roasted Cherry Tomatoes

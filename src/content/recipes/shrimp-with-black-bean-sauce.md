@@ -1,43 +1,41 @@
 ---
 title: Shrimp with Black Bean Sauce
-prepTime: 20 min
-cookTime: 30 min
-servings: 'Serves: 2'
-ingredients:
-  - 1 1/2 cups low sodium chicken stock (heated until hot)
-  - 1 tablespoon oyster sauce
-  - 1 teaspoon dark soy sauce
-  - 1/2 teaspoon sesame oil
-  - 1/4 teaspoon sugar
-  - 1/8 teaspoon white pepper
-  - 1 1/2 tablespoons fermented black beans
-  - 4 ounces ground pork
-  - 2 tablespoons vegetable oil
-  - 1 clove garlic (minced)
-  - 1/4 teaspoon ginger (minced)
-  - 1/4 cup green bell pepper (finely diced)
-  - '12 ounces peeled, deveined shrimp (21/25 size)'
-  - 1 tablespoon Shaoxing wine
-  - 2 1/2 tablespoons cornstarch (mixed into a slurry with 2 tablespoons water)
-  - 1 large egg (lightly beaten)
-  - 1 scallion (chopped)
-totalTime: 50 min
 role: base
 vibe: speed
+prepTime: 20 min
+cookTime: 10 min
+totalTime: 30 min
+servings: '2'
+ingredients:
+  - '12 oz Shrimp (21/25 size)'
+  - '4 oz Ground Pork'
+  - '1 1/2 tbsp Fermented Black Beans (Douchi)'
+  - '--- The Cantonese Glaze ---'
+  - '1 1/2 cups Chicken Stock (hot)'
+  - '1 tbsp Oyster Sauce + 1 tsp Dark Soy Sauce'
+  - '1 tbsp Shaoxing Wine'
+  - '1/2 tsp Toasted Sesame Oil'
+  - '--- The Bind ---'
+  - '1 large Egg, beaten (The Egg Ribbon Pattern)'
+  - '2 1/2 tbsp Cornstarch (slurry)'
+  - '1/4 cup Green Bell Pepper, diced'
+  - '1 Scallion, chopped'
 ---
+
+## Chef's Note
+The secret to authentic "Lobster Sauce" style shrimp is **Structural Science** through **The Egg Ribbon Pattern**. You must pour the beaten egg slowly across the surface of the boiling sauce and let it sit for 10 seconds before folding; this creates long, silken ribbons that provide a velvety "Bounce." We maintain **Texture Integrity** through **The Pork-Bean Sear**: we fry the ground pork and mashed black beans first to develop a smoky, savory foundation that contrasts the sweet "Snap" of the shrimp.
 
 ## Directions
 
-1. Bring 2 to 3 cups of water to a boil in your wok. Meanwhile, in a medium bowl or liquid measuring cup, combine the chicken stock, oyster sauce, dark soy sauce, sesame oil, sugar, and white pepper. Place the fermented black beans in a strainer, and give them a quick rinse under running water. Set the sauce and fermented beans aside.
-2. When your water has come to a boil, stir in the ground pork, breaking up any clumps and cook for about 1 minute, until the pork is no longer pink. Remove from the wok using a fine mesh strainer, and set aside. (You can also give it a quick rinse to get rid of any foam or particles that could result in a cloudy sauce.)
-3. Clean and dry your wok, and place it over medium high heat. Add the oil, garlic, ginger, bell pepper, fermented black beans, and ground pork. Stir-fry for 20 seconds. Then add the shrimp, and pour the Shaoxing wine around the hot sides of the wok. Stir-fry for another 20 seconds.
-4. Stir the sauce mixture to make sure everything is well-incorporated, and add it to the wok. Bring to a simmer, and then gradually stir in the cornstarch slurry until thickened to your liking (you don’t have to use it all). If it gets too thick, just add a little more chicken stock or water. If it’s still too thin, add more slurry.
-5. Pour the slightly beaten egg across the surface of the sauce. Simmer for 10 seconds to set the egg, and then use your spatula to fold the egg into the sauce with a few strokes. Fold in the chopped scallion, and serve immediately with steamed rice.
+1.  **Prep:** Rinse black beans and mash slightly. Whisk stock, oyster sauce, soy sauce, and sesame oil.
+2.  **The Render:** In a hot wok, boil the ground pork for 1 minute until no longer pink. Drain and set aside. (This ensures a clean, non-cloudy sauce).
+3.  **The Sear:** Heat 2 tbsp oil. Sauté garlic, ginger, peppers, black beans, and the cooked pork for 30 seconds. Add shrimp and Shaoxing wine. Stir-fry for 30 seconds.
+4.  **Simmer:** Pour in the stock mixture. Bring to a rapid boil. 
+5.  **Bind:** Stir in the cornstarch slurry until the sauce is thick and mirror-glossy.
+6.  **The Ribbon:** Turn heat to low. Pour the egg across the surface. Let sit for 10 seconds, then fold once.
+7.  **Serve:** Garnish with scallions and serve immediately over steamed jasmine rice.
 
-## Nutrition
-
-- Calories: 308kcal (15%) Carbohydrates: 17g (6%) Protein: 20g (40%) Fat: 17g (26%) Saturated Fat: 6g (30%)Polyun
-- saturated Fat: 2g
-- saturated Fat: 7g
-- Trans Fat: 1g
-- Cholesterol: 123mg (41%) Sodium: 984mg (41%) Potassium: 415mg (12%) Fiber: 2g (8%) Sugar: 2g (2%) Vitamin A: 252IU (5%) Vitamin C: 17mg (21%) Calcium: 43mg (4%) Iron: 2mg (11%)
+## Serving Suggestions
+-   [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)

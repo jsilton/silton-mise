@@ -1,32 +1,37 @@
 ---
-title: Roasted Sunchokes with Brown Butter-Cider Vinaigrette
-prepTime: 20 min
-cookTime: 60 min
-servings: 'Serves : 4 to 6'
-ingredients:
-  - >-
-    2 pounds sunchokes (Jerusalem artichokes), scrubbed and cut into 1-inch
-    pieces
-  - 1/4 cup extra-virgin olive oil
-  - 4 thyme sprigs
-  - '8 garlic cloves, crushed'
-  - Kosher salt
-  - 1/4 cup apple cider vinegar
-  - 2 tablespoons minced shallots
-  - 1/2 teaspoon crushed red pepper
-  - 1 teaspoon honey
-  - 2 tablespoons unsalted butter
-  - Black pepper
-  - 2 cups fresh spinach leaves
-  - 1/4 cup chopped chives
-totalTime: 80 min
-role: base
+title: Roasted Sunchokes with Brown Butter Vinaigrette
+role: side
 vibe: fuel
+prepTime: 10 min
+cookTime: 60 min
+totalTime: 70 min
+servings: '4'
+ingredients:
+  - '2 lbs Sunchokes (Jerusalem Artichokes), scrubbed and cut'
+  - '--- The Beurre Noisette Emulsion ---'
+  - '2 tbsp Unsalted Butter'
+  - '1/4 cup Apple Cider Vinegar (reduced)'
+  - '2 tbsp Shallots, minced'
+  - '1 tsp Honey + 1/2 tsp Red Pepper Flakes'
+  - '--- The Finish ---'
+  - '2 cups Fresh Spinach'
+  - '1/4 cup Fresh Chives, chopped'
+  - '8 cloves Garlic, crushed'
+  - 'Fresh Thyme sprigs'
 ---
+
+## Chef's Note
+Sunchokes are the ultimate "Modern Heritage" root vegetable. The secret to their Success is **Texture Integrity** through **The 60-Minute Roast**: they require a long, high-heat dwell time to transform their starch into a creamy, artichoke-like "Bounce." We use **The Beurre Noisette Pattern**: browning the butter before whisking it into the reduced cider vinegar creates a savory-sweet glaze with a nutty "Snap." The reduction of the vinegar is the mandatory **Acid Finish** that cuts through the earthy sunchokes.
 
 ## Directions
 
-1. Preheat the oven to 375°. On a baking sheet, toss the sunchokes, oil, thyme sprigs and garlic and season with salt. Roast for about 1 hour, stirring occasionally, until golden and tender. Discard the thyme sprigs and garlic. Transfer the sunchokes to a large bowl.
-2. Meanwhile, in a saucepan, cook the vinegar over moderate heat until reduced to 2 tablespoons, 3 minutes. Transfer to a bowl. Stir in the shallots, crushed red pepper and honey.
-3. Wipe out the saucepan. Add the butter and cook over moderate heat until golden brown, 2 to 3 minutes. Whisk the butter into the vinegar mixture and season with salt and pepper.
-4. Add the spinach, chives and vinaigrette to the sunchokes; season with salt and pepper and toss to coat. Serve warm.
+1.  **Roast:** Preheat oven to 375°F. Toss sunchokes with oil, thyme, garlic, and salt. Roast for 1 hour, flipping once, until golden and fork-tender. Discard herbs/garlic.
+2.  **Reduce:** In a small pan, simmer cider vinegar until reduced to 2 tbsp (about 3 mins). Stir in shallots, honey, and chili flakes.
+3.  **Brown Butter:** In the same pan, melt butter over medium heat. Cook for 3 minutes until foamy and dark brown. Whisk immediately into the vinegar mixture.
+4.  **Bind:** Toss the hot sunchokes with the fresh spinach—the heat will wilt the leaves perfectly. 
+5.  **Finish:** Drizzle with the brown butter vinaigrette and top with chives for the mandatory **High Note**.
+
+## Serving Suggestions
+-   [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
+-   [Roast Turkey Breast](/recipes/roast-turkey-breast)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

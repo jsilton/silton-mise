@@ -1,32 +1,41 @@
 ---
-title: Roasted Butternut Squash Mac and Cheese
-servings: Serves 6-8
-ingredients:
-  - 1 lb pasta (we used cellentani)
-  - '6 tbsp unsalted butter, divided'
-  - 1/4 cup all purpose flour
-  - 3 1/2 cups whole milk
-  - pinch of nutmeg
-  - pinch of cayenne
-  - 2 tsp dijon mustard
-  - 'Salt, to taste'
-  - 6 cups grated cheese (we used a mix of sharp white and orange cheddar here)
-  - 1/4 cup grated parmesan cheese
-  - 1/4 cup panko breadcrumbs
-  - 1/4 cup plain breadcrumbs
-  - 3 cups roasted butternut squash (recipe below)
-  - 3 cups butternut squash cubes (about 1 inch in size)
-  - 2 tbsp olive oil
-  - Salt and freshly ground black pepper
+title: Roasted Butternut Squash Mac & Cheese
 role: main
 vibe: comfort
+prepTime: 15 min
+cookTime: 45 min
+totalTime: 60 min
+servings: '8'
+ingredients:
+  - '1 lb Cavatappi or Cellentani Pasta'
+  - '3 cups Butternut Squash, 1-inch cubes'
+  - '--- The Mornay Emulsion ---'
+  - '6 cups Sharp Cheddar, shredded'
+  - '1/4 cup Parmesan, grated'
+  - '3 1/2 cups Whole Milk'
+  - '4 tbsp Unsalted Butter'
+  - '1/4 cup All-Purpose Flour'
+  - '2 tsp Dijon Mustard (The High Note)'
+  - 'Pinch of Nutmeg and Cayenne'
+  - '--- The Breadcrumb Snap ---'
+  - '1/2 cup Panko Breadcrumbs'
+  - '2 tbsp Unsalted Butter, melted'
 ---
+
+## Chef's Note
+This is the "Gold Standard" for technical comfort food. The secret to its Success is **Texture Integrity** through **The Staged Roast Pattern**: we roast the butternut squash at high heat (400°F) until tender and charred *before* folding it into the cheese sauce. This prevents the squash from dissolving into a mushy puree. We use **The Mornay Emulsion**: whisking Dijon and nutmeg into the roux creates a sophisticated "Bounce" that balances the heavy cheddar. The Panko topping provides the mandatory **Textural Snap**.
 
 ## Directions
 
-1. Preheat oven to 350˚F and butter a 2 quart baking dish.
-2. Bring a large pot of salted water to a boil, and cook the pasta to a al dente.
-3. Meanwhile make roux by melting 4 tbsp of the butter in a dutch oven or heavy bottomed pan over medium low heat. When butter is melted, add flour and cook, whisking for about 2 minutes or until golden brown.
-4. Slowly whisk in milk and mix until it is all incorporated. Switch to a wooden spoon and cook over medium heat, stirring constantly,until it thickens and coats the back of a spoon. Season with salt, pepper, cayenne, nutmeg and dijon. Remove from heat and add cheese. Stir until melted. Add pasta and roasted butternut squash, if using, and fold until well combined.
-5. Add the macaroni and cheese to the buttered baking dish. Melt remaining butter and toss with the parmesan cheese and both breadcrumbs. Season with a pinch of salt. Add breadcrumb mixture to the top of the mac and cheese and bake for about 45 mins or until golden brown and bubbly.
-6. Preheat the oven to 400˚F. Add the butternut squash to a parchment lined baking sheet. Add olive oil and salt and pepper and toss to coat. Roast for about 25 - 30 minutes or until tender.
+1.  **Roast Squash:** Preheat oven to 400°F. Toss squash cubes with olive oil, salt, and pepper. Roast for 25-30 minutes until tender and caramelized. Lower oven to 350°F.
+2.  **Boil:** Cook pasta in salted water for 2 minutes **less** than package directions (very al dente).
+3.  **The Roux:** In a large pot, melt 4 tbsp butter. Whisk in flour and cook for 2 minutes until golden.
+4.  **Emulsify:** Slowly whisk in milk. Simmer until the sauce coats a spoon. Stir in the cheddar, mustard, nutmeg, and cayenne until molten.
+5.  **Combine:** Fold the pasta and roasted squash into the cheese sauce. Transfer to a greased 2-quart dish.
+6.  **The Snap:** Toss panko with 2 tbsp melted butter and Parmesan. Sprinkle over the top.
+7.  **Bake:** Bake at 350°F for 30 minutes until bubbling and mahogany gold.
+
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)
