@@ -1,47 +1,36 @@
 ---
-title: How to Make Frittatas (Stovetop or Baked)
-prepTime: 20 min
-cookTime: 25 min
-totalTime: 45 min
-servings: '8'
-ingredients:
-  - 12 eggs
-  - >-
-    3 tablespoons full-fat dairy (heavy cream, half-and-half, whole milk, sour
-    cream, crème fraîche or yogurt)
-  - 1/2 teaspoon salt
-  - 1 cup (4 ounces) grated or crumbled cheese
-  - >-
-    3 to 5 cups chopped vegetables or greens of choice (or up to 3 cups leftover
-    cooked vegetables or greens)
-  - 1 tablespoon olive oil
-  - >-
-    Garnish: Chopped or torn fresh, leafy herbs (basil, parsley, cilantro, or
-    dill)
+title: The Frittata (Master Standard)
 role: main
-vibe: fuel
+vibe: speed
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '6'
+ingredients:
+  - '12 large Eggs'
+  - '3 tbsp Heavy Cream or Crème Fraîche (The "Bounce" Fat)'
+  - '1 cup (4 oz) Cheese, freshly grated (Gruyère or Sharp Cheddar)'
+  - '--- The Texture Base ---'
+  - '3-5 cups Fresh Vegetables (Spinach, Zucchini, Peppers), chopped'
+  - '1 tbsp Extra-Virgin Olive Oil'
+  - '1/2 tsp Sea Salt'
+  - '--- For Garnish ---'
+  - 'Fresh Herbs (Basil, Chives, or Cilantro)'
 ---
+
+## Chef's Note
+The frittata is the ultimate "Speed" hero for using up **Modularity** components. The secret to a professional texture is **Structural Science** through **The 12:3 Aeration Ratio**: 12 eggs to 3 tablespoons of full-fat dairy ensures a custard-like "Bounce" that never turns rubbery. We use **The Edge-Set Pattern**: cook on the stovetop just until the perimeter is pale and firm, then transfer to a high-heat oven (425°F) to finish. This creates a "souffléd" rise and a moist, slightly jiggly center.
 
 ## Directions
 
-1. Preheat the oven to 425 degrees Fahrenheit for the traditional stovetop method, or 350 degrees for the baked methods (casserole or mini/muffins).
-2. Crack the eggs into a medium mixing bowl. Add your dairy of choice and the salt. Whisk just until the egg yolks and whites are blended. Whisk in all or half of the cheese (you can reserve the other half for topping the frittata before baking, if desired). Set the mixture aside.
-3. In a 12-inch cast iron skillet (or any other large skillet that’s oven safe), warm the olive oil over medium heat until shimmering. Add the vegetables, starting with chopped onions or other dense vegetables. Cook for a few minutes, stirring occasionally, then add any softer vegetables such as zucchini. Cook until those vegetables are tender, then add any garlic or greens, and cook until fragrant or wilted. Season with salt, to taste.
-4. Whisk the eggs once more and pour the mixture over the vegetables. Stir with a spatula briefly to combine and distribute the mixture evenly across the pan. If you reserved any cheese, sprinkle it on top of the frittata now.
-5. Once the outside edge of the frittata turns lighter in color (about 30 seconds to 1 minute), carefully transfer the frittata to the oven. Bake for 7 to 14 minutes (keep an eye on it), until the eggs are puffed and appear cooked, and the center of the frittata jiggles just a bit when you give it a gentle shimmy. Remove the frittata from the oven and place it on a cooling rack to cool. Garnish with herbs, slice with a sharp knife, and serve.
-6. Let the cooked vegetables cool for a few minutes. In the meantime, grease a 9 by 13-inch pan with butter, which works better than cooking spray. Stir the lightly cooled veggies into the egg mixture, then pour it all into the pan. If you reserved any cheese, sprinkle it on top of the frittata now.
-7. Bake for 20 to 25 minutes (keep an eye on it), until the eggs are puffed and appear cooked, and the center of the frittata jiggles just a bit when you give it a gentle shimmy. Remove the frittata from the oven and place it on a cooling rack to cool. Garnish with herbs, slice with a sharp knife, and serve.
-8. Let the cooked vegetables cool for a few minutes, then stir them into the egg mixture. Grease 18 muffin cups (I used two muffin pans for this), then fill the cups evenly with a scant 1/3 cup of the mixture. If you reserved any cheese, sprinkle it on top of the frittatas now.
-9. Bake for 13 to 17 minutes, until the eggs are puffed and appear cooked, and the center of the frittatas jiggle just a bit when you give the pan a gentle shimmy (this happens quickly so keep an eye on them; my pan with only 6 muffins finished sooner). Remove the pans from the oven and place them on a cooling rack to cool. Garnish with herbs, and serve.
+1.  **Aeration:** In a large bowl, whisk the eggs, dairy, and salt until the yolks and whites are perfectly blended and slightly frothy. Fold in half the cheese.
+2.  **Sauté:** Heat oil in a 12-inch cast-iron or oven-safe skillet over medium-high. Add your dense vegetables (onions, peppers) first, then softer ones (zucchini, greens). Sauté until tender-crisp.
+3.  **The Edge-Set:** Pour the egg mixture over the vegetables. Use a spatula to distribute evenly. Let sit undisturbed for 1 minute until the very edge looks set and opaque.
+4.  **The Rise:** Sprinkle the remaining cheese on top. Transfer the skillet to a **425°F oven**.
+5.  **Bake:** Bake for 7-10 minutes until the frittata is puffed and the center has a very slight wobble when shaken. **Do not over-bake.**
+6.  **Finish:** Garnish with fresh herbs. Slice into wedges and serve immediately or at room temperature for the Gold Standard experience.
 
-## Nutrition
-
-- Fat: 12.8 g
-- Calories: 219 calorie
-- Saturated Fat: 5.1 g
-- Sodium: 354.3 mg
-- Fiber: 2.9 g
-- Cholesterol: 287.5 mgCarbohydrate: 10.5 g
-- Sugar: 0.5 gServing Size: 1/8th of recipe (these are rough nutrition facts based on frittata made with half and half
-- goat cheese and mixed vegetables)Trans Fat: 0.1 g
-- Protein: 14.6 g
+## Serving Suggestions
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
+-   [Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)
+-   [Classic Martini](/recipes/classic-martini) (for a weekend brunch)

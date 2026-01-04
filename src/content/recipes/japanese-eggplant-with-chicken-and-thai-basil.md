@@ -1,48 +1,46 @@
 ---
 title: Japanese Eggplant with Chicken & Thai Basil
-prepTime: 15 min
-cookTime: 30 min
-servings: 'Serves: 4 servings'
-ingredients:
-  - 8 ounces chicken breast (thinly sliced)
-  - 2 tablespoons water
-  - 5 tablespoons vegetable oil (plus 1 teaspoon for marinating the chicken)
-  - 1½ teaspoons light soy sauce
-  - 1 teaspoon cornstarch
-  - >-
-    2 Chinese or Japanese eggplants (about 12-16 ounces/340-450g; cut on an
-    angle into 1 1/2-inch wedges)
-  - 3 cloves garlic (sliced thinly)
-  - >-
-    3 scallions (sliced 1½ inches long on an angle, separated into white and
-    green parts)
-  - '1 bunch Thai basil or holy basil (stems removed, about 1 cup loosely packed)'
-  - 1 tablespoon Shaoxing wine (or dry sherry cooking wine)
-  - 2 teaspoons fish sauce
-  - ½ teaspoon sugar
-  - 1 teaspoon Thai thin soy sauce (or light soy sauce)
-  - 1 teaspoon dark soy sauce
-  - ½ teaspoon sesame oil
-  - ground white pepper
-  - ¼ cup chicken stock (hot)
-totalTime: 45 min
 role: main
 vibe: fuel
+prepTime: 15 min
+cookTime: 15 min
+totalTime: 30 min
+servings: '4'
+ingredients:
+  - '1 lb Japanese Eggplant, cut on an angle into 1.5-inch wedges'
+  - '8 oz Chicken Breast, thinly sliced'
+  - '--- The Velveting Marinade ---'
+  - '2 tbsp Water'
+  - '1 tsp Cornstarch'
+  - '1 tsp Light Soy Sauce'
+  - '--- The Flavor Base ---'
+  - '1 bunch Thai Basil, packed (1 cup)'
+  - '3 cloves Garlic, sliced'
+  - '3 Scallions, cut on an angle'
+  - '--- The Kee Mao Glaze ---'
+  - '1 tbsp Shaoxing Wine'
+  - '2 tsp Fish Sauce'
+  - '1 tsp Light Soy Sauce'
+  - '1 tsp Dark Soy Sauce (for color)'
+  - '1/2 tsp Sugar + Pinch of White Pepper'
+  - '1/4 cup Hot Chicken Stock'
+  - 'Neutral Oil'
 ---
+
+## Chef's Note
+The key to this 30-minute "Fuel" dish is **Structural Science** through **Velveting**. By massaging water and cornstarch into the chicken breast, we create a barrier that keeps the lean meat succulent during the high-heat stir-fry. We maintain **Texture Integrity** through **The Perimeter Sear Pattern**: we sear the eggplant in an oiled wok with the lid on—this "dry-steams" the interior while the skin gets a golden-brown "Snap." The Thai basil provides the mandatory aromatic **High Note**.
 
 ## Directions
 
-1. In a medium bowl, massage the chicken with 2 tablespoons of water until it is completely absorbed, and add 1 teaspoon vegetable oil, 1 ½ teaspoons soy sauce, and 1 teaspoon cornstarch until well incorporated. Set aside.
-2. Heat your wok over medium-high heat and coat it with 2 tablespoons of oil. Spread the eggplant out evenly in the wok, and let sear with the cover on the wok for 2 minutes. Remove the cover, turn the eggplant pieces over, and pour another tablespoon of oil around the perimeter. Cover the wok, and turn heat to medium-low for another 2 minutes until the eggplant is just tender. Next, raise the heat to high to cook the eggplant to a golden brown color–another 2 minutes. Transfer to a plate.
-3. Add 1 more tablespoon of oil to your wok and heat until just smoking. Add the marinated chicken, and spread it around the wok. Let it sear for 30 to 60 seconds (depending upon your burner capacity) on each side. Remove from the wok and set aside.
-4. With the wok over high heat, add another tablespoon of oil, the garlic, the white parts of the scallions, and the basil. Stir fry for 30 seconds, and add the eggplant and chicken.
-5. Next, add the Shaoxing wine, and stir everything together. Add the fish sauce, sugar, soy sauces, sesame oil, and white pepper, and stir until everything is combined–about a minute. Next, add the green portion of the scallions.
-6. Pour the chicken stock around the perimeter of the wok to deglaze it. Stir fry until everything is well-combined, and most of the liquid has been absorbed by other ingredients. Serve with steamed jasmine rice!
-
-## Nutrition
-
-- Calories: 240kcal (12%) Carbohydrates: 10g (3%) Protein: 15g (30%) Fat: 16g (25%) Saturated Fat: 12g (60%) Cholesterol: 36mg (12%) Sodium: 604mg (25%) Potassium: 515mg (15%) Fiber: 4g (16%) Sugar: 5g (6%) Vitamin A: 240IU (5%) Vitamin C: 5.9mg (7%) Calcium: 27mg (3%) Iron: 0.7mg (4%)
+1.  **Velvet:** Massage water into the chicken slices until absorbed. Toss with cornstarch and soy sauce. Let sit for 10 minutes.
+2.  **The Sear:** Heat 2 tbsp oil in a wok over medium-high. Add eggplant. Cover and sear for 2 minutes. Flip, add 1 tbsp oil, and cover for 2 more minutes until tender. Transfer to a plate.
+3.  **The Snap:** Heat 1 tbsp oil until smoking. Sear chicken for 1 minute per side until browned. Remove and set aside.
+4.  **Aromatics:** Add 1 tbsp oil, garlic, and scallion whites. Sauté for 30 seconds. Add the basil leaves and stir until they start to wilt.
+5.  **Bind:** Return chicken and eggplant to the wok. Splash in the Shaoxing wine. Add the fish sauce, soy sauces, sugar, and white pepper.
+6.  **Glaze:** Pour the hot stock around the perimeter of the wok to deglaze. Toss vigorously until the liquid is absorbed into a glossy glaze. 
+7.  **Serve:** Serve immediately over steamed jasmine rice.
 
 ## Serving Suggestions
-
-Near East Rice Pilaf Hack, Everyday Arugula Salad
+-   [Basmati Rice](/recipes/basmati-rice)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)

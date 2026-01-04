@@ -1,32 +1,41 @@
 ---
-title: Italian Kale and Sausage Stuffing
-servings: 'Serves: 16 servings'
-ingredients:
-  - '3/4 pound ciabatta bread, sliced 1/2-inch thick'
-  - 1 1/2 cups whole milk
-  - '2 pounds mild Italian sausage, casings removed'
-  - '1 medium onion, chopped'
-  - 1/2 cup finely chopped celery
-  - 1 cup chopped fresh parsley
-  - '3 cloves garlic, finely chopped'
-  - Kosher salt
-  - Freshly ground black pepper
-  - '1 1/2 pounds kale, ribs removed and leaves coarsely chopped'
-  - 1 1/4 cups grated Parmesan cheese*
-  - 2 tablespoons chopped fresh basil (or 1 1/2 teaspoons dried)
-  - 1 teaspoon chopped fresh sage (or 1/4 teaspoon dried)
-  - 1 teaspoon chopped fresh rosemary (or 1/4 teaspoon dried)
-role: main
+title: Italian Kale & Sausage Stuffing
+role: side
 vibe: holiday
+prepTime: 20 min
+cookTime: 30 min
+totalTime: 80 min
+servings: '12'
+ingredients:
+  - '3/4 lb Ciabatta Bread, sliced 1/2-inch thick'
+  - '1 1/2 cups Whole Milk'
+  - '2 lbs Mild Italian Sausage, casings removed'
+  - '--- The Allium Base ---'
+  - '1 medium Yellow Onion, chopped'
+  - '1/2 cup Celery, chopped'
+  - '1 cup Fresh Parsley, chopped'
+  - '3 cloves Garlic, minced'
+  - '--- The Finish ---'
+  - '1 1/2 lbs Fresh Kale, ribs removed and chopped'
+  - '1 1/4 cups Freshly Grated Parmesan'
+  - '1 tbsp Fresh Basil + 1 tsp Fresh Sage + 1 tsp Fresh Rosemary'
+  - 'Kosher Salt and Black Pepper'
 ---
+
+## Chef's Note
+This is a **Modern Heritage** update to the standard holiday stuffing. The secret to its Success is **Texture Integrity** through **The Ciabatta Soak Pattern**: instead of dry croutons, we use milk-saturated ciabatta. This ensures the stuffing has a custardy "Bounce" rather than a dry crunch. We use **The Sausage Render Pattern**: we brown the sausage on medium-high to release all its fat, which then acts as the primary seasoning for the kale and aromatics. The massive hit of fresh parsley provides the mandatory **High Note**.
 
 ## Directions
 
-1. Place sliced bread in a shallow baking dish or bowl, and drizzle with milk to saturate. Let sit for 30 minutes, gently flipping occasionally to ensure even soaking.
-2. Meanwhile, warm a large cast iron pot (6 - 8 quarts) over medium-high heat. Add sausage and cook, stirring often to crumble, until lightly golden (10 - 15 minutes). Stir in the onion, celery, parsley and garlic along with a pinch of kosher salt and several turns of black pepper. Cook until the onion and celery soften (5 to 8 minutes), stirring occasionally. Add kale, 1/2 cup water and a pinch of kosher salt, and cook until the kale wilts (about 5 minutes). I like to switch to tongs here to easily mix up the kale and the sausage mixture.
-3. Using your hands, break up the bread into bite sized pieces, then place in a large bowl. Add the sausage-kale mixture to the bowl along with the Parmesan cheese, basil, sage, rosemary, 2 pinches of salt and several turns of black pepper. Gently toss the mixture until all ingredients are evenly incorporated (I like to use my hands here). Season to taste with additional salt and pepper. Spoon stuffing into a 9 by 13 baking dish.
-4. Preheat an oven to 350°F. Bake uncovered until hot (at least 150° in center) and lightly browned (25 - 30 minutes).
+1.  **The Soak:** Place ciabatta slices in a large bowl. Drizzle with milk and let sit for 30 minutes, flipping once, until fully saturated.
+2.  **The Sear:** In a large Dutch oven, cook sausage over medium-high, breaking it up until golden brown (10-15 mins).
+3.  **Aromatics:** Add onion, celery, parsley, and garlic to the sausage fat. Sauté for 8 minutes until soft and fragrant.
+4.  **The Wilt:** Add kale and 1/2 cup water. Cover and cook for 5 minutes until just wilted.
+5.  **The Mix:** In a massive bowl, tear the soaked ciabatta into bite-sized pieces. Add the sausage-kale mixture, Parmesan, and all fresh herbs. Toss gently with your hands until perfectly integrated.
+6.  **Bake:** Preheat oven to 350°F. Transfer mixture to a greased 9x13 baking dish. Bake uncovered for 25-30 minutes until the top is deep golden and the center is 150°F.
+7.  **Rest:** Let sit for 5 minutes before serving.
 
-## Notes
-
-This stuffing can be prepared 1 day in advance up to step 3. Cover and store in the refrigerator. Bring casserole to room temp before continuing with step 4 or bake the chilled casserole for a longer time period (may take up to 1 hour).If you are preparing this dish on Thanksgiving with other sides in the oven, the stuffing can be baked at 325°F or 350°F, depending on temperatures needed bake other casseroles. If baking at 325°F, plan on cooking for 30 - 35 minutes.
+## Serving Suggestions
+-   [Roast Turkey Breast](/recipes/roast-turkey-breast)
+-   [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

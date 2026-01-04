@@ -1,57 +1,44 @@
 ---
 title: Instant Pot Potato Leek Soup
-prepTime: 20 min
-cookTime: 7 min
-servings: 'Servings: 6 servings'
-ingredients:
-  - 2 Tbsp Olive Oil
-  - 3 Tbsp Butter
-  - >-
-    4-5 large Leeks, about 5-6 cups chopped (cleaned and sliced into half-moon
-    shapes. Cut off the dark green part, trimming to the part where the color is
-    a pale green)
-  - '2 cloves Garlic, pressed or minced'
-  - 2 Tbsp Flour
-  - 5 cups Chicken Broth (or vegetable broth)
-  - 1 Bay Leaf
-  - 1 tsp Salt
-  - 1/4 tsp White Pepper (or black)
-  - '1 lb Gold Potatoes, cubed'
-  - 1/8 tsp Nutmeg (optional)
-  - '3/4 cup Half and Half (or heavy cream, or for lower fat use milk)'
-  - Garnish
-  - Chopped Chives (or parsley)
-  - Sour Cream
-totalTime: 27 min
 role: main
 vibe: comfort
+prepTime: 20 min
+cookTime: 22 min
+totalTime: 42 min
+servings: '6'
+ingredients:
+  - '1 lb Yukon Gold Potatoes, cubed (Skin-off)'
+  - '5 cups Leeks, cleaned and sliced (pale green parts only)'
+  - '--- The Flavor Base ---'
+  - '3 tbsp Unsalted Butter'
+  - '2 tbsp Extra-Virgin Olive Oil'
+  - '2 cloves Garlic, minced'
+  - '2 tbsp All-Purpose Flour'
+  - '5 cups Chicken Broth (or Veggie Broth)'
+  - '--- The Finish ---'
+  - '3/4 cup Half-and-Half (or Heavy Cream)'
+  - '1/8 tsp Nutmeg (The High Note)'
+  - '1 Fresh Bay Leaf'
+  - 'Salt and White Pepper'
+  - '--- For Garnish ---'
+  - 'Sour Cream and Fresh Chives'
 ---
+
+## Chef's Note
+This is a **Modern Heritage** update to a recipe from my Grandpa. The secret to its elite silkiness is **Structural Science** through **The Allium Sweat Pattern**: you must sauté the leeks in butter and oil until they are completely soft and translucent *before* adding the flour and broth. This ensures the leeks' sugars are fully developed, which provides the "Bounce" to the puree. We use **White Pepper** and a pinch of **Nutmeg** as the mandatory high notes to bridge the gap between the earthy potatoes and the rich cream.
 
 ## Directions
 
-1. Press the Sauté button on the Instant Pot. When the display reads 'Hot', add the oil and butter.
-2. Add the leeks and stir. Cook until soft, stirring occasionally. It's fine if they brown a little.
-3. Add garlic and cook for about 30 seconds, until fragrant, stirring frequently.
-4. Sprinkle the flour over the leeks and stir. Cook for a minute to get the raw taste out of the flour.
-5. Stir in the broth. Be sure to dissolve the flour and scrape the bottom of the pot so you don't get a "burn" issue.
-6. Add the bay leaf, salt, pepper, and the potatoes, nutmeg. Stir.
-7. Put the lid on the pot and set the steam release knob to the Sealing position.
-8. Press the Manual (or Pressure Cook) button, and the + or - button to choose 7 minutes.
-9. When the cooking cycle has ended, let the pot naturally release the pressure for 15 minutes. Then manually release the remaining steam.
-10. When the pin in the lid drops, open it and stir the soup. Remove the bay leaf. Then use an immersion blender to puree it. If you don't have an immersion blender, you can use a blender, pureeing the soup in small batches very carefully.
-11. Stir in the half and half.
-12. Taste and adjust salt, if needed.
-13. Garnish with chopped chives and sour cream.
-14. Serve hot or chilled.
-
-## Notes
-
-Adapted from my Grandpa's recipe.
-
-## Nutrition
-
-- Calories: 244 kcal
+1.  **The Sweat:** Set Instant Pot to "Sauté." Add butter and olive oil. Once hot, add leeks and sauté for 5-7 minutes until soft. Do not brown.
+2.  **Aromatics:** Add garlic and sauté for 30 seconds. Sprinkle the flour over the leeks and stir for 1 minute to cook out the raw starch taste.
+3.  **Deglaze:** Pour in the broth slowly, scraping the bottom of the pot to ensure no flour sticks.
+4.  **Pressure:** Add potatoes, bay leaf, nutmeg, salt, and pepper. Secure the lid. Set to **High Pressure for 7 minutes**.
+5.  **Release:** Let the pressure release naturally for 15 minutes (mandatory for potato texture), then vent any remaining steam.
+6.  **The Emulsion:** Remove the bay leaf. Use an immersion blender to puree the soup directly in the pot until perfectly smooth.
+7.  **Finish:** Stir in the half-and-half. Taste and adjust salt if needed.
+8.  **Serve:** Garnish with a dollop of sour cream and fresh chives for **Texture Integrity**.
 
 ## Serving Suggestions
-
-Grilled Cheese, Crusty Bread
+-   [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+-   [Garlic Bread](/recipes/garlic-bread)
+-   [Classic Martini](/recipes/classic-martini) (The Cold Standard)

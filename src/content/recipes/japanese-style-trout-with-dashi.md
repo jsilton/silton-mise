@@ -1,26 +1,40 @@
 ---
 title: Japanese-Style Trout with Dashi
-cookTime: 45 min
-servings: 'Serves : 4'
-ingredients:
-  - 1 cup soy sauce
-  - 1 cup mirin
-  - 1/2 cup sugar
-  - 1/2 cup unseasoned rice vinegar
-  - 1 teaspoon dashi
-  - '2 carrots, finely julienned'
-  - '2 leeks, white and light green parts only, finely julienned'
-  - 'Four 6-ounce rainbow trout fillets, bones removed'
-  - Steamed sushi rice
-  - 'Crumbled nori, for serving'
-totalTime: 45 min
 role: main
-vibe: fuel
+vibe: project
+prepTime: 15 min
+cookTime: 30 min
+totalTime: 45 min
+servings: '4'
+ingredients:
+  - '4 Rainbow Trout Fillets (6 oz each)'
+  - '[Dashi (Japanese Sea Stock)](/recipes/dashi-japanese-sea-stock)'
+  - '--- The Umami Glaze ---'
+  - '1 cup Soy Sauce'
+  - '1 cup Mirin'
+  - '1/2 cup Granulated Sugar'
+  - '1/2 cup Rice Vinegar'
+  - '--- The Texture Stacks ---'
+  - '2 Carrots, finely julienned'
+  - '2 Leeks, julienned (white parts only)'
+  - 'Steamed Sushi Rice'
+  - 'Crumbled Nori'
 ---
+
+## Chef's Note
+This is a masterclass in **Modern Heritage** aesthetics. The secret to its professional finish is **Texture Integrity** through **The Dashi Lacquer Pattern**: we reduce the soy-mirin-vinegar mixture until it becomes a heavy syrup, then brush it onto the trout in multiple layers while under the broiler. This creates a mahogany-colored, "Snappy" skin that contrasts the delicate, flaky meat. We use **The Dashi Bath**: the julienned vegetables are poached in dashi for exactly 1 minute, ensuring they provide a clean, oceanic **High Note** to balance the rich glaze.
 
 ## Directions
 
-1. In a medium saucepan, bring the soy sauce, mirin, sugar and vinegar to a boil. Simmer over moderate heat until the glaze is reduced to about 1 1/2 cups, about 10 minutes.
-2. Meanwhile, in another medium saucepan, combine the dashi with 1 1/2 cups of water and bring to a boil. Add the carrots and leeks and simmer just until crisp-tender, about 1 minute. Remove from the heat and let stand.
-3. Preheat the broiler and position a rack 6 to 8 inches from the heat. Arrange the trout fillets on a sturdy baking sheet, skin side up, and broil for about 2 minutes, until the skin begins to sizzle. Carefully peel off the skin. Brush the fish with some of the glaze and broil for 3 minutes, brushing once or twice more, until the sauce is lightly caramelized. Turn the fillets, brush liberally with more glaze and broil for 3 minutes longer, brushing once or twice, until the trout is cooked through and lacquered.
-4. Mound rice in shallow bowls and drizzle lightly with the glaze. Using a slotted spoon, add the carrots and leeks. Top with the fish and nori and spoon the dashi into the bowls. Serve with the remaining glaze on the side.
+1.  **The Glaze:** In a small saucepan, bring soy sauce, mirin, sugar, and vinegar to a boil. Simmer for 10 minutes until reduced by half and thick enough to coat a spoon.
+2.  **The Bath:** In a separate pot, bring [Dashi](/recipes/dashi-japanese-sea-stock) to a boil. Add carrots and leeks. Simmer for exactly 1 minute. Remove vegetables with a slotted spoon and set aside. Keep dashi warm.
+3.  **Thermal Prep:** Preheat the broiler. Arrange trout fillets, skin-side up, on a sturdy baking sheet.
+4.  **The Lacquer:** Broil for 2 minutes until the skin sizzles. Carefully peel off and discard the skin. Brush the meat with the glaze. 
+5.  **Stage 2:** Broil for 3 minutes, brushing twice more with the lacquer, until the trout is cooked through and the surface is mirror-glossy.
+6.  **Assemble:** Mound rice in shallow bowls. Top with the glazed trout, nori, and the poached vegetables. 
+7.  **Serve:** Carefully pour the hot dashi around the perimeter of the bowl. Serve immediately.
+
+## Serving Suggestions
+-   [Dashi (Japanese Sea Stock)](/recipes/dashi-japanese-sea-stock)
+-   [Simply Seasoned Korean Spinach Salad](/recipes/simply-seasoned-korean-spinach-salad)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)

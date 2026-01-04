@@ -1,29 +1,42 @@
 ---
 title: Kalbi (Grilled Korean-Style Short Ribs)
-prepTime: 60 min
-cookTime: 570 min
-servings: '10'
-ingredients:
-  - 5 pound flanken-style (about 1/2-inch-thick) beef short ribs
-  - 1/3 cup sake
-  - 1/4 cup granulated sugar
-  - 1 cup soy sauce
-  - >-
-    4 scallions (white parts and 2 inches of green parts only), finely chopped
-    (about 1/3 cup)
-  - '7 large garlic cloves, finely chopped (about 1/4 cup)'
-  - 3 tablespoons dark brown sugar
-  - 1/2 teaspoon sesame oil
-  - 1 1/3 cups water
-  - 2 tablespoons vegetable oil
-  - 1/4 teaspoon black pepper
-totalTime: 630 min
 role: main
-vibe: fuel
+vibe: project
+prepTime: 60 min
+cookTime: 15 min
+totalTime: 600 min
+servings: '6'
+ingredients:
+  - '5 lbs Flanken-style Beef Short Ribs (1/2-inch thick)'
+  - '--- The Tenderizer ---'
+  - '1/3 cup Sake'
+  - '1/4 cup Granulated Sugar'
+  - '--- The Soy Marinade ---'
+  - '1 cup Soy Sauce'
+  - '3 tbsp Dark Brown Sugar'
+  - '1/2 tsp Toasted Sesame Oil'
+  - '4 Scallions, finely chopped'
+  - '7 cloves Garlic, minced'
+  - '1/4 tsp Black Pepper'
+  - '2 tbsp Vegetable Oil'
 ---
+
+## Chef's Note
+Kalbi is the ultimate expression of **Structural Science** in Korean barbecue. The secret to meat that is tender yet has a resilient "Snap" is **The Sake-Sugar Rub Pattern**: you must rub the ribs with sake and sugar for 15 minutes *before* adding the soy sauce. This allows the alcohol and large sugar crystals to penetrate the tough flanken-style fibers, ensuring a succulent "Bounce." We use **The High-Heat Char Pattern**: grilling directly over charcoal for exactly 2 minutes per side to develop the mandatory smoky lacquer that defines the Gold Standard.
 
 ## Directions
 
-1. Place ribs in a large glass baking dish or enameled roasting pan; stir together sake and granulated sugar, and rub on both sides of ribs. Cover and let stand 15 minutes.
-2. Meanwhile, stir together soy sauce, scallions, garlic, brown sugar, and sesame oil in a medium bowl. Add 1 1/3 cups water, and stir until sugar dissolves. Stir in vegetable oil and pepper. Pour soy mixture over ribs, and turn to coat evenly. Cover and refrigerate 8 hours or overnight. Return ribs to room temperature before cooking. Discard marinade.
-3. Open bottom and top vents of a charcoal grill completely. Light a charcoal chimney starter filled with briquettes. When briquettes are covered with gray ash, pour onto bottom grate of grill, and then push to one side of grill. Working in batches, place ribs on oiled grates directly over coals, and grill, uncovered, until meat is seared, 1 to 2 minutes per side. Transfer ribs to side of grill without coals, and grill, uncovered, until tender, about 5 minutes per side. Remove from grill, and repeat procedure with remaining ribs. (Alternatively, preheat broiler with oven rack 3 inches from heat; broil ribs until browned and ribs reach desired degree of doneness, 2 to 3 minutes per side for medium-well.)
+1.  **The Prep:** Rinse the ribs in cold water to remove any bone fragments. Pat **bone-dry** with paper towels.
+2.  **The Tenderizer:** In a large bowl, toss the ribs with the sake and white sugar. Massage the mixture into the meat and let stand for 15 minutes.
+3.  **The Marinade:** In a separate jar, whisk together the soy sauce, brown sugar, sesame oil, garlic, scallions, pepper, and oil until the sugar is dissolved.
+4.  **The Soak:** Pour the marinade over the ribs. Ensure every slice is coated. Cover and refrigerate for **at least 8 hours** (overnight is mandatory for the Silton Standard).
+5.  **Thermal Prep:** Bring the ribs to room temperature for 30 minutes before cooking. Discard the marinade.
+6.  **The Sear:** Light a charcoal grill to high heat. Place ribs directly over the hottest coals. Grill for 2 minutes per side until seared and charred.
+7.  **Finish:** Move to the cooler side of the grill for 5 minutes until the fat is rendered and "Snappy."
+8.  **Serve:** Use kitchen shears to cut the ribs into bite-sized pieces.
+
+## Serving Suggestions
+-   [Fresh Cabbage, Cucumber and Radish Kimchi](/recipes/fresh-cabbage-cucumber-and-radish-kimchi)
+-   [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+-   [Simply Seasoned Korean Spinach Salad](/recipes/simply-seasoned-korean-spinach-salad)
+-   [Basmati Rice](/recipes/basmati-rice)
