@@ -14,6 +14,8 @@ interface Recipe {
     totalTime?: string;
     servings?: string;
     difficulty?: string;
+    role?: string;
+    vibe?: string;
     cuisines?: string[];
     cookingMethods?: string[];
     dietary?: string[];
@@ -113,32 +115,46 @@ const { recipe, baseUrl = import.meta.env.BASE_URL } = Astro.props;
 
       <!-- Tags Section -->
       <div class="pt-6 border-t border-slate-100">
-        {/* Difficulty as single prominent badge */}
-        {recipe.data.difficulty && (
-          <div class="mb-4">
-            <h4 class="text-xs uppercase tracking-wide text-slate-500 font-semibold mb-2">Difficulty</h4>
-            <div class="flex gap-2">
-              <TagBadge tag={recipe.data.difficulty} category="difficulty" size="md" />
+        {/* Primary Metadata - Role, Vibe, Difficulty */}
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
+          {recipe.data.role && (
+            <div>
+              <h4 class="text-xs uppercase tracking-wide text-slate-500 font-semibold mb-2">Role</h4>
+              <TagBadge tag={recipe.data.role} category="role" size="md" href={`${baseUrl}?role=${recipe.data.role}`} />
             </div>
-          </div>
-        )}
+          )}
+          {recipe.data.vibe && (
+            <div>
+              <h4 class="text-xs uppercase tracking-wide text-slate-500 font-semibold mb-2">Vibe</h4>
+              <TagBadge tag={recipe.data.vibe} category="vibe" size="md" href={`${baseUrl}?vibe=${recipe.data.vibe}`} />
+            </div>
+          )}
+          {recipe.data.difficulty && (
+            <div>
+              <h4 class="text-xs uppercase tracking-wide text-slate-500 font-semibold mb-2">Difficulty</h4>
+              <TagBadge tag={recipe.data.difficulty} category="difficulty" size="md" href={`${baseUrl}?difficulty=${recipe.data.difficulty}`} />
+            </div>
+          )}
+        </div>
 
-        {/* All other tag categories */}
-        {recipe.data.cuisines && recipe.data.cuisines.length > 0 && (
-          <TagSection title="Cuisines" tags={recipe.data.cuisines} category="cuisine" size="sm" />
-        )}
-        {recipe.data.cookingMethods && recipe.data.cookingMethods.length > 0 && (
-          <TagSection title="Cooking Methods" tags={recipe.data.cookingMethods} category="cooking-method" size="sm" />
-        )}
-        {recipe.data.dietary && recipe.data.dietary.length > 0 && (
-          <TagSection title="Dietary" tags={recipe.data.dietary} category="dietary" size="sm" />
-        )}
-        {recipe.data.occasions && recipe.data.occasions.length > 0 && (
-          <TagSection title="Occasions" tags={recipe.data.occasions} category="occasion" size="sm" />
-        )}
-        {recipe.data.flavorProfile && recipe.data.flavorProfile.length > 0 && (
-          <TagSection title="Flavor Profile" tags={recipe.data.flavorProfile} category="flavor" size="sm" />
-        )}
+        {/* Secondary Metadata - Cuisines and Methods */}
+        <div class="space-y-4">
+          {recipe.data.cuisines && recipe.data.cuisines.length > 0 && (
+            <TagSection title="Cuisines" tags={recipe.data.cuisines} category="cuisine" size="sm" baseUrl={baseUrl} />
+          )}
+          {recipe.data.cookingMethods && recipe.data.cookingMethods.length > 0 && (
+            <TagSection title="Cooking Methods" tags={recipe.data.cookingMethods} category="cooking-method" size="sm" baseUrl={baseUrl} />
+          )}
+          {recipe.data.flavorProfile && recipe.data.flavorProfile.length > 0 && (
+            <TagSection title="Flavor Profile" tags={recipe.data.flavorProfile} category="flavor" size="sm" baseUrl={baseUrl} />
+          )}
+          {recipe.data.dietary && recipe.data.dietary.length > 0 && (
+            <TagSection title="Dietary" tags={recipe.data.dietary} category="dietary" size="sm" baseUrl={baseUrl} />
+          )}
+          {recipe.data.occasions && recipe.data.occasions.length > 0 && (
+            <TagSection title="Occasions" tags={recipe.data.occasions} category="occasion" size="sm" baseUrl={baseUrl} />
+          )}
+        </div>
       </div>
     </div>
   </div>
