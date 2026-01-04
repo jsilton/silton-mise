@@ -1,7 +1,7 @@
 ---
-title: Chicken Souvlaki (The Greek Standard)
+title: Chicken Souvlaki
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 40 min
@@ -32,6 +32,6 @@ Great Souvlaki is about **Acid and Aroma**. We marinate the chicken in a heavy d
 
 ## Serving Suggestions
 
-- [Authentic Tzatziki Sauce](/recipes/tzatziki-sauce)
-- [Cilantro Lime Rice](/recipes/cilantro-lime-rice) or Lemon Potatoes
+- [Authentic Tzatziki Sauce](/silton-mise/recipes/tzatziki-sauce)
+- [Cilantro Lime Rice](/silton-mise/recipes/cilantro-lime-rice) or Lemon Potatoes
 - Warm Pita Bread

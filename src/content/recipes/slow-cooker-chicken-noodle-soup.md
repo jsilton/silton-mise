@@ -17,13 +17,13 @@ ingredients:
   - '1/2 tsp Dried Thyme + 1/2 tsp Dried Rosemary'
   - '--- The Finish ---'
   - '2 cups Corkscrew (Fusilli) Pasta'
-  - '1 Lemon, juiced (The Acid Finish)'
+  - '1 Lemon, juiced (The Acid Balance)'
   - '1/4 cup Fresh Parsley, chopped'
 ---
 
 ## Chef's Note
 
-This is the "Gold Standard" for technical comfort food. The secret to its Success is **The Late-Noodle Pattern**. You must never cook the pasta for the full duration; we add the noodles only during the final 40 minutes of the slow-cook cycle. This ensures the pasta has a resilient "Bounce" and doesn't dissolve into the broth. The fresh lemon juice added at the very end is the mandatory **Acid Finish** that transforms a heavy stew into a bright, restorative "High Note" soup.
+This is the "Kitchen Standard" for technical comfort food. The secret to its Success is **The Late-Noodle Method**. You must never cook the pasta for the full duration; we add the noodles only during the final 40 minutes of the slow-cook cycle. This ensures the pasta has a resilient Texture and doesn't dissolve into the broth. The fresh lemon juice added at the very end is the mandatory **Acid Balance** that transforms a heavy stew into a bright, restorative "High Note" soup.
 
 ## Directions
 
@@ -32,10 +32,10 @@ This is the "Gold Standard" for technical comfort food. The secret to its Succes
 3.  **The Pull:** Remove the chicken. Use two forks to shred it into large chunks. Return to the pot.
 4.  **The Pasta:** Stir in the dry noodles. Cover and cook on **Low for 30-40 minutes** until the pasta is perfectly al dente.
 5.  **Finish:** Stir in the lemon juice and fresh parsley.
-6.  **Serve:** Ladle into massive bowls. Serve immediately to maintain **Texture Integrity**.
+6.  **Serve:** Ladle into massive bowls. Serve immediately to maintain **Textural Balance**.
 
 ## Serving Suggestions
 
-- [Garlic Bread](/recipes/garlic-bread)
-- [Sourdough Grilled Cheese](/recipes/grilled-cheese-and-tomato-soup)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Sourdough Grilled Cheese](/silton-mise/recipes/grilled-cheese-and-tomato-soup)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

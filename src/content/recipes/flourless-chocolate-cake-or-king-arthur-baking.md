@@ -1,7 +1,7 @@
 ---
-title: Flourless Chocolate Cake (The Passover Standard)
+title: Flourless Chocolate Cake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 25 min
 totalTime: 45 min
@@ -13,7 +13,7 @@ ingredients:
   - '1/2 cup Cocoa Powder, sifted'
   - '3 large Eggs'
   - '--- The Flavor Engine ---'
-  - '2 tsp Espresso Powder (The "Deep Note")'
+  - '2 tsp Espresso Powder (The complex flavor)'
   - '1 tsp Pure Vanilla Extract'
   - '1/4 tsp Sea Salt'
   - '--- The Glossy Ganache ---'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Gold Standard" for Passover and gluten-free celebrations. The secret to its elite texture is **Structural Science** through **The Ganache Emulsion Pattern**. By melting high-quality chocolate directly into hot cream off the heat, we create a mirror-shiny glaze that provides a necessary creamy "Snap" to contrast the dense, fudgy cake. We use **Espresso Powder** as the "Deep Note"—it doesn't make the cake taste like coffee; instead, it amplifies the natural fruitiness of the cocoa.
+This is the "Kitchen Standard" for Passover and gluten-free celebrations. The secret to its elite texture is **Culinary Technique** through **The Ganache Emulsion Method**. By melting high-quality chocolate directly into hot cream off the heat, we create a mirror-shiny glaze that provides a necessary creamy Crunch to contrast the dense, fudgy cake. We use **Espresso Powder** as the complex flavor—it doesn't make the cake taste like coffee; instead, it amplifies the natural fruitiness of the cocoa.
 
 ## Directions
 
@@ -33,10 +33,10 @@ This is the "Gold Standard" for Passover and gluten-free celebrations. The secre
 4.  **Bake:** Grease an 8-inch round pan and line with parchment. Pour in the batter. Bake for 25 minutes until the top forms a thin, crackly crust and the internal temp is 200°F.
 5.  **Cool:** Let cool in the pan for 5 minutes, then invert onto a serving plate. Allow to cool completely before glazing.
 6.  **The Glaze:** Heat 1/2 cup heavy cream until steaming. Pour over 1 cup chocolate chips. Let sit for 5 minutes, then whisk until mirror-glossy.
-7.  **Finish:** Pour the ganache over the center of the cake, encouraging it to drip down the sides for **Texture Integrity**.
+7.  **Finish:** Pour the ganache over the center of the cake, encouraging it to drip down the sides for **Textural Balance**.
 
 ## Serving Suggestions
 
-- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+- [Old-Fashioned Strawberry Ice Cream](/silton-mise/recipes/old-fashioned-strawberry-ice-cream)
 - Fresh Raspberries
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

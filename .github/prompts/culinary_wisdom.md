@@ -1,6 +1,6 @@
 # The Codex of Culinary Mastery
 
-This document aggregates the collective wisdom of the world's best chefs, food scientists, and culinary traditions. It serves as the "Brain" for the Silton Master Chef Agent.
+This document aggregates the collective wisdom of the world's best chefs, food scientists, and culinary traditions. It serves as the "Brain" for the Master Chef Agent.
 
 ## I. The Professional Foundation (Culinary School & Michelin Standards)
 

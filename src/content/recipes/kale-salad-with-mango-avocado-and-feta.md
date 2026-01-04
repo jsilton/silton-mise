@@ -1,7 +1,7 @@
 ---
 title: Kale Salad with Mango, Avocado and Feta
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 0 min
 totalTime: 15 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to kale that isn't tough or bitter is **Structural Science** through **The Massage Pattern**. You must drizzle the raw kale with olive oil and salt and massage the leaves vigorously with your hands for 2 minutes; this breaks down the fibrous cellulose, resulting in a tender "Bounce" similar to cooked greens. We maintain **Texture Integrity** through **The Avocado Set**: we add the avocado only at the very end to prevent it from smashing into a paste, ensuring every bite has a distinct, creamy "Snap."
+The secret to kale that isn't tough or bitter is **Culinary Technique** through **The Massage Method**. You must drizzle the raw kale with olive oil and salt and massage the leaves vigorously with your hands for 2 minutes; this breaks down the fibrous cellulose, resulting in a tender Texture similar to cooked greens. We maintain **Textural Balance** through **The Avocado Set**: we add the avocado only at the very end to prevent it from smashing into a paste, ensuring every bite has a distinct, creamy "Snap."
 
 ## Directions
 
@@ -36,6 +36,6 @@ The secret to kale that isn't tough or bitter is **Structural Science** through 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Grilled Chicken with Herbed Corn Salsa](/recipes/grilled-chicken-with-herbed-corn-salsa)
-- [Coconut Curry Shrimp](/recipes/coconut-curry-shrimp)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Grilled Chicken with Herbed Corn Salsa](/silton-mise/recipes/grilled-chicken-with-herbed-corn-salsa)
+- [Coconut Curry Shrimp](/silton-mise/recipes/coconut-curry-shrimp)

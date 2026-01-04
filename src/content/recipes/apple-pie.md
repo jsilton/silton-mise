@@ -1,7 +1,7 @@
 ---
-title: The Gold Standard Apple Pie
+title: The Kitchen Standard Apple Pie
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 90 min
 cookTime: 50 min
 totalTime: 4 hours
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-A "Restaurant Quality" apple pie requires **Physics**. We use the **Vodka Hack**: replacing half the water with cold vodka prevents gluten from forming (alcohol doesn't trigger gluten), resulting in a crust that is impossibly flaky and easy to roll. We also **Pre-Cook the Filling**: by sautéing the apples and reducing their juices into a caramel before baking, we prevent the "soggy bottom" and ensure the pie has no massive air gap under the top crust.
+A restaurant-quality apple pie requires **Physics**. We use the **Vodka Hack**: replacing half the water with cold vodka prevents gluten from forming (alcohol doesn't trigger gluten), resulting in a crust that is impossibly flaky and easy to roll. We also **Pre-Cook the Filling**: by sautéing the apples and reducing their juices into a caramel before baking, we prevent the "soggy bottom" and ensure the pie has no massive air gap under the top crust.
 
 ## Directions
 
@@ -40,5 +40,5 @@ A "Restaurant Quality" apple pie requires **Physics**. We use the **Vodka Hack**
 
 ## Serving Suggestions
 
-- [Old-Fashioned Fresh Peach Ice Cream](/recipes/old-fashioned-fresh-peach-ice-cream)
+- [Old-Fashioned Fresh Peach Ice Cream](/silton-mise/recipes/old-fashioned-fresh-peach-ice-cream)
 - Sharp Cheddar Cheese (The New England way)

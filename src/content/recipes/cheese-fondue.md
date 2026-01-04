@@ -1,7 +1,7 @@
 ---
-title: Cheese Fondue (The Emulsion Standard)
+title: Cheese Fondue
 role: main
-vibe: project
+vibe: technical
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -33,6 +33,6 @@ Cheese fondue is a fragile **Emulsion**. If the heat is too high, the cheese wil
 
 ## Serving Suggestions
 
-- [Anadama Bread](/recipes/anadama-bread) cubes
+- [Anadama Bread](/silton-mise/recipes/anadama-bread) cubes
 - Roasted Fingerling Potatoes
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

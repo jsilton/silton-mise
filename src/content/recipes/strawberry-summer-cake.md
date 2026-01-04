@@ -1,7 +1,7 @@
 ---
 title: Strawberry Summer Cake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 15 min
 cookTime: 60 min
 totalTime: 75 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive "Summer Project" cake. The secret to its Success is **The Surface Press Pattern**: you must arrange the strawberries cut-side down in a single, tight layer over the entire surface of the batter. As the cake bakes, the strawberries sink slightly and release their juices, creating a jammy "Bounce" while the exposed edges develop a caramelized "Snap." We use a **High-Sugar Crust**: sprinkling extra sugar over the raw berries creates a crackly, crystalline "High Note" finish that defines the dish.
+This is the definitive "Summer Project" cake. The secret to its Success is **The Surface Press Method**: you must arrange the strawberries cut-side down in a single, tight layer over the entire surface of the batter. As the cake bakes, the strawberries sink slightly and release their juices, creating a jammy Texture while the exposed edges develop a caramelized "Snap." We use a **High-Sugar Crust**: sprinkling extra sugar over the raw berries creates a crackly, crystalline "High Note" finish that defines the dish.
 
 ## Directions
 
@@ -29,12 +29,12 @@ This is the definitive "Summer Project" cake. The secret to its Success is **The
 2.  **Emulsify:** Add the egg, milk, and vanilla. Beat until perfectly smooth.
 3.  **Incorporate:** Gradually add the flour, baking powder, and salt. Mix until **just smooth**—do not over-mix.
 4.  **Layer:** Pour batter into the pan. Arrange strawberries on top, cut-side down, as closely as possible.
-5.  **The Snap:** Sprinkle the remaining 2 tbsp sugar over the berries.
+5.  **The Crunch:** Sprinkle the remaining 2 tbsp sugar over the berries.
 6.  **Bake:** Bake for 10 minutes at 350°F, then **reduce heat to 325°F**. Roast for 50-60 minutes until the top is golden and a tester comes out clean.
 7.  **Serve:** Let cool completely in the pan. Serve with lightly whipped cream.
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Fresh Mint sprigs
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

@@ -1,7 +1,7 @@
 ---
 title: Fresh Strawberry Vinaigrette
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 40 min
@@ -16,7 +16,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modularity** component for summer salads. The secret to the Silton Standard is **The Maceration Pattern**: you must let the strawberries sit in the vinegar and honey for 30 minutes before blending. This draws out the natural juices (osmosis) and creates a syrup that emulsifies perfectly with the olive oil. The result is a dressing with a bright **Acid Finish** that has the "Bounce" of fresh fruit rather than the flat flavor of a bottled version.
+This is a baseline **Modularity** component for summer salads. The secret to the Kitchen Standard is **The Maceration Method**: you must let the strawberries sit in the vinegar and honey for 30 minutes before blending. This draws out the natural juices (osmosis) and creates a syrup that emulsifies perfectly with the olive oil. The result is a dressing with a bright **Acid Balance** that has the Texture of fresh fruit rather than the flat flavor of a bottled version.
 
 ## Directions
 
@@ -28,6 +28,6 @@ This is a baseline **Modularity** component for summer salads. The secret to the
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Arugula and Feta Salad with Strawberry Vinaigrette](/recipes/arugula-and-feta-salad-with-strawberry-vinaigrette)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Arugula and Feta Salad with Strawberry Vinaigrette](/silton-mise/recipes/arugula-and-feta-salad-with-strawberry-vinaigrette)
 - Grilled Salmon or Chicken

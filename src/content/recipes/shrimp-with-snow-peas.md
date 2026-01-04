@@ -1,7 +1,7 @@
 ---
-title: Shrimp with Snow Peas (The Cantonese Standard)
+title: Shrimp with Snow Peas
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 5 min
 totalTime: 20 min
@@ -34,16 +34,16 @@ This is a classic Cantonese "Clean" stir-fry. To achieve the "Restaurant Snap," 
 
 ## Directions
 
-1.  **The Snap:** Toss the shrimp with the baking soda and a splash of cold water. Let sit for 5 minutes, then **rinse thoroughly** under cold running water. Pat bone-dry.
+1.  **The Crunch:** Toss the shrimp with the baking soda and a splash of cold water. Let sit for 5 minutes, then **rinse thoroughly** under cold running water. Pat bone-dry.
 2.  **Velvet:** Toss the dry shrimp with the cornstarch, salt, and 1 tsp Shaoxing wine. Let sit while you prep the rest.
 3.  **The Sauce:** Whisk all sauce ingredients in a small bowl and set aside.
 4.  **The Sear:** Heat your wok or heavy skillet until smoking hot. Add 1 tbsp oil. Stir-fry the snow peas for 45-60 seconds until they turn bright green and have a few charred spots. Remove to a plate.
 5.  **The Shrimp:** Add another tbsp of oil. Spread the shrimp out in a single layer. Let them sear undisturbed for 1 minute to get a golden crust. Flip and cook for 30 seconds.
 6.  **Aromatics:** Add the ginger, garlic, and green onions. Toss with the shrimp for 30 seconds until fragrant.
 7.  **Finish:** Stir the sauce one last time and pour it into the pan. Toss everything together for 30-60 seconds until the sauce bubbles and turns into a clear, glossy glaze.
-8.  **Serve:** Serve immediately over [Jasmine Rice](/recipes/near-east-rice-pilaf-hack).
+8.  **Serve:** Serve immediately over [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf).
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack) (Rinse 3 times!)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf) (Rinse 3 times!)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

@@ -1,7 +1,7 @@
 ---
 title: Cantonese Shumai (Siu Mai)
 role: main
-vibe: project
+vibe: technical
 prepTime: 60 min
 cookTime: 10 min
 totalTime: 70 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-Shumai is the test of a Dim Sum master. The secret to the "Restaurant Bounce" is **Structural Science**: you must stir the pork and shrimp mixture vigorously in one direction for 5 minutes until it becomes a sticky, emulsified paste. This creates the snap that differentiates a real shumai from a simple meatball. Always use dried shiitakes for their intense, concentrated umami.
+Shumai is the test of a Dim Sum master. The secret to the "Restaurant Bounce" is **Culinary Technique**: you must stir the pork and shrimp mixture vigorously in one direction for 5 minutes until it becomes a sticky, emulsified paste. This creates the snap that differentiates a real shumai from a simple meatball. Always use dried shiitakes for their intense, concentrated umami.
 
 ## Directions
 
@@ -37,5 +37,5 @@ Shumai is the test of a Dim Sum master. The secret to the "Restaurant Bounce" is
 
 ## Serving Suggestions
 
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

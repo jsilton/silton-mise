@@ -1,7 +1,7 @@
 ---
 title: Sheet Pan Feta Chicken
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Texture Integrity** through **The Burst-Tomato Pattern**. The secret to Success is adding the tomatoes in two stages: we roast the first batch until they burst and emulsify with the balsamic vinegar to create a sauce, then add the second batch for the final 10 minutes. This ensures you have both a rich "Bounce" sauce and whole, "Snappy" tomatoes in every bite. We use **Slabs of Feta** instead of crumbles; the roasted cheese develops a brown, caramelized skin that provides a savory "Snap" against the sweet honey-balsamic glaze.
+This is a masterclass in **Textural Balance** through **The Burst-Tomato Method**. The secret to Success is adding the tomatoes in two stages: we roast the first batch until they burst and emulsify with the balsamic vinegar to create a sauce, then add the second batch for the final 10 minutes. This ensures you have both a rich Texture sauce and whole, crispy tomatoes in every bite. We use **Slabs of Feta** instead of crumbles; the roasted cheese develops a brown, caramelized skin that provides a savory Crunch against the sweet honey-balsamic glaze.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is a masterclass in **Texture Integrity** through **The Burst-Tomato Patter
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
-- Warm [Homemade Naan](/recipes/homemade-naan)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
+- Warm [Homemade Naan](/silton-mise/recipes/homemade-naan)

@@ -1,7 +1,7 @@
 ---
 title: Boston Style Peking Ravioli (Bernard's Clone)
 role: main
-vibe: project
+vibe: technical
 prepTime: 60 min
 cookTime: 20 min
 totalTime: 80 min
@@ -60,5 +60,5 @@ This is not a delicate potsticker; this is a **Boston Peking Ravioli**. It is de
 ## Serving Suggestions
 
 - Serve with a double batch of the **Bernard's Style Dipping Sauce**.
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

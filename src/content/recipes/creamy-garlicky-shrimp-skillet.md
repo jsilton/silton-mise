@@ -1,7 +1,7 @@
 ---
 title: Creamy Garlicky Shrimp Fettuccine
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute "Speed" classic that avoids the common "greasy sauce" problem. The secret is the **Shrimp Snap Pattern**: we sear the shrimp briefly and remove them, allowing us to build the sauce without overcooking the protein. We use **The Emulsion Pattern**: by whisking the starchy pasta water into the heavy cream and Parmesan, we create a stable, glossy bind that clings to the fettuccine. The roasted peppers provide the necessary **High Note** of sweetness to cut the garlic.
+This is a 25-minute quick classic that avoids the common "greasy sauce" problem. The secret is the **Shrimp Snap Method**: we sear the shrimp briefly and remove them, allowing us to build the sauce without overcooking the protein. We use **The Emulsion Method**: by whisking the starchy pasta water into the heavy cream and Parmesan, we create a stable, glossy bind that clings to the fettuccine. The roasted peppers provide the necessary **High Note** of sweetness to cut the garlic.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is a 25-minute "Speed" classic that avoids the common "greasy sauce" proble
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)

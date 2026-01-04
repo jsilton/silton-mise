@@ -1,7 +1,7 @@
 ---
 title: Juicy Turkey Burgers (The Family Favorite)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
@@ -35,6 +35,6 @@ The challenge with turkey burgers is preventing them from turning into dry, flav
 
 ## Serving Suggestions
 
-- [Sweet Potato Fries](/recipes/sweet-potato-fries)
+- [Sweet Potato Fries](/silton-mise/recipes/sweet-potato-fries)
 - **Roasted Green Bean "Fries"** (Toss green beans in oil/salt, roast at 425°F for 12 mins)
-- [Mexican Street Corn Salad](/recipes/mexican-street-corn-salad)
+- [Mexican Street Corn Salad](/silton-mise/recipes/mexican-street-corn-salad)

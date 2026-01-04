@@ -1,5 +1,5 @@
 ---
-title: Coconut Chicken Curry (The Slow-Cooked Standard)
+title: Coconut Chicken Curry
 role: main
 vibe: comfort
 prepTime: 20 min
@@ -22,13 +22,13 @@ ingredients:
   - '1 tsp Sea Salt'
   - '--- For Serving ---'
   - '1 cup Brown Rice, cooked'
-  - '1 Fresh Mango, sliced (The Acid Finish)'
+  - '1 Fresh Mango, sliced (The Acid Balance)'
   - 'Fresh Cilantro'
 ---
 
 ## Chef's Note
 
-The danger of slow-cooker curries is "flat" flavor and mushy meat. We solve this with **Texture Integrity** and **The Bloom Pattern**. We whisk the spices directly into the coconut milk and tomato paste before adding to the pot; this ensures the fat-soluble spices are fully distributed. The inclusion of **Fresh Mango** on the side isn't just a garnish—it's the mandatory **Acid Finish** that provides a bright "High Note" to cut through the rich, earthy coconut base.
+The danger of slow-cooker curries is "flat" flavor and mushy meat. We solve this with **Textural Balance** and **The Bloom Method**. We whisk the spices directly into the coconut milk and tomato paste before adding to the pot; this ensures the fat-soluble spices are fully distributed. The inclusion of **Fresh Mango** on the side isn't just a garnish—it's the mandatory **Acid Balance** that provides a bright "High Note" to cut through the rich, earthy coconut base.
 
 ## Directions
 
@@ -41,6 +41,6 @@ The danger of slow-cooker curries is "flat" flavor and mushy meat. We solve this
 
 ## Serving Suggestions
 
-- [Homemade Naan](/recipes/homemade-naan)
-- [Cucumber Raita](/recipes/cucumber-raita)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Homemade Naan](/silton-mise/recipes/homemade-naan)
+- [Cucumber Raita](/silton-mise/recipes/cucumber-raita)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

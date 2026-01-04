@@ -1,14 +1,14 @@
 ---
 title: Peach Pie Pancakes
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
 servings: '16 silver dollar pancakes'
 ingredients:
   - '1 cup White Whole Wheat Flour'
-  - '1/2 cup Plain Greek Yogurt (The "Bounce" Hack)'
+  - '1/2 cup Plain Greek Yogurt for richness'
   - '3/4 cup Nonfat Milk'
   - '1/2 cup Fresh Peaches, finely diced'
   - '--- The Spice Mix ---'
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Peach Pie" pancakes that aren't heavy is **Structural Science** through **The Yogurt Hydration Pattern**. By using Greek yogurt as the primary binder, we create a dense, custardy "Bounce" that mimics pie filling without the need for excessive oil. We maintain **Texture Integrity** by using **The Silver Dollar Pattern**: small, 2-tablespoon pancakes ensure the diced peaches are distributed evenly and the pancake cooks through before the fruit releases too much moisture. The cinnamon provides the mandatory aromatic **High Note**.
+The secret to "Peach Pie" pancakes that aren't heavy is **Culinary Technique** through **The Yogurt Hydration Method**. By using Greek yogurt as the primary binder, we create a dense, custardy Texture that mimics pie filling without the need for excessive oil. We maintain **Textural Balance** by using **The Silver Dollar Method**: small, 2-tablespoon pancakes ensure the diced peaches are distributed evenly and the pancake cooks through before the fruit releases too much moisture. The cinnamon provides the mandatory aromatic **High Note**.
 
 ## Directions
 
@@ -37,5 +37,5 @@ The secret to "Peach Pie" pancakes that aren't heavy is **Structural Science** t
 ## Serving Suggestions
 
 - Crispy Bacon
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Orange Juice

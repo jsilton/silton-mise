@@ -1,7 +1,7 @@
 ---
 title: Spiced Coconut Chicken & Rice
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 45 min
 cookTime: 45 min
 totalTime: 90 min
@@ -18,12 +18,12 @@ ingredients:
   - '--- The Finish ---'
   - '1/2 bunch Dino Kale, sliced into ribbons'
   - 'Pickled Red Chiles (Optional)'
-  - 'Lime wedges (The Acid Finish)'
+  - 'Lime wedges (The Acid Balance)'
 ---
 
 ## Chef's Note
 
-This is a high-performance "Fuel" meal that relies on **Structural Science** through **The Hydration Pattern**. You must soak the basmati rice for 45 minutes; this ensures each grain is long, distinct, and has a resilient "Snap" rather than turning into a sticky paste. We use **The Coconut-Towel Method**: covering the pot with a kitchen towel under the lid ensures that excess steam is absorbed, resulting in a "risotto-style" creaminess from the coconut milk with individual grain integrity.
+This is a high-performance nutritious meal that relies on **Culinary Technique** through **The Hydration Method**. You must soak the basmati rice for 45 minutes; this ensures each grain is long, distinct, and has a resilient Crunch rather than turning into a sticky paste. We use **The Coconut-Towel Method**: covering the pot with a kitchen towel under the lid ensures that excess steam is absorbed, resulting in a "risotto-style" creaminess from the coconut milk with individual grain integrity.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is a high-performance "Fuel" meal that relies on **Structural Science** thr
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Cucumber Raita](/recipes/cucumber-raita)
-- [Homemade Naan](/recipes/homemade-naan)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Cucumber Raita](/silton-mise/recipes/cucumber-raita)
+- [Homemade Naan](/silton-mise/recipes/homemade-naan)

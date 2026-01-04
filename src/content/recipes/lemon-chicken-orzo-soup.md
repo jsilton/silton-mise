@@ -21,13 +21,13 @@ ingredients:
   - '6 cups Chicken Broth (Low-sodium)'
   - '1/4 tsp Italian Seasoning'
   - '1/4 cup Fresh Parsley, chopped'
-  - '2 tbsp Fresh Lemon Juice (The High Note)'
+  - '2 tbsp Fresh Lemon Juice (The Finishing Touch)'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-The secret to a "Gold Standard" orzo soup is **Structural Science** through **The Starch Roux Pattern**. We sauté the vegetables and then stir in a small amount of flour _before_ the broth; this creates a light body that holds the ingredients in suspension without being heavy. We maintain **Texture Integrity** by simmering the orzo directly in the broth only until al dente—overcooking will turn the soup into a thick porridge. The fresh lemon juice is the mandatory **High Note** that bridges the earthy herbs and savory chicken.
+The secret to a "Kitchen Standard" orzo soup is **Culinary Technique** through **The Starch Roux Method**. We sauté the vegetables and then stir in a small amount of flour _before_ the broth; this creates a light body that holds the ingredients in suspension without being heavy. We maintain **Textural Balance** by simmering the orzo directly in the broth only until al dente—overcooking will turn the soup into a thick porridge. The fresh lemon juice is the mandatory **High Note** that bridges the earthy herbs and savory chicken.
 
 ## Directions
 
@@ -40,6 +40,6 @@ The secret to a "Gold Standard" orzo soup is **Structural Science** through **Th
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- Warm [Anadama Bread](/recipes/anadama-bread)
-- [Garlic Mashed "Mock" Potatoes](/recipes/garlic-mashed-mock-potatoes)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- Warm [Anadama Bread](/silton-mise/recipes/anadama-bread)
+- [Garlic Mashed "Mock" Potatoes](/silton-mise/recipes/garlic-mashed-mock-potatoes)

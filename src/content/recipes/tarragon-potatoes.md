@@ -1,7 +1,7 @@
 ---
 title: Tarragon Potatoes
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 45 min
 totalTime: 55 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Gold Standard" tarragon potatoes is **Texture Integrity** through **The Butter-Finish Pattern**. Tarragon has a powerful, anise-like "Deep Note" that can become bitter if burned; we toss the potatoes in oil and herbs first, then add cold butter cubes to the pan halfway through roasting. This creates a foaming emulsion that bastes the potatoes, ensuring a rich "Bounce" inside a "Snappy" golden crust. Be precise with the tarragon—it provides a sharp **Acid Finish** that defines the dish.
+The secret to "Kitchen Standard" tarragon potatoes is **Textural Balance** through **The Butter-Finish Method**. Tarragon has a powerful, anise-like complex flavor that can become bitter if burned; we toss the potatoes in oil and herbs first, then add cold butter cubes to the pan halfway through roasting. This creates a foaming emulsion that bastes the potatoes, ensuring a rich Texture inside a crispy golden crust. Be precise with the tarragon—it provides a sharp **Acid Balance** that defines the dish.
 
 ## Directions
 
@@ -31,6 +31,6 @@ The secret to "Gold Standard" tarragon potatoes is **Texture Integrity** through
 
 ## Serving Suggestions
 
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloin)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Herb-Marinated Pork Tenderloin](/silton-mise/recipes/herb-marinated-pork-tenderloin)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

@@ -17,14 +17,14 @@ ingredients:
   - '2/3 cup Chicken or Vegetable Stock'
   - '1 1/2 cups Filtered Water'
   - '--- The Finish ---'
-  - '1/2 tsp Fresh Lemon Juice (The Acid Finish)'
-  - 'Julienned Raw Zucchini (for the "Snap" garnish)'
+  - '1/2 tsp Fresh Lemon Juice (The Acid Balance)'
+  - 'Julienned Raw Zucchini (for the Crunch garnish)'
   - 'Sea Salt and White Pepper'
 ---
 
 ## Chef's Note
 
-The secret to this "Gold Standard" vegetable puree is **Structural Science** through **The Low-Sweat Pattern**. You must sauté the zucchini and onions in a mix of butter and oil on very low heat; this allows the sugars to develop without any browning, resulting in a vibrant green color and a naturally sweet "Bounce." We maintain **Texture Integrity** by using **The 2-Batch Puree**: blending the soup until perfectly velvety, then finishing with paper-thin julienned raw zucchini for a necessary textural "Snap."
+The secret to this "Kitchen Standard" vegetable puree is **Culinary Technique** through **The Low-Sweat Method**. You must sauté the zucchini and onions in a mix of butter and oil on very low heat; this allows the sugars to develop without any browning, resulting in a vibrant green color and a naturally sweet "Bounce." We maintain **Textural Balance** by using **The 2-Batch Puree**: blending the soup until perfectly velvety, then finishing with paper-thin julienned raw zucchini for a necessary textural "Snap."
 
 ## Directions
 
@@ -32,11 +32,11 @@ The secret to this "Gold Standard" vegetable puree is **Structural Science** thr
 2.  **Stage 2:** Add zucchini rounds. Sauté for 10 minutes until soft.
 3.  **Simmer:** Pour in the stock and water. Season with salt and white pepper. Bring to a gentle boil, then simmer for 10 minutes.
 4.  **The Emulsion:** Working in two batches, transfer to a high-speed blender. Puree until the soup is completely smooth and glossy.
-5.  **Finish:** Stir in the lemon juice for the mandatory **Acid Finish**.
+5.  **Finish:** Stir in the lemon juice for the mandatory **Acid Balance**.
 6.  **Serve:** Ladle into bowls. Top with the julienned raw zucchini and a drizzle of olive oil for the final **High Note**.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

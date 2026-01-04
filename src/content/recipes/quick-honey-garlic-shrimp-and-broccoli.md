@@ -1,7 +1,7 @@
 ---
-title: Quick Honey Garlic Shrimp & Broccoli
+title: quick Honey Garlic Shrimp & Broccoli
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 15-minute "Fuel." The secret to its Success is **The Microwave Steam Pattern**: we steam the broccoli in the microwave for 2 minutes _before_ it hits the pan; this ensures it reaches a "tender-snap" consistency without needing a separate blanching pot. We maintain **Texture Integrity** through **The Batch Sear**: we cook the shrimp in small batches on high heat to ensure a caramelized "Snap" rather than steaming them in their own juices.
+This is the baseline for 15-minute "Fuel." The secret to its Success is **The Microwave Steam Method**: we steam the broccoli in the microwave for 2 minutes _before_ it hits the pan; this ensures it reaches a "tender-snap" consistency without needing a separate blanching pot. We maintain **Textural Balance** through **The Batch Sear**: we cook the shrimp in small batches on high heat to ensure a caramelized Crunch rather than steaming them in their own juices.
 
 ## Directions
 
@@ -32,6 +32,6 @@ This is the baseline for 15-minute "Fuel." The secret to its Success is **The Mi
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)

@@ -31,12 +31,12 @@ ingredients:
   - '1 tsp Garam Masala (for finishing)'
 totalTime: 60 min
 role: main
-vibe: project
+vibe: technical
 ---
 
 ## Chef's Note
 
-This is the ultimate home version of the world's most popular curry. It strikes a perfect balance between the smoky, charred edges of the chicken and a velvety, spice-rich tomato sauce. The secret to its "restaurant" soul is the Kasuri Methi (dried fenugreek), which provides that unmistakable savory aroma that lingers in the air of the best curry houses. It is a "Project" dish that rewards the extra effort of blooming spices and simmering with a deep, complex comfort.
+This is the ultimate home version of the world's most popular curry. It strikes a perfect balance between the smoky, charred edges of the chicken and a velvety, spice-rich tomato sauce. The secret to its "restaurant" soul is the Kasuri Methi (dried fenugreek), which provides that unmistakable savory aroma that lingers in the air of the best curry houses. It is a technical dish dish that rewards the extra effort of blooming spices and simmering with a deep, complex comfort.
 
 ## Directions
 
@@ -50,6 +50,6 @@ This is the ultimate home version of the world's most popular curry. It strikes 
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice) (Rinsed 3 times)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice) (Rinsed 3 times)
 - Warm Naan or Paratha
 - Saag Paneer

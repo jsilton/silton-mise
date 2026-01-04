@@ -1,7 +1,7 @@
 ---
 title: Chicken Galbi Noodle Salad
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -20,7 +20,7 @@ ingredients:
   - '1 Bell Pepper, thinly sliced'
   - '1/4 cup Toasted Sesame Seeds'
   - '1/2 cup Fresh Basil or Cilantro'
-  - '1/2 cup [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers) (Optional crunch)'
+  - '1/2 cup [Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers) (Optional crunch)'
 ---
 
 ## Chef's Note
@@ -37,5 +37,5 @@ This dish is a play on Korean Japchae but served as a bright, protein-heavy sala
 
 ## Serving Suggestions
 
-- [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers)
+- [Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers)
 - Extra drizzle of toasted sesame oil

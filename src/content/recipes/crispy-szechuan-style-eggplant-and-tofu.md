@@ -1,7 +1,7 @@
 ---
 title: Crispy Szechuan Eggplant & Tofu
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 35 min
 totalTime: 50 min
@@ -9,13 +9,13 @@ servings: '4'
 ingredients:
   - '1 medium Eggplant, cut into 3/4-inch cubes'
   - '1 block Extra-firm Tofu, pressed dry and cubed'
-  - '2/3 cup + 2 tsp Cornstarch (The Snap)'
+  - '2/3 cup + 2 tsp Cornstarch (The Crunch)'
   - '--- The Szechuan Glaze ---'
   - '1/4 cup Chicken or Veggie Broth'
   - '2 tbsp Soy Sauce'
   - '2 tbsp Rice Vinegar'
   - '1 1/2 tbsp Sugar'
-  - '1 tsp Lime Juice (The High Note)'
+  - '1 tsp Lime Juice (The Finishing Touch)'
   - '--- The Aromatics ---'
   - '1 tbsp Fresh Ginger, grated'
   - '2 cloves Garlic, grated'
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-The key to this vegan-focused "Fuel" dish is **Structural Science**. We use **The Cornstarch Guard Pattern**: by dredging the eggplant and tofu in a thick layer of cornstarch before frying, we create a barrier that prevents the eggplant from absorbing oil while ensuring a shatteringly crisp "Snap." The final **Acid Finish** (a combination of rice vinegar and lime) is the mandatory "High Note" that cuts through the heat of the Szechuan chiles.
+The key to this vegan-focused nutritious dish is **Culinary Technique**. We use **The Cornstarch Guard Method**: by dredging the eggplant and tofu in a thick layer of cornstarch before frying, we create a barrier that prevents the eggplant from absorbing oil while ensuring a shatteringly crisp "Snap." The final **Acid Balance** (a combination of rice vinegar and lime) is the mandatory "High Note" that cuts through the heat of the Szechuan chiles.
 
 ## Directions
 
@@ -40,6 +40,6 @@ The key to this vegan-focused "Fuel" dish is **Structural Science**. We use **Th
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Seasoned Bean Sprouts](/recipes/seasoned-bean-sprouts)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Seasoned Bean Sprouts](/silton-mise/recipes/seasoned-bean-sprouts)

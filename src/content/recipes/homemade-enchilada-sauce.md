@@ -1,7 +1,7 @@
 ---
 title: Homemade Enchilada Sauce
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -15,17 +15,17 @@ ingredients:
   - '1/2 tsp Garlic Powder'
   - '1/4 tsp Dried Oregano'
   - '1/4 tsp Sea Salt'
-  - 'Pinch of Cinnamon (The "Deep Note")'
+  - 'Pinch of Cinnamon (The complex flavor)'
   - '--- The Liquid Base ---'
   - '2 tbsp Tomato Paste'
   - '2 cups Vegetable or Chicken Broth'
-  - '1 tsp Apple Cider Vinegar (The High Note)'
+  - '1 tsp Apple Cider Vinegar (The Finishing Touch)'
   - 'Black Pepper'
 ---
 
 ## Chef's Note
 
-This is our baseline **Modularity** component for all Mexican-inspired dishes. The secret to a professional-grade sauce is **The Spice Bloom Pattern**: we whisk the chili powder and cumin directly into the hot oil and flour (the roux) _before_ adding the broth. This toasts the spices and releases their fat-soluble aromatic oils, resulting in a deeper flavor than store-bought jars. The **Apple Cider Vinegar** is the mandatory **Acid Finish** that cuts through the earthy cumin and brightens the tomato paste.
+This is our baseline **Modularity** component for all Mexican-inspired dishes. The secret to a professional-grade sauce is **The Spice Bloom Method**: we whisk the chili powder and cumin directly into the hot oil and flour (the roux) _before_ adding the broth. This toasts the spices and releases their fat-soluble aromatic oils, resulting in a deeper flavor than store-bought jars. The **Apple Cider Vinegar** is the mandatory **Acid Balance** that cuts through the earthy cumin and brightens the tomato paste.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is our baseline **Modularity** component for all Mexican-inspired dishes. T
 
 ## Serving Suggestions
 
-- [Chicken and White Bean Enchiladas (Suizas Style)](/recipes/chicken-and-white-bean-enchiladas-with-creamy-green-chile-sauce)
-- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
-- Drizzled over [Breakfast Egg Cups](/recipes/breakfast-egg-cups)
+- [Chicken and White Bean Enchiladas (Suizas Style)](/silton-mise/recipes/chicken-and-white-bean-enchiladas-with-creamy-green-chile-sauce)
+- [Mexican Red Rice (Arroz Rojo)](/silton-mise/recipes/mexican-red-rice)
+- Drizzled over [Breakfast Egg Cups](/silton-mise/recipes/breakfast-egg-cups)

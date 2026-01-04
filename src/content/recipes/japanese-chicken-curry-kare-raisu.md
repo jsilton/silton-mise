@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive "from scratch" method for Japanese Curry using the professional **Yoshoku Technique**. The secret to its depth is **The Darkness Roux Pattern**: we cook the butter and flour for 20 minutes until it reaches a "milk chocolate" brown—this provides the nutty, roasted backbone that cubes cannot replicate. We maintain **Texture Integrity** by using the **Rangiri Cut** for carrots, ensuring they hold their "Snap" through the long simmer. The grated apple is the mandatory **High Note** that balances the intensity of the S&B powder.
+This is the definitive "from scratch" method for Japanese Curry using the professional **Yoshoku Technique**. The secret to its depth is **The Darkness Roux Method**: we cook the butter and flour for 20 minutes until it reaches a "milk chocolate" brown—this provides the nutty, roasted backbone that cubes cannot replicate. We maintain **Textural Balance** by using the **Rangiri Cut** for carrots, ensuring they hold their Crunch through the long simmer. The grated apple is the mandatory **High Note** that balances the intensity of the S&B powder.
 
 ## Directions
 
@@ -40,6 +40,6 @@ This is the definitive "from scratch" method for Japanese Curry using the profes
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Miso Soup](/recipes/miso-soup)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Miso Soup](/silton-mise/recipes/miso-soup)
 - Fukujinzuke (Japanese pickles)

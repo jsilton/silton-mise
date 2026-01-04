@@ -1,7 +1,7 @@
 ---
-title: Chinese Chicken (The Heritage Standard)
+title: Chinese Chicken
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 30 min
 totalTime: 50 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This recipe is a tribute to **Modern Heritage**. We take a classic stir-fry and elevate it with **The Sausage Hack**: steaming the Chinese sausage directly on top of the rice. This infuses the rice with the sweet, smoky fat of the sausage while keeping the stir-fry clean. We prioritize **Texture Integrity** by searing the broccoli separately first—this ensures it maintains its "Snap" and bright green color while the chicken develops a deep, sherry-infused "Bounce."
+This recipe is a tribute to **Updated Classic**. We take a classic stir-fry and elevate it with **The Sausage Hack**: steaming the Chinese sausage directly on top of the rice. This infuses the rice with the sweet, smoky fat of the sausage while keeping the stir-fry clean. We prioritize **Textural Balance** by searing the broccoli separately first—this ensures it maintains its Crunch and bright green color while the chicken develops a deep, sherry-infused "Bounce."
 
 ## Directions
 
@@ -37,6 +37,6 @@ This recipe is a tribute to **Modern Heritage**. We take a classic stir-fry and 
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Garlic Sauce Base](/recipes/chinese-garlic-sauce-base)
-- [Quick Pickled Red Onions](/recipes/pickled-red-onions)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Garlic Sauce Base](/silton-mise/recipes/chinese-garlic-sauce-base)
+- [quick Pickled Red Onions](/silton-mise/recipes/pickled-red-onions)

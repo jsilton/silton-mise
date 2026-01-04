@@ -1,7 +1,7 @@
 ---
 title: Crispy Chicken Milanese (Family Chicken Fingers)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
@@ -36,6 +36,6 @@ We have upgraded the "shaking in a bag" method to the **Standard Breading Proced
 
 ## Serving Suggestions
 
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Honey Mustard or BBQ Sauce

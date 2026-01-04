@@ -44,8 +44,8 @@ jobs:
         with:
           commit_message: 'style: Kitchen Brigade auto-fixes [skip ci]'
           branch: ${{ github.head_ref }}
-          commit_user_name: 'Silton Sous Chef'
-          commit_user_email: 'sous-chef@silton-mise.kitchen'
+          commit_user_name: 'Mise Sous Chef'
+          commit_user_email: 'sous-chef@mise.kitchen'
           skip_dirty_check: false
 
       # --- EXECUTION (Build) ---
@@ -76,7 +76,7 @@ jobs:
         with:
           gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
           prompt: >
-            You are the Maître d' of the Silton family kitchen.
+            You are the Maître d' of the Master Kitchen.
             The kitchen staff (CI pipeline) has just processed a new update.
 
             CONTEXT:
@@ -86,5 +86,5 @@ jobs:
             TASK:
             1. Summarize the changes in 1 sentence.
             2. If the commit was an "auto-fix" (check the message), praise the kitchen staff for their diligence.
-            3. Confirm the "Silton Standard" is maintained.
+            3. Confirm the "Culinary Standard" is maintained.
             4. Sign off with "Service is Go!"

@@ -1,7 +1,7 @@
 ---
 title: Roasted Sunchokes with Brown Butter Vinaigrette
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 60 min
 totalTime: 70 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-Sunchokes are the ultimate "Modern Heritage" root vegetable. The secret to their Success is **Texture Integrity** through **The 60-Minute Roast**: they require a long, high-heat dwell time to transform their starch into a creamy, artichoke-like "Bounce." We use **The Beurre Noisette Pattern**: browning the butter before whisking it into the reduced cider vinegar creates a savory-sweet glaze with a nutty "Snap." The reduction of the vinegar is the mandatory **Acid Finish** that cuts through the earthy sunchokes.
+Sunchokes are the ultimate "Updated Classic" root vegetable. The secret to their Success is **Textural Balance** through **The 60-Minute Roast**: they require a long, high-heat dwell time to transform their starch into a creamy, artichoke-like "Bounce." We use **The Beurre Noisette Method**: browning the butter before whisking it into the reduced cider vinegar creates a savory-sweet glaze with a nutty "Snap." The reduction of the vinegar is the mandatory **Acid Balance** that cuts through the earthy sunchokes.
 
 ## Directions
 
@@ -34,6 +34,6 @@ Sunchokes are the ultimate "Modern Heritage" root vegetable. The secret to their
 
 ## Serving Suggestions
 
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloins)
-- [Roast Turkey Breast](/recipes/roast-turkey-breast)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Herb-Marinated Pork Tenderloin](/silton-mise/recipes/herb-marinated-pork-tenderloins)
+- [Roast Turkey Breast](/silton-mise/recipes/roast-turkey-breast)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

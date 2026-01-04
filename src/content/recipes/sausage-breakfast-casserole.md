@@ -10,19 +10,19 @@ ingredients:
   - '1 lb Breakfast Sausage (Jimmy Dean Standard)'
   - '30 oz Frozen Shredded Hash Browns, thawed'
   - '10 large Eggs'
-  - '1 1/4 cups Heavy Cream (The "Bounce" Fat)'
+  - '1 1/4 cups Heavy Cream (for richness)'
   - '--- The Flavor Pulse ---'
   - '2 cups Sharp Cheddar, shredded'
   - '4 Scallions, chopped (whites and greens divided)'
   - '1 Red Bell Pepper, chopped'
   - '1 tbsp Dijon Mustard'
-  - '2 tsp Hot Sauce (The High Note)'
+  - '2 tsp Hot Sauce (The Finishing Touch)'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-This is the definitive Silton "Fuel" for holiday mornings. The secret to its Success is **The Double-Bake Pattern**: we bake the casserole covered to set the internal custard, then uncover and increase the heat to 400°F for the final 15 minutes. This ensures a moist "Bounce" in the center with a shatteringly crisp "Snap" on the hash brown crust. We use **The Mustard Pulse**: whisking Dijon into the cream cuts through the heavy sausage fat, providing a mandatory **Acid Finish** that keeps the dish light.
+This is the definitive Executive nutritious for holiday mornings. The secret to its Success is **The Double-Bake Method**: we bake the casserole covered to set the internal custard, then uncover and increase the heat to 400°F for the final 15 minutes. This ensures a moist Texture in the center with a shatteringly crisp Crunch on the hash brown crust. We use **The Mustard Pulse**: whisking Dijon into the cream cuts through the heavy sausage fat, providing a mandatory **Acid Balance** that keeps the dish light.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is the definitive Silton "Fuel" for holiday mornings. The secret to its Suc
 
 ## Serving Suggestions
 
-- [Fresh Strawberry Vinaigrette Salad](/recipes/fresh-strawberry-vinaigrette-salad-dressing)
-- Warm [My Favorite Challah](/recipes/my-favorite-challah)
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- [Fresh Strawberry Vinaigrette Salad](/silton-mise/recipes/fresh-strawberry-vinaigrette-salad-dressing)
+- Warm [My Favorite Challah](/silton-mise/recipes/my-favorite-challah)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)

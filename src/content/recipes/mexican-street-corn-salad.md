@@ -1,7 +1,7 @@
 ---
 title: Mexican Street Corn Salad (Esquites)
 role: side
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" corn salad is the **Maillard Reaction**. Don't just boil the corn; sear the kernels in a smoking hot pan (or grill them on the cob) until they are deeply charred and "popping." This provides a nutty sweetness that balances the creamy dressing and the sharp acidity of the lime. This is the **Texture Integrity** pattern in action.
+The secret to restaurant-quality corn salad is the **Maillard Reaction**. Don't just boil the corn; sear the kernels in a smoking hot pan (or grill them on the cob) until they are deeply charred and "popping." This provides a nutty sweetness that balances the creamy dressing and the sharp acidity of the lime. This is the **Textural Balance** pattern in action.
 
 ## Directions
 
@@ -34,6 +34,6 @@ The secret to "Restaurant Quality" corn salad is the **Maillard Reaction**. Don'
 
 ## Pairs With
 
-- [Weeknight Tacos](/recipes/tacos)
-- [Juicy Turkey Burgers](/recipes/turkey-burgers)
+- [Weeknight Tacos](/silton-mise/recipes/tacos)
+- [Juicy Turkey Burgers](/silton-mise/recipes/turkey-burgers)
 - Grilled Steak or Fish

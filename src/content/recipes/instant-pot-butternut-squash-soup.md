@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Gold Standard" for autumn comfort. The secret to its depth is **Modern Heritage** through **The Bacon Fond Pattern**: we sauté the bacon in the pot first, remove it for garnish, and then cook the aromatics directly in the rendered fat. This infuses the entire soup with a smoky umami backbone. We maintain **Texture Integrity** by including a **Granny Smith Apple**; its natural acidity prevents the squash from becoming overly cloying, providing the necessary "High Note" finish within the puree itself.
+This is the "Kitchen Standard" for autumn comfort. The secret to its depth is **Updated Classic** through **The Bacon Fond Method**: we sauté the bacon in the pot first, remove it for garnish, and then cook the aromatics directly in the rendered fat. This infuses the entire soup with a smoky umami backbone. We maintain **Textural Balance** by including a **Granny Smith Apple**; its natural acidity prevents the squash from becoming overly cloying, providing the necessary "High Note" finish within the puree itself.
 
 ## Directions
 
@@ -34,12 +34,12 @@ This is the "Gold Standard" for autumn comfort. The secret to its depth is **Mod
 2.  **Aromatics:** Add onion to the bacon fat. Sauté for 3 minutes until translucent. Stir in garlic, sage, and thyme; cook for 1 minute until fragrant.
 3.  **Pressure:** Stir in the squash, carrots, celery, and chopped apple. Pour in the chicken stock and season with salt and pepper.
 4.  **Cook:** Secure the lid. Set to **High Pressure for 12 minutes**.
-5.  **Release:** Perform a "Quick Release" of the pressure. Remove and discard the thyme sprigs.
+5.  **Release:** Perform a "quick Release" of the pressure. Remove and discard the thyme sprigs.
 6.  **The Emulsion:** Stir in the heavy cream. Using an immersion blender, puree the soup directly in the pot until completely velvety and smooth.
 7.  **Serve:** Ladle into bowls. Garnish with the reserved crispy bacon and chives for the mandatory **Textural Snap**.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Grilled Cheese & Tomato Soup](/recipes/grilled-cheese-and-tomato-soup) (as a side)
-- Warm [Anadama Bread](/recipes/anadama-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Grilled Cheese & Tomato Soup](/silton-mise/recipes/grilled-cheese-and-tomato-soup) (as a side)
+- Warm [Anadama Bread](/silton-mise/recipes/anadama-bread)

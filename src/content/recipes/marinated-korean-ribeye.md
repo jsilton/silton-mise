@@ -1,7 +1,7 @@
 ---
 title: Thinly Sliced Marinated Ribeye (Bulgogi)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 5 min
 totalTime: 15 min
@@ -32,6 +32,6 @@ The secret to authentic Bulgogi is the **thickness of the cut**. It should be pa
 
 ## Serving Suggestions
 
-- [Bibimbap](/recipes/bibimbap)
+- [Bibimbap](/silton-mise/recipes/bibimbap)
 - Lettuce Wraps with Ssamjang
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)

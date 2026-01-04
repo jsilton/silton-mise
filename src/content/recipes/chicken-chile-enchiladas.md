@@ -1,5 +1,5 @@
 ---
-title: Chicken Chile Enchiladas (The Red Sauce Standard)
+title: Chicken Chile Enchiladas
 role: main
 vibe: comfort
 prepTime: 20 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Gold Standard" enchilada is the **Tortilla Prep**. If you roll cold tortillas, they will crack; if you don't coat them in fat, they will turn to mush. We lightly sear each tortilla in a little oil for 5 seconds before dipping in the sauce—this creates a barrier that holds the structure during baking. This version focuses on the classic earthy, red-chile profile.
+The secret to a "Kitchen Standard" enchilada is the **Tortilla Prep**. If you roll cold tortillas, they will crack; if you don't coat them in fat, they will turn to mush. We lightly sear each tortilla in a little oil for 5 seconds before dipping in the sauce—this creates a barrier that holds the structure during baking. This version focuses on the classic earthy, red-chile profile.
 
 ## Directions
 
@@ -32,6 +32,6 @@ The secret to a "Gold Standard" enchilada is the **Tortilla Prep**. If you roll 
 
 ## Serving Suggestions
 
-- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
-- [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Mexican Red Rice (Arroz Rojo)](/silton-mise/recipes/mexican-red-rice)
+- [quick Seasoned Black Beans](/silton-mise/recipes/quick-seasoned-black-beans)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

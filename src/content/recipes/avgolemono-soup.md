@@ -1,7 +1,7 @@
 ---
 title: Greek Lemon Chicken Soup (Avgolemono)
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -31,6 +31,6 @@ Avgolemono is a miracle of **Tempering Science**. It is incredibly creamy and ri
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Shakshuka](/recipes/shakshuka)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Shakshuka](/silton-mise/recipes/shakshuka)
 - Crusty Bread

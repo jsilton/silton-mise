@@ -1,7 +1,7 @@
 ---
 title: Steamed Bok Choy with Oyster Sauce
 role: side
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 5 min
 totalTime: 10 min
@@ -31,6 +31,6 @@ The secret to great bok choy is protecting the leaves while softening the stems.
 
 ## Pairs With
 
-- [Shrimp with Lobster Sauce](/recipes/shrimp-lobster-sauce)
-- [Miso-Glazed Salmon](/recipes/miso-salmon-with-bok-choy)
-- [Honey Sesame Chicken](/recipes/honey-sesame-chicken)
+- [Shrimp with Lobster Sauce](/silton-mise/recipes/shrimp-lobster-sauce)
+- [Miso-Glazed Salmon](/silton-mise/recipes/miso-salmon-with-bok-choy)
+- [Honey Sesame Chicken](/silton-mise/recipes/honey-sesame-chicken)

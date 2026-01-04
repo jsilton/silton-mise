@@ -1,26 +1,26 @@
 ---
 title: Strawberry Orange Jello Salad
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 0 min
 totalTime: 240 min
 servings: '8'
 ingredients:
   - '1 large box Strawberry Jello'
-  - '--- The Texture Mix ---'
+  - '--- Mix ---'
   - '20 oz Frozen Strawberries, thawed and drained'
   - '1 can (20 oz) Crushed Pineapple, drained'
   - '3 large Ripe Bananas, mashed'
   - '--- The Sour Cream Emulsion ---'
-  - '1 pint Sour Cream (The "Bounce" Fat)'
+  - '1 pint Sour Cream (for richness)'
   - '1 cup Boiling Water'
   - '1/2 cup Pecans, chopped (Optional)'
 ---
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to the definitive family gathering side. The secret to its Success is **The Sour Cream Layer Pattern**: instead of mixing everything together, we set half the fruit-jello mixture, spread a thick layer of sour cream, and then top with the remaining jello. This creates a multi-dimensional "Bounce" and a mandatory **Acid Finish** that cuts through the sweet fruit. We use **Mashed Bananas** as a structural binder, providing a dense, velvety consistency that standard gelatin lacks.
+This is a **Updated Classic** update to the definitive family gathering side. The secret to its Success is **The Sour Cream Layer Method**: instead of mixing everything together, we set half the fruit-jello mixture, spread a thick layer of sour cream, and then top with the remaining jello. This creates a multi-dimensional Texture and a mandatory **Acid Balance** that cuts through the sweet fruit. We use **Mashed Bananas** as a structural binder, providing a dense, velvety consistency that standard gelatin lacks.
 
 ## Directions
 
@@ -34,6 +34,6 @@ This is a **Modern Heritage** update to the definitive family gathering side. Th
 
 ## Serving Suggestions
 
-- [Roast Turkey Breast (The Holiday Standard)](/recipes/roast-turkey-breast)
-- [Italian Kale & Sausage Stuffing](/recipes/italian-kale-and-sausage-stuffing)
-- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)
+- [Roast Turkey Breast](/silton-mise/recipes/roast-turkey-breast)
+- [Italian Kale & Sausage Stuffing](/silton-mise/recipes/italian-kale-and-sausage-stuffing)
+- [Nana Ruth's Applesauce](/silton-mise/recipes/nana-ruths-applesauce)

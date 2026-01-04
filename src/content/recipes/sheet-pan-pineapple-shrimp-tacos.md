@@ -1,7 +1,7 @@
 ---
 title: Sheet Pan Pineapple Shrimp Tacos
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -14,17 +14,17 @@ ingredients:
   - '2 tbsp Lime Juice'
   - '2 tbsp Extra-Virgin Olive Oil'
   - '2 tsp Chili Powder + 2 tsp Cumin'
-  - '1/2 tsp Cayenne (The High Note)'
+  - '1/2 tsp Cayenne (The Finishing Touch)'
   - '--- The Cabbage Snap Slaw ---'
   - '1 1/2 cups Green Cabbage, thinly sliced'
   - '1/2 cup Fresh Cilantro'
-  - '1 Lime, juiced (The Acid Finish)'
+  - '1 Lime, juiced (The Acid Balance)'
   - 'Corn Tortillas, Avocado, Sour Cream'
 ---
 
 ## Chef's Note
 
-The secret to this 30-minute "Speed" meal is **The Zone-Roast Pattern**. Instead of tossing everything together, we divide the sheet pan into three distinct zones: shrimp, pineapple, and onions. This allows the pineapple sugars to caramelize into a "Snap" without turning the shrimp soggy. We use **Texture Integrity** in the slaw: by slicing the cabbage paper-thin and dressing it only at the moment of serving, we provide a watery, crunchy contrast to the sticky, sweet shrimp. The lime juice provides the mandatory **Acid Finish**.
+The secret to this 30-minute quick meal is **The Zone-Roast Method**. Instead of tossing everything together, we divide the sheet pan into three distinct zones: shrimp, pineapple, and onions. This allows the pineapple sugars to caramelize into a Crunch without turning the shrimp soggy. We use **Textural Balance** in the slaw: by slicing the cabbage paper-thin and dressing it only at the moment of serving, we provide a watery, crunchy contrast to the sticky, sweet shrimp. The lime juice provides the mandatory **Acid Balance**.
 
 ## Directions
 
@@ -37,6 +37,6 @@ The secret to this 30-minute "Speed" meal is **The Zone-Roast Pattern**. Instead
 
 ## Serving Suggestions
 
-- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
-- [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Mexican Red Rice (Arroz Rojo)](/silton-mise/recipes/mexican-red-rice)
+- [quick Seasoned Black Beans](/silton-mise/recipes/quick-seasoned-black-beans)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

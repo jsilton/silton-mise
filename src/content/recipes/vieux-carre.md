@@ -1,7 +1,7 @@
 ---
 title: Vieux Carré
 role: drink
-vibe: project
+vibe: technical
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
@@ -30,6 +30,6 @@ The Vieux Carré is a New Orleans masterpiece that demands **Precision and Dilig
 
 ## Serving Suggestions
 
-- [Miriam's Rosh Hashanah Brisket](/recipes/miriams-melt-in-your-mouth-rosh-hashanah-brisket)
-- [Beef Tenderloin Dogs](/recipes/beef-tenderloin-dogs-with-corn-relish)
+- [Miriam's Rosh Hashanah Brisket](/silton-mise/recipes/miriams-melt-in-your-mouth-rosh-hashanah-brisket)
+- [Beef Tenderloin Dogs](/silton-mise/recipes/beef-tenderloin-dogs-with-corn-relish)
 - Roasted Salted Pecans

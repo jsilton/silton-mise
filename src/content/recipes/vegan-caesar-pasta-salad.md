@@ -1,7 +1,7 @@
 ---
 title: Vegan Caesar Pasta Salad
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
@@ -10,8 +10,8 @@ ingredients:
   - '8 oz Rotini or Cavatappi Pasta'
   - '--- The Vegan Caesar Emulsion ---'
   - '1 1/2 cups Vegan Caesar Dressing'
-  - '1 1/2 cups Roasted Chickpeas (The "Snap" Protein)'
-  - '--- The Texture Base ---'
+  - '1 1/2 cups Roasted Chickpeas (the crunch Protein)'
+  - '--- Base ---'
   - '2 hearts Romaine Lettuce, chopped'
   - '1 ripe Avocado, sliced'
   - '1 1/2 cups Cherry Tomatoes, halved'
@@ -20,18 +20,18 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Gold Standard" vegan pasta salad is **Texture Integrity** through **The Layered Snap Pattern**. We use **Roasted Chickpeas** instead of croutons; their earthy, brittle crunch provides a necessary contrast to the soft "Bounce" of the rotini. We maintain the Silton Standard by dressing the hot pasta _before_ adding the fresh greens; the residual heat of the noodle slightly absorbs the **Caesar Emulsion**, ensuring the flavor is locked into the starch. The avocado provides the final fatty **High Note**.
+The secret to a "Kitchen Standard" vegan pasta salad is **Textural Balance** through **The Layered Snap Method**. We use **Roasted Chickpeas** instead of croutons; their earthy, brittle crunch provides a necessary contrast to the soft Texture of the rotini. We maintain the Kitchen Standard by dressing the hot pasta _before_ adding the fresh greens; the residual heat of the noodle slightly absorbs the **Caesar Emulsion**, ensuring the flavor is locked into the starch. The avocado provides the final fatty **High Note**.
 
 ## Directions
 
 1.  **Boil:** Cook pasta in salted water until **al dente**. Drain.
 2.  **The Bind:** While the pasta is still warm, transfer to a large bowl and toss with 1/2 cup of the Vegan Caesar Dressing. Let stand for 5 minutes.
-3.  **Combine:** Add the romaine, cherry tomatoes, and the remaining dressing. Toss gently with your hands (The Gold Standard).
-4.  **The Snap:** Fold in the roasted chickpeas and the avocado slices just before serving.
+3.  **Combine:** Add the romaine, cherry tomatoes, and the remaining dressing. Toss gently with your hands.
+4.  **The Crunch:** Fold in the roasted chickpeas and the avocado slices just before serving.
 5.  **Serve:** Season generously with black pepper and sea salt. Serve chilled or at room temperature.
 
 ## Serving Suggestions
 
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
-- [Tuna Poke Bowls](/recipes/tuna-poke-bowls)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)
+- [Tuna Poke Bowls](/silton-mise/recipes/tuna-poke-bowls)

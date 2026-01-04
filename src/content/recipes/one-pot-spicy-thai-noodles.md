@@ -1,7 +1,7 @@
 ---
 title: One Pot Spicy Thai Noodles
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed "Fuel" meal that relies on **The Starch Bind Pattern**. The secret to Success is building the entire dish in the pasta pot; we use the residual heat of the cooked noodles to emulsify the **Sriracha-Ginger Glaze** without needing additional fat. We maintain **Texture Integrity** by scrambling the eggs separately first—this ensures they provide a distinct, yellow "Bounce" in every bite rather than turning the sauce into a muddy film. The fresh lime and cilantro provide the mandatory aromatic **High Note**.
+This is a high-speed nutritious meal that relies on **The Starch Bind Method**. The secret to Success is building the entire dish in the pasta pot; we use the residual heat of the cooked noodles to emulsify the **Sriracha-Ginger Glaze** without needing additional fat. We maintain **Textural Balance** by scrambling the eggs separately first—this ensures they provide a distinct, yellow Texture in every bite rather than turning the sauce into a muddy film. The fresh lime and cilantro provide the mandatory aromatic **High Note**.
 
 ## Directions
 
@@ -37,10 +37,10 @@ This is a high-speed "Fuel" meal that relies on **The Starch Bind Pattern**. The
 4.  **The Veg:** Add remaining oil to the pot. Sauté zucchini, mushrooms, and carrots for 5 minutes over high heat until tender-crisp.
 5.  **Bind:** Turn heat to low. Return the pasta and eggs to the pot. Pour the sauce over everything.
 6.  **Toss:** Toss vigorously for 1 minute until the noodles are glossy and the sauce has thickened.
-7.  **Serve:** Remove from heat. Stir in the green onions, cilantro, and crushed peanuts. Serve hot or cold for the Gold Standard experience.
+7.  **Serve:** Remove from heat. Stir in the green onions, cilantro, and crushed peanuts. Serve hot or cold for the Kitchen Standard experience.
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)
 - Thai Iced Tea

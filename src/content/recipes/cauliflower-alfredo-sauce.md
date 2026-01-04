@@ -1,7 +1,7 @@
 ---
 title: Cauliflower Alfredo (The Fuel Base)
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Silton Pattern" alternative to the heavy [Real Alfredo Sauce](/recipes/real-alfredo-sauce). We use the natural starch of pureed cauliflower to create a creamy texture with a fraction of the fat. The secret is the **High-Powered Blend**: you must boil the cauliflower until it is "fall-apart" tender, then blend it while hot with the garlic and cheese to create a silky emulsion.
+This is the "Culinary Method" alternative to the heavy [Real Alfredo Sauce](/silton-mise/recipes/real-alfredo-sauce). We use the natural starch of pureed cauliflower to create a creamy texture with a fraction of the fat. The secret is the **High-Powered Blend**: you must boil the cauliflower until it is "fall-apart" tender, then blend it while hot with the garlic and cheese to create a silky emulsion.
 
 ## Directions
 
@@ -31,5 +31,5 @@ This is the "Silton Pattern" alternative to the heavy [Real Alfredo Sauce](/reci
 ## Pairs With
 
 - Zucchini Noodles or Whole Wheat Pasta
-- [Chicken Milanese](/recipes/chicken-milanese)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
 - Roasted Asparagus

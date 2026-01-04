@@ -1,7 +1,7 @@
 ---
-title: Patate al Forno (The Gold Standard)
+title: Patate al Forno
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 40 min
 totalTime: 50 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive Silton side dish. The secret to its Success is **Texture Integrity** through **The Bone-Dry Standard**. You must wash the cubed potatoes and then pat them with paper towels until they are perfectly dry; moisture is the enemy of the Maillard reaction. We use **The High-Heat Roast Pattern**: roasting at 450°F ensures a shatteringly crisp "Snap" on the skin while the internal starch of the Yukon Gold remains buttery and soft. The rosemary provides the mandatory aromatic **High Note**.
+This is the definitive Executive side dish. The secret to its Success is **Textural Balance** through **The Bone-Dry Standard**. You must wash the cubed potatoes and then pat them with paper towels until they are perfectly dry; moisture is the enemy of the Maillard reaction. We use **The High-Heat Roast Method**: roasting at 450°F ensures a shatteringly crisp Crunch on the skin while the internal starch of the Yukon Gold remains buttery and soft. The rosemary provides the mandatory aromatic **High Note**.
 
 ## Directions
 
@@ -31,6 +31,6 @@ This is the definitive Silton side dish. The secret to its Success is **Texture 
 
 ## Serving Suggestions
 
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Classic Beef Stew](/recipes/classic-beef-stew)
-- [Herb-Marinated Pork Tenderloin](/recipes/herb-marinated-pork-tenderloins)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Classic Beef Stew](/silton-mise/recipes/classic-beef-stew)
+- [Herb-Marinated Pork Tenderloin](/silton-mise/recipes/herb-marinated-pork-tenderloins)

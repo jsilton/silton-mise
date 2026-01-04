@@ -1,7 +1,7 @@
 ---
 title: The New England Express
 role: drink
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 5 min
 totalTime: 15 min
@@ -12,15 +12,15 @@ ingredients:
   - '8 sprigs Fresh Thyme'
   - '--- The Build ---'
   - '2 cups Apple Cider (unfiltered)'
-  - '1 1/2 cups Dark Rum (The "Deep Note")'
-  - '3/4 cup Fresh Lime Juice (The Acid Finish)'
+  - '1 1/2 cups Dark Rum (The complex flavor)'
+  - '3/4 cup Fresh Lime Juice (The Acid Balance)'
   - '1 tsp Angostura Bitters'
   - 'Club Soda (to top)'
 ---
 
 ## Chef's Note
 
-This cocktail is a masterclass in **Modern Heritage** flavor layering. The secret to its Success is **The Herbal Syrup Pattern**: we boil the sugar into a simple syrup but steep the fresh thyme for 10 minutes _after_ removing from heat. This introduces a savory, botanical "Deep Note" that bridges the gap between the earthy apple cider and the rich molasses of the dark rum. The fresh lime juice provides the mandatory **Acid Finish** that defines the "Express" punch.
+This cocktail is a masterclass in **Updated Classic** flavor layering. The secret to its Success is **The Herbal Syrup Method**: we boil the sugar into a simple syrup but steep the fresh thyme for 10 minutes _after_ removing from heat. This introduces a savory, botanical complex flavor that bridges the gap between the earthy apple cider and the rich molasses of the dark rum. The fresh lime juice provides the mandatory **Acid Balance** that defines the "Express" punch.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This cocktail is a masterclass in **Modern Heritage** flavor layering. The secre
 
 ## Serving Suggestions
 
-- [Grandmommy's Pecan Pie](/recipes/grandmommys-pecan-pie)
-- [Oreo Truffles](/recipes/easy-oreo-truffles)
-- [Cranberry Orange Sauce](/recipes/cranberry-orange-sauce) (on a cracker with brie)
+- [Nana's Pecan Pie](/silton-mise/recipes/grandmommys-pecan-pie)
+- [Oreo Truffles](/silton-mise/recipes/easy-oreo-truffles)
+- [Cranberry Orange Sauce](/silton-mise/recipes/cranberry-orange-sauce) (on a cracker with brie)

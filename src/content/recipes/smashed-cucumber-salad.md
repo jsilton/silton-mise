@@ -1,7 +1,7 @@
 ---
 title: 'Smashed Cucumber Salad'
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 40 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this "Street Standard" side is **Structural Science** through **The Smash Pattern**. By smacking the cucumbers with a knife blade, you create irregular, jagged surface areas that act as a trap for the dressing—clean slices are too smooth to hold the oil. We maintain **Texture Integrity** through **The 30-Minute Salt Lock**: salting the chunks first draws out the internal moisture, ensuring the cucumbers stay "Snappy" and the dressing remains a concentrated emulsion rather than a thin soup.
+The secret to this "Street Standard" side is **Culinary Technique** through **The Smash Method**. By smacking the cucumbers with a knife blade, you create irregular, jagged surface areas that act as a trap for the dressing—clean slices are too smooth to hold the oil. We maintain **Textural Balance** through **The 30-Minute Salt Lock**: salting the chunks first draws out the internal moisture, ensuring the cucumbers stay crispy and the dressing remains a concentrated emulsion rather than a thin soup.
 
 ## Directions
 
@@ -32,6 +32,6 @@ The secret to this "Street Standard" side is **Structural Science** through **Th
 
 ## Serving Suggestions
 
-- [Thai Basil Noodles](/recipes/thai-basil-noodles)
-- [Sesame Chicken](/recipes/honey-sesame-chicken)
-- [Tuna Poke Bowls](/recipes/tuna-poke-bowls)
+- [Thai Basil Noodles](/silton-mise/recipes/thai-basil-noodles)
+- [Sesame Chicken](/silton-mise/recipes/honey-sesame-chicken)
+- [Tuna Poke Bowls](/silton-mise/recipes/tuna-poke-bowls)

@@ -1,5 +1,5 @@
 ---
-title: Nana's Biscuits
+title: 'Nana’s Biscuits'
 role: side
 vibe: comfort
 prepTime: 10 min
@@ -15,7 +15,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Heritage Keeper" with a vital modern upgrade. While the original family recipe used Crisco, we have evolved to use high-quality **cold butter**. Butter provides a superior flavor and a better nutritional profile than hydrogenated oils, while the self-rising flour keeps the texture cotton-soft. The "Nana" technique—mixing by hand and flattening by palm—remains the secret to a biscuit that isn't over-worked or tough. It is a humble, soulful side that tastes like home.
+This is a "Traditional Recipe" with a vital modern upgrade. While the original family recipe used Crisco, we have evolved to use high-quality **cold butter**. Butter provides a superior flavor and a better nutritional profile than hydrogenated oils, while the self-rising flour keeps the texture cotton-soft. The "Nana" technique—mixing by hand and flattening by palm—remains the secret to a biscuit that isn't over-worked or tough. It is a humble, soulful side that tastes like home.
 
 ## Directions
 
@@ -28,5 +28,5 @@ This is a "Heritage Keeper" with a vital modern upgrade. While the original fami
 ## Serving Suggestions
 
 - Sunday Roast or Savory Stew
-- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)
+- [Nana Ruth's Applesauce](/silton-mise/recipes/nana-ruths-applesauce)
 - Local Honey and more cold butter

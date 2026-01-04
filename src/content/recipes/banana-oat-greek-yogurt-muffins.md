@@ -1,7 +1,7 @@
 ---
 title: Banana Oat Greek Yogurt Muffins
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Fuel" staple that relies on **Emulsion**. By processing the oats into a fine flour in a blender, we avoid the gritty texture of whole oats. The Greek yogurt provides the moisture and protein that allows us to reduce the added fat. This is the **Silton Standard** for healthy, kid-friendly snacks.
+This is a nutritious staple that relies on **Emulsion**. By processing the oats into a fine flour in a blender, we avoid the gritty texture of whole oats. The Greek yogurt provides the moisture and protein that allows us to reduce the added fat. This is the **Kitchen Standard** for healthy, kid-friendly snacks.
 
 ## Directions
 
@@ -31,5 +31,5 @@ This is a "Fuel" staple that relies on **Emulsion**. By processing the oats into
 
 ## Serving Suggestions
 
-- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- [Mango-Rita Green Smoothie](/silton-mise/recipes/mango-rita-green-smoothie)
 - Fresh Apple slices

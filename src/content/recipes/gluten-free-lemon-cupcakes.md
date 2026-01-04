@@ -1,7 +1,7 @@
 ---
 title: Gluten-Free Lemon Cupcakes
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -22,13 +22,13 @@ ingredients:
   - '--- The Lemon Buttercream ---'
   - '1/2 cup (1 stick) Unsalted Butter, softened'
   - '4 cups Confectioners’ Sugar'
-  - '2 tbsp Fresh Lemon Juice (The High Note)'
+  - '2 tbsp Fresh Lemon Juice (The Finishing Touch)'
   - '2 tbsp Milk (as needed)'
 ---
 
 ## Chef's Note
 
-The challenge with gluten-free baking is preventing a gritty or dry texture. We solve this with **Structural Science** through **The Emulsion Beat Pattern**: we beat the oil and sugar for a full minute _before_ adding eggs, which creates a stable fat-sugar network that traps moisture. The **Acid Finish** is doubled here: we use both juice and zest in the batter, then finish with a sharp lemon buttercream. This provides the mandatory "High Note" that ensures the cupcakes taste fresh rather than heavy.
+The challenge with gluten-free baking is preventing a gritty or dry texture. We solve this with **Culinary Technique** through **The Emulsion Beat Method**: we beat the oil and sugar for a full minute _before_ adding eggs, which creates a stable fat-sugar network that traps moisture. The **Acid Balance** is doubled here: we use both juice and zest in the batter, then finish with a sharp lemon buttercream. This provides the mandatory "High Note" that ensures the cupcakes taste fresh rather than heavy.
 
 ## Directions
 
@@ -42,6 +42,6 @@ The challenge with gluten-free baking is preventing a gritty or dry texture. We 
 
 ## Serving Suggestions
 
-- [Elderberry Syrup](/recipes/elderberry-syrup) (as a drizzle)
+- [Elderberry Syrup](/silton-mise/recipes/elderberry-syrup) (as a drizzle)
 - Fresh Raspberries
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

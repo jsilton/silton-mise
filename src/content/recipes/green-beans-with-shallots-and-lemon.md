@@ -1,7 +1,7 @@
 ---
 title: Green Beans with Shallots & Lemon
 role: side
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -11,13 +11,13 @@ ingredients:
   - '2 Shallots, finely diced'
   - '1 tbsp Unsalted Butter or Olive Oil'
   - '1 tbsp Honey'
-  - '1 Lemon, zested and juiced (The High Note)'
+  - '1 Lemon, zested and juiced (The Finishing Touch)'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-This is the "Gold Standard" for a fresh vegetable side. The secret to the vibrant green color and perfect "Snap" is **Structural Science** through **The Blanch-and-Shock Pattern**. You must boil the beans for exactly 3 minutes and then plunge them into an ice bath—this locks in the chlorophyll and prevents them from turning into mushy brown pods. We use a **Honey-Lemon Glaze**: the sweetness of the honey balances the sharp **Acid Finish** of the lemon, ensuring the shallots are glazed rather than just sautéed.
+This is the "Kitchen Standard" for a fresh vegetable side. The secret to the vibrant green color and perfect Crunch is **Culinary Technique** through **The Blanch-and-Shock Method**. You must boil the beans for exactly 3 minutes and then plunge them into an ice bath—this locks in the chlorophyll and prevents them from turning into mushy brown pods. We use a **Honey-Lemon Glaze**: the sweetness of the honey balances the sharp **Acid Balance** of the lemon, ensuring the shallots are glazed rather than just sautéed.
 
 ## Directions
 
@@ -31,6 +31,6 @@ This is the "Gold Standard" for a fresh vegetable side. The secret to the vibran
 
 ## Serving Suggestions
 
-- [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
-- [Chicken Marsala](/recipes/chicken-marsala)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Buttermilk Baked Chicken](/silton-mise/recipes/buttermilk-baked-chicken)
+- [Chicken Marsala](/silton-mise/recipes/chicken-marsala)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

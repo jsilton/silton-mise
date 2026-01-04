@@ -1,7 +1,7 @@
 ---
 title: Thai Red Chicken Curry
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -28,9 +28,9 @@ This is an **Authentic Standard** Thai curry. We have removed the Cajun spices a
 3.  **Simmer:** Add the chicken, bell peppers, and bamboo shoots. Simmer for 10-12 minutes until the chicken is cooked through.
 4.  **Balance:** Stir in the fish sauce and brown sugar. Taste: it should be a balance of salty, sweet, and spicy.
 5.  **Wilt:** Turn off the heat and stir in the Thai basil leaves.
-6.  **Serve:** Serve immediately over [Jasmine Rice](/recipes/near-east-rice-pilaf-hack).
+6.  **Serve:** Serve immediately over [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf).
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

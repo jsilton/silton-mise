@@ -1,7 +1,7 @@
 ---
 title: Cilantro Lime Rice (The Fresh Base)
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 25 min
@@ -30,6 +30,6 @@ This is the essential base for tacos, bowls, and shrimp. The secret is to **Fold
 
 ## Pairs With
 
-- [Garlic Honey Lime Shrimp](/recipes/garlic-honey-lime-shrimp)
-- [Chicken Tinga](/recipes/chicken-tinga)
+- [Garlic Honey Lime Shrimp](/silton-mise/recipes/garlic-honey-lime-shrimp)
+- [Chicken Tinga](/silton-mise/recipes/chicken-tinga)
 - Black Beans

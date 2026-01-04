@@ -1,7 +1,7 @@
 ---
-title: Blueberry Baked Oatmeal (The Texture Standard)
+title: Blueberry Baked Oatmeal (for texture)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 40 min
 totalTime: 50 min
@@ -9,7 +9,7 @@ servings: '6'
 ingredients:
   - '2 cups Old-Fashioned Rolled Oats'
   - '12 oz Fresh or Frozen Blueberries'
-  - '2/3 cup Toasted Sunflower Seeds or Pumpkin Seeds (Silton Nut-Free option)'
+  - '2/3 cup Toasted Sunflower Seeds or Pumpkin Seeds (Nut-Free option)'
   - '1 3/4 cups Milk of choice'
   - '1/3 cup Maple Syrup'
   - '2 large Eggs'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The common mistake with baked oatmeal is a mushy, uniform texture. We apply the **Silton Texture Pattern**: we layer the berries at the bottom and use **Toasted Seeds** on top to provide a satisfying "pop" and "crunch" that contrasts with the creamy oats. Always pat down the dry oats into the milk to ensure even hydration.
+The common mistake with baked oatmeal is a mushy, uniform texture. We apply the **Executive Texture Method**: we layer the berries at the bottom and use **Toasted Seeds** on top to provide a satisfying "pop" and "crunch" that contrasts with the creamy oats. Always pat down the dry oats into the milk to ensure even hydration.
 
 ## Directions
 

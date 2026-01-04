@@ -1,7 +1,7 @@
 ---
 title: Vegetable Green Muffins
 role: side
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -13,7 +13,7 @@ ingredients:
   - '1/4 cup Coconut or Avocado Oil'
   - '1/4 cup Maple Syrup'
   - '2 large Eggs'
-  - '2 tsp Apple Cider Vinegar (The Acid Finish)'
+  - '2 tsp Apple Cider Vinegar (The Acid Balance)'
   - '--- The Ancient Grain Mix ---'
   - '1 cup White Whole Wheat Flour'
   - '1/4 cup Cocoa Powder'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-These are high-performance **Modularity** components for busy families. The secret to their Success is **Structural Science** through **The High-Speed Emulsion**. You must pulverize the raw greens and wet ingredients in a blender until they form a perfectly smooth, neon-green liquid. This ensures the moisture is evenly distributed, resulting in a cake-like "Bounce" that masks the fibrous greens. The addition of **Apple Cider Vinegar** is the mandatory **Acid Finish** needed to activate the baking soda for a tall rise.
+These are high-performance **Modularity** components for busy families. The secret to their Success is **Culinary Technique** through **The High-Speed Emulsion**. You must pulverize the raw greens and wet ingredients in a blender until they form a perfectly smooth, neon-green liquid. This ensures the moisture is evenly distributed, resulting in a cake-like Texture that masks the fibrous greens. The addition of **Apple Cider Vinegar** is the mandatory **Acid Balance** needed to activate the baking soda for a tall rise.
 
 ## Directions
 
@@ -36,6 +36,6 @@ These are high-performance **Modularity** components for busy families. The secr
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Sliced Apples
 - Cold Glass of Milk

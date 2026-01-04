@@ -1,7 +1,7 @@
 ---
 title: Lamb Keema Matar (Spiced Mince with Peas)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a great Keema is **Deep Browning**. You must sear the ground lamb until it develops a dark, savory crust before adding the aromatics. The peas provide a sweet "pop" that balances the richness of the lamb. We finish with a heavy hit of lemon juice and fresh cilantro to provide the **Acid Finish** that keeps this dish from feeling heavy.
+The secret to a great Keema is **Deep Browning**. You must sear the ground lamb until it develops a dark, savory crust before adding the aromatics. The peas provide a sweet "pop" that balances the richness of the lamb. We finish with a heavy hit of lemon juice and fresh cilantro to provide the **Acid Balance** that keeps this dish from feeling heavy.
 
 ## Directions
 
@@ -38,6 +38,6 @@ The secret to a great Keema is **Deep Browning**. You must sear the ground lamb 
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
 - Warm Naan
-- [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers) (A great cooling side!)
+- [Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers) (A great cooling side!)

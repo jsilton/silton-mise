@@ -1,7 +1,7 @@
 ---
-title: Zuppa Toscana (The Silton Standard)
+title: Zuppa Toscana
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 35 min
 totalTime: 50 min
@@ -12,16 +12,16 @@ ingredients:
   - '5 cups Fresh Kale, chopped'
   - '--- The Coconut-Bone Broth Base ---'
   - '4 cups Chicken Bone Broth'
-  - '1 cup Full-fat Coconut Milk (The "Bounce" Fat)'
+  - '1 cup Full-fat Coconut Milk (for richness)'
   - '5 cloves Garlic, minced'
   - '1 Yellow Onion, diced'
-  - '1 tsp Red Pepper Flakes (The High Note)'
+  - '1 tsp Red Pepper Flakes (The Finishing Touch)'
   - 'Sea Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-The secret to an elite Zuppa Toscana without heavy cream is **Structural Science** through **The Potato-Starch Pattern**. We simmer cubed Russet potatoes in bone broth until they are "fork-tender"; as the starch granules release, they naturally emulsify with the full-fat **Coconut Milk** to create a rich, velvety "Bounce." We maintain **Texture Integrity** through **The Late-Kale Wilt**: we add the kale during the final 60 seconds of cooking—this ensures the leaves are bright green and maintain their "Snap" against the smoky sausage.
+The secret to an elite Zuppa Toscana without heavy cream is **Culinary Technique** through **The Potato-Starch Method**. We simmer cubed Russet potatoes in bone broth until they are "fork-tender"; as the starch granules release, they naturally emulsify with the full-fat **Coconut Milk** to create a rich, velvety "Bounce." We maintain **Textural Balance** through **The Late-Kale Wilt**: we add the kale during the final 60 seconds of cooking—this ensures the leaves are bright green and maintain their Crunch against the smoky sausage.
 
 ## Directions
 
@@ -34,6 +34,6 @@ The secret to an elite Zuppa Toscana without heavy cream is **Structural Science
 
 ## Serving Suggestions
 
-- [Garlic Bread](/recipes/garlic-bread)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Sunchokes with Brown Butter Vinaigrette](/recipes/roasted-sunchokes-with-brown-butter-cider-vinaigrette)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Sunchokes with Brown Butter Vinaigrette](/silton-mise/recipes/roasted-sunchokes-with-brown-butter-cider-vinaigrette)

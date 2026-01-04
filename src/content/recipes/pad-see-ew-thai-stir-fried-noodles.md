@@ -1,7 +1,7 @@
 ---
 title: Pad See Ew (Thai Stir-Fried Noodles)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
@@ -12,7 +12,7 @@ ingredients:
   - '2 tbsp Dark Soy Sauce'
   - '2 tbsp Oyster Sauce'
   - '2 tsp Light Soy Sauce'
-  - '2 tsp White Vinegar (The High Note)'
+  - '2 tsp White Vinegar (The Finishing Touch)'
   - '2 tsp Granulated Sugar'
   - '--- The Stir-Fry ---'
   - '1 cup Chicken Thighs, thinly sliced'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Street Quality" Pad See Ew is **The Scorch Pattern**. To achieve the mandatory **Wok Hei** (breath of the wok), you must sear the rice noodles over the highest possible heat without moving them for 30 seconds; this allows the dark soy sauce to caramelize and "scorch" against the noodle, creating that smoky, slightly charred "Snap." We maintain **Texture Integrity** by separating the Chinese broccoli leaves and stems, adding the stems first to ensure they are tender while the leaves stay vibrant green.
+The secret to a authentic Pad See Ew is **The Scorch Method**. To achieve the mandatory **Wok Hei** (breath of the wok), you must sear the rice noodles over the highest possible heat without moving them for 30 seconds; this allows the dark soy sauce to caramelize and "scorch" against the noodle, creating that smoky, slightly charred "Snap." We maintain **Textural Balance** by separating the Chinese broccoli leaves and stems, adding the stems first to ensure they are tender while the leaves stay vibrant green.
 
 ## Directions
 
@@ -39,6 +39,6 @@ The secret to a "Street Quality" Pad See Ew is **The Scorch Pattern**. To achiev
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/silton-mise/recipes/korean-mung-bean-sprouts-salad)
 - Thai Iced Tea

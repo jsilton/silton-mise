@@ -1,7 +1,7 @@
 ---
-title: Dutch Baby Pancake (The Thermal Standard)
+title: Dutch Baby Pancake
 role: main
-vibe: project
+vibe: technical
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 25 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-The Dutch Baby is a masterclass in **Structural Science**. The secret to the massive, billowing rise is the **Thermal Jump Pattern**: you must place the cold batter (mixed in a blender for maximum aeration) into a preheated, screaming-hot cast-iron skillet filled with sizzling butter. This sudden temperature shock causes the steam to expand rapidly, creating the signature high-walled "Bounce" that defines the dish. Always use **The Blender Pattern** to ensure the flour is fully hydrated and the eggs are perfectly aerated.
+The Dutch Baby is a masterclass in **Culinary Technique**. The secret to the massive, billowing rise is the **Thermal Jump Method**: you must place the cold batter (mixed in a blender for maximum aeration) into a preheated, screaming-hot cast-iron skillet filled with sizzling butter. This sudden temperature shock causes the steam to expand rapidly, creating the signature high-walled Texture that defines the dish. Always use **The Blender Method** to ensure the flour is fully hydrated and the eggs are perfectly aerated.
 
 ## Directions
 
@@ -35,5 +35,5 @@ The Dutch Baby is a masterclass in **Structural Science**. The secret to the mas
 ## Serving Suggestions
 
 - Crispy Bacon
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Peaches or Berries

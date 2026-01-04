@@ -1,7 +1,7 @@
 ---
-title: Roasted Asparagus (The High-Heat Standard)
+title: Roasted Asparagus
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -17,7 +17,7 @@ ingredients:
 
 ## Chef's Note
 
-Asparagus is 90% water. If you steam it or cook it at low heat, it turns gray and mushy. The secret to "Restaurant Quality" asparagus is **High-Heat Roasting**: by using 425°F+, we evaporate the surface moisture instantly, resulting in bright green stalks with crispy, charred tips. Always finish with a squeeze of fresh lemon to provide the **Acid Finish**.
+Asparagus is 90% water. If you steam it or cook it at low heat, it turns gray and mushy. The secret to restaurant-quality asparagus is **High-Heat Roasting**: by using 425°F+, we evaporate the surface moisture instantly, resulting in bright green stalks with crispy, charred tips. Always finish with a squeeze of fresh lemon to provide the **Acid Balance**.
 
 ## Directions
 
@@ -28,6 +28,6 @@ Asparagus is 90% water. If you steam it or cook it at low heat, it turns gray an
 
 ## Pairs With
 
-- [Chicken Piccata (Un-fried)](/recipes/chicken-piccata-unfried)
-- [Baked Cod with Lemon Panko](/recipes/baked-cod-with-lemon-panko)
+- [Chicken Piccata (Un-fried)](/silton-mise/recipes/chicken-piccata-unfried)
+- [Baked Cod with Lemon Panko](/silton-mise/recipes/baked-cod-with-lemon-panko)
 - Steak or Roast Chicken

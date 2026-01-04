@@ -1,7 +1,7 @@
 ---
 title: Healthy Apple Muffins
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -23,12 +23,12 @@ ingredients:
   - '1/2 tsp Baking Soda'
   - '1 tsp Ground Cinnamon'
   - '1/2 tsp Sea Salt'
-  - '1 tbsp Turbinado Sugar (for the "Snap")'
+  - '1 tbsp Turbinado Sugar (for the Crunch)'
 ---
 
 ## Chef's Note
 
-This is the ultimate high-fiber "Fuel" muffin. The secret to its incredible moistness is **Modern Heritage** techniques: we use a combination of **Applesauce** and **Greek Yogurt** to provide a dense, cake-like "Bounce" without excessive oil. We maintain **Texture Integrity** through **The Grated-Cubed Pattern**: by including both grated apple (for moisture) and cubed apple (for "Snap"), we ensure every bite has distinct structural personality. Always finish with a dusting of **Turbinado Sugar** to create a crystalline "High Note" crust.
+This is the ultimate high-fiber nutritious muffin. The secret to its incredible moistness is **Updated Classic** techniques: we use a combination of **Applesauce** and **Greek Yogurt** to provide a dense, cake-like Texture without excessive oil. We maintain **Textural Balance** through **The Grated-Cubed Method**: by including both grated apple (for moisture) and cubed apple (for Crunch), we ensure every bite has distinct structural personality. Always finish with a dusting of **Turbinado Sugar** to create a crystalline "High Note" crust.
 
 ## Directions
 
@@ -41,6 +41,6 @@ This is the ultimate high-fiber "Fuel" muffin. The secret to its incredible mois
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Salted Butter or Honey
-- [Elderberry Syrup](/recipes/elderberry-syrup) (stirred into tea)
+- [Elderberry Syrup](/silton-mise/recipes/elderberry-syrup) (stirred into tea)

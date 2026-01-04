@@ -1,5 +1,5 @@
 ---
-title: Coq au Vin (The Slow-Cooker Standard)
+title: Coq au Vin
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Gold Standard" slow-cooker braise is **Fond Extraction**. Many recipes just dump raw meat in; we sear the chicken thighs first to develop a deep brown crust—this caramelized flavor is what elevates the wine sauce from "stew" to "Coq au Vin." We maintain **Texture Integrity** by using **Thick-Sliced Mushrooms** and **Frozen Pearl Onions**; they hold their shape through the long simmer, providing the "Bounce" that differentiates this from a mushy soup.
+The secret to a "Kitchen Standard" slow-cooker braise is **Fond Extraction**. Many recipes just dump raw meat in; we sear the chicken thighs first to develop a deep brown crust—this caramelized flavor is what elevates the wine sauce from "stew" to "Coq au Vin." We maintain **Textural Balance** by using **Thick-Sliced Mushrooms** and **Frozen Pearl Onions**; they hold their shape through the long simmer, providing the Texture that differentiates this from a mushy soup.
 
 ## Directions
 
@@ -33,10 +33,10 @@ The secret to a "Gold Standard" slow-cooker braise is **Fond Extraction**. Many 
 4.  **The Slurry:** In a small bowl, whisk the cornstarch into the red wine until completely dissolved. Whisk in the onion soup mix, Worcestershire, and thyme.
 5.  **Simmer:** Pour the wine slurry over the chicken.
 6.  **Cook:** Cover and cook on **HIGH for 2.5–3 hours** (or LOW for 5-6 hours) until the chicken is fork-tender.
-7.  **Serve:** Serve hot over [Miso-Mashed Potatoes](/recipes/miso-mashed-potatoes) or steamed rice.
+7.  **Serve:** Serve hot over [Miso-Mashed Potatoes](/silton-mise/recipes/miso-mashed-potatoes) or steamed rice.
 
 ## Serving Suggestions
 
-- [Miso-Mashed Potatoes](/recipes/miso-mashed-potatoes)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- Warm [Anadama Bread](/recipes/anadama-bread)
+- [Miso-Mashed Potatoes](/silton-mise/recipes/miso-mashed-potatoes)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- Warm [Anadama Bread](/silton-mise/recipes/anadama-bread)

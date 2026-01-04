@@ -1,7 +1,7 @@
 ---
 title: Garlic Roasted Potatoes
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 45 min
 totalTime: 55 min
@@ -18,19 +18,19 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Gold Standard" roasted potatoes is **Texture Integrity** through the **Steam-Off Pattern**. Most recipes roast potatoes raw; we roast them at high heat (400°F) and ensure they are **bone-dry** before hitting the oil. The critical Silton move is adding the **minced garlic** only during the final 10 minutes or as a fresh toss at the end; this prevents the garlic from burning and turning bitter, ensuring a sweet, aromatic "High Note" finish.
+The secret to "Kitchen Standard" roasted potatoes is **Textural Balance** through the **Steam-Off Method**. Most recipes roast potatoes raw; we roast them at high heat (400°F) and ensure they are **bone-dry** before hitting the oil. The critical Chef move is adding the **minced garlic** only during the final 10 minutes or as a fresh toss at the end; this prevents the garlic from burning and turning bitter, ensuring a sweet, aromatic "High Note" finish.
 
 ## Directions
 
 1.  **Prep:** Preheat oven to 400°F. Line a large rimmed baking sheet with parchment paper.
 2.  **Toss:** In a large bowl, combine potatoes, olive oil, salt, and pepper. Toss vigorously until every piece is heavily coated.
-3.  **Arrange:** Spread the potatoes in a **single layer**, cut-side down. This maximizes the "Snap" of the crust.
+3.  **Arrange:** Spread the potatoes in a **single layer**, cut-side down. This maximizes the Crunch of the crust.
 4.  **Roast:** Bake for 45-50 minutes. Flip with a spatula twice during cooking to ensure even browning.
 5.  **The Garlic Finish:** 5 minutes before the end of roasting, sprinkle the minced garlic over the potatoes and toss.
 6.  **Garnish:** Remove from the oven. Toss immediately with fresh parsley while the oil is still sizzling to release the herb's oils.
 
 ## Serving Suggestions
 
-- [Chicken Marsala](/recipes/chicken-marsala)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roast Turkey Breast](/recipes/roast-turkey-breast)
+- [Chicken Marsala](/silton-mise/recipes/chicken-marsala)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roast Turkey Breast](/silton-mise/recipes/roast-turkey-breast)

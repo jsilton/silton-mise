@@ -1,7 +1,7 @@
 ---
 title: Soba Noodles with Shiitakes & Tofu
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -16,7 +16,7 @@ ingredients:
   - '1 tbsp Soy Sauce + 1 tbsp Shaoxing Wine'
   - '1 tbsp Fresh Ginger, minced'
   - '1 tbsp Garlic, minced'
-  - '2 tsp Toasted Sesame Oil (The "Deep Note")'
+  - '2 tsp Toasted Sesame Oil (The complex flavor)'
   - '--- The Finish ---'
   - '1/2 cup Fresh Cilantro, chopped'
   - '1/2 tsp Red Pepper Flakes'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to perfect Soba is **Texture Integrity** through **The Buckwheat Shock Pattern**. Soba noodles are more delicate than wheat pasta; you must rinse them under cold running water for 1 minute immediately after boiling to remove the surface starch and ensure a clean, "Snappy" bite. We use **The Wok Sear**: flash-frying the tofu and shiitakes on the highest possible heat ensures they develop a charred exterior that provides a smoky "Snap" against the earthy, nutty "Bounce" of the noodles.
+The secret to perfect Soba is **Textural Balance** through **The Buckwheat Shock Method**. Soba noodles are more delicate than wheat pasta; you must rinse them under cold running water for 1 minute immediately after boiling to remove the surface starch and ensure a clean, crispy bite. We use **The Wok Sear**: flash-frying the tofu and shiitakes on the highest possible heat ensures they develop a charred exterior that provides a smoky Crunch against the earthy, nutty Texture of the noodles.
 
 ## Directions
 
@@ -32,12 +32,12 @@ The secret to perfect Soba is **Texture Integrity** through **The Buckwheat Shoc
 2.  **Blanch:** Boil baby broccoli for 1 minute. Shock in ice water. Drain and pat **bone-dry**.
 3.  **Boil Soba:** Cook soba noodles for 4-5 minutes until al dente. Drain and rinse under cold water for 1 minute. Toss with 1 tsp sesame oil.
 4.  **The Sear:** Heat 1 tbsp oil in a wok until smoking. Sear tofu for 2 minutes until golden. Remove.
-5.  **The Snap:** Add 1 tbsp oil. Sauté shiitakes and scallions for 2 minutes. Add the blanched broccoli.
+5.  **The Crunch:** Add 1 tbsp oil. Sauté shiitakes and scallions for 2 minutes. Add the blanched broccoli.
 6.  **Bind:** Add the noodles, tofu, and the stock mixture. Toss vigorously over high heat for 2 minutes until the liquid has emulsified into a glossy glaze.
 7.  **Serve:** Stir in the cilantro and sesame oil. Serve immediately.
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
-- [Miso Soup](/recipes/miso-soup)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Japanese Style Trout with Dashi](/silton-mise/recipes/japanese-style-trout-with-dashi)
+- [Miso Soup](/silton-mise/recipes/miso-soup)

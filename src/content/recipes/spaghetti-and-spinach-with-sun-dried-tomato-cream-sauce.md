@@ -1,7 +1,7 @@
 ---
 title: Sun-Dried Tomato Cream Spaghetti
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -11,7 +11,7 @@ ingredients:
   - '5 oz Fresh Baby Spinach'
   - '--- The Sun-Dried Emulsion ---'
   - '1/2 cup Sun-dried Tomatoes in oil, slivered'
-  - '1/2 cup Sour Cream (The "Bounce" Fat)'
+  - '1/2 cup Sour Cream (for richness)'
   - '1 cup Low-sodium Chicken Broth'
   - '1/4 cup Parmesan, grated'
   - '1/2 cup Red Onion, sliced'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this "Fuel" pasta is **Texture Integrity** through **The Colander Wilt Pattern**. Instead of sautéing the spinach, we place the raw leaves in a colander and drain the boiling pasta directly over them. This "thermal shock" ensures the spinach is just wilted and vibrant green rather than overcooked. We use **Sour Cream** instead of heavy cream to introduce a mandatory **Acid Finish** that cuts through the oily sun-dried tomatoes, resulting in a lighter "Bounce" to the sauce.
+The secret to this nutritious pasta is **Textural Balance** through **The Colander Wilt Method**. Instead of sautéing the spinach, we place the raw leaves in a colander and drain the boiling pasta directly over them. This "thermal shock" ensures the spinach is just wilted and vibrant green rather than overcooked. We use **Sour Cream** instead of heavy cream to introduce a mandatory **Acid Balance** that cuts through the oily sun-dried tomatoes, resulting in a lighter Texture to the sauce.
 
 ## Directions
 
@@ -36,6 +36,6 @@ The secret to this "Fuel" pasta is **Texture Integrity** through **The Colander 
 
 ## Serving Suggestions
 
-- [Easy Pan-Seared Chicken Breasts](/recipes/easy-pan-seared-chicken-breasts)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Easy Pan-Seared Chicken Breasts](/silton-mise/recipes/easy-pan-seared-chicken-breasts)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

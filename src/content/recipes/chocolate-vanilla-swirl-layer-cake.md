@@ -1,7 +1,7 @@
 ---
 title: Chocolate Vanilla Swirl Layer Cake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 35 min
 totalTime: 80 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This cake is a masterclass in **Modern Heritage** visuals. The secret to the striking interior is the **Concentric Circle Pattern**: by alternating pours of white and chocolate batter directly into the center of the pan, we create a precise "Bulls-eye" that transforms into elegant swirls as it bakes. We use a mix of **Cake Flour** and All-Purpose to ensure **Texture Integrity**—the crumb is tender enough for a layer cake but sturdy enough to support the weight of the rich dark chocolate ganache.
+This cake is a masterclass in **Updated Classic** visuals. The secret to the striking interior is the **Concentric Circle Method**: by alternating pours of white and chocolate batter directly into the center of the pan, we create a precise "Bulls-eye" that transforms into elegant swirls as it bakes. We use a mix of **Cake Flour** and All-Purpose to ensure **Textural Balance**—the crumb is tender enough for a layer cake but sturdy enough to support the weight of the rich dark chocolate ganache.
 
 ## Directions
 
@@ -36,10 +36,10 @@ This cake is a masterclass in **Modern Heritage** visuals. The secret to the str
 6.  **The Swirl:** Pour 1/3 cup white batter into the center of each pan. Pour 1/3 cup chocolate batter directly onto the center of the white batter. Repeat until all batter is used.
 7.  **Bake:** Bake for 35 minutes until a toothpick comes out clean. Cool in the pans for 5 minutes, then transfer to racks.
 8.  **The Ganache:** Heat cream until just boiling. Pour over chopped chocolate. Let sit for 5 minutes, then whisk until glossy. Let cool until thickened to a spreading consistency.
-9.  **Assemble:** Level the cooled cakes. Layer with ganache and frost the top and sides. Refrigerate for 1 hour to set the "Bounce" before slicing.
+9.  **Assemble:** Level the cooled cakes. Layer with ganache and frost the top and sides. Refrigerate for 1 hour to set the Texture before slicing.
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Fresh Strawberries
-- [Hot-and-Sour Soup](/recipes/hot-and-sour-soup) (for a classic "Cake and Soup" dinner)
+- [Hot-and-Sour Soup](/silton-mise/recipes/hot-and-sour-soup) (for a classic "Cake and Soup" dinner)

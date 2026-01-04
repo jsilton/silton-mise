@@ -10,7 +10,7 @@ ingredients:
   - '3 cups Apples, peeled and sliced thin (Granny Smith preferred)'
   - '2 cups Fresh Cranberries (1 whole bag)'
   - '3/4 cup Granulated Sugar'
-  - '--- The Crunch Topping ---'
+  - '--- the crunch Topping ---'
   - '1 1/2 cups Rolled Oats'
   - '1/2 cup Light Brown Sugar, packed'
   - '1/3 cup All-Purpose Flour'
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to a classic family crisp. We have replaced the legacy margarine with **Unsalted Butter** to provide a richer, more nuanced "Snap" to the oat topping. The secret to the Silton Standard here is **The Acid Finish**: the combination of tart Granny Smith apples and fresh whole cranberries provides a natural "High Note" that cuts through the buttery topping. Always bake until the fruit juices are bubbling up around the edges—this indicates the sugar has fully emulsified with the fruit pectin.
+This is a **Updated Classic** update to a classic family crisp. We have replaced the legacy margarine with **Unsalted Butter** to provide a richer, more nuanced Crunch to the oat topping. The secret to the Kitchen Standard here is **The Acid Balance**: the combination of tart Granny Smith apples and fresh whole cranberries provides a natural "High Note" that cuts through the buttery topping. Always bake until the fruit juices are bubbling up around the edges—this indicates the sugar has fully emulsified with the fruit pectin.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is a **Modern Heritage** update to a classic family crisp. We have replaced
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Whipped Cream with a pinch of Cinnamon
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)

@@ -1,7 +1,7 @@
 ---
 title: Mini-Shell Pasta with Bacon and Peas
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -12,7 +12,7 @@ ingredients:
   - '2 cups Frozen Peas'
   - '--- The Creamy Emulsion ---'
   - '2 tbsp Crème Fraîche or Heavy Cream'
-  - '1 Lemon, juiced (The Acid Finish)'
+  - '1 Lemon, juiced (The Acid Balance)'
   - '6 oz Parmesan, finely grated'
   - '2 tbsp Fresh Mint, finely chopped'
   - '1 tbsp Unsalted Butter'
@@ -22,12 +22,12 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute "Speed" hero that relies on **The Emulsion Pattern**. The secret to the Silton Standard is combining the **Smoked Bacon Render** with starchy pasta water and crème fraîche. This creates a thick, velvet-like sauce that finds its way inside every mini-shell. We maintain **Texture Integrity** by adding the peas at the very end—they should stay bright green and "Snappy." The fresh mint and lemon juice provide the mandatory **Acid/Aromatic Finish** to cut through the heavy bacon fat.
+This is a 25-minute quick hero that relies on **The Emulsion Method**. The secret to the Kitchen Standard is combining the **Smoked Bacon Render** with starchy pasta water and crème fraîche. This creates a thick, velvet-like sauce that finds its way inside every mini-shell. We maintain **Textural Balance** by adding the peas at the very end—they should stay bright green and "Snappy." The fresh mint and lemon juice provide the mandatory **Acid/Aromatic Finish** to cut through the heavy bacon fat.
 
 ## Directions
 
 1.  **Boil:** Cook pasta in salted water for 1 minute **less** than package directions. **Reserve 1/2 cup of pasta water** before draining.
-2.  **The Snap:** In a large skillet, melt the butter and add the bacon slivers. Fry over medium heat until golden and crispy.
+2.  **The Crunch:** In a large skillet, melt the butter and add the bacon slivers. Fry over medium heat until golden and crispy.
 3.  **Aromatics:** Add the frozen peas directly to the hot bacon fat. Stir for 2 minutes until just heated through.
 4.  **Bind:** Stir in the crème fraîche and chopped mint.
 5.  **Emulsify:** Add the hot pasta and the reserved pasta water to the skillet. Pour in the lemon juice.
@@ -36,6 +36,6 @@ This is a 25-minute "Speed" hero that relies on **The Emulsion Pattern**. The se
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

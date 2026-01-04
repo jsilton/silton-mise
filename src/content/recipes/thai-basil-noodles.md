@@ -1,7 +1,7 @@
 ---
 title: Thai Basil Noodles (The 15-Minute Wok)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-heat, high-speed meal. The key to the Silton Standard is the **Acid Finish**: the heavy, salty sauce (Oyster/Fish/Soy) needs the bright lift of fresh lime juice at the very end to make the flavors pop. Don't crowd the wok—cook the meat until it gets crispy edges for maximum texture.
+This is a high-heat, high-speed meal. The key to the Kitchen Standard is the **Acid Balance**: the heavy, salty sauce (Oyster/Fish/Soy) needs the bright lift of fresh lime juice at the very end to make the flavors pop. Don't crowd the wok—cook the meat until it gets crispy edges for maximum texture.
 
 ## Directions
 
@@ -36,9 +36,9 @@ This is a high-heat, high-speed meal. The key to the Silton Standard is the **Ac
 4.  **Aromatics:** Add the garlic, chilies, and bell pepper. Stir-fry for 30 seconds until fragrant.
 5.  **Toss:** Add the noodles and the sauce. Stir-fry vigorously over high heat, scraping the bottom of the wok, until the noodles absorb the sauce and turn dark brown.
 6.  **Wilt:** Add the basil. Toss for 30 seconds until just wilted.
-7.  **The Acid Finish:** Turn off the heat. Squeeze half a lime over the noodles and toss.
+7.  **The Acid Balance:** Turn off the heat. Squeeze half a lime over the noodles and toss.
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Extra Lime wedges and Chili Crisp

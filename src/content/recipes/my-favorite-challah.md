@@ -1,7 +1,7 @@
 ---
 title: My Favorite Challah
 role: main
-vibe: project
+vibe: technical
 prepTime: 120 min
 cookTime: 40 min
 totalTime: 160 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-The challah is the ultimate test of **Structural Science** in the Silton bakery. The secret to its incredible "Bounce" is **The Slow-Development Pattern**: we use a massive 5-egg base to ensure a rich, brioche-like crumb. We maintain **Texture Integrity** through **The 6-Braid Pattern**: braiding the strands tightly creates internal tension that forces the bread to rise vertically, resulting in a tall, majestic loaf with a "Snappy" golden crust. Always let the dough rise in a warm, draft-free spot (The Thermal Rise) to ensure the yeast fully activates.
+The challah is the ultimate test of **Culinary Technique** in the Executive bakery. The secret to its incredible Texture is **The Slow-Development Method**: we use a massive 5-egg base to ensure a rich, brioche-like crumb. We maintain **Textural Balance** through **The 6-Braid Method**: braiding the strands tightly creates internal tension that forces the bread to rise vertically, resulting in a tall, majestic loaf with a crispy golden crust. Always let the dough rise in a warm, draft-free spot (The Thermal Rise) to ensure the yeast fully activates.
 
 ## Directions
 
@@ -37,6 +37,6 @@ The challah is the ultimate test of **Structural Science** in the Silton bakery.
 
 ## Serving Suggestions
 
-- [Classic Beef Stew](/recipes/classic-beef-stew)
-- [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+- [Classic Beef Stew](/silton-mise/recipes/classic-beef-stew)
+- [Nana's Turkey Dressing](/silton-mise/recipes/grandmommys-turkey-dressing)
 - French Toast (the next morning)

@@ -1,7 +1,7 @@
 ---
-title: Grilled Pork & Peaches (The Summer Standard)
+title: Grilled Pork & Peaches
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is a masterclass in **Modern Heritage** flavor pairing. The secret to succulent pork butt on the grill is **The Mallet Pattern**: you must pound the pork to a uniform 3/4-inch thickness; this breaks down tough connective tissue and ensures it sears at the same rate as the fruit. We maintain **Texture Integrity** through **The Peach Char**: we grill the peaches in butter and their own juices until just soft and slightly blackened—this creates a natural **Acid Finish** that cuts through the rich, rosemary-crusted pork.
+This dish is a masterclass in **Updated Classic** flavor pairing. The secret to succulent pork butt on the grill is **The Mallet Method**: you must pound the pork to a uniform 3/4-inch thickness; this breaks down tough connective tissue and ensures it sears at the same rate as the fruit. We maintain **Textural Balance** through **The Peach Char**: we grill the peaches in butter and their own juices until just soft and slightly blackened—this creates a natural **Acid Balance** that cuts through the rich, rosemary-crusted pork.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This dish is a masterclass in **Modern Heritage** flavor pairing. The secret to 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Cilantro Lime Rice](/silton-mise/recipes/cilantro-lime-rice)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

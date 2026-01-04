@@ -1,7 +1,7 @@
 ---
 title: Chinese Sausage Fried Rice
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Grain Separation" in fried rice is **Texture Integrity**. You must use **Day-Old Rice** that has been refrigerated; fresh rice is too moist and will turn into mush in the wok. We use the **Egg Ribbon Pattern**: cooking the eggs into a thin omelet first, slicing them, and folding them back in at the end. This ensures the eggs maintain their "Bounce" and bright yellow color rather than coating the rice in a gray film.
+The secret to "Grain Separation" in fried rice is **Textural Balance**. You must use **Day-Old Rice** that has been refrigerated; fresh rice is too moist and will turn into mush in the wok. We use the **Egg Ribbon Method**: cooking the eggs into a thin omelet first, slicing them, and folding them back in at the end. This ensures the eggs maintain their Texture and bright yellow color rather than coating the rice in a gray film.
 
 ## Directions
 
@@ -37,6 +37,6 @@ The secret to "Grain Separation" in fried rice is **Texture Integrity**. You mus
 
 ## Serving Suggestions
 
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Extra Chili Oil

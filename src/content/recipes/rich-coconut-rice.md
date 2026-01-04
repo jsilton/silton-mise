@@ -1,7 +1,7 @@
 ---
-title: Rich Coconut Rice (The Southeast Asian Standard)
+title: Rich Coconut Rice
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 35 min
@@ -29,6 +29,6 @@ Great coconut rice should be rich, fragrant, and slightly sticky. We use a **50/
 
 ## Serving Suggestions
 
-- [Miso-Glazed Salmon](/recipes/miso-salmon-with-bok-choy)
-- [Shrimp and Mango Tacos](/recipes/shrimp-and-mango-tacos)
-- [Thai Red Chicken Curry](/recipes/thai-chicken-curry)
+- [Miso-Glazed Salmon](/silton-mise/recipes/miso-salmon-with-bok-choy)
+- [Shrimp and Mango Tacos](/silton-mise/recipes/shrimp-and-mango-tacos)
+- [Thai Red Chicken Curry](/silton-mise/recipes/thai-chicken-curry)

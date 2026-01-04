@@ -1,7 +1,7 @@
 ---
 title: Apple Cider Cream Pie
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 180 min
 totalTime: 225 min
@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This pie is a masterclass in **Modern Heritage**. We take the soul of a classic custard pie and infuse it with a massive "High Note" by reducing two full cups of apple cider down to a concentrated syrup. The **Apple Cider Vinegar** in the crust isn't just for flavor—it’s a structural hack that inhibits gluten development, ensuring the flakiest possible bite to contrast the velvety custard.
+This pie is a masterclass in **Updated Classic**. We take the soul of a classic custard pie and infuse it with a massive "High Note" by reducing two full cups of apple cider down to a concentrated syrup. The **Apple Cider Vinegar** in the crust isn't just for flavor—it’s a structural hack that inhibits gluten development, ensuring the flakiest possible bite to contrast the velvety custard.
 
 ## Directions
 
@@ -42,5 +42,5 @@ This pie is a masterclass in **Modern Heritage**. We take the soul of a classic 
 
 ## Serving Suggestions
 
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)
 - Vanilla Bean Ice Cream

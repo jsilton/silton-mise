@@ -1,7 +1,7 @@
 ---
 title: Korean Spinach Salad (Sigeumchi Namul)
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Gold Standard" Korean spinach is **Structural Science** through **The 30-Second Blanch Pattern**. Spinach is 90% water; by plunging it into boiling water for exactly 30 seconds and then into ice water, we lock in the vibrant green chlorophyll and provide a resilient "Bounce." We maintain **Texture Integrity** through **The Squeeze**: you must gather the chilled spinach and squeeze until it is a dry, dense ball before seasoning. The toasted sesame oil is the mandatory savory **High Note**.
+The secret to "Kitchen Standard" Korean spinach is **Culinary Technique** through **The 30-Second Blanch Method**. Spinach is 90% water; by plunging it into boiling water for exactly 30 seconds and then into ice water, we lock in the vibrant green chlorophyll and provide a resilient "Bounce." We maintain **Textural Balance** through **The Squeeze**: you must gather the chilled spinach and squeeze until it is a dry, dense ball before seasoning. The toasted sesame oil is the mandatory savory **High Note**.
 
 ## Directions
 
@@ -32,6 +32,6 @@ The secret to "Gold Standard" Korean spinach is **Structural Science** through *
 
 ## Serving Suggestions
 
-- [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
-- [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
-- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)
+- [Bibimbap (The Ultimate Bowl)](/silton-mise/recipes/bibimbap)
+- [Marinated Korean Ribeye](/silton-mise/recipes/marinated-korean-ribeye)
+- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/silton-mise/recipes/korean-mung-bean-sprouts-salad)

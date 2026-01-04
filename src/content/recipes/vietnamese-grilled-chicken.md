@@ -1,7 +1,7 @@
 ---
-title: Vietnamese Grilled Chicken (The Lemongrass Standard)
+title: Vietnamese Grilled Chicken
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 40 min
@@ -34,6 +34,6 @@ To achieve the **Lemongrass Char** of a Vietnamese street stall, you must treat 
 
 ## Serving Suggestions
 
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack) or Coconut Rice
-- [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf) or Coconut Rice
+- [quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

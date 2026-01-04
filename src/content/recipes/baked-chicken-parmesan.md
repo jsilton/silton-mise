@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-The common flaw in Baked Chicken Parm is the "Soggy Bottom." We solve this with **Texture Integrity**: we bread the chicken with Panko and Parmesan and bake it at high heat until it's a crispy cutlet _before_ adding the sauce. By only spooning the sauce over the center of the chicken, we keep the edges shatteringly crisp. Always serve with a bright acid-forward salad to cut the heavy cheese.
+The common flaw in Baked Chicken Parm is the "Soggy Bottom." We solve this with **Textural Balance**: we bread the chicken with Panko and Parmesan and bake it at high heat until it's a crispy cutlet _before_ adding the sauce. By only spooning the sauce over the center of the chicken, we keep the edges shatteringly crisp. Always serve with a bright acid-forward salad to cut the heavy cheese.
 
 ## Directions
 
@@ -33,5 +33,5 @@ The common flaw in Baked Chicken Parm is the "Soggy Bottom." We solve this with 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory acid balance)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Mandatory acid balance)
 - Garlic Bread

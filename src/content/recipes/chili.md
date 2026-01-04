@@ -42,6 +42,6 @@ This is the "Secret Weapon" chili for families. The **Sweet Potatoes** serve a d
 
 ## Serving Suggestions
 
-- [Nana's Biscuits](/recipes/nanas-biscuits) or [My Favorite Cornbread](/recipes/my-favorite-cornbread)
+- [Nana's Biscuits](/silton-mise/recipes/nanas-biscuits) or [My Favorite Cornbread](/silton-mise/recipes/my-favorite-cornbread)
 - Greek Yogurt (as a high-protein sour cream swap)
 - Fresh Cilantro

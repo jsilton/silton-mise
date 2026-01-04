@@ -1,7 +1,7 @@
 ---
 title: Caramelized Black Pepper Chicken
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is about **Flavor Layering and Caramelization**. We use black pepper as a primary flavor driver, not just a seasoning. The secret is the **Hard Sear**: you want the chicken chunks to be browned and crispy before the sugar and fish sauce hit the pan. The fish sauce provides the umami depth, while the vinegar gives it the essential **Acid Finish**.
+This dish is about **Flavor Layering and Caramelization**. We use black pepper as a primary flavor driver, not just a seasoning. The secret is the **Hard Sear**: you want the chicken chunks to be browned and crispy before the sugar and fish sauce hit the pan. The fish sauce provides the umami depth, while the vinegar gives it the essential **Acid Balance**.
 
 ## Directions
 
@@ -35,5 +35,5 @@ This dish is about **Flavor Layering and Caramelization**. We use black pepper a
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

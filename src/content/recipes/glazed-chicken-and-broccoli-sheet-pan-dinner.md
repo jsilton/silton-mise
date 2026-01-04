@@ -13,13 +13,13 @@ ingredients:
   - '3 tbsp Extra-Virgin Olive Oil (divided)'
   - '--- The Teriyaki Glaze ---'
   - '2 tbsp Teriyaki Glaze (Scratch or high-quality store bought)'
-  - '1 tsp Fresh Ginger, grated (The High Note)'
+  - '1 tsp Fresh Ginger, grated (The Finishing Touch)'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-This is the baseline for high-performance "Comfort" weeknights. The secret to a non-mushy sheet pan dinner is **Texture Integrity** through **Staged Roasting**. Chicken and potatoes require 40+ minutes, while broccoli only needs 20. We roast the heavy components first to develop a "Snap" on the potato skins, then add the broccoli in the center. The broccoli acts as a steam-trap for the chicken juices, ensuring the meat stays succulent while the florets get those crispy, charred edges.
+This is the baseline for high-performance "Comfort" weeknights. The secret to a non-mushy sheet pan dinner is **Textural Balance** through **Staged Roasting**. Chicken and potatoes require 40+ minutes, while broccoli only needs 20. We roast the heavy components first to develop a Crunch on the potato skins, then add the broccoli in the center. The broccoli acts as a steam-trap for the chicken juices, ensuring the meat stays succulent while the florets get those crispy, charred edges.
 
 ## Directions
 
@@ -31,6 +31,6 @@ This is the baseline for high-performance "Comfort" weeknights. The secret to a 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Basmati Rice](/recipes/basmati-rice)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)

@@ -1,7 +1,7 @@
 ---
 title: Crustless Sausage & Spinach Quiche
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 40 min
 totalTime: 55 min
@@ -15,7 +15,7 @@ ingredients:
   - '--- The Cheese Mix ---'
   - '1 cup Sharp Cheddar (or Havarti), freshly grated'
   - '1/4 cup Freshly Grated Parmesan'
-  - '--- The High Note ---'
+  - '--- The Finishing Touch ---'
   - '3/4 tsp Sea Salt'
   - '1/8 tsp Black Pepper'
   - 'Pinch of Freshly Grated Nutmeg'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Gold Standard" crustless quiche is **Texture Integrity** through **The Dry Wilt Pattern**. Most quiches become watery because of the spinach; we sauté the sausage first, then wilt the spinach in the rendered fat and **drain it bone-dry** before adding to the eggs. We use **The Nutmeg Bridge**: a tiny pinch of nutmeg doesn't make the dish taste like dessert—it provides the mandatory "High Note" that connects the salty sausage to the rich, creamy custard.
+The secret to a "Kitchen Standard" crustless quiche is **Textural Balance** through **The Dry Wilt Method**. Most quiches become watery because of the spinach; we sauté the sausage first, then wilt the spinach in the rendered fat and **drain it bone-dry** before adding to the eggs. We use **The Nutmeg Bridge**: a tiny pinch of nutmeg doesn't make the dish taste like dessert—it provides the mandatory "High Note" that connects the salty sausage to the rich, creamy custard.
 
 ## Directions
 
@@ -39,6 +39,6 @@ The secret to a "Gold Standard" crustless quiche is **Texture Integrity** throug
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Fruit Platter
-- [Roasted Asparagus](/recipes/roasted-asparagus)
+- [Roasted Asparagus](/silton-mise/recipes/roasted-asparagus)

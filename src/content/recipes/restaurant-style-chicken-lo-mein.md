@@ -1,7 +1,7 @@
 ---
 title: Restaurant-Style Chicken Lo Mein
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 15 min
 totalTime: 35 min
@@ -16,7 +16,7 @@ ingredients:
   - '--- The Stir-Fry ---'
   - '4 cups Cabbage, shredded'
   - '2 Carrots, julienned'
-  - '2 cups Mung Bean Sprouts (The Snap)'
+  - '2 cups Mung Bean Sprouts (The Crunch)'
   - '--- The Lo Mein Sauce ---'
   - '1 tbsp Light Soy Sauce'
   - '4 tsp Dark Soy Sauce (for color)'
@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" Lo Mein is **Structural Science** through **The Velveting Pattern**. By marinating the chicken in cornstarch and water, we ensure it remains juicy even under high heat. We maintain **Texture Integrity** through **The 60-Second Steam**: we add a splash of water and cover the wok for exactly one minute; this "shocks" the cabbage and carrots into tenderness while keeping the noodles resilient. The dark soy sauce is the mandatory **High Note** for that iconic takeout bronze.
+The secret to restaurant-quality Lo Mein is **Culinary Technique** through **The Velveting Method**. By marinating the chicken in cornstarch and water, we ensure it remains juicy even under high heat. We maintain **Textural Balance** through **The 60-Second Steam**: we add a splash of water and cover the wok for exactly one minute; this "shocks" the cabbage and carrots into tenderness while keeping the noodles resilient. The dark soy sauce is the mandatory **High Note** for that iconic takeout bronze.
 
 ## Directions
 
@@ -42,6 +42,6 @@ The secret to "Restaurant Quality" Lo Mein is **Structural Science** through **T
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

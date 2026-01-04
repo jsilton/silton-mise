@@ -1,7 +1,7 @@
 ---
 title: Lime & Honey Glazed Salmon
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 15 min
 totalTime: 35 min
@@ -25,19 +25,19 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance "Fuel" meal that relies on **Staged Cooking**. The secret to its elite flavor is the **Skillet Reduction Pattern**: we sear the salmon in a lime-honey glaze until caramelized, then use the same pan to build a warm black bean and corn salad. This ensures the smoky chili-lime juices from the fish infuse the vegetables. The spinach is folded in at the very end to maintain **Texture Integrity**—it should be just wilted, providing a vibrant "Bounce" to the earthy beans.
+This is a high-performance nutritious meal that relies on **Staged Cooking**. The secret to its elite flavor is the **Skillet Reduction Method**: we sear the salmon in a lime-honey glaze until caramelized, then use the same pan to build a warm black bean and corn salad. This ensures the smoky chili-lime juices from the fish infuse the vegetables. The spinach is folded in at the very end to maintain **Textural Balance**—it should be just wilted, providing a vibrant Texture to the earthy beans.
 
 ## Directions
 
 1.  **Aromatics:** In a large skillet, sauté onion, garlic, red pepper flakes, and cumin in 1 tbsp oil for 3 minutes.
 2.  **The Glaze:** In a shallow dish, whisk the juice of 1 lime, honey, and chili powder. Coat the salmon fillets in this mixture.
-3.  **The Sear:** In a separate non-stick skillet, heat 1 tbsp oil over medium-high. Sear salmon for 5 minutes per side until the honey has created a dark, "Snappy" crust. Cover the pan during the final 2 minutes to ensure it is cooked through.
+3.  **The Sear:** In a separate non-stick skillet, heat 1 tbsp oil over medium-high. Sear salmon for 5 minutes per side until the honey has created a dark, crispy crust. Cover the pan during the final 2 minutes to ensure it is cooked through.
 4.  **The Salad:** To the onion skillet, add the corn and bell peppers. Sauté for 1 minute. Add chicken broth and simmer for 2 minutes. Stir in the black beans until heated through.
 5.  **Finish:** Remove from heat. Add the second lime's juice, cilantro, and spinach. Toss until the spinach just collapses.
 6.  **Serve:** Mound the warm bean salad in bowls and top with the glazed salmon.
 
 ## Serving Suggestions
 
-- [Guacamole (The Silton Standard)](/recipes/guacamole)
-- [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
-- [Pickled Red Onions](/recipes/pickled-red-onions)
+- [Guacamole](/silton-mise/recipes/guacamole)
+- [Cilantro Lime Rice](/silton-mise/recipes/cilantro-lime-rice)
+- [Pickled Red Onions](/silton-mise/recipes/pickled-red-onions)

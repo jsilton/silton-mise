@@ -1,7 +1,7 @@
 ---
 title: Har Gow (Dim Sum Shrimp Dumplings)
 role: main
-vibe: project
+vibe: technical
 prepTime: 60 min
 cookTime: 10 min
 totalTime: 140 min
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-Har Gow is the "Black Belt" of Dim Sum. The secret to the legendary **Translucency** is **Structural Science** through the **Wheat-Starch Pattern**. You must use boiling water to gelatinize the starch instantly, creating a dough that is flexible but transforms into a glass-like shell when steamed. For the interior, we use **The Shrimp Bounce Pattern**: whip the shrimp mixture in one direction until it becomes a sticky paste—this creates the "Snap" that differentiates a Gold Standard dumpling from a soggy one.
+Har Gow is the "Black Belt" of Dim Sum. The secret to the legendary **Translucency** is **Culinary Technique** through the **Wheat-Starch Method**. You must use boiling water to gelatinize the starch instantly, creating a dough that is flexible but transforms into a glass-like shell when steamed. For the interior, we use **The Shrimp Bounce Method**: whip the shrimp mixture in one direction until it becomes a sticky paste—this creates the Crunch that differentiates a Kitchen Standard dumpling from a soggy one.
 
 ## Directions
 
@@ -40,6 +40,6 @@ Har Gow is the "Black Belt" of Dim Sum. The secret to the legendary **Translucen
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

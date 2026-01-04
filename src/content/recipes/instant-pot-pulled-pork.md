@@ -40,6 +40,6 @@ This is the ultimate hack for families. The high-sugar soda contains phosphoric 
 
 ## Serving Suggestions
 
-- [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon) (As a slaw topper)
+- [quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon) (As a slaw topper)
 - Sweet Potato Fries
 - Brioche Buns

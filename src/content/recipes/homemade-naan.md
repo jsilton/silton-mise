@@ -1,7 +1,7 @@
 ---
 title: Homemade Naan (Skillet Char Method)
 role: base
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 10 min
 totalTime: 2 hours
@@ -36,6 +36,6 @@ Great Naan requires **Yogurt and High Heat**. The yogurt provides the fermentati
 
 ## Pairs With
 
-- [Chicken Tikka Masala](/recipes/chicken-tikka-masala)
-- [Saag Paneer](/recipes/saag-paneer)
-- [Lamb Keema Matar](/recipes/lamb-keema-matar)
+- [Chicken Tikka Masala](/silton-mise/recipes/chicken-tikka-masala)
+- [Saag Paneer](/silton-mise/recipes/saag-paneer)
+- [Lamb Keema Matar](/silton-mise/recipes/lamb-keema-matar)

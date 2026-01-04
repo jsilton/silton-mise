@@ -1,7 +1,7 @@
 ---
 title: General Tso's Tofu
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -11,7 +11,7 @@ ingredients:
   - '--- The Honey-Heat Bind ---'
   - '1 1/2 tbsp Honey'
   - '2 tsp Hot Sauce (Crystal or Tabasco)'
-  - '3 tbsp Cornstarch (The "Snap" Guard)'
+  - '3 tbsp Cornstarch (the crunch Guard)'
   - '1 1/2 tbsp Sesame Seeds'
   - '--- The General Sauce ---'
   - '1 cup Vegetable Stock'
@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 35-minute "Speed" hero. The secret to tofu that isn't soggy is **Texture Integrity** through **The Honey-Heat Bind Pattern**. We toss the tofu in honey and hot sauce _before_ the cornstarch; this creates a sticky surface that the starch and sesame seeds can fuse to, creating a shatteringly crisp "Snap" that lasts even after being glazed. The **Dark Soy Sauce** is essential for the mandatory deep amber color of a "Gold Standard" General Tso.
+This is a 35-minute quick hero. The secret to tofu that isn't soggy is **Textural Balance** through **The Honey-Heat Bind Method**. We toss the tofu in honey and hot sauce _before_ the cornstarch; this creates a sticky surface that the starch and sesame seeds can fuse to, creating a shatteringly crisp Crunch that lasts even after being glazed. The **Dark Soy Sauce** is essential for the mandatory deep amber color of a "Kitchen Standard" General Tso.
 
 ## Directions
 
@@ -45,6 +45,6 @@ This is a 35-minute "Speed" hero. The secret to tofu that isn't soggy is **Textu
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)

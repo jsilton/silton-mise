@@ -1,7 +1,7 @@
 ---
-title: Funfetti Cake (The Birthday Standard)
+title: Funfetti Cake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 50 min
 cookTime: 40 min
 totalTime: 90 min
@@ -18,7 +18,7 @@ ingredients:
   - '4 1/2 tsp Baking Powder'
   - '1 1/2 tsp Sea Salt'
   - '4 tsp Pure Vanilla Extract'
-  - '--- The Silton Buttercream ---'
+  - '--- The Executive Buttercream ---'
   - '1 lb (4 sticks) Unsalted Butter, softened'
   - '6 cups Confectioners’ Sugar'
   - '6 tbsp Heavy Cream'
@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Gold Standard" for celebratory baking. We use **Structural Science** through **The Egg White Fold Pattern**: instead of beating whole eggs into the batter, we whip the whites separately and fold them in at the end. This ensures a light, airy "Bounce" that contrasts the rich buttercream. To maintain **Texture Integrity**, you must use "Jimmies" (the long cylinders) rather than nonpareils (the tiny balls); nonpareils will bleed their color and turn the batter gray, while jimmies provide the mandatory "High Note" pops of color.
+This is the "Kitchen Standard" for celebratory baking. We use **Culinary Technique** through **The Egg White Fold Method**: instead of beating whole eggs into the batter, we whip the whites separately and fold them in at the end. This ensures a light, airy Texture that contrasts the rich buttercream. To maintain **Textural Balance**, you must use "Jimmies" (the long cylinders) rather than nonpareils (the tiny balls); nonpareils will bleed their color and turn the batter gray, while jimmies provide the mandatory "High Note" pops of color.
 
 ## Directions
 
@@ -39,10 +39,10 @@ This is the "Gold Standard" for celebratory baking. We use **Structural Science*
 6.  **The Fold:** Gently fold the whipped whites and sprinkles into the batter using a spatula. Do not over-mix.
 7.  **Bake:** Divide among pans. Bake for 35-40 minutes until a toothpick comes out clean. Cool in pans for 15 minutes, then invert onto racks.
 8.  **The Frosting:** Beat 1 lb butter until creamy. Gradually add sugar, then heavy cream and vanilla. Beat on high for 3 minutes until billowy.
-9.  **Assemble:** Layer the cooled cakes with frosting. Do a thin "crumb coat" and freeze for 10 minutes before applying the final thick layer of buttercream for a professional "Snap" finish.
+9.  **Assemble:** Layer the cooled cakes with frosting. Do a thin "crumb coat" and freeze for 10 minutes before applying the final thick layer of buttercream for a professional Crunch finish.
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Fresh Berries
-- [Classic Martini](/recipes/classic-martini) (for the adults)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (for the adults)

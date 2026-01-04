@@ -18,7 +18,7 @@ ingredients:
   - 1 tsp Kosher Salt
   - 1/2 tsp Black Pepper
 role: main
-vibe: fuel
+vibe: nutritious
 ---
 
 ## Chef's Note
@@ -37,6 +37,6 @@ This is a Southern-style **Custard Mac and Cheese** with a pimento-infused twist
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (to cut the richness)
-- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (to cut the richness)
+- [Roasted Tomato Basil Soup](/silton-mise/recipes/roasted-tomato-basil-soup)
 - Grilled Chicken or Stewed Greens

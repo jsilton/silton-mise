@@ -1,7 +1,7 @@
 ---
 title: Freezer Banana Bread
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 50 min
 totalTime: 65 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the Gold Standard for **Modularity**. The secret to a perfect slice every morning is **The Freezer-Slice Pattern**: we use **Greek Yogurt** instead of butter to create a dense, high-moisture "Bounce" that specifically survives the freezing process without becoming crumbly. We use **The Blender Pattern** to pulverize the bananas and wet ingredients into a silky emulsion before folding in the flour—this ensures an even distribution of sweetness and prevents "mushy pockets."
+This is the Kitchen Standard for **Modularity**. The secret to a perfect slice every morning is **The Freezer-Slice Method**: we use **Greek Yogurt** instead of butter to create a dense, high-moisture Texture that specifically survives the freezing process without becoming crumbly. We use **The Blender Method** to pulverize the bananas and wet ingredients into a silky emulsion before folding in the flour—this ensures an even distribution of sweetness and prevents "mushy pockets."
 
 ## Directions
 
@@ -31,10 +31,10 @@ This is the Gold Standard for **Modularity**. The secret to a perfect slice ever
 3.  **Combine:** Pour the wet ingredients into the dry. Stir with a spatula until **just combined** (do not over-mix, or the whole-wheat will turn tough).
 4.  **Bake:** Pour into a greased loaf pan. Bake for 50-55 minutes until a toothpick inserted into the center comes out clean.
 5.  **Cool:** Let cool in the pan for 15 minutes before slicing.
-6.  **The Freeze:** To store, slice the loaf into 1/2-inch rounds. Place parchment between slices and freeze in a zip-top bag. Reheat individual slices in the toaster for a "Snap" finish.
+6.  **The Freeze:** To store, slice the loaf into 1/2-inch rounds. Place parchment between slices and freeze in a zip-top bag. Reheat individual slices in the toaster for a Crunch finish.
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Sliced Berries
 - Salted Butter or Peanut Butter

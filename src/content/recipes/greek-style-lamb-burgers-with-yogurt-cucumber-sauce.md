@@ -1,7 +1,7 @@
 ---
 title: Greek-Style Lamb Burgers
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 12 min
 totalTime: 45 min
@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The lamb burger is a masterclass in flavor balancing. Because lamb is naturally fatty, we use **The Long-Oval Pattern**: we shape the patties into ovals rather than rounds to maximize the surface area for the **High-Heat Sear**, which renders the external fat into a crispy crust. We maintain **Texture Integrity** by using finely diced cucumber in the sauce rather than grated; this provides a "Snap" that contrasts the rich meat. The yogurt sauce provides the mandatory **Acid Finish** to cut the gaminess of the lamb.
+The lamb burger is a masterclass in flavor balancing. Because lamb is naturally fatty, we use **The Long-Oval Method**: we shape the patties into ovals rather than rounds to maximize the surface area for the **High-Heat Sear**, which renders the external fat into a crispy crust. We maintain **Textural Balance** by using finely diced cucumber in the sauce rather than grated; this provides a Crunch that contrasts the rich meat. The yogurt sauce provides the mandatory **Acid Balance** to cut the gaminess of the lamb.
 
 ## Directions
 
@@ -43,7 +43,7 @@ The lamb burger is a masterclass in flavor balancing. Because lamb is naturally 
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Crispy Smashed Potatoes](/silton-mise/recipes/crispy-smashed-potatoes)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

@@ -1,7 +1,7 @@
 ---
-title: Sugar Cookies (The Silton Standard)
+title: Sugar Cookies
 role: base
-vibe: speed
+vibe: quick
 prepTime: 30 min
 cookTime: 10 min
 totalTime: 40 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for all holiday baking. The secret to a professional "Snap" is **Structural Science** through **The Sifting Pattern**. You must sift the flour, salt, and baking powder together; this breaks up any starch clumps and ensures a uniform, "Shatteringly Soft" crumb. We maintain **Texture Integrity** through **The 2-Hour Chill**: you must refrigerate the dough until stone-cold before rolling; this prevents the butter from melting too quickly, resulting in a cookie that holds its sharp edges and has a resilient "Bounce."
+This is the baseline **Modularity** component for all holiday baking. The secret to a professional Crunch is **Culinary Technique** through **The Sifting Method**. You must sift the flour, salt, and baking powder together; this breaks up any starch clumps and ensures a uniform, delicate crumb. We maintain **Textural Balance** through **The 2-Hour Chill**: you must refrigerate the dough until stone-cold before rolling; this prevents the butter from melting too quickly, resulting in a cookie that holds its sharp edges and has a resilient "Bounce."
 
 ## Directions
 
@@ -29,10 +29,10 @@ This is the baseline **Modularity** component for all holiday baking. The secret
 4.  **The Chill:** Divide dough into two disks. Wrap tightly in plastic and **refrigerate for at least 2 hours**.
 5.  **Shape:** Preheat oven to 375°F. On a floured surface, roll dough to 1/4-inch thickness. Cut into shapes.
 6.  **Bake:** Place 1 inch apart on parchment. Bake for 10-12 minutes until the very edges are just beginning to turn golden brown.
-7.  **The Set:** Let cool on the pan for 5 minutes to ensure a "Snappy" base. Serve plain or decorate with [Royal Icing](/recipes/royal-icing).
+7.  **The Finish:** Let cool on the pan for 5 minutes to ensure a crispy base. Serve plain or decorate with [Royal Icing](/silton-mise/recipes/royal-icing).
 
 ## Serving Suggestions
 
-- [Royal Icing (The Professional Standard)](/recipes/royal-icing)
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream) (as a "base" for a sundae)
+- [Royal Icing](/silton-mise/recipes/royal-icing)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream) (as a "base" for a sundae)

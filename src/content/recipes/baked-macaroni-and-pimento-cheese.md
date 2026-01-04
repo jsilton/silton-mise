@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to a Southern staple. By combining the sharp tang of pimentos with a classic Mornay sauce (the roux + cheese), we get a dish that is far more sophisticated than standard mac and cheese. The secret to the Silton Standard here is using **Freshly Shredded Cheddar**—pre-shredded cheese is coated in cellulose which prevents a perfectly smooth melt. The panko-parmesan topping provides the necessary "Snap" to contrast the creamy pasta.
+This is a **Updated Classic** update to a Southern staple. By combining the sharp tang of pimentos with a classic Mornay sauce (the roux + cheese), we get a dish that is far more sophisticated than standard mac and cheese. The secret to the Kitchen Standard here is using **Freshly Shredded Cheddar**—pre-shredded cheese is coated in cellulose which prevents a perfectly smooth melt. The panko-parmesan topping provides the necessary Crunch to contrast the creamy pasta.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is a **Modern Heritage** update to a Southern staple. By combining the shar
 
 ## Serving Suggestions
 
-- [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Buttermilk Baked Chicken](/silton-mise/recipes/buttermilk-baked-chicken)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

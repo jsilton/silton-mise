@@ -1,7 +1,7 @@
 ---
-title: Steven’s Margaritas (The Silton Standard)
+title: Steven’s Margaritas
 role: drink
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
@@ -9,16 +9,16 @@ servings: '1'
 ingredients:
   - '2 oz La Gritona Reposado Tequila'
   - '1 oz Cointreau (The "Silk" Base)'
-  - '1 oz Fresh Lime Juice (The Acid Finish)'
+  - '1 oz Fresh Lime Juice (The Acid Balance)'
   - '1 squirt Agave Syrup'
   - '--- The Finish ---'
-  - 'Pinch of Smoked Sea Salt (The "Deep Note")'
+  - 'Pinch of Smoked Sea Salt (The complex flavor)'
   - 'Lime wedge for garnish'
 ---
 
 ## Chef's Note
 
-This is the definitive "Speed" cocktail for the Silton home bar. The secret to its Success is **The Smoked Salt Pulse**. Instead of rimming the glass (which provides inconsistent flavor), we add a tiny pinch of **Smoked Sea Salt** directly into the shaker. This introduces a "Deep Note" that amplifies the wood-aged notes of the reposado tequila. We use a **1:1:1 ratio** of tequila, orange liqueur, and lime to ensure a perfect balance where the acid provides a sharp "Snap" against the velvety agave "Bounce."
+This is the definitive quick cocktail for the home bar. The secret to its Success is **The Smoked Salt Pulse**. Instead of rimming the glass (which provides inconsistent flavor), we add a tiny pinch of **Smoked Sea Salt** directly into the shaker. This introduces a complex flavor that amplifies the wood-aged notes of the reposado tequila. We use a **1:1:1 ratio** of tequila, orange liqueur, and lime to ensure a perfect balance where the acid provides a sharp Crunch against the velvety agave "Bounce."
 
 ## Directions
 
@@ -31,6 +31,6 @@ This is the definitive "Speed" cocktail for the Silton home bar. The secret to i
 
 ## Serving Suggestions
 
-- [Guacamole (The Silton Standard)](/recipes/guacamole)
-- [Seafood-Chorizo Tacos](/recipes/seafood-chorizo-tacos)
-- [Mexican Street Corn Salad (Esquites)](/recipes/mexican-street-corn-salad)
+- [Guacamole](/silton-mise/recipes/guacamole)
+- [Seafood-Chorizo Tacos](/silton-mise/recipes/seafood-chorizo-tacos)
+- [Mexican Street Corn Salad (Esquites)](/silton-mise/recipes/mexican-street-corn-salad)

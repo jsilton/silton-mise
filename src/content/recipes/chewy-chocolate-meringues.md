@@ -31,4 +31,4 @@ The secret to a meringue that is "Chewy" rather than just "Crispy" is the **Suga
 ## Serving Suggestions
 
 - Fresh Raspberries
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)

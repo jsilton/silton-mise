@@ -1,7 +1,7 @@
 ---
 title: Chicken Tinga (Smoky Shredded Chicken)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -29,10 +29,10 @@ Chicken Tinga is defined by its smoky, earthy sauce. To get the best result with
 3.  **Sauté:** Wipe out the pan. Add a splash of oil and sauté the onion half-moons until translucent.
 4.  **Simmer:** Pour the blended sauce into the pan. Stir in broth, oregano, and salt. Bring to a simmer for 5 minutes to thicken.
 5.  **Toss:** Add the shredded chicken to the sauce. Cook for 5 minutes until the chicken has absorbed the smoky flavors.
-6.  **Finish:** Add a squeeze of lime at the end for the **Acid Finish**.
+6.  **Finish:** Add a squeeze of lime at the end for the **Acid Balance**.
 
 ## Serving Suggestions
 
-- [Weeknight Tacos](/recipes/tacos)
-- [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon)
-- Serve over [Mexican Rice](/recipes/near-east-rice-pilaf-hack)
+- [Weeknight Tacos](/silton-mise/recipes/tacos)
+- [quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon)
+- Serve over [Mexican Rice](/silton-mise/recipes/homemade-rice-pilaf)

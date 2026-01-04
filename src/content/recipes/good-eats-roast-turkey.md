@@ -1,5 +1,5 @@
 ---
-title: Good Eats Roast Turkey (The Alton Brown Standard)
+title: Good Eats Roast Turkey
 role: main
 vibe: holiday
 prepTime: 30 min
@@ -42,6 +42,6 @@ This is the scientifically superior method for roast turkey. **The Brine** uses 
 
 ## Serving Suggestions
 
-- [Corn Bread Dressing](/recipes/corn-bread-dressing)
-- [Cranberry Orange Sauce](/recipes/cranberry-orange-sauce)
-- [Spiced Butternut Squash Purée](/recipes/spiced-butternut-squash-puree)
+- [Corn Bread Dressing](/silton-mise/recipes/corn-bread-dressing)
+- [Cranberry Orange Sauce](/silton-mise/recipes/cranberry-orange-sauce)
+- [Spiced Butternut Squash Purée](/silton-mise/recipes/spiced-butternut-squash-puree)

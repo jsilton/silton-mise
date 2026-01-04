@@ -1,7 +1,7 @@
 ---
 title: Anadama Bread (The New England Classic)
 role: base
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 30 min
 totalTime: 3 hours
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-Anadama is a quintessential New England bread defined by the bittersweet depth of **Molasses** and the rustic "bite" of cornmeal. The secret is the **Cornmeal Porridge**: you must cook the cornmeal in water first to hydrate the starch, ensuring the bread stays moist rather than gritty. This is a "Modern Heritage" keeper that pairs perfectly with a salty butter or a bowl of chowder.
+Anadama is a quintessential New England bread defined by the bittersweet depth of **Molasses** and the rustic "bite" of cornmeal. The secret is the **Cornmeal Porridge**: you must cook the cornmeal in water first to hydrate the starch, ensuring the bread stays moist rather than gritty. This is a "Updated Classic" keeper that pairs perfectly with a salty butter or a bowl of chowder.
 
 ## Directions
 
@@ -35,6 +35,6 @@ Anadama is a quintessential New England bread defined by the bittersweet depth o
 
 ## Serving Suggestions
 
-- [Roasted Corn Chowder with Lime Shrimp](/recipes/roasted-corn-chowder-with-lime-cured-shrimp)
+- [Roasted Corn Chowder with Lime Shrimp](/silton-mise/recipes/roasted-corn-chowder-with-lime-cured-shrimp)
 - Warm Salted Butter
 - Sunday Roast

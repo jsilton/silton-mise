@@ -1,5 +1,5 @@
 ---
-title: Pumpkin Pancakes (The Autumn Standard)
+title: Pumpkin Pancakes
 role: main
 vibe: comfort
 prepTime: 10 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" pumpkin pancakes is **Structural Science** through **The Lump Pattern**. Pumpkin puree adds significant weight and moisture; to prevent the pancakes from becoming rubbery, you must whisk the dry ingredients into the wet until **just combined**. If you whisk until smooth, you overwork the gluten and destroy the "Bounce." A few small lumps of flour are the mandatory guard against toughness.
+The secret to restaurant-quality pumpkin pancakes is **Culinary Technique** through **The Lump Method**. Pumpkin puree adds significant weight and moisture; to prevent the pancakes from becoming rubbery, you must whisk the dry ingredients into the wet until **just combined**. If you whisk until smooth, you overwork the gluten and destroy the "Bounce." A few small lumps of flour are the mandatory guard against toughness.
 
 ## Directions
 
@@ -37,6 +37,6 @@ The secret to "Restaurant Quality" pumpkin pancakes is **Structural Science** th
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (for a savory-sweet brunch)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (for a savory-sweet brunch)
 - Toasted Pecans
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)

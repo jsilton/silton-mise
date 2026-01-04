@@ -1,7 +1,7 @@
 ---
 title: Garlic Honey Lime Shrimp
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 5 min
 totalTime: 15 min
@@ -24,7 +24,7 @@ This dish is about the **"Shrimp Snap"**. By giving the shrimp a quick 5-minute 
 
 ## Directions
 
-1.  **The Snap:** Toss shrimp with baking soda and a splash of water. Let sit for 5 minutes. **Rinse thoroughly** under cold water and pat bone-dry.
+1.  **The Crunch:** Toss shrimp with baking soda and a splash of water. Let sit for 5 minutes. **Rinse thoroughly** under cold water and pat bone-dry.
 2.  **The Pan:** Heat butter and oil in a heavy skillet over medium-high until the butter foams.
 3.  **The Sear:** Add garlic for 30 seconds (don't burn!). Add shrimp in a single layer. Sear for 2 minutes until pink.
 4.  **The Glaze:** Add honey, lime juice, salt, and cayenne. Stir constantly for 1-2 minutes until the sauce bubbles and thickens into a sticky glaze that coats the shrimp.
@@ -32,6 +32,6 @@ This dish is about the **"Shrimp Snap"**. By giving the shrimp a quick 5-minute 
 
 ## Serving Suggestions
 
-- **Cilantro Lime Rice:** Stir lime juice and cilantro into [Jasmine Rice](/recipes/near-east-rice-pilaf-hack).
-- **Quick Black Beans:** Simmer canned beans with cumin and garlic.
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- **Cilantro Lime Rice:** Stir lime juice and cilantro into [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf).
+- **quick Black Beans:** Simmer canned beans with cumin and garlic.
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

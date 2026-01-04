@@ -1,5 +1,5 @@
 ---
-title: Chicken Marsala (The Gold Standard)
+title: Chicken Marsala
 prepTime: 20 min
 cookTime: 25 min
 totalTime: 45 min
@@ -36,6 +36,6 @@ This is the definitive version of a restaurant classic. The depth of flavor come
 
 ## Serving Suggestions
 
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Crusty Sourdough Bread

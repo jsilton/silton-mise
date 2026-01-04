@@ -1,7 +1,7 @@
 ---
 title: Parmigiano Reggiano Cheesecake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 90 min
 totalTime: 6 hours
@@ -10,7 +10,7 @@ ingredients:
   - '--- The Savory Crust ---'
   - '3/4 cup Finely Ground Parmigiano Reggiano'
   - '18 Graham Crackers, crushed'
-  - '1/2 cup Toasted Sunflower Seeds (Silton Nut-Free option)'
+  - '1/2 cup Toasted Sunflower Seeds (Nut-Free option)'
   - '1 tsp Lemon Zest'
   - '1/2 tsp Cinnamon'
   - '4 tbsp Unsalted Butter, melted'
@@ -40,5 +40,5 @@ This is a sophisticated, "Restaurant Style" cheesecake that plays with the bound
 ## Serving Suggestions
 
 - Fresh Fig Jam or Balsamic Glaze
-- [Vieux Carré](/recipes/vieux-carre)
+- [Vieux Carré](/silton-mise/recipes/vieux-carre)
 - Glass of Prosecco

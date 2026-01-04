@@ -1,5 +1,5 @@
 ---
-title: Chicken and Wild Rice Soup (The Comfort Standard)
+title: Chicken and Wild Rice Soup
 role: main
 vibe: comfort
 prepTime: 20 min
@@ -17,7 +17,7 @@ ingredients:
   - '--- The Broth ---'
   - '3 quarts High-Quality Chicken Broth'
   - '1 tbsp Fresh Thyme or Sage'
-  - '1 tbsp Lemon Juice (The Acid Finish)'
+  - '1 tbsp Lemon Juice (The Acid Balance)'
   - '1/4 cup Fresh Parsley, chopped'
 ---
 
@@ -35,5 +35,5 @@ A great wild rice soup should be nutty and aromatic, not thin and watery. The se
 
 ## Serving Suggestions
 
-- [Anadama Bread](/recipes/anadama-bread) with Salted Butter
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Anadama Bread](/silton-mise/recipes/anadama-bread) with Salted Butter
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

@@ -1,13 +1,13 @@
 ---
-title: Chocolate Pie (The Bittersweet Standard)
+title: Chocolate Pie
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 10 min
 totalTime: 280 min
 servings: '10'
 ingredients:
-  - '1 Pie Crust, baked and cooled (Use the [Apple Pie](/recipes/apple-pie) Vodka Hack dough!)'
+  - '1 Pie Crust, baked and cooled (Use the [Apple Pie](/silton-mise/recipes/apple-pie) Vodka Hack dough!)'
   - '--- The Silk Filling ---'
   - '6 1/2 oz Bittersweet Chocolate, finely chopped'
   - '1 1/2 cups Granulated Sugar'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-We have upgraded the old-school "pudding pie" to the **Modern Heritage** standard. The secret is the **Bittersweet High Note**: by using 70% cacao chocolate instead of milk chocolate, we create a sophisticated, intense filling that balances the sweetness of the sugar. We use **The Emulsion Pattern**: we whisk the egg yolks directly into the cold milk before cooking, ensuring a silky, custard-like "Bounce" that never turns grainy. For the best result, use the Vodka Hack crust from our [Apple Pie](/recipes/apple-pie).
+We have upgraded the old-school "pudding pie" to the **Updated Classic** standard. The secret is the **Bittersweet High Note**: by using 70% cacao chocolate instead of milk chocolate, we create a sophisticated, intense filling that balances the sweetness of the sugar. We use **The Emulsion Method**: we whisk the egg yolks directly into the cold milk before cooking, ensuring a silky, custard-like Texture that never turns grainy. For the best result, use the Vodka Hack crust from our [Apple Pie](/silton-mise/recipes/apple-pie).
 
 ## Directions
 
@@ -32,12 +32,12 @@ We have upgraded the old-school "pudding pie" to the **Modern Heritage** standar
 2.  **Emulsify:** Slowly whisk in the milk and egg yolks until the mixture is perfectly smooth.
 3.  **The Cook:** Cook over medium heat, stirring constantly, for 6-8 minutes until the mixture just reaches a boil and becomes thick and glossy (like a heavy pudding).
 4.  **The Melt:** Remove from heat immediately. Stir in the chopped bittersweet chocolate, butter, and vanilla. Whisk until the chocolate is completely melted and the filling is uniform.
-5.  **The Set:** Pour the hot filling into the cooled pie crust. Press a piece of plastic wrap directly onto the surface of the pudding to prevent a "skin" from forming.
+5.  **The Finish:** Pour the hot filling into the cooled pie crust. Press a piece of plastic wrap directly onto the surface of the pudding to prevent a "skin" from forming.
 6.  **Chill:** Refrigerate for **at least 4 hours** (uncovered after the first hour) until perfectly set.
-7.  **Serve:** Top with billowy whipped cream and shaved chocolate for **Texture Integrity**.
+7.  **Serve:** Top with billowy whipped cream and shaved chocolate for **Textural Balance**.
 
 ## Serving Suggestions
 
-- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+- [Old-Fashioned Strawberry Ice Cream](/silton-mise/recipes/old-fashioned-strawberry-ice-cream)
 - Fresh Sliced Raspberries
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)

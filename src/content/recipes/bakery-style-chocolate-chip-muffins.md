@@ -1,7 +1,7 @@
 ---
-title: Bakery Style Chocolate Chip Muffins (The High-Dome Standard)
+title: Bakery Style Chocolate Chip Muffins
 role: side
-vibe: project
+vibe: technical
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -35,5 +35,5 @@ To achieve the **"Bakery High-Dome"**, we use two professional techniques: **The
 
 ## Serving Suggestions
 
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)
 - Cold Glass of Milk

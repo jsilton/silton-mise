@@ -1,7 +1,7 @@
 ---
 title: Chinese Eggplant with Garlic Sauce
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The challenge with eggplant is preventing it from becoming an oil-soaked sponge. We use **Texture Integrity** through the **Perimeter Sear Pattern**: instead of deep-frying, we sear the eggplant in a lightly oiled wok over medium heat until the skin is purple-gold and the flesh is translucent but holds its shape. We use the **Angle Cut** (triangular chunks) to maximize the surface area for the **Garlic Sauce** to cling to. The hit of rice vinegar at the end provides the mandatory **High Note**.
+The challenge with eggplant is preventing it from becoming an oil-soaked sponge. We use **Textural Balance** through the **Perimeter Sear Method**: instead of deep-frying, we sear the eggplant in a lightly oiled wok over medium heat until the skin is purple-gold and the flesh is translucent but holds its shape. We use the **Angle Cut** (triangular chunks) to maximize the surface area for the **Garlic Sauce** to cling to. The hit of rice vinegar at the end provides the mandatory **High Note**.
 
 ## Directions
 
@@ -44,6 +44,6 @@ The challenge with eggplant is preventing it from becoming an oil-soaked sponge.
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

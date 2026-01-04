@@ -1,5 +1,5 @@
 ---
-title: Pizza Beans (The Vegetarian Standard)
+title: Pizza Beans
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Fuel" version of a deep-dish pizza. We swap the heavy dough for protein-rich white beans and greens. The secret to **Texture Integrity** is the kale: we cook it just until wilted so it retains a slight "bite," providing a structural contrast to the creamy beans and melted cheese. Always use giant beans if you can find them; their meaty texture is the "Hero" of the dish.
+This is the nutritious version of a deep-dish pizza. We swap the heavy dough for protein-rich white beans and greens. The secret to **Textural Balance** is the kale: we cook it just until wilted so it retains a slight "bite," providing a structural contrast to the creamy beans and melted cheese. Always use giant beans if you can find them; their meaty texture is the "Hero" of the dish.
 
 ## Directions
 
@@ -35,5 +35,5 @@ This is the "Fuel" version of a deep-dish pizza. We swap the heavy dough for pro
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Garlic Bread

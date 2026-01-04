@@ -1,7 +1,7 @@
 ---
-title: Real Alfredo Sauce (The 5-Minute Standard)
+title: Real Alfredo Sauce
 role: base
-vibe: speed
+vibe: quick
 prepTime: 2 min
 cookTime: 5 min
 totalTime: 7 min
@@ -32,5 +32,5 @@ Real Alfredo is an emulsion of fat and starch. It does not require flour or thic
 ## Pairs With
 
 - Fettuccine or Penne
-- [Chicken Milanese](/recipes/chicken-milanese)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
 - Steamed Broccoli with Garlic

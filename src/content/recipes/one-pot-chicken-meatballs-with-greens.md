@@ -1,14 +1,14 @@
 ---
 title: One-Pot Chicken Meatballs with Greens
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
 servings: '4'
 ingredients:
   - '1 lb Ground Chicken'
-  - '1/3 cup Plain Greek Yogurt (The "Bounce" Hack)'
+  - '1/3 cup Plain Greek Yogurt for richness'
   - '1/2 cup Panko Breadcrumbs'
   - '2 cloves Garlic, minced'
   - '2 Scallions, thinly sliced'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to succulent chicken meatballs is **Structural Science** through **The Yogurt-Panko Pattern**. By combining ground chicken with Greek yogurt, we create an internal moisture guard that prevents the lean meat from drying out during the sear. We maintain **Texture Integrity** through **The Smothered Braise**: we sear the meatballs to develop a "Snap," then pile the chard and lemon slices directly on top to steam in the Dutch oven. This ensures the greens stay vibrant while the lemon juice provides the mandatory **Acid Finish**.
+The secret to succulent chicken meatballs is **Culinary Technique** through **The Yogurt-Panko Method**. By combining ground chicken with Greek yogurt, we create an internal moisture guard that prevents the lean meat from drying out during the sear. We maintain **Textural Balance** through **The Smothered Braise**: we sear the meatballs to develop a "Snap," then pile the chard and lemon slices directly on top to steam in the Dutch oven. This ensures the greens stay vibrant while the lemon juice provides the mandatory **Acid Balance**.
 
 ## Directions
 
@@ -37,6 +37,6 @@ The secret to succulent chicken meatballs is **Structural Science** through **Th
 
 ## Serving Suggestions
 
-- [Garlic Bread](/recipes/garlic-bread)
-- [Basmati Rice](/recipes/basmati-rice)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

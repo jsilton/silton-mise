@@ -1,7 +1,7 @@
 ---
-title: Miso Soup (The Dashi Standard)
+title: Miso Soup
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -28,6 +28,6 @@ Miso soup is a miracle of **Emulsion and Timing**. The most common mistake is bo
 
 ## Serving Suggestions
 
-- [Honey Sriracha Salmon Bowls](/recipes/honey-sriracha-salmon-bowls)
-- [Bibimbap](/recipes/bibimbap)
-- [Tuna Poke Bowls](/recipes/tuna-poke-bowls)
+- [Honey Sriracha Salmon Bowls](/silton-mise/recipes/honey-sriracha-salmon-bowls)
+- [Bibimbap](/silton-mise/recipes/bibimbap)
+- [Tuna Poke Bowls](/silton-mise/recipes/tuna-poke-bowls)

@@ -22,13 +22,13 @@ ingredients:
   - '2 quarts Chicken Stock'
   - '--- The Finish ---'
   - '1 cup Sour Cream'
-  - '1 tsp Apple Cider Vinegar (The High Note)'
+  - '1 tsp Apple Cider Vinegar (The Finishing Touch)'
   - 'Toasted Pumpkin Seeds, Mint, and Cilantro for garnish'
 ---
 
 ## Chef's Note
 
-This soup is a masterclass in **Texture Integrity** through our **Gingersnap Thickener Pattern**. Instead of a flour roux, we use crushed gingersnap cookies; the spices in the cookies complement the curry, while their starch provides a velvety body. The secret to the Silton Standard here is the **Acid Finish**: the combination of tart Granny Smith apple and apple cider vinegar provides the mandatory "High Note" that brightens the earthy carrots and rich cream.
+This soup is a masterclass in **Textural Balance** through our **Gingersnap Thickener Method**. Instead of a flour roux, we use crushed gingersnap cookies; the spices in the cookies complement the curry, while their starch provides a velvety body. The secret to the Kitchen Standard here is the **Acid Balance**: the combination of tart Granny Smith apple and apple cider vinegar provides the mandatory "High Note" that brightens the earthy carrots and rich cream.
 
 ## Directions
 
@@ -37,10 +37,10 @@ This soup is a masterclass in **Texture Integrity** through our **Gingersnap Thi
 3.  **Simmer:** Pour in the chicken stock. Bring to a boil, then reduce heat and simmer for 25 minutes until all vegetables are fork-tender. Remove thyme sprigs.
 4.  **The Emulsion:** Working in batches, puree the soup in a blender with the sour cream and apple cider vinegar until completely smooth.
 5.  **Finish:** Return to the pot to warm through. Taste and adjust with salt and pepper.
-6.  **Serve:** Ladle into bowls and top with toasted pumpkin seeds and fresh herbs for **Texture Integrity**.
+6.  **Serve:** Ladle into bowls and top with toasted pumpkin seeds and fresh herbs for **Textural Balance**.
 
 ## Serving Suggestions
 
-- [Anadama Bread](/recipes/anadama-bread) with Salted Butter
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Anadama Bread](/silton-mise/recipes/anadama-bread) with Salted Butter
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

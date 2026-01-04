@@ -1,5 +1,5 @@
 ---
-title: "Chef Kriger's Shabbat Brisket (The Heritage Standard)"
+title: 'Chef Kriger’s Recipe Shabbat Brisket'
 role: main
 vibe: holiday
 prepTime: 30 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a true "Heritage Keeper." While a traditional French braise uses wine and mirepoix, the American-Jewish Shabbat brisket relies on the **Ketchup and Grape Jelly** base to create a thick, sweet-and-savory glaze that is unmistakable. The secret to the texture is the **Overnight Chill**: by refrigerating the brisket in its sauce, the meat relaxes and becomes much easier to slice against the grain without falling apart.
+This is a true "Traditional Recipe." While a traditional French braise uses wine and mirepoix, the American-Jewish Shabbat brisket relies on the **Ketchup and Grape Jelly** base to create a thick, sweet-and-savory glaze that is unmistakable. The secret to the texture is the **Overnight Chill**: by refrigerating the brisket in its sauce, the meat relaxes and becomes much easier to slice against the grain without falling apart.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is a true "Heritage Keeper." While a traditional French braise uses wine an
 
 ## Serving Suggestions
 
-- [Corn Bread Dressing](/recipes/corn-bread-dressing)
-- [Patate al Forno](/recipes/patate-al-forno)
-- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)
+- [Corn Bread Dressing](/silton-mise/recipes/corn-bread-dressing)
+- [Patate al Forno](/silton-mise/recipes/patate-al-forno)
+- [Nana Ruth's Applesauce](/silton-mise/recipes/nana-ruths-applesauce)

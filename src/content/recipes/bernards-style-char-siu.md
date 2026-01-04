@@ -1,7 +1,7 @@
 ---
 title: Bernard's Style Roast Pork (Char Siu)
 role: main
-vibe: project
+vibe: technical
 prepTime: 15 min
 cookTime: 40 min
 totalTime: 12 hours
@@ -35,5 +35,5 @@ This is the "Bernard's Style" roast pork—meaty, sweet, and sticky. While tradi
 
 ## Serving Suggestions
 
-- Slice and serve on top of [Cantonese Wonton Soup](/recipes/cantonese-shrimp-and-pork-wontons)
-- Serve with Jasmine Rice and [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- Slice and serve on top of [Cantonese Wonton Soup](/silton-mise/recipes/cantonese-shrimp-and-pork-wontons)
+- Serve with Jasmine Rice and [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

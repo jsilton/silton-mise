@@ -1,7 +1,7 @@
 ---
 title: Corn-Shrimp Dumplings
 role: side
-vibe: project
+vibe: technical
 prepTime: 40 min
 cookTime: 10 min
 totalTime: 50 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a sophisticated "Project" meal that relies on **Structural Science** for its elite mouthfeel. To achieve the "Restaurant Bounce," you must stir the shrimp mixture vigorously in one direction for 2 minutes before adding the corn; this emulsifies the proteins into a sticky paste. We maintain **Texture Integrity** by using fresh corn kernels, which provide a sweet "Snap" that contrasts with the savory shrimp.
+This is a sophisticated technical dish meal that relies on **Culinary Technique** for its elite mouthfeel. To achieve the "Restaurant Bounce," you must stir the shrimp mixture vigorously in one direction for 2 minutes before adding the corn; this emulsifies the proteins into a sticky paste. We maintain **Textural Balance** by using fresh corn kernels, which provide a sweet Crunch that contrasts with the savory shrimp.
 
 ## Directions
 
@@ -31,10 +31,10 @@ This is a sophisticated "Project" meal that relies on **Structural Science** for
 3.  **Shape:** Place a wrapper in your palm. Spoon 1 tbsp of filling into the center. Moisten the edges with water. Fold into a half-moon and pleat the edges to seal tightly.
 4.  **Steam:** Place in a bamboo steamer lined with parchment. Steam over boiling water for 4-5 minutes until the internal temp is 165°F and the wrappers are translucent.
 5.  **Option (Boil):** Alternatively, drop into boiling water for 3 minutes until they float.
-6.  **Serve:** Serve immediately with a side of soy sauce and [Quick Pickled Red Onions](/recipes/pickled-red-onions) or chili oil.
+6.  **Serve:** Serve immediately with a side of soy sauce and [quick Pickled Red Onions](/silton-mise/recipes/pickled-red-onions) or chili oil.
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)

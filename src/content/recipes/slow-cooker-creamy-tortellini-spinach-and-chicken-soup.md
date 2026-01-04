@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a slow-cooker soup that isn't thin and watery is **Structural Science** through **The Microwave Roux Pattern**. We "cook" the onions, flour, and tomato paste in the microwave first to create a toasted, thick paste before it hits the pot; this ensures the soup has a rich "Bounce" from the start. We maintain **Texture Integrity** by adding the tortellini and heavy cream only in the final 10 minutes—this ensures the pasta stays "Snappy" and the cream doesn't curdle.
+The secret to a slow-cooker soup that isn't thin and watery is **Culinary Technique** through **The Microwave Roux Method**. We "cook" the onions, flour, and tomato paste in the microwave first to create a toasted, thick paste before it hits the pot; this ensures the soup has a rich Texture from the start. We maintain **Textural Balance** by adding the tortellini and heavy cream only in the final 10 minutes—this ensures the pasta stays crispy and the cream doesn't curdle.
 
 ## Directions
 
@@ -38,6 +38,6 @@ The secret to a slow-cooker soup that isn't thin and watery is **Structural Scie
 
 ## Serving Suggestions
 
-- [Garlic Bread](/recipes/garlic-bread)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Tomato Basil Soup](/silton-mise/recipes/roasted-tomato-basil-soup)

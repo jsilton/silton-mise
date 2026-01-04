@@ -1,7 +1,7 @@
 ---
 title: Mango-Rita Green Smoothie
 role: drink
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 10 min
@@ -12,13 +12,13 @@ ingredients:
   - '1 cup Frozen Pineapple chunks'
   - '1 cup Unsweetened Coconut Water'
   - '1 fresh Orange, peeled and halved'
-  - '1 Lime, juiced (The Acid Finish)'
+  - '1 Lime, juiced (The Acid Balance)'
   - 'Tiny pinch of Sea Salt (The "Trust Me" Note)'
 ---
 
 ## Chef's Note
 
-This is the "Gold Standard" for a high-performance "Fuel" smoothie. The secret to its elite flavor is **The "Trust Me" Salt Pinch**: a tiny amount of salt suppresses the bitterness of the raw spinach while amplifying the tropical sweetness of the mango. We use **The Thermal Blender Pattern**: by using frozen fruit as our "ice," we maintain a thick, creamy "Bounce" without diluting the nutrients. The lime juice provides the mandatory **Acid Finish** that keeps the drink refreshing rather than heavy.
+This is the "Kitchen Standard" for a high-performance nutritious smoothie. The secret to its elite flavor is **The "Trust Me" Salt Pinch**: a tiny amount of salt suppresses the bitterness of the raw spinach while amplifying the tropical sweetness of the mango. We use **The Thermal Blender Method**: by using frozen fruit as our "ice," we maintain a thick, creamy Texture without diluting the nutrients. The lime juice provides the mandatory **Acid Balance** that keeps the drink refreshing rather than heavy.
 
 ## Directions
 
@@ -30,6 +30,6 @@ This is the "Gold Standard" for a high-performance "Fuel" smoothie. The secret t
 
 ## Serving Suggestions
 
-- [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
-- [Oatmeal Risotto](/recipes/oatmeal-risotto)
+- [Blueberry Oat Breakfast Bars](/silton-mise/recipes/blueberry-oat-breakfast-bars)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
+- [Oatmeal Risotto](/silton-mise/recipes/oatmeal-risotto)

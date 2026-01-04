@@ -1,7 +1,7 @@
 ---
 title: Strawberry Rhubarb Shortcake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 30 min
 totalTime: 60 min
@@ -11,7 +11,7 @@ ingredients:
   - '2 cups All-Purpose Flour'
   - '1 tbsp Baking Powder'
   - '3 tbsp Granulated Sugar'
-  - '3/4 tsp Pink Peppercorns, ground (The High Note)'
+  - '3/4 tsp Pink Peppercorns, ground (The Finishing Touch)'
   - '1/2 cup (1 stick) Unsalted Butter, cold and cubed'
   - '1 cup Whole Buttermilk'
   - '--- The Roasted Fruit Syrup ---'
@@ -20,13 +20,13 @@ ingredients:
   - '1/4 cup Sugar + 2 tbsp St. Germain (Elderflower Liqueur)'
   - '1/2 Vanilla Bean, seeds scraped'
   - '--- The Whipped Mascarpone ---'
-  - '1 cup Mascarpone Cheese (The "Bounce" Fat)'
+  - '1 cup Mascarpone Cheese (for richness)'
   - '3/4 cup Heavy Cream'
 ---
 
 ## Chef's Note
 
-This is the definitive Silton "Project" dessert. The secret to its Success is **Structural Science** through **The Cold Fat Pattern**: we cut cold butter into the flour until pea-sized, ensuring a flaky, vertical rise. We use **Pink Peppercorns** as the mandatory savory-sweet **High Note**—their floral heat bridges the gap between the tart rhubarb and the creamy mascarpone. We maintain **Texture Integrity** by **Roasting the Fruit**: baking the strawberries and rhubarb at 350°F concentrates their juices into a thick, mahogany syrup that won't turn the shortcake soggy.
+This is the definitive Executive technical dish dessert. The secret to its Success is **Culinary Technique** through **The Cold Fat Method**: we cut cold butter into the flour until pea-sized, ensuring a flaky, vertical rise. We use **Pink Peppercorns** as the mandatory savory-sweet **High Note**—their floral heat bridges the gap between the tart rhubarb and the creamy mascarpone. We maintain **Textural Balance** by **Roasting the Fruit**: baking the strawberries and rhubarb at 350°F concentrates their juices into a thick, mahogany syrup that won't turn the shortcake soggy.
 
 ## Directions
 
@@ -40,6 +40,6 @@ This is the definitive Silton "Project" dessert. The secret to its Success is **
 
 ## Serving Suggestions
 
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)
 - Glass of Sparkling Rosé
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)

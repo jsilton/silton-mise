@@ -18,13 +18,13 @@ ingredients:
   - '1 tsp Red Pepper Flakes'
   - '--- The Finish ---'
   - '2 tbsp Unsalted Butter (cold)'
-  - '1 Lemon, zested and juiced (The Acid Finish)'
+  - '1 Lemon, zested and juiced (The Acid Balance)'
   - '1/2 cup Parmesan, freshly grated'
 ---
 
 ## Chef's Note
 
-This is a masterclass in **Structural Science** and flavor concentration. The secret to its Success is **The Red Pepper Emulsion Pattern**: we puree roasted red peppers into the clam-steaming liquid to create a thick, vibrant "Bounce" that standard clam sauces lack. We maintain **Texture Integrity** through **The Staged Braise**: we wilt the greens in the garlic-chili oil _before_ combining them with the pasta and clams. The mandatory **Acid Finish** comes from mounting the sauce with cold butter and fresh lemon at the very end.
+This is a masterclass in **Culinary Technique** and flavor concentration. The secret to its Success is **The Red Pepper Emulsion Method**: we puree roasted red peppers into the clam-steaming liquid to create a thick, vibrant Texture that standard clam sauces lack. We maintain **Textural Balance** through **The Staged Braise**: we wilt the greens in the garlic-chili oil _before_ combining them with the pasta and clams. The mandatory **Acid Balance** comes from mounting the sauce with cold butter and fresh lemon at the very end.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is a masterclass in **Structural Science** and flavor concentration. The se
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

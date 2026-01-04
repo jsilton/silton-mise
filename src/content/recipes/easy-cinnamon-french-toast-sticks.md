@@ -1,7 +1,7 @@
 ---
 title: Cinnamon French Toast Sticks
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to French toast that isn't soggy is **Texture Integrity** through the **Day-Old Bread Pattern**. You must use bread that is slightly stale or dried out; this allows it to act like a sponge for the custard without losing its structure. We use **The High-Heat Crisp**: by cooking in foaming butter over medium heat, we create a caramelized "Snap" on all four sides of the stick, ensuring a "Bounce" in the center.
+The secret to French toast that isn't soggy is **Textural Balance** through the **Day-Old Bread Method**. You must use bread that is slightly stale or dried out; this allows it to act like a sponge for the custard without losing its structure. We use **The High-Heat Crisp**: by cooking in foaming butter over medium heat, we create a caramelized Crunch on all four sides of the stick, ensuring a Texture in the center.
 
 ## Directions
 
@@ -34,6 +34,6 @@ The secret to French toast that isn't soggy is **Texture Integrity** through the
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Crispy Bacon
-- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream) (for a dessert twist)
+- [Old-Fashioned Strawberry Ice Cream](/silton-mise/recipes/old-fashioned-strawberry-ice-cream) (for a dessert twist)

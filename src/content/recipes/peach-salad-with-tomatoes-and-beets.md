@@ -1,7 +1,7 @@
 ---
 title: Peach Salad with Tomatoes & Beets
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 25 min
 cookTime: 60 min
 totalTime: 85 min
@@ -12,7 +12,7 @@ ingredients:
   - '3 medium Peaches, sliced'
   - '--- The Honey-Shallot Glaze ---'
   - '3 tbsp Extra-Virgin Olive Oil'
-  - '2 tbsp Fresh Lemon Juice (The Acid Finish)'
+  - '2 tbsp Fresh Lemon Juice (The Acid Balance)'
   - '1 tbsp Honey'
   - '1 medium Shallot, thinly sliced'
   - '--- The Finish ---'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This salad is a masterclass in **Texture Integrity** through **The Roasted Stacks Pattern**. We roast golden beets at high heat (425°F) until they reach an earthy, "Snap" tender consistency, then layer them with raw tomatoes and fresh peaches. This creates a spectrum of grain structures in every forkful. The mandatory **Acid Finish** comes from the lemon-honey-shallot emulsion, which provides the "High Note" needed to bridge the sweet stone fruit and the creamy goat cheese.
+This salad is a masterclass in **Textural Balance** through **The Roasted Stacks Method**. We roast golden beets at high heat (425°F) until they reach an earthy, Crunch tender consistency, then layer them with raw tomatoes and fresh peaches. This creates a spectrum of grain structures in every forkful. The mandatory **Acid Balance** comes from the lemon-honey-shallot emulsion, which provides the "High Note" needed to bridge the sweet stone fruit and the creamy goat cheese.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This salad is a masterclass in **Texture Integrity** through **The Roasted Stack
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Grilled Pork & Peaches](/silton-mise/recipes/grilled-pork-and-peaches)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

@@ -1,7 +1,7 @@
 ---
 title: Fresh Cabbage, Cucumber and Radish Kimchi
 role: side
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 345 min
 totalTime: 375 min
@@ -16,7 +16,7 @@ ingredients:
   - '4 oz Fresh Ginger, coarsely chopped'
   - '1/2 cup Gochugaru (Korean Red Chile Flakes)'
   - '6 cloves Garlic, chopped'
-  - '1/4 cup + 2 tbsp Rice Vinegar (The High Note)'
+  - '1/4 cup + 2 tbsp Rice Vinegar (The Finishing Touch)'
   - '3 tbsp Toasted Sesame Oil'
   - '3 tbsp Fish Sauce'
   - '2 Scallions, chopped'
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modern Heritage** recipe for the Silton pantry. The secret to a crisp, non-watery kimchi is **Structural Science** through **The Osmotic Cure Pattern**. By salting the vegetables heavily for an hour, we draw out the excess moisture that would otherwise dilute the spice paste. We use a **Triple Veg Pattern** (Cabbage, Cucumber, Daikon) to ensure a complex array of "Snaps" and "Bounces" in every serving. Always use **Gochugaru**—the specific smoky heat is the mandatory high note.
+This is a baseline **Updated Classic** recipe for the Executive pantry. The secret to a crisp, non-watery kimchi is **Culinary Technique** through **The Osmotic Cure Method**. By salting the vegetables heavily for an hour, we draw out the excess moisture that would otherwise dilute the spice paste. We use a **Triple Veg Method** (Cabbage, Cucumber, Daikon) to ensure a complex array of "Snaps" and "Bounces" in every serving. Always use **Gochugaru**—the specific smoky heat is the mandatory high note.
 
 ## Directions
 
@@ -33,12 +33,12 @@ This is a baseline **Modern Heritage** recipe for the Silton pantry. The secret 
 2.  **The Paste:** In a high-powered blender, combine ginger, garlic, gochugaru, rice vinegar, sesame oil, fish sauce, scallions, and sugar. Puree until almost smooth.
 3.  **The Rinse:** Drain the vegetables thoroughly. Gently squeeze each handful to remove all remaining water.
 4.  **The Bind:** In one massive bowl, toss all the vegetables with the kimchi paste until every piece is uniformly coated in the deep red glaze.
-5.  **The Set:** Transfer to glass jars. Cover and refrigerate for **at least 4 hours** (ideally 24) to allow the flavors to meld and the fermentation to begin.
+5.  **The Finish:** Transfer to glass jars. Cover and refrigerate for **at least 4 hours** (ideally 24) to allow the flavors to meld and the fermentation to begin.
 6.  **Serve:** This fresh kimchi (Geotjeori style) is at its best within the first week.
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
-- [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
-- [Simply Seasoned Korean Spinach Salad](/recipes/simply-seasoned-korean-spinach-salad)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Bibimbap (The Ultimate Bowl)](/silton-mise/recipes/bibimbap)
+- [Marinated Korean Ribeye](/silton-mise/recipes/marinated-korean-ribeye)
+- [Simply Seasoned Korean Spinach Salad](/silton-mise/recipes/simply-seasoned-korean-spinach-salad)

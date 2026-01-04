@@ -1,7 +1,7 @@
 ---
-title: Fresh Egg Pasta (The Silton Standard)
+title: Fresh Egg Pasta
 role: main
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 3 min
 totalTime: 90 min
@@ -16,7 +16,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for all elite Italian dishes in our kitchen. We use **Structural Science** through **The Food Processor Emulsion Pattern**: instead of the messy "well" method, we use the high-speed blade to instantly emulsify the eggs and flour, ensuring a perfectly uniform protein structure. The most critical step is **The Hydration Rest**: you must let the dough sit for at least 1 hour. This allows the flour's starches to fully hydrate, resulting in a "Bounce" that is tender yet snappy (al dente) rather than gummy.
+This is the baseline for all elite Italian dishes in our kitchen. We use **Culinary Technique** through **The Food Processor Emulsion Method**: instead of the messy "well" method, we use the high-speed blade to instantly emulsify the eggs and flour, ensuring a perfectly uniform protein structure. The most critical step is **The Hydration Rest**: you must let the dough sit for at least 1 hour. This allows the flour's starches to fully hydrate, resulting in a Texture that is tender yet snappy (al dente) rather than gummy.
 
 ## Directions
 
@@ -29,7 +29,7 @@ This is the baseline for all elite Italian dishes in our kitchen. We use **Struc
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Real Alfredo Sauce](/recipes/real-alfredo-sauce)
-- [Real Spaghetti Carbonara](/recipes/real-spaghetti-carbonara)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Real Alfredo Sauce](/silton-mise/recipes/real-alfredo-sauce)
+- [Real Spaghetti Carbonara](/silton-mise/recipes/real-spaghetti-carbonara)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)

@@ -1,7 +1,7 @@
 ---
 title: Shrimp with Black Bean Sauce
 role: base
-vibe: speed
+vibe: quick
 prepTime: 20 min
 cookTime: 10 min
 totalTime: 30 min
@@ -16,7 +16,7 @@ ingredients:
   - '1 tbsp Shaoxing Wine'
   - '1/2 tsp Toasted Sesame Oil'
   - '--- The Bind ---'
-  - '1 large Egg, beaten (The Egg Ribbon Pattern)'
+  - '1 large Egg, beaten (The Egg Ribbon Method)'
   - '2 1/2 tbsp Cornstarch (slurry)'
   - '1/4 cup Green Bell Pepper, diced'
   - '1 Scallion, chopped'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to authentic "Lobster Sauce" style shrimp is **Structural Science** through **The Egg Ribbon Pattern**. You must pour the beaten egg slowly across the surface of the boiling sauce and let it sit for 10 seconds before folding; this creates long, silken ribbons that provide a velvety "Bounce." We maintain **Texture Integrity** through **The Pork-Bean Sear**: we fry the ground pork and mashed black beans first to develop a smoky, savory foundation that contrasts the sweet "Snap" of the shrimp.
+The secret to authentic "Lobster Sauce" style shrimp is **Culinary Technique** through **The Egg Ribbon Method**. You must pour the beaten egg slowly across the surface of the boiling sauce and let it sit for 10 seconds before folding; this creates long, silken ribbons that provide a velvety "Bounce." We maintain **Textural Balance** through **The Pork-Bean Sear**: we fry the ground pork and mashed black beans first to develop a smoky, savory foundation that contrasts the sweet Crunch of the shrimp.
 
 ## Directions
 
@@ -38,6 +38,6 @@ The secret to authentic "Lobster Sauce" style shrimp is **Structural Science** t
 
 ## Serving Suggestions
 
-- [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Jasmine Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)

@@ -1,7 +1,7 @@
 ---
-title: Quick & Easy Drop Biscuits
+title: quick & Easy Drop Biscuits
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -18,13 +18,13 @@ ingredients:
 
 ## Chef's Note
 
-The drop biscuit is the ultimate test of **Structural Science** in speed-baking. The secret to a tall, flaky "Bounce" is **The Cold Fat Pattern**: the butter must be refrigerator-cold and cubed into pea-sized pieces. When these cold fat pockets hit the 400°F oven, they steam instantly, creating layers within the crumb. We use **The Shaggy Dough Pattern**: you must stir the milk until the dough **just comes together**; over-mixing will destroy the air pockets and turn your biscuits into leaden pucks.
+The drop biscuit is the ultimate test of **Culinary Technique** in speed-baking. The secret to a tall, flaky Texture is **The Cold Fat Method**: the butter must be refrigerator-cold and cubed into pea-sized pieces. When these cold fat pockets hit the 400°F oven, they steam instantly, creating layers within the crumb. We use **The Shaggy Dough Method**: you must stir the milk until the dough **just comes together**; over-mixing will destroy the air pockets and turn your biscuits into leaden pucks.
 
 ## Directions
 
 1.  **Thermal Prep:** Preheat oven to 400°F. Line a baking sheet with parchment paper.
 2.  **Dry Mix:** In a large bowl, whisk together flour, baking powder, and salt.
-3.  **The Bind:** Add the cold butter cubes. Use your fingers or a pastry blender to rub the butter into the flour until it resembles coarse meal with a few larger chunks (The Snap Pockets).
+3.  **The Bind:** Add the cold butter cubes. Use your fingers or a pastry blender to rub the butter into the flour until it resembles coarse meal with a few larger chunks (The Crunch Pockets).
 4.  **Hydrate:** Pour in the milk. Stir with a fork for exactly 15-20 seconds until a sticky, shaggy dough forms. **Stop immediately.**
 5.  **Drop:** Using a large spoon or cookie scoop, drop walnut-sized mounds onto the pan. Do not smooth the tops—the "nooks and crannies" are essential for the final "Snap."
 6.  **Bake:** Bake for 15-18 minutes until the tops are golden brown and the bottoms are crispy.
@@ -32,6 +32,6 @@ The drop biscuit is the ultimate test of **Structural Science** in speed-baking.
 
 ## Serving Suggestions
 
-- [Turkey and Sweet Potato Chili](/recipes/chili)
-- [One-Pot Chicken Meatballs with Greens](/recipes/one-pot-chicken-meatballs-with-greens)
-- [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+- [Turkey and Sweet Potato Chili](/silton-mise/recipes/chili)
+- [One-Pot Chicken Meatballs with Greens](/silton-mise/recipes/one-pot-chicken-meatballs-with-greens)
+- [Perfect Cranberry Sauce](/silton-mise/recipes/perfect-cranberry-sauce)

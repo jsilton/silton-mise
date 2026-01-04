@@ -1,7 +1,7 @@
 ---
-title: Mongolian Beef (The Wok Standard)
+title: Mongolian Beef
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-Mongolian Beef is not a stew; it is a **Dry Sear**. To achieve the restaurant-quality "crispy" edges, we coat the beef in cornstarch and sear it at extreme heat until it develops a crust. We then toss it in a ginger-heavy glaze that should be thick enough to coat the meat, not pool in the bottom of the bowl. This is the **Structural Science** of velveting in action.
+Mongolian Beef is not a stew; it is a **Dry Sear**. To achieve the restaurant-quality "crispy" edges, we coat the beef in cornstarch and sear it at extreme heat until it develops a crust. We then toss it in a ginger-heavy glaze that should be thick enough to coat the meat, not pool in the bottom of the bowl. This is the **Culinary Technique** of velveting in action.
 
 ## Directions
 
@@ -31,10 +31,10 @@ Mongolian Beef is not a stew; it is a **Dry Sear**. To achieve the restaurant-qu
 4.  **Crisp:** Add the beef in a single layer (work in batches!). Sear for 2 minutes per side until the edges are dark brown and crispy. Remove to a plate and drain excess oil.
 5.  **Finish:** Wipe out the pan. Return the beef to the wok. Pour in the ginger glaze and add the green onions.
 6.  **Toss:** Toss vigorously over high heat for 30-60 seconds until the sauce bubbles and lacquers the beef.
-7.  **Serve:** Serve immediately over [Jasmine Rice](/recipes/near-east-rice-pilaf-hack).
+7.  **Serve:** Serve immediately over [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf).
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack) (Rinse 3 times!)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf) (Rinse 3 times!)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Steamed Broccoli with Garlic

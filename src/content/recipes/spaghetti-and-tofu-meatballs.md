@@ -1,7 +1,7 @@
 ---
 title: Spaghetti with Tofu Meatballs
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
@@ -12,7 +12,7 @@ ingredients:
   - '3/4 cup Walnuts, ground'
   - '1 cup Whole-wheat Breadcrumbs'
   - '2 large Eggs'
-  - '1 1/2 tbsp Dijon Mustard (The High Note)'
+  - '1 1/2 tbsp Dijon Mustard (The Finishing Touch)'
   - '1 1/2 tbsp Toasted Sesame Oil'
   - '3 tbsp Soy Sauce'
   - '--- The Mirepoix Base ---'
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to meatless meatballs that aren't mushy is **Structural Science** through **The Walnut-Starch Bind**. By combining pressed tofu with ground walnuts and whole-wheat crumbs, we create a multi-dimensional "Snap" that mimics beef. We maintain **Texture Integrity** by sautéing the mirepoix vegetables until tender _before_ adding them to the tofu; this ensures the "meatballs" set firmly in the oven. The Dijon mustard provides the mandatory **Acid Finish** needed to bridge the earthy soy and nutty walnuts.
+The secret to meatless meatballs that aren't mushy is **Culinary Technique** through **The Walnut-Starch Bind**. By combining pressed tofu with ground walnuts and whole-wheat crumbs, we create a multi-dimensional Crunch that mimics beef. We maintain **Textural Balance** by sautéing the mirepoix vegetables until tender _before_ adding them to the tofu; this ensures the "meatballs" set firmly in the oven. The Dijon mustard provides the mandatory **Acid Balance** needed to bridge the earthy soy and nutty walnuts.
 
 ## Directions
 
@@ -35,10 +35,10 @@ The secret to meatless meatballs that aren't mushy is **Structural Science** thr
 4.  **Combine:** Add the sautéed vegetables. Mix vigorously with your hands until a sticky, uniform dough forms.
 5.  **Shape:** Form into 1.5-inch balls. Arrange on an oiled baking sheet.
 6.  **Bake:** Bake at 350°F for 20-30 minutes, flipping once, until the exterior is deep brown and "Snappy."
-7.  **Serve:** Add the meatballs to your favorite [Roasted Tomato Sauce](/recipes/roasted-tomato-basil-soup) and serve over [Fresh Egg Pasta](/recipes/fresh-egg-pasta).
+7.  **Serve:** Add the meatballs to your favorite [Roasted Tomato Sauce](/silton-mise/recipes/roasted-tomato-basil-soup) and serve over [Fresh Egg Pasta](/silton-mise/recipes/fresh-egg-pasta).
 
 ## Serving Suggestions
 
-- [Fresh Egg Pasta (The Silton Standard)](/recipes/fresh-egg-pasta)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Fresh Egg Pasta](/silton-mise/recipes/fresh-egg-pasta)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)

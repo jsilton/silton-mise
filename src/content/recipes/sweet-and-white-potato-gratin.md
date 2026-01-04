@@ -41,5 +41,5 @@ This is a rich, colorful holiday centerpiece. The secret to a perfect gratin is 
 
 ## Serving Suggestions
 
-- [Good Eats Roast Turkey](/recipes/good-eats-roast-turkey)
-- [Cranberry Orange Sauce](/recipes/cranberry-orange-sauce)
+- [Good Eats Roast Turkey](/silton-mise/recipes/good-eats-roast-turkey)
+- [Cranberry Orange Sauce](/silton-mise/recipes/cranberry-orange-sauce)

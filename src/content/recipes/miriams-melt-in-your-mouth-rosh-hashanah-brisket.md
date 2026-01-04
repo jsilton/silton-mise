@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Heritage Keeper." The recipe utilizes a classic Jewish technique: starting the brisket at high heat (400°F) to simultaneously sear the meat and caramelize the onions without a separate pan. We then drop the temperature to 250°F for a long, slow braise. The **Balsamic and Honey** provide the acid/sugar balance that breaks down the tough connective tissue into a "melt-in-your-mouth" texture. Always slice against the grain for maximum tenderness.
+This is a "Traditional Recipe." The recipe utilizes a classic Jewish technique: starting the brisket at high heat (400°F) to simultaneously sear the meat and caramelize the onions without a separate pan. We then drop the temperature to 250°F for a long, slow braise. The **Balsamic and Honey** provide the acid/sugar balance that breaks down the tough connective tissue into a "melt-in-your-mouth" texture. Always slice against the grain for maximum tenderness.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is a "Heritage Keeper." The recipe utilizes a classic Jewish technique: sta
 
 ## Serving Suggestions
 
-- [Nana's Biscuits](/recipes/nanas-biscuits)
+- [Nana's Biscuits](/silton-mise/recipes/nanas-biscuits)
 - Roasted Root Vegetables
-- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)
+- [Nana Ruth's Applesauce](/silton-mise/recipes/nana-ruths-applesauce)

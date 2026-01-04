@@ -1,7 +1,7 @@
 ---
 title: Yaki Udon (The Loaded Bowl)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to great Yaki Udon is **Texture Integrity**. Frozen udon has a superior "chew" (mochi-mochi) compared to shelf-stable versions. We sear the meat and veggies separately over high heat so they stay crunchy and charred, rather than steaming together into a mushy pile.
+The secret to great Yaki Udon is **Textural Balance**. Frozen udon has a superior "chew" (mochi-mochi) compared to shelf-stable versions. We sear the meat and veggies separately over high heat so they stay crunchy and charred, rather than steaming together into a mushy pile.
 
 ## Directions
 
@@ -37,5 +37,5 @@ The secret to great Yaki Udon is **Texture Integrity**. Frozen udon has a superi
 
 ## Serving Suggestions
 
-- [Miso Soup](/recipes/miso-soup)
-- [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers)
+- [Miso Soup](/silton-mise/recipes/miso-soup)
+- [Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers)

@@ -14,12 +14,12 @@ const { recipe } = Astro.props;
 const { Content } = await recipe.render();
 ---
 
-<Layout title={`${recipe.data.title} | Silton Mise`}>
+<Layout title={`${recipe.data.title} | Mise`}>
   <!-- Breadcrumbs -->
   <nav class="flex mb-6 text-sm text-slate-500" aria-label="Breadcrumb">
     <ol class="inline-flex items-center space-x-1 md:space-x-3">
       <li class="inline-flex items-center">
-        <a href="/" class="inline-flex items-center hover:text-indigo-600 transition-colors">
+        <a href={import.meta.env.BASE_URL} class="inline-flex items-center hover:text-indigo-600 transition-colors">
           Codex
         </a>
       </li>

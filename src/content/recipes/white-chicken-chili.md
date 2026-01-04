@@ -10,19 +10,19 @@ ingredients:
   - '1 1/4 lbs Chicken Breasts or Thighs'
   - '--- The Bean-Hominy Base ---'
   - '2 cans (15 oz) Great Northern Beans'
-  - '1 can (15 oz) Hominy (The "Gold" Standard)'
+  - '1 can (15 oz) Hominy'
   - '--- The Creamy Emulsion ---'
   - '1 can (10.75 oz) Condensed Cream of Chicken Soup'
   - '1 can (4.5 oz) Chopped Green Chilies'
   - '1 can (14 oz) Chicken Broth'
-  - '1/2 cup Sour Cream (The "Bounce" Fat)'
-  - '1 pkg Taco Seasoning (The Silton Standard)'
+  - '1/2 cup Sour Cream (for richness)'
+  - '1 pkg Taco Seasoning'
   - 'Monterey Jack Cheese, shredded'
 ---
 
 ## Chef's Note
 
-The secret to a "Gold Standard" white chili is **Texture Integrity** through **The Hominy Pattern**. By using hominy instead of just corn, we introduce a chewy, nixtamalized "Snap" that contrasts the soft white beans and shredded chicken. We maintain **Structural Science** through **The Late-Cream Bind**: adding the sour cream only at the very end of the 8-hour slow-cook ensures the sauce remains thick and velvety (The "Bounce") without breaking. The green chilies provide the mandatory **Acid Finish**.
+The secret to a "Kitchen Standard" white chili is **Textural Balance** through **The Hominy Method**. By using hominy instead of just corn, we introduce a chewy, nixtamalized Crunch that contrasts the soft white beans and shredded chicken. We maintain **Culinary Technique** through **The Late-Cream Bind**: adding the sour cream only at the very end of the 8-hour slow-cook ensures the sauce remains thick and velvety  without breaking. The green chilies provide the mandatory **Acid Balance**.
 
 ## Directions
 
@@ -36,6 +36,6 @@ The secret to a "Gold Standard" white chili is **Texture Integrity** through **T
 
 ## Serving Suggestions
 
-- [My Favorite Cornbread](/recipes/my-favorite-cornbread) (Mandatory)
-- [Guacamole (The Silton Standard)](/recipes/guacamole)
-- [Pickled Red Onions](/recipes/pickled-red-onions)
+- [My Favorite Cornbread](/silton-mise/recipes/my-favorite-cornbread) (Mandatory)
+- [Guacamole](/silton-mise/recipes/guacamole)
+- [Pickled Red Onions](/silton-mise/recipes/pickled-red-onions)

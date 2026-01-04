@@ -1,7 +1,7 @@
 ---
 title: Broccoli Cheddar Quinoa Bites
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the perfect "Fuel" snacks for on-the-go. The secret to **Texture Integrity** here is the **Compression Pattern**: when scooping the mixture, you must press it firmly into the spoon or scoop. This ensures the egg and cheese can bind the quinoa and broccoli into a dense, "bouncy" bite that doesn't crumble. We use finely chopped fresh broccoli rather than frozen to maintain a slight "Snap" even after baking.
+These are the perfect nutritious snacks for on-the-go. The secret to **Textural Balance** here is the **Compression Method**: when scooping the mixture, you must press it firmly into the spoon or scoop. This ensures the egg and cheese can bind the quinoa and broccoli into a dense, "bouncy" bite that doesn't crumble. We use finely chopped fresh broccoli rather than frozen to maintain a slight Crunch even after baking.
 
 ## Directions
 
@@ -33,6 +33,6 @@ These are the perfect "Fuel" snacks for on-the-go. The secret to **Texture Integ
 
 ## Serving Suggestions
 
-- [Garlic Yogurt](/recipes/zucchini-herb-fritters-with-garlic-yogurt)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Garlic Yogurt](/silton-mise/recipes/zucchini-herb-fritters-with-garlic-yogurt)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Sriracha Mayo

@@ -1,7 +1,7 @@
 ---
 title: Slow Cooker Vegetable Korma
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 300 min
 totalTime: 315 min
@@ -14,7 +14,7 @@ ingredients:
   - '3/4 can Full-fat Coconut Milk'
   - '2 tbsp Curry Powder'
   - '1 tsp Garam Masala'
-  - '2 tbsp Almond Meal (The "Bounce" Thickener)'
+  - '2 tbsp Almond Meal (thickener)'
   - '2 cloves Garlic, minced'
   - '1/2 large Onion, chopped'
   - '1 tbsp Sea Salt'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-Korma is traditionally a thick, rich braise rather than a watery curry. The secret to the Silton Standard is **Structural Science** through **The Almond Meal Bind Pattern**: by whisking almond meal into the coconut milk, we introduce a nutty starch that provides a velvety "Bounce" and keeps the sauce from separating during the long slow-cook. We maintain **Texture Integrity** by using large cauliflower florets; this ensures they have a distinct "Snap" even after 5 hours in the crockpot.
+Korma is traditionally a thick, rich braise rather than a watery curry. The secret to the Kitchen Standard is **Culinary Technique** through **The Almond Meal Bind Method**: by whisking almond meal into the coconut milk, we introduce a nutty starch that provides a velvety Texture and keeps the sauce from separating during the long slow-cook. We maintain **Textural Balance** by using large cauliflower florets; this ensures they have a distinct Crunch even after 5 hours in the crockpot.
 
 ## Directions
 
@@ -35,6 +35,6 @@ Korma is traditionally a thick, rich braise rather than a watery curry. The secr
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Homemade Naan](/recipes/homemade-naan)
-- [Cucumber Raita](/recipes/cucumber-raita)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Homemade Naan](/silton-mise/recipes/homemade-naan)
+- [Cucumber Raita](/silton-mise/recipes/cucumber-raita)

@@ -1,7 +1,7 @@
 ---
 title: Loaded Baked Omelet Muffins
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -10,7 +10,7 @@ ingredients:
   - '9 large Eggs'
   - '3 slices Bacon, cooked and chopped'
   - '2 oz Sharp Cheddar, shredded'
-  - '--- The Texture Base ---'
+  - '--- Base ---'
   - '3 tbsp Frozen Spinach, thawed and squeezed dry'
   - '3 tbsp Roma Tomato, finely diced'
   - '3 tbsp Onion, finely diced'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate "Modularity" component for breakfast prep. The secret to avoiding the rubbery, watery texture of most egg muffins is **Texture Integrity** through **The Dry Squeeze Pattern**: you must squeeze the thawed spinach in a towel until **bone-dry** before adding to the eggs. We use **The Bacon Anchor**: placing the bacon and diced veg at the bottom of the tin ensures they develop a slight "Snap" against the metal, providing a savory foundation for the fluffy egg "Bounce."
+These are the ultimate "Modularity" component for breakfast prep. The secret to avoiding the rubbery, watery texture of most egg muffins is **Textural Balance** through **The Dry Squeeze Method**: you must squeeze the thawed spinach in a towel until **bone-dry** before adding to the eggs. We use **The Bacon Anchor**: placing the bacon and diced veg at the bottom of the tin ensures they develop a slight Crunch against the metal, providing a savory foundation for the fluffy egg "Bounce."
 
 ## Directions
 
@@ -36,5 +36,5 @@ These are the ultimate "Modularity" component for breakfast prep. The secret to 
 ## Serving Suggestions
 
 - Sliced Avocado and Hot Sauce
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Fruit

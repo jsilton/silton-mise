@@ -1,7 +1,7 @@
 ---
-title: Quick & Easy Caprese Pasta
+title: quick & Easy Caprese Pasta
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 5 min
 totalTime: 15 min
@@ -16,13 +16,13 @@ ingredients:
   - '2 tsp Italian Seasoning'
   - '--- The Finish ---'
   - '1/2 cup Fresh Basil, roughly chopped'
-  - '1 tbsp Fresh Lemon Juice (The Acid Finish)'
+  - '1 tbsp Fresh Lemon Juice (The Acid Balance)'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-This is the baseline for 15-minute "Speed" fuel. The secret to its Success is **The Residual Heat Pattern**: angel hair is too delicate for heavy cooking; we sauté the garlic and tomatoes briefly, then kill the heat and let the hot pasta melt the mozzarella into a semi-molten "Bounce." We maintain **Texture Integrity** by seeding the tomatoes—this prevents the sauce from turning watery. The lemon juice provides the mandatory **Acid Finish** that bridge the sweet basil and rich oil.
+This is the baseline for 15-minute quick fuel. The secret to its Success is **The Residual Heat Method**: angel hair is too delicate for heavy cooking; we sauté the garlic and tomatoes briefly, then kill the heat and let the hot pasta melt the mozzarella into a semi-molten "Bounce." We maintain **Textural Balance** by seeding the tomatoes—this prevents the sauce from turning watery. The lemon juice provides the mandatory **Acid Balance** that bridge the sweet basil and rich oil.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is the baseline for 15-minute "Speed" fuel. The secret to its Success is **
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

@@ -14,7 +14,7 @@ ingredients:
   - '1/2 cup Heavy Cream'
   - '1 cup Chicken Broth'
   - '1 tsp Dried Basil'
-  - '--- The Gold Standard Sandwich ---'
+  - '--- The Kitchen Standard Sandwich ---'
   - '4 slices Sourdough or Brioche'
   - '4 slices Sharp Cheddar or Gruyère'
   - '1/2 Avocado, sliced thin'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for Silton comfort. The secret to the sandwich is **Structural Science** through **The Mayo Crust Pattern**: we use mayonnaise instead of butter on the exterior of the bread. Mayo has a higher smoke point and creates a perfectly uniform, golden "Snap" that butter alone can't achieve. For the soup, we use **Modern Heritage**: instead of a thin watery broth, we simmer San Marzano tomatoes with heavy cream and then emulsify until velvety. The avocado provides the "Bounce" inside the sandwich to contrast the sharp cheese.
+This is the baseline for Executive comfort. The secret to the sandwich is **Culinary Technique** through **The Mayo Crust Method**: we use mayonnaise instead of butter on the exterior of the bread. Mayo has a higher smoke point and creates a perfectly uniform, golden Crunch that butter alone can't achieve. For the soup, we use **Updated Classic**: instead of a thin watery broth, we simmer San Marzano tomatoes with heavy cream and then emulsify until velvety. The avocado provides the Texture inside the sandwich to contrast the sharp cheese.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is the baseline for Silton comfort. The secret to the sandwich is **Structu
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Pickled Red Onions](/recipes/pickled-red-onions)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Pickled Red Onions](/silton-mise/recipes/pickled-red-onions)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

@@ -1,7 +1,7 @@
 ---
 title: Warm Roasted Veggie Salad
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
@@ -14,7 +14,7 @@ ingredients:
   - '2 tbsp Extra-Virgin Olive Oil'
   - '--- The Maple-Dijon Emulsion ---'
   - '1/3 cup Extra-Virgin Olive Oil'
-  - '2 tbsp Apple Cider Vinegar (The Acid Finish)'
+  - '2 tbsp Apple Cider Vinegar (The Acid Balance)'
   - '2 tbsp Pure Maple Syrup'
   - '1 tbsp Dijon Mustard'
   - '--- The Finish ---'
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This salad is a study in **Texture Integrity** through **The Roasted Stacks Pattern**. The secret to its Success is **The Massage Pattern**: you must rub the kale with sea salt for 2 minutes _before_ adding the hot vegetables; this breaks down the tough cellulose for a tender "Bounce." We maintain the "Snap" by roasting the sweet potatoes and sprouts at 375°F until charred. The maple-mustard emulsion provides the mandatory **Acid Finish** that bridges the sweet stone fruit and earthy greens.
+This salad is a study in **Textural Balance** through **The Roasted Stacks Method**. The secret to its Success is **The Massage Method**: you must rub the kale with sea salt for 2 minutes _before_ adding the hot vegetables; this breaks down the tough cellulose for a tender "Bounce." We maintain the Crunch by roasting the sweet potatoes and sprouts at 375°F until charred. The maple-mustard emulsion provides the mandatory **Acid Balance** that bridges the sweet stone fruit and earthy greens.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This salad is a study in **Texture Integrity** through **The Roasted Stacks Patt
 
 ## Serving Suggestions
 
-- [Grilled Pork & Peaches](/recipes/grilled-pork-and-peaches)
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Grilled Pork & Peaches](/silton-mise/recipes/grilled-pork-and-peaches)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

@@ -39,6 +39,6 @@ This is a one-pot masterpiece that utilizes **Flavor Layering**. We start by ren
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon)
 - Garlic Aioli for drizzling

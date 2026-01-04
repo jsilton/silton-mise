@@ -1,7 +1,7 @@
 ---
 title: Grilled-Pork Banh Mi
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 30 min
 cookTime: 10 min
 totalTime: 4 hours
@@ -16,7 +16,7 @@ ingredients:
   - '2 stalks Lemongrass, finely minced (white parts only)'
   - '--- The Sandwich ---'
   - '2 Crusty Baguettes (soft crumb, crispy crust)'
-  - '[Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon)'
+  - '[quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon)'
   - 'Fresh Cilantro and Sliced Jalapeños'
   - 'Cucumber spears'
   - 'Mayo and Maggi Seasoning (or Soy Sauce)'
@@ -29,12 +29,12 @@ A great Banh Mi is an exercise in **Structural Contrast**. You need the "Shure" 
 ## Directions
 
 1.  **Marinate:** Whisk fish sauce, sugar, honey, garlic, and lemongrass. Toss with the pork. Let marinate for at least 2 hours (ideally overnight).
-2.  **Pickles:** Prepare your [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon) at least 30 minutes in advance.
+2.  **Pickles:** Prepare your [quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon) at least 30 minutes in advance.
 3.  **Grill:** Thread pork onto skewers or use a grill basket. Grill over high heat for 3-4 minutes per side until charred and just cooked through.
 4.  **Assemble:** Split the baguettes. Spread a generous layer of mayo. Drizzle with a few drops of Maggi or Soy.
-5.  **Fill:** Layer the grilled pork, cucumber spears, [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon), and fresh cilantro. Top with jalapeños for heat.
+5.  **Fill:** Layer the grilled pork, cucumber spears, [quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon), and fresh cilantro. Top with jalapeños for heat.
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Iced Coffee with Condensed Milk

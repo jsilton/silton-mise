@@ -1,7 +1,7 @@
 ---
 title: Speedy Chinese Eggplant
 role: side
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 15-minute "Speed" masterclass. The secret to the Silton Standard is **Texture Integrity** through the **Golden-Side Pattern**: stir-fry the eggplant alone until the white flesh turns a deep golden brown and the skin is purple-gold—this creates a smoky sweetness that boiling or steaming misses. The mandatory **Acid Finish** comes from **Chinkiang Vinegar**; its deep, malty acidity provides the "High Note" that balances the richness of the peanut oil and the savory garlic.
+This is a 15-minute quick masterclass. The secret to the Kitchen Standard is **Textural Balance** through the **Golden-Side Method**: stir-fry the eggplant alone until the white flesh turns a deep golden brown and the skin is purple-gold—this creates a smoky sweetness that boiling or steaming misses. The mandatory **Acid Balance** comes from **Chinkiang Vinegar**; its deep, malty acidity provides the "High Note" that balances the richness of the peanut oil and the savory garlic.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is a 15-minute "Speed" masterclass. The secret to the Silton Standard is **
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Sausage Fried Rice](/silton-mise/recipes/chinese-sausage-fried-rice)

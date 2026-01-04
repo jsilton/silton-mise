@@ -1,7 +1,7 @@
 ---
 title: Gnocchi with Zucchini Ribbons & Brown Butter
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 20-minute "Speed" masterpiece. The secret to the Silton Standard is **Texture Integrity** through **The Ribbon Pattern**: by shaving the zucchini with a vegetable peeler into paper-thin strips, we ensure it wilts in seconds, creating a "silk" that intertwines with the gnocchi. We use a **Brown Butter Emulsion**: we cook the butter until it hits its nutty peak (Beurre Noisette) then use the moisture from the cherry tomatoes to bind it into a glossy sauce. The **Nutmeg** provides the mandatory "High Note" that bridges the earthy brown butter and fresh parsley.
+This is a 20-minute quick masterpiece. The secret to the Kitchen Standard is **Textural Balance** through **The Ribbon Method**: by shaving the zucchini with a vegetable peeler into paper-thin strips, we ensure it wilts in seconds, creating a "silk" that intertwines with the gnocchi. We use a **Brown Butter Emulsion**: we cook the butter until it hits its nutty peak (Beurre Noisette) then use the moisture from the cherry tomatoes to bind it into a glossy sauce. The **Nutmeg** provides the mandatory "High Note" that bridges the earthy brown butter and fresh parsley.
 
 ## Directions
 
@@ -34,6 +34,6 @@ This is a 20-minute "Speed" masterpiece. The secret to the Silton Standard is **
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Asparagus](/recipes/roasted-asparagus)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Asparagus](/silton-mise/recipes/roasted-asparagus)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)

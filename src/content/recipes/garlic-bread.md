@@ -1,5 +1,5 @@
 ---
-title: Real Garlic Bread (The Golden Standard)
+title: Real Garlic Bread
 role: side
 vibe: comfort
 prepTime: 10 min
@@ -17,7 +17,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" garlic bread is **The Infusion**. Many recipes just rub raw garlic on bread, which can be bitter and sharp. We whisk the grated garlic and herbs into softened butter and spread it into every crevice of the loaf. Baking at a high temp (400°F) allows the garlic to "roast" inside the butter, creating a sweet, nutty aroma rather than a raw one.
+The secret to restaurant-quality garlic bread is **The Infusion**. Many recipes just rub raw garlic on bread, which can be bitter and sharp. We whisk the grated garlic and herbs into softened butter and spread it into every crevice of the loaf. Baking at a high temp (400°F) allows the garlic to "roast" inside the butter, creating a sweet, nutty aroma rather than a raw one.
 
 ## Directions
 
@@ -29,6 +29,6 @@ The secret to "Restaurant Quality" garlic bread is **The Infusion**. Many recipe
 
 ## Serving Suggestions
 
-- [Chicken Marsala](/recipes/chicken-marsala)
-- [The Easiest Spinach Lasagna](/recipes/the-easiest-spinach-lasagna)
-- [Classic Beef Stew](/recipes/classic-beef-stew)
+- [Chicken Marsala](/silton-mise/recipes/chicken-marsala)
+- [The Easiest Spinach Lasagna](/silton-mise/recipes/the-easiest-spinach-lasagna)
+- [Classic Beef Stew](/silton-mise/recipes/classic-beef-stew)

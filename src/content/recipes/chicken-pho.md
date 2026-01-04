@@ -44,6 +44,6 @@ The secret to a golden, aromatic Chicken Pho is the **Char**. You must roast the
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Iced Jasmine Tea
 - Extra Fish Sauce for dipping

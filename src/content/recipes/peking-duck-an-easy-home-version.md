@@ -1,7 +1,7 @@
 ---
-title: Peking Duck (The Easy Home Standard)
+title: Peking Duck
 role: main
-vibe: project
+vibe: technical
 prepTime: 120 min
 cookTime: 75 min
 totalTime: 3000 min
@@ -11,7 +11,7 @@ ingredients:
   - '--- The Lacquer Base ---'
   - '2 tbsp Maltose (or Honey)'
   - '1/2 cup Boiling Water'
-  - '1 tsp Rice Vinegar (The Acid Finish)'
+  - '1 tsp Rice Vinegar (The Acid Balance)'
   - '--- The Cavity Aromatics ---'
   - '2 Scallions, 1 head Garlic'
   - '2 Apples, quartered'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate **Project** meal and a masterclass in **Structural Science**. The secret to the legendary "Shattering Skin" is **The 48-Hour Dehydration Pattern**: you must pour boiling water over the raw skin to tighten it, then brush with maltose and air-dry in the fridge, uncovered, for two full days. This separates the skin from the fat layer, ensuring it bakes into a glass-like "Snap" rather than remaining chewy. We maintain **Texture Integrity** by using a wire rack to ensure hot air circulates 360 degrees around the bird.
+This is the ultimate **Project** meal and a masterclass in **Culinary Technique**. The secret to the legendary "Shattering Skin" is **The 48-Hour Dehydration Method**: you must pour boiling water over the raw skin to tighten it, then brush with maltose and air-dry in the fridge, uncovered, for two full days. This separates the skin from the fat layer, ensuring it bakes into a glass-like Crunch rather than remaining chewy. We maintain **Textural Balance** by using a wire rack to ensure hot air circulates 360 degrees around the bird.
 
 ## Directions
 
@@ -40,6 +40,6 @@ This is the ultimate **Project** meal and a masterclass in **Structural Science*
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)

@@ -1,7 +1,7 @@
 ---
-title: Mom’s Famous Chocolate Cake (The One-Pot Standard)
+title: 'Moms Famous Chocolate Cake'
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 10 min
 cookTime: 30 min
 totalTime: 40 min
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Modern Heritage" upgrade of a family staple. By swapping margarine for **Butter** and using **Boiling Water**, we bloom the cocoa powder to its full potential. The secret to this cake is the **One-Pot Method**: you mix the entire batter in the saucepan used to melt the butter, ensuring minimal clean-up. Always frost the cake while it is still warm to create that signature, fudgy seal.
+This is a "Updated Classic" upgrade of a family staple. By swapping margarine for **Butter** and using **Boiling Water**, we bloom the cocoa powder to its full potential. The secret to this cake is the **One-Pot Method**: you mix the entire batter in the saucepan used to melt the butter, ensuring minimal clean-up. Always frost the cake while it is still warm to create that signature, fudgy seal.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is a "Modern Heritage" upgrade of a family staple. By swapping margarine fo
 
 ## Serving Suggestions
 
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)
 - Fresh Raspberries or Strawberries
 - Cold Glass of Milk

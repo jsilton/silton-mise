@@ -1,7 +1,7 @@
 ---
-title: Cantonese Steamed Fish (The 20-Minute Standard)
+title: Cantonese Steamed Fish
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 15 min
 totalTime: 20 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Gold Standard" for fish. The secret is the **Sizzling Oil Finish**: we steam the fish with ginger to infuse flavor, but the magic happens when we pour smoking-hot oil over raw scallions and cilantro on top of the fish. This flash-cooks the herbs, releasing their aroma directly into the meat. The soy sauce should be seasoned with a hint of sugar to balance the salt.
+This is the "Kitchen Standard" for fish. The secret is the **Sizzling Oil Finish**: we steam the fish with ginger to infuse flavor, but the magic happens when we pour smoking-hot oil over raw scallions and cilantro on top of the fish. This flash-cooks the herbs, releasing their aroma directly into the meat. The soy sauce should be seasoned with a hint of sugar to balance the salt.
 
 ## Directions
 
@@ -33,5 +33,5 @@ This is the "Gold Standard" for fish. The secret is the **Sizzling Oil Finish**:
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack) (Rinse 3 times!)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf) (Rinse 3 times!)
 - Steamed Bok Choy with Garlic

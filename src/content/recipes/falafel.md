@@ -1,7 +1,7 @@
 ---
-title: Falafel (The Middle Eastern Standard)
+title: Falafel
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 10 min
 totalTime: 12 hours
@@ -36,6 +36,6 @@ The single most important rule of falafel: **NEVER USE CANNED CHICKPEAS.** Canne
 
 ## Serving Suggestions
 
-- [Authentic Tzatziki Sauce](/recipes/tzatziki-sauce)
-- [Israeli Style Hummus](/recipes/israeli-style-hummus)
-- Warm Pita and [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Authentic Tzatziki Sauce](/silton-mise/recipes/tzatziki-sauce)
+- [Israeli Style Hummus](/silton-mise/recipes/israeli-style-hummus)
+- Warm Pita and [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

@@ -1,7 +1,7 @@
 ---
 title: Lemon Ricotta Pasta (The 15-Minute Brightness)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -32,6 +32,6 @@ This is the ultimate "High Note" meal. The secret to a creamy ricotta sauce with
 
 ## Serving Suggestions
 
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Roasted Asparagus

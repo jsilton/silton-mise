@@ -1,7 +1,7 @@
 ---
 title: The Best Belgian Waffles
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Gold Standard" waffle is **Structural Science** through **The Cloud Aeration Pattern**. You must beat the egg whites to stiff peaks _separately_ and fold them into the batter at the very end. This introduces millions of tiny air pockets that expand instantly in the waffle iron, creating a shatteringly crisp "Snap" on the exterior with a cloud-like "Bounce" inside. We use a **High Baking Powder Ratio** to ensure the vertical rise needed for deep Belgian pockets.
+The secret to a "Kitchen Standard" waffle is **Culinary Technique** through **The Cloud Aeration Method**. You must beat the egg whites to stiff peaks _separately_ and fold them into the batter at the very end. This introduces millions of tiny air pockets that expand instantly in the waffle iron, creating a shatteringly crisp Crunch on the exterior with a cloud-like Texture inside. We use a **High Baking Powder Ratio** to ensure the vertical rise needed for deep Belgian pockets.
 
 ## Directions
 
@@ -31,10 +31,10 @@ The secret to a "Gold Standard" waffle is **Structural Science** through **The C
 4.  **Combine:** Pour the wet ingredients into the dry. Stir with a whisk until **just combined** (small lumps are mandatory).
 5.  **The Fold:** Gently fold the whipped egg whites into the batter using a rubber spatula. Do not over-mix, or you will deflate the "Bounce."
 6.  **Bake:** Pour 1/2 cup portions into a preheated, oiled waffle iron. Cook for 5-7 minutes until deep golden brown and the steam stops.
-7.  **Serve:** Serve immediately with warm maple syrup and [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce).
+7.  **Serve:** Serve immediately with warm maple syrup and [Perfect Cranberry Sauce](/silton-mise/recipes/perfect-cranberry-sauce).
 
 ## Serving Suggestions
 
-- [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
+- [Perfect Cranberry Sauce](/silton-mise/recipes/perfect-cranberry-sauce)
 - Fresh Sliced Strawberries
 - Crispy Bacon

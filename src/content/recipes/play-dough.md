@@ -1,7 +1,7 @@
 ---
-title: Play-Dough (The Stovetop Standard)
+title: Play-Dough
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 5 min
 totalTime: 10 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for family productivity. The secret to a play-dough that has a resilient, professional "Bounce" is **Structural Science** through **The Heat-Gelatinization Pattern**. Unlike no-cook versions, cooking the dough on the stovetop ensures the starch molecules are fully cross-linked, resulting in a "Snap" that doesn't stick to hands. The **Cream of Tartar** is mandatory—it acts as a gluten-stiffener and a natural preservative.
+This is the baseline **Modularity** component for family productivity. The secret to a play-dough that has a resilient, professional Texture is **Culinary Technique** through **The Heat-Gelatinization Method**. Unlike no-cook versions, cooking the dough on the stovetop ensures the starch molecules are fully cross-linked, resulting in a Crunch that doesn't stick to hands. The **Cream of Tartar** is mandatory—it acts as a gluten-stiffener and a natural preservative.
 
 ## Directions
 
@@ -34,4 +34,4 @@ This is the baseline **Modularity** component for family productivity. The secre
 
 - Quiet Mornings
 - Rainy Day Projects
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)

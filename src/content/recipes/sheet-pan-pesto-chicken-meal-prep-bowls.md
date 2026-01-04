@@ -1,7 +1,7 @@
 ---
 title: Sheet Pan Pesto Chicken Bowls
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 20 min
 totalTime: 40 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate **Modularity** component for high-performance meal prep. The secret to Success is **The Double-Stage Roast Pattern**: we roast the chicken and mushrooms first to develop a Maillard "Snap," then add the delicate broccoli and zucchini for the final 10 minutes. This prevents the vegetables from turning into a mushy film. We use **The Pesto Emulsion** as a thermal guard: by tossing the chicken in pesto _before_ roasting, we create a fat barrier that keeps the lean breast meat succulent and "Bouncy."
+This is the ultimate **Modularity** component for high-performance meal prep. The secret to Success is **The Double-Stage Roast Method**: we roast the chicken and mushrooms first to develop a Maillard "Snap," then add the delicate broccoli and zucchini for the final 10 minutes. This prevents the vegetables from turning into a mushy film. We use **The Pesto Emulsion** as a thermal guard: by tossing the chicken in pesto _before_ roasting, we create a fat barrier that keeps the lean breast meat succulent and "Bouncy."
 
 ## Directions
 
@@ -31,10 +31,10 @@ This is the ultimate **Modularity** component for high-performance meal prep. Th
 3.  **Stage 1:** Toss the diced chicken and mushrooms with 1 tbsp oil and 2 tbsp of the pesto mixture. Spread on the pan. Bake for 10 minutes.
 4.  **Stage 2:** Remove pan. Add the broccoli, zucchini, and cherry tomatoes. Toss with another 2 tbsp of pesto.
 5.  **Bake:** Roast for 10 more minutes until the chicken is cooked through (165°F) and the broccoli is tender-crisp.
-6.  **Store:** Divide among 4 bowls. Serve over pasta or rice. Keeps in the fridge for 5 days with a perfect "Bounce" when reheated.
+6.  **Store:** Divide among 4 bowls. Serve over pasta or rice. Keeps in the fridge for 5 days with a perfect Texture when reheated.
 
 ## Serving Suggestions
 
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Greek-Style Lamb Burgers](/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce) (as a side)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Greek-Style Lamb Burgers](/silton-mise/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce) (as a side)

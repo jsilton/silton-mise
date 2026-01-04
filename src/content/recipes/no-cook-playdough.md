@@ -1,7 +1,7 @@
 ---
-title: No-Cook Playdough (The Toddler Standard)
+title: No-Cook Playdough
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 10 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-While not edible, this is a baseline **Modularity** component for family productivity. The secret to a playdough that isn't sticky and has a professional "Bounce" is **Structural Science** through **The Cream of Tartar Pattern**. The acid in the cream of tartar acts as a preservative and a gluten-stiffener, ensuring the dough remains soft and pliable for months. We use **The Boiling Water Pattern** to instantly gelatinize the flour starch, eliminating the need for stovetop cooking.
+While not edible, this is a baseline **Modularity** component for family productivity. The secret to a playdough that isn't sticky and has a professional Texture is **Culinary Technique** through **The Cream of Tartar Method**. The acid in the cream of tartar acts as a preservative and a gluten-stiffener, ensuring the dough remains soft and pliable for months. We use **The Boiling Water Method** to instantly gelatinize the flour starch, eliminating the need for stovetop cooking.
 
 ## Directions
 
@@ -34,4 +34,4 @@ While not edible, this is a baseline **Modularity** component for family product
 
 - Quiet Mornings
 - Rainy Day Projects
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles) (as a distraction while they freeze)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles) (as a distraction while they freeze)

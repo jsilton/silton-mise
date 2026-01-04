@@ -33,6 +33,6 @@ This is a soulful, rustic ragu from the Abruzzo region of Italy. Unlike a beef b
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Patate al Forno](/recipes/patate-al-forno)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Patate al Forno](/silton-mise/recipes/patate-al-forno)
 - Glass of Montepulciano d'Abruzzo

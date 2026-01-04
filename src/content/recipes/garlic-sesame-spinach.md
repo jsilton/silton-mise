@@ -1,7 +1,7 @@
 ---
 title: Garlic-Sesame Spinach (Sigeumchi Namul)
 role: side
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 2 min
 totalTime: 7 min
@@ -16,7 +16,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modularity** component for Korean bowls and a masterclass in **Structural Science**. The secret to the "Restaurant Bounce" is the **Dry Squeeze Pattern**: after blanching and shocking the spinach, you must squeeze it with your hands until it is **bone-dry**. This concentrates the flavor and ensures the sesame-garlic dressing coats the fibers rather than pooling in water. The raw garlic provides the mandatory sharp **High Note**.
+This is a baseline **Modularity** component for Korean bowls and a masterclass in **Culinary Technique**. The secret to the "Restaurant Bounce" is the **Dry Squeeze Method**: after blanching and shocking the spinach, you must squeeze it with your hands until it is **bone-dry**. This concentrates the flavor and ensures the sesame-garlic dressing coats the fibers rather than pooling in water. The raw garlic provides the mandatory sharp **High Note**.
 
 ## Directions
 
@@ -28,6 +28,6 @@ This is a baseline **Modularity** component for Korean bowls and a masterclass i
 
 ## Serving Suggestions
 
-- [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
-- [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
-- [Fresh Cabbage, Cucumber and Radish Kimchi](/recipes/fresh-cabbage-cucumber-and-radish-kimchi)
+- [Bibimbap (The Ultimate Bowl)](/silton-mise/recipes/bibimbap)
+- [Marinated Korean Ribeye](/silton-mise/recipes/marinated-korean-ribeye)
+- [Fresh Cabbage, Cucumber and Radish Kimchi](/silton-mise/recipes/fresh-cabbage-cucumber-and-radish-kimchi)

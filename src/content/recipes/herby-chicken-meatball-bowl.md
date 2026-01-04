@@ -1,7 +1,7 @@
 ---
 title: Herby Chicken Meatball Bowl
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
@@ -9,7 +9,7 @@ servings: '4'
 ingredients:
   - '--- The Herby Meatballs ---'
   - '1 lb Ground Chicken'
-  - '1 cup Whole-Milk Ricotta (The "Bounce" Hack)'
+  - '1 cup Whole-Milk Ricotta for richness'
   - '1 large Egg'
   - '1/2 cup Panko Breadcrumbs'
   - '1 Shallot, finely chopped'
@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-performance "Fuel" bowl. The secret to chicken meatballs that aren't dry is **Structural Science** through **The Ricotta Bounce Hack**: by folding whole-milk ricotta into the ground chicken, we create a fat-moisture barrier that ensures the meatballs remain succulent even after searing. We use **The Cylindrical Sear Pattern**: shaping the meat into small logs rather than balls provides more Maillard surface area, resulting in a deeper savory "Snap" against the bright, herbal yogurt dressing.
+This is the ultimate high-performance nutritious bowl. The secret to chicken meatballs that aren't dry is **Culinary Technique** through **The Ricotta Bounce Hack**: by folding whole-milk ricotta into the ground chicken, we create a fat-moisture barrier that ensures the meatballs remain succulent even after searing. We use **The Cylindrical Sear Method**: shaping the meat into small logs rather than balls provides more Maillard surface area, resulting in a deeper savory Crunch against the bright, herbal yogurt dressing.
 
 ## Directions
 
@@ -39,10 +39,10 @@ This is the ultimate high-performance "Fuel" bowl. The secret to chicken meatbal
 4.  **Sear:** Heat 2 tbsp oil in a large skillet over medium-high. Sear the meatballs for 3-4 minutes per side until golden brown and the internal temp is 165°F.
 5.  **The Emulsion:** In a food processor, blend the yogurt, basil, jalapeño, honey, and lemon juice until vibrant green and smooth.
 6.  **Assemble:** Divide the kale among four bowls. Top with the roasted chickpeas, sweet potatoes, and meatballs.
-7.  **Finish:** Drizzle generously with the dressing for the mandatory **Acid Finish**.
+7.  **Finish:** Drizzle generously with the dressing for the mandatory **Acid Balance**.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Basmati Rice](/recipes/basmati-rice) (if extra fuel is needed)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice) (if extra fuel is needed)

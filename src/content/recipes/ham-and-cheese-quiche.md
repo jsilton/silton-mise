@@ -1,5 +1,5 @@
 ---
-title: Ham & Cheese Quiche (The Brunch Standard)
+title: Ham & Cheese Quiche
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -17,7 +17,7 @@ ingredients:
   - '1 tbsp Unsalted Butter'
   - '--- The Silk Custard ---'
   - '5 large Eggs'
-  - '1/2 cup Half-and-Half (The "Bounce" Standard)'
+  - '1/2 cup Half-and-Half (for texture)'
   - '1/2 tsp Dried Parsley'
   - '1/4 tsp Black Pepper'
   - 'Pinch of Nutmeg'
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Gold Standard" quiche is **Structural Science** through **The Blind Bake Pattern**. You must pre-bake the crust for 5 minutes before adding the wet custard; this creates a moisture barrier that prevents the dreaded "soggy bottom." We use **The Silk Custard Ratio** (5 eggs to 1/2 cup cream) to ensure a firm, sliceable "Bounce" that remains creamy rather than rubbery. The minced onions are sautéed in butter first to develop their sweetness, providing a natural **Acid/Sugar Finish** to contrast the salty ham.
+The secret to a "Kitchen Standard" quiche is **Culinary Technique** through **The Blind Bake Method**. You must pre-bake the crust for 5 minutes before adding the wet custard; this creates a moisture barrier that prevents the dreaded "soggy bottom." We use **The Silk Custard Ratio** (5 eggs to 1/2 cup cream) to ensure a firm, sliceable Texture that remains creamy rather than rubbery. The minced onions are sautéed in butter first to develop their sweetness, providing a natural **Acid/Sugar Finish** to contrast the salty ham.
 
 ## Directions
 
@@ -38,6 +38,6 @@ The secret to a "Gold Standard" quiche is **Structural Science** through **The B
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)
-- [Fresh Melon Daiquiri](/recipes/fresh-melon-daiquiri) (for a festive brunch)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Crispy Smashed Potatoes](/silton-mise/recipes/crispy-smashed-potatoes)
+- [Fresh Melon Daiquiri](/silton-mise/recipes/fresh-melon-daiquiri) (for a festive brunch)

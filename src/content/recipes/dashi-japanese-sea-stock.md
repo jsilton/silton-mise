@@ -1,7 +1,7 @@
 ---
 title: Dashi (Japanese Sea Stock)
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -14,7 +14,7 @@ ingredients:
 
 ## Chef's Note
 
-Dashi is the foundation of Japanese cuisine and a masterclass in **Structural Science**. The secret to the Silton Standard is the **Umami Extraction Pattern**: you must remove the kombu just before the water hits a boil. If boiled, the kombu releases bitter, slimy compounds that ruin the clarity of the stock. This "First Dashi" (Ichiban Dashi) provides the clean, ocean-fresh **High Note** essential for professional-grade miso soups and noodle dishes.
+Dashi is the foundation of Japanese cuisine and a masterclass in **Culinary Technique**. The secret to the Kitchen Standard is the **Umami Extraction Method**: you must remove the kombu just before the water hits a boil. If boiled, the kombu releases bitter, slimy compounds that ruin the clarity of the stock. This "First Dashi" (Ichiban Dashi) provides the clean, ocean-fresh **High Note** essential for professional-grade miso soups and noodle dishes.
 
 ## Directions
 
@@ -27,6 +27,6 @@ Dashi is the foundation of Japanese cuisine and a masterclass in **Structural Sc
 
 ## Serving Suggestions
 
-- [Miso Soup](/recipes/miso-soup)
-- [Japanese-Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
-- [Yaki Udon](/recipes/yaki-udon)
+- [Miso Soup](/silton-mise/recipes/miso-soup)
+- [Japanese-Style Trout with Dashi](/silton-mise/recipes/japanese-style-trout-with-dashi)
+- [Yaki Udon](/silton-mise/recipes/yaki-udon)

@@ -1,7 +1,7 @@
 ---
 title: Blueberry Banana Pancake Muffins
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 25 min
 totalTime: 30 min
@@ -30,5 +30,5 @@ These are essentially "Pancakes in a Pan." The secret to their fluffy, rich text
 
 ## Serving Suggestions
 
-- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- [Mango-Rita Green Smoothie](/silton-mise/recipes/mango-rita-green-smoothie)
 - Fresh Honey

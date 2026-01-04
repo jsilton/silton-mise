@@ -1,7 +1,7 @@
 ---
 title: Creamy Sun-Dried Tomato Chicken Pasta
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -11,7 +11,7 @@ ingredients:
   - '8 oz Penne Pasta'
   - '--- The Mozzarella Emulsion ---'
   - '1 cup Half-and-Half'
-  - '1 cup Sharp Mozzarella, shredded (The "Bounce" Cheese)'
+  - '1 cup Sharp Mozzarella, shredded (for texture)'
   - '4 oz Sun-dried Tomatoes in oil (drained and chopped)'
   - '--- The Flavor Pulse ---'
   - '1 cup Fresh Spinach'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this 30-minute "Speed" meal is **The Tomato-Oil Sear Pattern**. You must use the oil reserved from the sun-dried tomato jar to sear the chicken; this infuses the protein with a deep, concentrated tomato intensity _before_ the cream is added. We maintain **Texture Integrity** through **The Mozzarella Bind**: by whisking the cheese directly into the simmering cream, we create a stable, tacky glaze that has the "Bounce" to cling to the penne without needing a heavy flour roux. The red pepper flakes provide the mandatory savory **High Note**.
+The secret to this 30-minute quick meal is **The Tomato-Oil Sear Method**. You must use the oil reserved from the sun-dried tomato jar to sear the chicken; this infuses the protein with a deep, concentrated tomato intensity _before_ the cream is added. We maintain **Textural Balance** through **The Mozzarella Bind**: by whisking the cheese directly into the simmering cream, we create a stable, tacky glaze that has the Texture to cling to the penne without needing a heavy flour roux. The red pepper flakes provide the mandatory savory **High Note**.
 
 ## Directions
 
@@ -37,6 +37,6 @@ The secret to this 30-minute "Speed" meal is **The Tomato-Oil Sear Pattern**. Yo
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

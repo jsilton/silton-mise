@@ -1,7 +1,7 @@
 ---
 title: Char Siu (Chinese BBQ Pork)
 role: main
-vibe: project
+vibe: technical
 prepTime: 15 min
 cookTime: 50 min
 totalTime: 12 hours
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the traditional "Project" version of the [Bernard's Style Char Siu](/recipes/bernards-style-char-siu). By using **Pork Butt** instead of tenderloin, we ensure the meat stays juicy and fatty through the high-heat roasting process. The secret is the **Water Tray**: place a tray of water underneath the roasting rack to catch the drippings—this prevents smoking and creates a humid environment that keeps the pork tender while the honey-glaze lacquers the outside.
+This is the traditional technical dish version of the [Bernard's Style Char Siu](/silton-mise/recipes/bernards-style-char-siu). By using **Pork Butt** instead of tenderloin, we ensure the meat stays juicy and fatty through the high-heat roasting process. The secret is the **Water Tray**: place a tray of water underneath the roasting rack to catch the drippings—this prevents smoking and creates a humid environment that keeps the pork tender while the honey-glaze lacquers the outside.
 
 ## Directions
 
@@ -35,5 +35,5 @@ This is the traditional "Project" version of the [Bernard's Style Char Siu](/rec
 
 ## Serving Suggestions
 
-- [Cantonese Wonton Soup](/recipes/cantonese-shrimp-and-pork-wontons)
-- Jasmine Rice and [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Soup](/silton-mise/recipes/cantonese-shrimp-and-pork-wontons)
+- Jasmine Rice and [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

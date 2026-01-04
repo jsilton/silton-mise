@@ -1,7 +1,7 @@
 ---
-title: Chicken Shawarma (The Oven-Char Standard)
+title: Chicken Shawarma
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 4 hours
@@ -18,7 +18,7 @@ ingredients:
   - '1/2 tsp Smoked Paprika'
   - '1/2 tsp Salt'
   - '--- The Finish ---'
-  - '[Tahini Sauce](/recipes/tahini-sauce)'
+  - '[Tahini Sauce](/silton-mise/recipes/tahini-sauce)'
 ---
 
 ## Chef's Note
@@ -31,10 +31,10 @@ Real Shawarma is roasted on a vertical spit (Doner) for hours. At home, we achie
 2.  **Roast:** Preheat oven to 425°F. Place the chicken thighs on a foil-lined sheet. Roast for 15-18 minutes until cooked through.
 3.  **The Char:** Remove from oven and slice into thin strips. Heat a heavy skillet over high heat with 1 tsp oil.
 4.  **Sear:** Add the chicken strips to the skillet. Cook undisturbed for 2 minutes until the edges are crispy and blackened.
-5.  **Serve:** Pile the meat onto a platter. Top with [Tahini Sauce](/recipes/tahini-sauce).
+5.  **Serve:** Pile the meat onto a platter. Top with [Tahini Sauce](/silton-mise/recipes/tahini-sauce).
 
 ## Serving Suggestions
 
-- [Israeli Style Hummus](/recipes/israeli-style-hummus)
-- [Quick Pickled Red Onions](/recipes/pickled-red-onions)
+- [Israeli Style Hummus](/silton-mise/recipes/israeli-style-hummus)
+- [quick Pickled Red Onions](/silton-mise/recipes/pickled-red-onions)
 - Warm Pita and Israeli Salad

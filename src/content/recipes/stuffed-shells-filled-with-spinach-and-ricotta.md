@@ -11,19 +11,19 @@ ingredients:
   - '1 lb Fresh Baby Spinach'
   - '--- The Ricotta Emulsion ---'
   - '10 oz Whole-milk Ricotta'
-  - '1 large Egg, beaten (The "Bounce" binder)'
+  - '1 large Egg, beaten (as binder)'
   - '1/2 cup Parmesan, freshly grated'
   - '2 tbsp Fresh Chives, minced'
   - '2 cloves Garlic, minced'
   - '--- The Finish ---'
-  - '2 cups [Roasted Tomato Basil Sauce](/recipes/roasted-tomato-basil-soup)'
+  - '2 cups [Roasted Tomato Basil Sauce](/silton-mise/recipes/roasted-tomato-basil-soup)'
   - '1 tbsp Extra-Virgin Olive Oil'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-The secret to stuffed shells that aren't watery is **Structural Science** through **The Ice-Shock Squeeze Pattern**. You must blanch the spinach for only 20 seconds and then squeeze it in a towel until **bone-dry** before pureeing with the cheese. This ensures the filling has a dense, custardy "Bounce" rather than weeping into the sauce. We use **The Single-Layer Pattern**: arranging the shells in a tight, single layer ensures the edges develop a "Snappy" golden crust under the broiler.
+The secret to stuffed shells that aren't watery is **Culinary Technique** through **The Ice-Shock Squeeze Method**. You must blanch the spinach for only 20 seconds and then squeeze it in a towel until **bone-dry** before pureeing with the cheese. This ensures the filling has a dense, custardy Texture rather than weeping into the sauce. We use **The Single-Layer Method**: arranging the shells in a tight, single layer ensures the edges develop a crispy golden crust under the broiler.
 
 ## Directions
 
@@ -33,10 +33,10 @@ The secret to stuffed shells that aren't watery is **Structural Science** throug
 4.  **Assemble:** Grease a 9x13-inch baking dish. Spread a thin layer of sauce on the bottom.
 5.  **Fill:** Stuff each shell with a rounded tablespoon of the ricotta mix. Arrange in a single layer.
 6.  **Bake:** Top with remaining sauce and cover tightly with foil. Bake at 350°F for 30 minutes.
-7.  **The Snap:** Remove foil. Sprinkle with remaining Parmesan. Broil for 2 minutes until the edges are crispy and golden.
+7.  **The Crunch:** Remove foil. Sprinkle with remaining Parmesan. Broil for 2 minutes until the edges are crispy and golden.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

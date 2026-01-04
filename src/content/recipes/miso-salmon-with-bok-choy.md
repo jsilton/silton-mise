@@ -1,7 +1,7 @@
 ---
 title: Miso-Glazed Salmon with Crunchy Bok Choy
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -38,10 +38,10 @@ This dish is about the interplay between the buttery, caramelized salmon and the
 5.  **The Bok Choy:** While salmon roasts, heat a large skillet or wok over high heat with a splash of oil. Add the garlic and the bok choy (cut-side down). Sear for 2 minutes without moving until the edges are browned.
 6.  **Steam:** Pour in 2 tablespoons of water or broth, immediately cover with a lid, and steam for 1 minute.
 7.  **Finish:** Remove lid, stir in the oyster sauce and sesame oil. Toss to coat.
-8.  **Serve:** Place a mound of [Jasmine Rice](/recipes/near-east-rice-pilaf-hack) in each bowl, top with the salmon and bok choy. Garnish with sesame seeds and green onions.
+8.  **Serve:** Place a mound of [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf) in each bowl, top with the salmon and bok choy. Garnish with sesame seeds and green onions.
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack) (Rinse 3 times!)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf) (Rinse 3 times!)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Cold Sake or Green Tea

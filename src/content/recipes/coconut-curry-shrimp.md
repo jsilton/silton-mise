@@ -1,7 +1,7 @@
 ---
 title: Coconut Curry Shrimp
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -13,7 +13,7 @@ ingredients:
   - '4 cloves Garlic, minced'
   - '1 tbsp Curry Powder'
   - '1 can (13.5 oz) Full-fat Coconut Milk'
-  - '--- The Snap ---'
+  - '--- The Crunch ---'
   - '1 large Zucchini, sliced into half-moons'
   - '1 cup Mushrooms, sliced'
   - '2 tbsp Unsalted Butter'
@@ -26,11 +26,11 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute "Speed" masterclass. The secret to the Silton Standard here is the **Shrimp Snap Pattern**: we sear the shrimp in butter first and remove them _before_ building the sauce. This ensures they don't overcook into rubbery curls while the sauce simmers. We maintain **Texture Integrity** by adding the zucchini only at the very end—it should be "Snappy" and bright green, providing a textural contrast to the silky, honey-sweetened coconut glaze.
+This is a 25-minute quick masterclass. The secret to the Kitchen Standard here is the **Shrimp Snap Method**: we sear the shrimp in butter first and remove them _before_ building the sauce. This ensures they don't overcook into rubbery curls while the sauce simmers. We maintain **Textural Balance** by adding the zucchini only at the very end—it should be crispy and bright green, providing a textural contrast to the silky, honey-sweetened coconut glaze.
 
 ## Directions
 
-1.  **The Snap:** In a large skillet, melt butter over medium-high heat. Add shrimp and cook for 2-3 minutes total, turning once, until pink and just opaque. Remove to a plate.
+1.  **The Crunch:** In a large skillet, melt butter over medium-high heat. Add shrimp and cook for 2-3 minutes total, turning once, until pink and just opaque. Remove to a plate.
 2.  **Aromatics:** In the same pan, add onions, garlic, and mushrooms. Sauté for 3 minutes. Sprinkle the curry powder over the vegetables and stir for 1 minute to "bloom" the spices.
 3.  **The Glaze:** Pour in the coconut milk. Add honey and lime juice. Bring to a gentle boil, then reduce heat to medium-low.
 4.  **Veg:** Add the zucchini slices. Simmer for 3 minutes until just tender but still bright.
@@ -39,6 +39,6 @@ This is a 25-minute "Speed" masterclass. The secret to the Silton Standard here 
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Quick Pickled Red Onions](/recipes/pickled-red-onions)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [quick Pickled Red Onions](/silton-mise/recipes/pickled-red-onions)

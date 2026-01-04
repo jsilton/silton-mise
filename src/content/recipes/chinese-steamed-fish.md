@@ -1,7 +1,7 @@
 ---
-title: Chinese Steamed Fish (The 20-Minute Standard)
+title: Chinese Steamed Fish
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate test of **Structural Science** in Cantonese cuisine. The secret is the **Sizzling Oil Finish**: we pour smoking-hot oil directly over the raw ginger and scallions sitting atop the steamed fish. This "flash-cooks" the aromatics, releasing their oils into the skin of the fish and creating a fragrance that is unattainable through steaming alone. Always discard the "fish water" from the steaming plate—it carries the muddy off-flavors we want to avoid.
+This is the ultimate test of **Culinary Technique** in Cantonese cuisine. The secret is the **Sizzling Oil Finish**: we pour smoking-hot oil directly over the raw ginger and scallions sitting atop the steamed fish. This "flash-cooks" the aromatics, releasing their oils into the skin of the fish and creating a fragrance that is unattainable through steaming alone. Always discard the "fish water" from the steaming plate—it carries the muddy off-flavors we want to avoid.
 
 ## Directions
 
@@ -39,6 +39,6 @@ This is the ultimate test of **Structural Science** in Cantonese cuisine. The se
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Steamed Bok Choy with Oyster Sauce](/recipes/steamed-bok-choy-with-oyster-sauce)
-- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Steamed Bok Choy with Oyster Sauce](/silton-mise/recipes/steamed-bok-choy-with-oyster-sauce)
+- [Chinese Sausage Fried Rice](/silton-mise/recipes/chinese-sausage-fried-rice)

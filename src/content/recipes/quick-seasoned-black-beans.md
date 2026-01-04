@@ -1,7 +1,7 @@
 ---
-title: Quick Seasoned Black Beans
+title: quick Seasoned Black Beans
 role: side
-vibe: speed
+vibe: quick
 prepTime: 2 min
 cookTime: 10 min
 totalTime: 12 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-Canned beans are a survival staple, but they need **Flavor Layering** to be restaurant-worthy. We use the bean liquid (aquafaba) to create a natural, creamy sauce and bloom the cumin in oil first to wake up the earthy spices. The final hit of **Lime Juice** is the mandatory Silton acid finish.
+Canned beans are a survival staple, but they need **Flavor Layering** to be restaurant-worthy. We use the bean liquid (aquafaba) to create a natural, creamy sauce and bloom the cumin in oil first to wake up the earthy spices. The final hit of **Lime Juice** is the mandatory Executive acid finish.
 
 ## Directions
 
@@ -29,6 +29,6 @@ Canned beans are a survival staple, but they need **Flavor Layering** to be rest
 
 ## Pairs With
 
-- [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
-- [Garlic Honey Lime Shrimp](/recipes/garlic-honey-lime-shrimp)
-- [Weeknight Tacos](/recipes/tacos)
+- [Cilantro Lime Rice](/silton-mise/recipes/cilantro-lime-rice)
+- [Garlic Honey Lime Shrimp](/silton-mise/recipes/garlic-honey-lime-shrimp)
+- [Weeknight Tacos](/silton-mise/recipes/tacos)

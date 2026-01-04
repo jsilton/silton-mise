@@ -1,7 +1,7 @@
 ---
-title: Avocado Kale Caesar (The Modern Standard)
+title: Avocado Kale Caesar
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 0 min
 totalTime: 15 min
@@ -18,7 +18,7 @@ ingredients:
   - '1/2 tsp Kosher Salt'
   - '1/2 tsp Freshly Cracked Black Pepper'
   - '2-3 tbsp Water (to thin)'
-  - '--- The Crunch & Finish ---'
+  - '--- the crunch & Finish ---'
   - '1/4 cup Toasted Pepitas (Pumpkin Seeds)'
   - '1/3 cup Shaved Parmesan Cheese'
   - '1/2 cup Panko Breadcrumbs, toasted in butter (Optional crunch)'
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This isn't your average kale salad. The secret to making kale "Restaurant Quality" is the **Massage**: by rubbing the shredded leaves with a little oil and salt, you break down the tough fibers, turning the leaves tender and sweet. The dressing uses the natural fat of the avocado combined with a hit of **Miso or Soy** to create that deep, savory "Caesar" punch without needing raw eggs or anchovies.
+This isn't your average kale salad. The secret to making kale restaurant-quality is the **Massage**: by rubbing the shredded leaves with a little oil and salt, you break down the tough fibers, turning the leaves tender and sweet. The dressing uses the natural fat of the avocado combined with a hit of **Miso or Soy** to create that deep, savory "Caesar" punch without needing raw eggs or anchovies.
 
 ## Directions
 
@@ -39,6 +39,6 @@ This isn't your average kale salad. The secret to making kale "Restaurant Qualit
 
 ## Serving Suggestions
 
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Miso-Glazed Salmon](/recipes/miso-salmon-with-bok-choy)
-- [Baked Macaroni and Pimento Cheese](/recipes/macaroni-and-cheese)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Miso-Glazed Salmon](/silton-mise/recipes/miso-salmon-with-bok-choy)
+- [Baked Macaroni and Pimento Cheese](/silton-mise/recipes/macaroni-and-cheese)

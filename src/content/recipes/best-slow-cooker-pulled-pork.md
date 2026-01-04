@@ -1,5 +1,5 @@
 ---
-title: Best Slow Cooker Pulled Pork (The Bark Standard)
+title: Best Slow Cooker Pulled Pork
 role: main
 vibe: comfort
 prepTime: 10 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-Slow cookers excel at tenderness but fail at texture. We solve this with the **Bark Finish Pattern**: after 8 hours of braising, we shred the meat and finish it under the **BROILER**. This evaporates the surface moisture and caramelizes the fat, giving you those crispy, charred edges that define restaurant-quality BBQ.
+Slow cookers excel at tenderness but fail at texture. We solve this with the **Bark Finish Method**: after 8 hours of braising, we shred the meat and finish it under the **BROILER**. This evaporates the surface moisture and caramelizes the fat, giving you those crispy, charred edges that define restaurant-quality BBQ.
 
 ## Directions
 
@@ -35,6 +35,6 @@ Slow cookers excel at tenderness but fail at texture. We solve this with the **B
 
 ## Serving Suggestions
 
-- [Quick Pickled Carrots and Daikon](/recipes/quick-pickled-carrots-and-daikon)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)
 - Sweet Potato Fries

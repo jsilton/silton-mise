@@ -1,5 +1,5 @@
 ---
-title: French Toast (The Weekend Standard)
+title: French Toast
 role: main
 vibe: comfort
 prepTime: 10 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" French toast is the **Modern Heritage** bread choice. We exclusively use **Challah or Brioche** for their high egg and butter content, which creates a custardy "Bounce" that regular white bread cannot mimic. We use the **Quick-Dip Pattern**: because these breads are porous, you must only dip them for 2-3 seconds per side. Over-soaking will cause the structural gluten to collapse, leading to a soggy center. The warm honey provides the mandatory **High Note** sweetness.
+The secret to restaurant-quality French toast is the **Updated Classic** bread choice. We exclusively use **Challah or Brioche** for their high egg and butter content, which creates a custardy Texture that regular white bread cannot mimic. We use the **quick-Dip Method**: because these breads are porous, you must only dip them for 2-3 seconds per side. Over-soaking will cause the structural gluten to collapse, leading to a soggy center. The warm honey provides the mandatory **High Note** sweetness.
 
 ## Directions
 
@@ -37,5 +37,5 @@ The secret to "Restaurant Quality" French toast is the **Modern Heritage** bread
 ## Serving Suggestions
 
 - Crispy Bacon or Sausage
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)

@@ -1,7 +1,7 @@
 ---
 title: Seasoned Bean Sprouts (Kongnamul Namul)
 role: side
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 5 min
 totalTime: 10 min
@@ -9,7 +9,7 @@ servings: '4'
 ingredients:
   - '1 lb Soybean Sprouts (Kongnamul)'
   - '--- The Namul Dressing ---'
-  - '1 tsp Toasted Sesame Oil (The "Deep Note")'
+  - '1 tsp Toasted Sesame Oil (The complex flavor)'
   - '1 tsp Garlic, minced'
   - '1/2 tsp Fine Sea Salt'
   - '1 Green Onion, minced'
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modularity** component for all Korean "Fuel" meals. The secret to its Success is **The Steam-Lock Pattern**: we cook the sprouts in a very small amount of water with the lid tightly closed; this ensures the sprouts maintain their resilient "Snap" and nutty aroma rather than turning soggy. We use **Toasted Sesame Oil** as the mandatory savory **High Note**—tossing the sprouts while warm ensures the oil emulsifies with the residual moisture for a perfect glossy finish.
+This is a baseline **Modularity** component for all Korean nutritious meals. The secret to its Success is **The Steam-Lock Method**: we cook the sprouts in a very small amount of water with the lid tightly closed; this ensures the sprouts maintain their resilient Crunch and nutty aroma rather than turning soggy. We use **Toasted Sesame Oil** as the mandatory savory **High Note**—tossing the sprouts while warm ensures the oil emulsifies with the residual moisture for a perfect glossy finish.
 
 ## Directions
 
@@ -31,6 +31,6 @@ This is a baseline **Modularity** component for all Korean "Fuel" meals. The sec
 
 ## Serving Suggestions
 
-- [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
-- [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
-- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)
+- [Bibimbap (The Ultimate Bowl)](/silton-mise/recipes/bibimbap)
+- [Marinated Korean Ribeye](/silton-mise/recipes/marinated-korean-ribeye)
+- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/silton-mise/recipes/korean-mung-bean-sprouts-salad)

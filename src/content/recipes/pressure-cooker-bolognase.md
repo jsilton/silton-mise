@@ -16,16 +16,16 @@ ingredients:
   - '6 cloves Garlic, minced'
   - '--- The Umami Pulse ---'
   - '2 tbsp Tomato Paste'
-  - '1 cup Dry Red Wine (The High Note)'
+  - '1 cup Dry Red Wine (The Finishing Touch)'
   - '1 can (28 oz) San Marzano Tomatoes, hand-crushed'
-  - '2 tbsp Balsamic Vinegar (The Acid Finish)'
+  - '2 tbsp Balsamic Vinegar (The Acid Balance)'
   - '20 Fresh Basil Leaves'
   - '1 Fresh Bay Leaf'
 ---
 
 ## Chef's Note
 
-This is the definitive "Gold Standard" for a weekday ragù. The secret to its elite depth is **Structural Science** through **The Maillard Extraction Pattern**: we sear the meat and sausage separately first to develop a heavy fond, then use the red wine to deglaze the pot. The pressure cooker accelerates the **Collagen Breakdown**, giving the sauce a rich "Bounce" usually only found in 6-hour simmered versions. We finish with **Balsamic Vinegar**—the mandatory **Acid Finish** that cuts through the rich pork fat.
+This is the definitive "Kitchen Standard" for a weekday ragù. The secret to its elite depth is **Culinary Technique** through **The Maillard Extraction Method**: we sear the meat and sausage separately first to develop a heavy fond, then use the red wine to deglaze the pot. The pressure cooker accelerates the **Collagen Breakdown**, giving the sauce a rich Texture usually only found in 6-hour simmered versions. We finish with **Balsamic Vinegar**—the mandatory **Acid Balance** that cuts through the rich pork fat.
 
 ## Directions
 
@@ -36,10 +36,10 @@ This is the definitive "Gold Standard" for a weekday ragù. The secret to its el
 5.  **Pressure:** Return the meat to the pot. Add the crushed tomatoes. Secure the lid. Set to **High Pressure for 45 minutes**.
 6.  **Reduce:** Perform a "Natural Release." Open the lid and set back to "Sauté." Simmer for 15-20 minutes until the sauce is thick and meaty.
 7.  **Finish:** Stir in the fresh basil and balsamic vinegar. Taste and adjust with salt and pepper.
-8.  **Serve:** Serve over [Fresh Egg Pasta](/recipes/fresh-egg-pasta) with plenty of Parmesan.
+8.  **Serve:** Serve over [Fresh Egg Pasta](/silton-mise/recipes/fresh-egg-pasta) with plenty of Parmesan.
 
 ## Serving Suggestions
 
-- [Fresh Egg Pasta (The Silton Standard)](/recipes/fresh-egg-pasta)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Fresh Egg Pasta](/silton-mise/recipes/fresh-egg-pasta)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)

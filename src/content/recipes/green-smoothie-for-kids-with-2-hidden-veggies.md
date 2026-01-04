@@ -1,7 +1,7 @@
 ---
-title: Green Smoothie (The Hidden Veggie Standard)
+title: Green Smoothie
 role: drink
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
@@ -9,9 +9,9 @@ servings: '1 large smoothie'
 ingredients:
   - '3/4 cup Almond Milk (or milk of choice)'
   - '1 medium Banana'
-  - '1/4 Fresh Avocado (The "Bounce" Fat)'
+  - '1/4 Fresh Avocado (for richness)'
   - '1/2 cup Frozen Mango Chunks'
-  - '1 tbsp Rolled Oats (for sustained "Fuel")'
+  - '1 tbsp Rolled Oats (for sustained nutritious)'
   - '1 cup Fresh Baby Spinach (Hidden Veggie #1)'
   - '--- The Secret Stack ---'
   - '2 tsp Nut Butter (Almond or Sunflower)'
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-performance "Fuel" for young palates. The secret to a kid-approved green smoothie is **Structural Science** through **The Thermal Blender Pattern**: by using frozen mango and fresh avocado together, we achieve a thick, creamy "Bounce" that masks the texture of the raw spinach. We use a **Double Hidden Veggie Pattern**: the avocado provides healthy fats and creaminess (Hidden Veggie #2), while the oats provide the complex carbohydrates needed for long-lasting energy. The vanilla extract is the mandatory **High Note** that creates the aroma of a milkshake.
+This is the ultimate high-performance nutritious for young palates. The secret to a kid-approved green smoothie is **Culinary Technique** through **The Thermal Blender Method**: by using frozen mango and fresh avocado together, we achieve a thick, creamy Texture that masks the texture of the raw spinach. We use a **Double Hidden Veggie Method**: the avocado provides healthy fats and creaminess (Hidden Veggie #2), while the oats provide the complex carbohydrates needed for long-lasting energy. The vanilla extract is the mandatory **High Note** that creates the aroma of a milkshake.
 
 ## Directions
 
@@ -32,6 +32,6 @@ This is the ultimate high-performance "Fuel" for young palates. The secret to a 
 
 ## Serving Suggestions
 
-- [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
+- [Blueberry Oat Breakfast Bars](/silton-mise/recipes/blueberry-oat-breakfast-bars)
 - Fresh Apple Slices
-- [Oreo Truffles](/recipes/easy-oreo-truffles) (as a weekend treat)
+- [Oreo Truffles](/silton-mise/recipes/easy-oreo-truffles) (as a weekend treat)

@@ -1,7 +1,7 @@
 ---
 title: Korean Mung Bean Sprouts Salad (Sukju Namul)
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 5 min
 totalTime: 10 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modularity** component for Korean bowls. The secret to a crisp "Snap" is **Structural Science** through **The Ice Shock Pattern**: you must blanch the sprouts for exactly 2 minutes and immediately plunge them into ice water. To avoid a watery dressing, we use **The Dry Squeeze**: gather the chilled sprouts and squeeze with your hands until **bone-dry**. This ensures the sesame-garlic emulsion binds directly to the sprouts, providing a nutty, savory "Bounce" in every bite.
+This is a baseline **Modularity** component for Korean bowls. The secret to a crisp Crunch is **Culinary Technique** through **The Ice Shock Method**: you must blanch the sprouts for exactly 2 minutes and immediately plunge them into ice water. To avoid a watery dressing, we use **The Dry Squeeze**: gather the chilled sprouts and squeeze with your hands until **bone-dry**. This ensures the sesame-garlic emulsion binds directly to the sprouts, providing a nutty, savory Texture in every bite.
 
 ## Directions
 
@@ -32,6 +32,6 @@ This is a baseline **Modularity** component for Korean bowls. The secret to a cr
 
 ## Serving Suggestions
 
-- [Bibimbap (The Ultimate Bowl)](/recipes/bibimbap)
-- [Marinated Korean Ribeye](/recipes/marinated-korean-ribeye)
-- [Fresh Cabbage, Cucumber and Radish Kimchi](/recipes/fresh-cabbage-cucumber-and-radish-kimchi)
+- [Bibimbap (The Ultimate Bowl)](/silton-mise/recipes/bibimbap)
+- [Marinated Korean Ribeye](/silton-mise/recipes/marinated-korean-ribeye)
+- [Fresh Cabbage, Cucumber and Radish Kimchi](/silton-mise/recipes/fresh-cabbage-cucumber-and-radish-kimchi)

@@ -1,5 +1,5 @@
 ---
-title: Miso-Mashed Potatoes (The Umami Standard)
+title: Miso-Mashed Potatoes
 role: side
 vibe: comfort
 prepTime: 10 min
@@ -30,6 +30,6 @@ This is a **Palate Tuning** masterclass. We use white miso to provide a complex,
 
 ## Pairs With
 
-- [Classic Beef Stew](/recipes/classic-beef-stew)
+- [Classic Beef Stew](/silton-mise/recipes/classic-beef-stew)
 - Roasted Chicken
-- [Miso-Glazed Salmon](/recipes/miso-salmon-with-bok-choy)
+- [Miso-Glazed Salmon](/silton-mise/recipes/miso-salmon-with-bok-choy)

@@ -1,5 +1,5 @@
 ---
-title: Cream of Mushroom Soup (The Umami Standard)
+title: Cream of Mushroom Soup
 role: main
 vibe: comfort
 prepTime: 10 min
@@ -17,12 +17,12 @@ ingredients:
   - '1/3 cup Heavy Cream'
   - '1 tsp Dried Thyme'
   - 'Salt and Black Pepper'
-  - '1 tbsp Dry Sherry (The High Note)'
+  - '1 tbsp Dry Sherry (The Finishing Touch)'
 ---
 
 ## Chef's Note
 
-The secret to a "Gold Standard" mushroom soup is **Texture Integrity** through the **Reserved Sear Pattern**. Most recipes boil the mushrooms into a gray mush; we dry-sear them in butter first until they are deep golden, then reserve a portion to add back at the end for "Snap." We use **Dry Sherry** as the mandatory **High Note**—its acidity and nuttiness bridge the gap between the earthy shiitakes and the rich heavy cream.
+The secret to a "Kitchen Standard" mushroom soup is **Textural Balance** through the **Reserved Sear Method**. Most recipes boil the mushrooms into a gray mush; we dry-sear them in butter first until they are deep golden, then reserve a portion to add back at the end for "Snap." We use **Dry Sherry** as the mandatory **High Note**—its acidity and nuttiness bridge the gap between the earthy shiitakes and the rich heavy cream.
 
 ## Directions
 
@@ -36,6 +36,6 @@ The secret to a "Gold Standard" mushroom soup is **Texture Integrity** through t
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
 - Crusty Sourdough

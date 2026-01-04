@@ -1,7 +1,7 @@
 ---
 title: One-Pan Citrus Beet Roasted Chicken
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 60 min
 totalTime: 80 min
@@ -14,7 +14,7 @@ ingredients:
   - '1 Fennel Bulb, chopped into chunks'
   - '--- The Aromatic Glaze ---'
   - '3 tbsp Unsalted Butter, melted'
-  - 'Zest and Juice of 1 Orange (The High Note)'
+  - 'Zest and Juice of 1 Orange (The Finishing Touch)'
   - '2 tbsp Fresh Rosemary, minced'
   - '4 cloves Garlic, minced'
   - '1 tsp Chili Powder'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Texture Integrity** through **The Single-Layer Roast Pattern**. The secret to Success is placing the butter-topped chicken directly onto the beets; as the chicken fat renders, it emulsifies with the orange juice and chili to create a vibrant, earthy glaze for the vegetables. We use **The Acid Finish** (fresh orange juice) to cut through the sweetness of the beets and the richness of the skin-on thighs, ensuring a bright "High Note" in every bite.
+This is a masterclass in **Textural Balance** through **The Single-Layer Roast Method**. The secret to Success is placing the butter-topped chicken directly onto the beets; as the chicken fat renders, it emulsifies with the orange juice and chili to create a vibrant, earthy glaze for the vegetables. We use **The Acid Balance** (fresh orange juice) to cut through the sweetness of the beets and the richness of the skin-on thighs, ensuring a bright "High Note" in every bite.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is a masterclass in **Texture Integrity** through **The Single-Layer Roast 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Basmati Rice](/recipes/basmati-rice)
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)

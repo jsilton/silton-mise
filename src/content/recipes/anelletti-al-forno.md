@@ -1,7 +1,7 @@
 ---
 title: Anelletti Al Forno (The Sicilian Pasta Bake)
 role: main
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 3 hours
 totalTime: 4 hours
@@ -16,8 +16,8 @@ ingredients:
   - '1 (28 oz) can Whole Peeled Tomatoes, crushed'
   - '1/2 cup Dry Red Wine'
   - '1/2 tsp Cinnamon + Pinch of Nutmeg'
-  - '--- The Texture Layers ---'
-  - '1 Eggplant, cubed and fried ([Garlic Sauce](/recipes/chinese-garlic-sauce-base) style technique)'
+  - '--- Layers ---'
+  - '1 Eggplant, cubed and fried ([Garlic Sauce](/silton-mise/recipes/chinese-garlic-sauce-base) style technique)'
   - '3/4 cup Frozen Peas'
   - '12 oz Provolone or Caciocavallo, cubed'
   - '1/2 cup Parmesan, grated'
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-Anelletti al Forno is the crown jewel of Sicilian Sunday dinners. Unlike American pasta bakes, this relies on a **Long-Simmered Ragu** flavored with a hint of cinnamon and nutmeg. The secret to **Texture Integrity** is the eggplant: it must be salted, drained, and fried separately to become meaty nuggets that don't disappear into the sauce. The inclusion of chopped eggs and ham creates a treasure-chest effect in every bite.
+Anelletti al Forno is the crown jewel of Sicilian Sunday dinners. Unlike American pasta bakes, this relies on a **Long-Simmered Ragu** flavored with a hint of cinnamon and nutmeg. The secret to **Textural Balance** is the eggplant: it must be salted, drained, and fried separately to become meaty nuggets that don't disappear into the sauce. The inclusion of chopped eggs and ham creates a treasure-chest effect in every bite.
 
 ## Directions
 
@@ -41,5 +41,5 @@ Anelletti al Forno is the crown jewel of Sicilian Sunday dinners. Unlike America
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Glass of Sicilian Nero d'Avola

@@ -1,7 +1,7 @@
 ---
 title: Sticky Miso Salmon Bowls
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 40 min
@@ -13,7 +13,7 @@ ingredients:
   - '3 tbsp White (Shiro) Miso Paste'
   - '2 tbsp Honey'
   - '1 tbsp Fresh Ginger, grated'
-  - '1 tsp Grapefruit Zest + 1 tbsp Juice (The High Note)'
+  - '1 tsp Grapefruit Zest + 1 tbsp Juice (The Finishing Touch)'
   - '--- The Component Stacks ---'
   - 'Sliced Cucumber and Avocado'
   - 'Kimchi and Chile Crisp'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Modularity**. The secret to the Silton Standard is **The Miso-Grapefruit Lacquer Pattern**: we use grapefruit juice instead of the traditional lemon to provide a more sophisticated, floral **Acid Finish**. We maintain **Texture Integrity** through **The 5-Minute Broil**: by spreading the thick lacquer over the salmon and placing it 5 inches from the broiler, we create a mahogany "Snap" on the surface while keeping the center a succulent medium-rare "Bounce." The 10-minute **Steam Cycle** for the rice is mandatory for structure.
+This is a masterclass in **Modularity**. The secret to the Kitchen Standard is **The Miso-Grapefruit Lacquer Method**: we use grapefruit juice instead of the traditional lemon to provide a more sophisticated, floral **Acid Balance**. We maintain **Textural Balance** through **The 5-Minute Broil**: by spreading the thick lacquer over the salmon and placing it 5 inches from the broiler, we create a mahogany Crunch on the surface while keeping the center a succulent medium-rare "Bounce." The 10-minute **Steam Cycle** for the rice is mandatory for structure.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is a masterclass in **Modularity**. The secret to the Silton Standard is **
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Miso Soup](/recipes/miso-soup)
-- [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Miso Soup](/silton-mise/recipes/miso-soup)
+- [Japanese Style Trout with Dashi](/silton-mise/recipes/japanese-style-trout-with-dashi)

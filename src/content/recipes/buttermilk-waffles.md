@@ -1,5 +1,5 @@
 ---
-title: Buttermilk Waffles (The Sunday Standard)
+title: Buttermilk Waffles
 role: main
 vibe: comfort
 prepTime: 10 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-The difference between a soggy waffle and a Silton Standard waffle is **Structural Science**. We use two critical patterns: **Chemical Leavening** (the reaction between buttermilk and baking soda for maximum lift) and **The Hydration Rest**. You must let the batter sit for at least 10 minutes before cooking; this allows the flour to fully absorb the buttermilk, resulting in a waffle that is "Shatteringly Crisp" on the outside and airy on the inside.
+The difference between a soggy waffle and a Kitchen Standard waffle is **Culinary Technique**. We use two critical patterns: **Chemical Leavening** (the reaction between buttermilk and baking soda for maximum lift) and **The Hydration Rest**. You must let the batter sit for at least 10 minutes before cooking; this allows the flour to fully absorb the buttermilk, resulting in a waffle that is perfectly crispy on the outside and airy on the inside.
 
 ## Directions
 
@@ -35,5 +35,5 @@ The difference between a soggy waffle and a Silton Standard waffle is **Structur
 ## Serving Suggestions
 
 - Crispy Bacon or Sausage
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Peaches or Strawberries

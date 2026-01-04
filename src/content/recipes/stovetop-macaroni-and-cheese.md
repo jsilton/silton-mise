@@ -1,7 +1,7 @@
 ---
 title: Stovetop Macaroni & Cheese
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 15 min
 totalTime: 20 min
@@ -14,13 +14,13 @@ ingredients:
   - '3 cups Sharp Cheddar, shredded'
   - '--- The Flavor Pulse ---'
   - '1/2 tsp Sea Salt'
-  - '1/4 tsp Dry Mustard Powder (The High Note)'
+  - '1/4 tsp Dry Mustard Powder (The Finishing Touch)'
   - '1 tbsp Unsalted Butter'
 ---
 
 ## Chef's Note
 
-The secret to "Gold Standard" stovetop mac is **Structural Science** through **The Steam-Whisk Pattern**. Instead of making a traditional butter roux, we whisk the flour into **cold milk** and then heat it; this creates a light, stable base that has a velvety "Bounce" and won't separate when the cheese is added. We maintain **Texture Integrity** by boiling the pasta for exactly 8 minutes (very al dente) to ensure it holds its shape against the heavy cheese. The mustard powder provides the mandatory savory **High Note**.
+The secret to "Kitchen Standard" stovetop mac is **Culinary Technique** through **The Steam-Whisk Method**. Instead of making a traditional butter roux, we whisk the flour into **cold milk** and then heat it; this creates a light, stable base that has a velvety Texture and won't separate when the cheese is added. We maintain **Textural Balance** by boiling the pasta for exactly 8 minutes (very al dente) to ensure it holds its shape against the heavy cheese. The mustard powder provides the mandatory savory **High Note**.
 
 ## Directions
 
@@ -34,6 +34,6 @@ The secret to "Gold Standard" stovetop mac is **Structural Science** through **T
 
 ## Serving Suggestions
 
-- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup) (Mandatory)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Roasted Tomato Basil Soup](/silton-mise/recipes/roasted-tomato-basil-soup) (Mandatory)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

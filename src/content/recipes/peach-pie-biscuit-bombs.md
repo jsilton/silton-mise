@@ -1,7 +1,7 @@
 ---
 title: Peach Pie Biscuit Bombs
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed **Modern Heritage** update to the hand pie. The secret to its elite flavor is **The Beurre Noisette Pattern**: we brush the biscuits with butter that has been cooked until nutty and brown _before_ baking. This creates a toasted, savory "Snap" that balances the creamy Brie and sweet peaches. We maintain **Texture Integrity** by using Brie; the cheese acts as a thermal guard, preventing the peach juices from turning the biscuit base into mush.
+This is a high-speed **Updated Classic** update to the hand pie. The secret to its elite flavor is **The Beurre Noisette Method**: we brush the biscuits with butter that has been cooked until nutty and brown _before_ baking. This creates a toasted, savory Crunch that balances the creamy Brie and sweet peaches. We maintain **Textural Balance** by using Brie; the cheese acts as a thermal guard, preventing the peach juices from turning the biscuit base into mush.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is a high-speed **Modern Heritage** update to the hand pie. The secret to i
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Fresh Mint sprigs
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)

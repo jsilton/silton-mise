@@ -1,7 +1,7 @@
 ---
 title: Korean Pickled Cucumbers (Oi Muchim)
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 30 min
@@ -33,6 +33,6 @@ This is the "Universal Pickle." To get the restaurant-quality crunch, you **must
 
 ## Pairs With
 
-- [Bibimbap](/recipes/bibimbap)
-- [Bulgogi Tacos](/recipes/tacos)
+- [Bibimbap](/silton-mise/recipes/bibimbap)
+- [Bulgogi Tacos](/silton-mise/recipes/tacos)
 - Grilled Salmon

@@ -1,7 +1,7 @@
 ---
-title: Weeknight Paella (The Socarrat Standard)
+title: Weeknight Paella
 role: main
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 30 min
 totalTime: 50 min
@@ -40,5 +40,5 @@ Paella is not a "stir-fry." The soul of this dish is the **Socarrat**: the layer
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Glass of cold Albariño

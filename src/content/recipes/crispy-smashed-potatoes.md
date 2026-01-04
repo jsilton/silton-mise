@@ -1,5 +1,5 @@
 ---
-title: Crispy Smashed Potatoes (The Texture Standard)
+title: Crispy Smashed Potatoes (for texture)
 role: side
 vibe: comfort
 prepTime: 10 min
@@ -17,7 +17,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is an exercise in **Maximizing Surface Area**. By boiling the potatoes until tender and then smashing them flat, we create dozens of jagged edges and crannies. When roasted at high heat, these edges become shatteringly crisp while the interior remains fluffy. This is the **Silton Standard** for roasted potatoes.
+This dish is an exercise in **Maximizing Surface Area**. By boiling the potatoes until tender and then smashing them flat, we create dozens of jagged edges and crannies. When roasted at high heat, these edges become shatteringly crisp while the interior remains fluffy. This is the **Kitchen Standard** for roasted potatoes.
 
 ## Directions
 
@@ -30,6 +30,6 @@ This dish is an exercise in **Maximizing Surface Area**. By boiling the potatoes
 
 ## Pairs With
 
-- [Chicken Scaloppine with Tomato and Wine](/recipes/chicken-scaloppine-with-tomato-and-white-wine)
-- [Classic Beef Stew](/recipes/classic-beef-stew)
+- [Chicken Scaloppine with Tomato and Wine](/silton-mise/recipes/chicken-scaloppine-with-tomato-and-white-wine)
+- [Classic Beef Stew](/silton-mise/recipes/classic-beef-stew)
 - Steak or Roast Pork

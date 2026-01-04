@@ -1,7 +1,7 @@
 ---
 title: Creamy Spinach Lemon Chicken
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -12,7 +12,7 @@ ingredients:
   - '--- The Lemon Emulsion ---'
   - '1 cup Low-sodium Chicken Broth'
   - '1/2 cup Greek Yogurt (Full-fat preferred for stability)'
-  - '1/2 Lemon, zested and juiced (The High Note)'
+  - '1/2 Lemon, zested and juiced (The Finishing Touch)'
   - '3 cloves Garlic, minced'
   - '2 tsp Dried Oregano'
   - '1 bag (9 oz) Fresh Spinach'
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute "Speed" masterpiece that relies on **Staged Cooking**. Most creamy chicken dishes suffer from rubbery meat and mushy greens. We solve this by **Searing** the chicken cutlets first to develop a crust, then removing them while we emulsify the sauce. We add the spinach at the very end to ensure **Texture Integrity**—it should be just wilted and vibrant green, not cooked into a dark clump. The **Lemon Zest** is the mandatory "High Note" finish.
+This is a 25-minute quick masterpiece that relies on **Staged Cooking**. Most creamy chicken dishes suffer from rubbery meat and mushy greens. We solve this by **Searing** the chicken cutlets first to develop a crust, then removing them while we emulsify the sauce. We add the spinach at the very end to ensure **Textural Balance**—it should be just wilted and vibrant green, not cooked into a dark clump. The **Lemon Zest** is the mandatory "High Note" finish.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is a 25-minute "Speed" masterpiece that relies on **Staged Cooking**. Most 
 
 ## Serving Suggestions
 
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Asparagus](/recipes/roasted-asparagus)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Asparagus](/silton-mise/recipes/roasted-asparagus)

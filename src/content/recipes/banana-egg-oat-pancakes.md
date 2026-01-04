@@ -1,7 +1,7 @@
 ---
-title: Banana Egg Oat Pancakes (The Flourless Standard)
+title: Banana Egg Oat Pancakes
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -32,4 +32,4 @@ This is a high-protein, flourless breakfast. The challenge is **Structural Integ
 ## Serving Suggestions
 
 - Fresh Berries
-- [Old-Fashioned Fresh Peach Ice Cream](/recipes/old-fashioned-fresh-peach-ice-cream) (for a brunch treat)
+- [Old-Fashioned Fresh Peach Ice Cream](/silton-mise/recipes/old-fashioned-fresh-peach-ice-cream) (for a brunch treat)

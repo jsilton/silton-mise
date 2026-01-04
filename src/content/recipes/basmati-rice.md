@@ -1,7 +1,7 @@
 ---
-title: Basmati Rice (The Rinsed Standard)
+title: Basmati Rice
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 35 min
@@ -28,6 +28,6 @@ Perfect Basmati rice is an exercise in **Surface Area Management**. The secret i
 
 ## Pairs With
 
-- [Sunday Feast Chicken Tikka Masala](/recipes/chicken-tikka-masala)
-- [Lamb Keema Matar](/recipes/lamb-keema-matar)
-- [Saag Paneer](/recipes/saag-paneer)
+- [Sunday Feast Chicken Tikka Masala](/silton-mise/recipes/chicken-tikka-masala)
+- [Lamb Keema Matar](/silton-mise/recipes/lamb-keema-matar)
+- [Saag Paneer](/silton-mise/recipes/saag-paneer)

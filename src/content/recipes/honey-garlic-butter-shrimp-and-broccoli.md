@@ -1,7 +1,7 @@
 ---
 title: Honey Garlic Butter Shrimp & Broccoli
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -24,19 +24,19 @@ ingredients:
 
 ## Chef's Note
 
-This is a 20-minute "Speed" masterpiece. The secret to the Silton Standard is **The Shrimp Snap Pattern**: we sear the shrimp in butter first and remove them _before_ building the sauce. This ensures they don't overcook while the honey reduces. We maintain **Texture Integrity** by searing the fresh broccoli until "tender-crisp" and vibrant green. The **Cornstarch Slurry** is the mandatory **Structural Science** that transforms the liquid marinade into a mirror-glossy glaze that has the "Bounce" to fully coat every piece of broccoli.
+This is a 20-minute quick masterpiece. The secret to the Kitchen Standard is **The Shrimp Snap Method**: we sear the shrimp in butter first and remove them _before_ building the sauce. This ensures they don't overcook while the honey reduces. We maintain **Textural Balance** by searing the fresh broccoli until "tender-crisp" and vibrant green. The **Cornstarch Slurry** is the mandatory **Culinary Technique** that transforms the liquid marinade into a mirror-glossy glaze that has the Texture to fully coat every piece of broccoli.
 
 ## Directions
 
 1.  **The Sauce:** In a small bowl, whisk together honey, soy sauce, garlic, ginger, red pepper flakes, and 1 tsp cornstarch until smooth.
-2.  **The Snap:** In a large skillet or wok, melt 1 tbsp butter. Add shrimp and sear for 2 minutes per side until pink. Remove to a plate immediately.
+2.  **The Crunch:** In a large skillet or wok, melt 1 tbsp butter. Add shrimp and sear for 2 minutes per side until pink. Remove to a plate immediately.
 3.  **The Veg:** Add 1 tsp oil and the broccoli to the same pan. Sauté for 5-6 minutes until bright green and slightly softened at the edges. Remove and set aside.
 4.  **Glaze:** Add the remaining 1 tbsp butter and the honey-garlic sauce to the pan. Bring to a low simmer for 2-3 minutes until thickened and glossy.
 5.  **Bind:** Return the shrimp and broccoli to the skillet. Toss vigorously for 30 seconds until every piece is perfectly coated in the glaze.
-6.  **Serve:** Serve immediately over [Basmati Rice](/recipes/basmati-rice).
+6.  **Serve:** Serve immediately over [Basmati Rice](/silton-mise/recipes/basmati-rice).
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)

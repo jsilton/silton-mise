@@ -1,7 +1,7 @@
 ---
-title: Israeli Style Hummus (The Creamy Standard)
+title: Israeli Style Hummus
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 60 min
 totalTime: 12 hours
@@ -33,6 +33,6 @@ This is the **Solomonov Method** for the smoothest hummus on earth. The secret i
 
 ## Pairs With
 
-- [Falafel](/recipes/falafel)
-- [Shakshuka](/recipes/shakshuka)
-- [Homemade Naan](/recipes/homemade-naan)
+- [Falafel](/silton-mise/recipes/falafel)
+- [Shakshuka](/silton-mise/recipes/shakshuka)
+- [Homemade Naan](/silton-mise/recipes/homemade-naan)

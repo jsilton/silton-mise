@@ -1,17 +1,17 @@
 ---
-title: Nana Ruth’s Applesauce
+title: 'Nana Ruth’s Applesauce'
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 30 min
 totalTime: 40 min
 servings: '6'
 ingredients:
-  - '6 lbs McIntosh Apples (The Soft Standard)'
+  - '6 lbs McIntosh Apples'
   - '1/2 cup Granulated Sugar'
   - '1/4 cup Honey'
   - '--- The Spice Pulse ---'
-  - '1 Lemon, juiced (The Acid Finish)'
+  - '1 Lemon, juiced (The Acid Balance)'
   - '3 shakes Ground Cinnamon'
   - '1 shake Ground Nutmeg'
   - 'Filtered Water'
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modern Heritage** recipe traditional for Rosh Hashanah, Thanksgiving, and Hanukkah. The secret to its elite flavor is the **McIntosh Standard**: McIntosh apples have a thin skin and a high water content, allowing them to break down into a naturally velvety "Bounce" without the need for a blender. We maintain **Texture Integrity** through **The Low-Slow Moisture Pattern**: we simmer the apples in their own juices with just a splash of water, resulting in a concentrated apple intensity that commercial brands cannot match. The lemon provide the mandatory **Acid Finish**.
+This is a baseline **Updated Classic** recipe traditional for Rosh Hashanah, Thanksgiving, and Hanukkah. The secret to its elite flavor is the **McIntosh Standard**: McIntosh apples have a thin skin and a high water content, allowing them to break down into a naturally velvety Texture without the need for a blender. We maintain **Textural Balance** through **The Low-Slow Moisture Method**: we simmer the apples in their own juices with just a splash of water, resulting in a concentrated apple intensity that commercial brands cannot match. The lemon provide the mandatory **Acid Balance**.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is a baseline **Modern Heritage** recipe traditional for Rosh Hashanah, Tha
 
 ## Serving Suggestions
 
-- [Sweet Potato Latkes](/recipes/sweet-potato-latkes)
-- [Roast Turkey Breast](/recipes/roast-turkey-breast)
-- [Grandmommy's Turkey Dressing](/recipes/grandmommys-turkey-dressing)
+- [Sweet Potato Latkes](/silton-mise/recipes/sweet-potato-latkes)
+- [Roast Turkey Breast](/silton-mise/recipes/roast-turkey-breast)
+- [Nana's Turkey Dressing](/silton-mise/recipes/grandmommys-turkey-dressing)

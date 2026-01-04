@@ -1,7 +1,7 @@
 ---
-title: Spindrift Gin Fizz (The Park Standard)
+title: Spindrift Gin Fizz
 role: drink
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
@@ -29,5 +29,5 @@ This is the ultimate "In the Park" cocktail—refreshing, low-sugar, and aromati
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Beef Tenderloin Dogs](/recipes/beef-tenderloin-dogs-with-corn-relish)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Beef Tenderloin Dogs](/silton-mise/recipes/beef-tenderloin-dogs-with-corn-relish)

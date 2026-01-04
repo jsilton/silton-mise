@@ -1,5 +1,5 @@
 ---
-title: Corn Bread Dressing (Silton Family Style)
+title: Corn Bread Dressing (Executive Family Style)
 role: side
 vibe: holiday
 prepTime: 30 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this family classic is **Texture Integrity**. Most dressings are soggy; we solve this by specifically **baking the cornbread cubes** to dry them out before they hit the stock. This allows the cubes to absorb the mushroom and shallot butter like a sponge while maintaining their individual shape.
+The secret to this family classic is **Textural Balance**. Most dressings are soggy; we solve this by specifically **baking the cornbread cubes** to dry them out before they hit the stock. This allows the cubes to absorb the mushroom and shallot butter like a sponge while maintaining their individual shape.
 
 ## Directions
 
@@ -36,5 +36,5 @@ The secret to this family classic is **Texture Integrity**. Most dressings are s
 
 ## Serving Suggestions
 
-- [Good Eats Roast Turkey](/recipes/good-eats-roast-turkey)
-- [Spiced Butternut Squash Purée](/recipes/spiced-butternut-squash-puree)
+- [Good Eats Roast Turkey](/silton-mise/recipes/good-eats-roast-turkey)
+- [Spiced Butternut Squash Purée](/silton-mise/recipes/spiced-butternut-squash-puree)

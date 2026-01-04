@@ -10,7 +10,7 @@ ingredients:
   - '--- The Tomato Reduction ---'
   - '4 lbs Cherry Tomatoes, whole'
   - '2 Red Onions, thinly sliced'
-  - '1/4 cup Red Wine (The "Deep Note" Standard)'
+  - '1/4 cup Red Wine'
   - '1/4 cup All-Purpose Flour'
   - '4 cloves Garlic, minced'
   - '--- The Cornmeal Snap ---'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Texture Integrity**. The secret to Success is **The Caramelized Onion Bind Pattern**: we sauté the red onions for a full 20 minutes until they become a sweet, jammy paste _before_ adding the cherry tomatoes. This creates a rich "Bounce" base that holds the whole tomatoes in suspension. We use **Structural Science** for the biscuits: the addition of cornmeal provides a gritty "Snap" that contrasts the velvety tomatoes. The red wine provides the mandatory **Acid Finish** to cut the rich cheddar crust.
+This is a masterclass in **Textural Balance**. The secret to Success is **The Caramelized Onion Bind Method**: we sauté the red onions for a full 20 minutes until they become a sweet, jammy paste _before_ adding the cherry tomatoes. This creates a rich Texture base that holds the whole tomatoes in suspension. We use **Culinary Technique** for the biscuits: the addition of cornmeal provides a gritty Crunch that contrasts the velvety tomatoes. The red wine provides the mandatory **Acid Balance** to cut the rich cheddar crust.
 
 ## Directions
 
@@ -33,11 +33,11 @@ This is a masterclass in **Texture Integrity**. The secret to Success is **The C
 4.  **Emulsify:** Stir in 1 cup of the cheese and the buttermilk until a shaggy, sticky dough forms.
 5.  **Drop:** Spoon walnut-sized mounds of dough over the tomatoes—you want gaps for the steam to escape (The Steam Cycle).
 6.  **Bake:** Preheat oven to 375°F. Bake for 55-60 minutes until the tomatoes are bubbling and the biscuits are deep golden.
-7.  **The Snap:** During the final 10 minutes, sprinkle the remaining cheese over the biscuits.
+7.  **The Crunch:** During the final 10 minutes, sprinkle the remaining cheese over the biscuits.
 8.  **Set:** Let rest for 15 minutes (mandatory) before serving.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

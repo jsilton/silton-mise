@@ -1,7 +1,7 @@
 ---
 title: Pumpkin Cheesecake Cookies
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 15 min
 totalTime: 75 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate "Project" cookie. The secret to its professional Success is **Structural Science** through **The Frozen Core Pattern**: you must freeze the cream cheese dollops for at least 45 minutes _before_ wrapping them in the pumpkin dough. This ensures the "Cheesecake" remains a distinct, creamy center rather than melting into the cookie during baking. We use **The 1-Hour Chill** for the dough to ensure it has the "Bounce" to hold its shape around the core. The ginger-sugar coating provides the mandatory **High Note** crunch.
+This is the ultimate technical dish cookie. The secret to its professional Success is **Culinary Technique** through **The Frozen Core Method**: you must freeze the cream cheese dollops for at least 45 minutes _before_ wrapping them in the pumpkin dough. This ensures the "Cheesecake" remains a distinct, creamy center rather than melting into the cookie during baking. We use **The 1-Hour Chill** for the dough to ensure it has the Texture to hold its shape around the core. The ginger-sugar coating provides the mandatory **High Note** crunch.
 
 ## Directions
 
@@ -31,12 +31,12 @@ This is the ultimate "Project" cookie. The secret to its professional Success is
 2.  **The Dough:** Cream butter and both sugars for 1 minute. Mix in the pumpkin puree. Gradually add the flour, spices, and salt until **just combined**.
 3.  **The Chill:** Roll dough into 12 large balls. Refrigerate for **at least 1 hour** (mandatory for structure).
 4.  **Assemble:** Preheat oven to 350°F. Flatten a cold dough ball in your palm. Place a frozen cheesecake dollop in the center. Wrap the dough around the cheese, pinching to seal completely.
-5.  **The Snap:** Roll the stuffed balls in the cinnamon-ginger sugar until heavily coated.
+5.  **The Crunch:** Roll the stuffed balls in the cinnamon-ginger sugar until heavily coated.
 6.  **Bake:** Arrange 3 inches apart on a parchment-lined sheet. Press down lightly to flatten. Bake for 16-19 minutes until the edges are set. **Do not over-bake.**
 7.  **Cool:** Let cool on the pan for 10 minutes. These are elite when refrigerated and eaten cold.
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Fresh Sliced Pears
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

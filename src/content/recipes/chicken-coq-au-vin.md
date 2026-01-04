@@ -1,7 +1,7 @@
 ---
-title: Chicken Coq au Vin (The French Standard)
+title: Chicken Coq au Vin
 role: main
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 2 hours
 totalTime: 2.5 hours
@@ -41,6 +41,6 @@ We have upgraded this from the "soup mix" version to the **Authentic French Stan
 
 ## Serving Suggestions
 
-- [Miso-Mashed Potatoes](/recipes/miso-mashed-potatoes)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Miso-Mashed Potatoes](/silton-mise/recipes/miso-mashed-potatoes)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Glass of the same Red Wine used in cooking

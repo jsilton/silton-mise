@@ -1,7 +1,7 @@
 ---
-title: Quick Lamb Ragù
+title: quick Lamb Ragù
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 35 min
 totalTime: 45 min
@@ -14,8 +14,8 @@ ingredients:
   - '4 cloves Garlic, minced'
   - '2 tbsp Tomato Paste'
   - '1 can (28 oz) Crushed Tomatoes'
-  - '2 Anchovy Fillets (The "Umami" Hack)'
-  - '--- The High Note Finish ---'
+  - '2 Anchovy Fillets for umami'
+  - '--- The Finishing Touch Finish ---'
   - '2 tbsp Balsamic Vinegar'
   - '1/4 tsp Red Pepper Flakes'
   - 'Fresh Oregano or Marjoram'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a 45-minute ragù that tastes like a 4-hour braise is **Structural Science** through **The Anchovy Pulse Pattern**. By melting two anchovy fillets into the onion base, we introduce a deep, savory foundation that amplifies the earthiness of the lamb. We maintain **Texture Integrity** by frying the lamb until it "sizzles in its own fat"—this ensures a "Snap" to the meat rather than a boiled texture. The balsamic vinegar provides the mandatory **Acid Finish** to cut through the rich lamb fat.
+The secret to a 45-minute ragù that tastes like a 4-hour braise is **Culinary Technique** through **The Anchovy Pulse Method**. By melting two anchovy fillets into the onion base, we introduce a deep, savory foundation that amplifies the earthiness of the lamb. We maintain **Textural Balance** by frying the lamb until it "sizzles in its own fat"—this ensures a Crunch to the meat rather than a boiled texture. The balsamic vinegar provides the mandatory **Acid Balance** to cut through the rich lamb fat.
 
 ## Directions
 
@@ -38,6 +38,6 @@ The secret to a 45-minute ragù that tastes like a 4-hour braise is **Structural
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

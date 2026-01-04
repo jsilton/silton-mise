@@ -1,5 +1,5 @@
 ---
-title: Baby’s First Smash Cake (The Birthday Standard)
+title: Baby’s First Smash Cake
 role: dessert
 vibe: holiday
 prepTime: 20 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Modern Heritage" recipe designed for a baby's first birthday. It contains **No Refined Sugar**; we rely entirely on the natural fructose of over-ripe bananas and apple juice concentrate for sweetness. The secret to a successful smash cake is the **Oat Flour**: it provides a soft, "easy-to-smash" texture that is safer and more digestible for toddlers than a heavy dense cake.
+This is a "Updated Classic" recipe designed for a baby's first birthday. It contains **No Refined Sugar**; we rely entirely on the natural fructose of over-ripe bananas and apple juice concentrate for sweetness. The secret to a successful smash cake is the **Oat Flour**: it provides a soft, "easy-to-smash" texture that is safer and more digestible for toddlers than a heavy dense cake.
 
 ## Directions
 
@@ -36,4 +36,4 @@ This is a "Modern Heritage" recipe designed for a baby's first birthday. It cont
 ## Serving Suggestions
 
 - Fresh Blueberries or Strawberries
-- [Old-Fashioned Fresh Peach Ice Cream](/recipes/old-fashioned-fresh-peach-ice-cream) (for the adults)
+- [Old-Fashioned Fresh Peach Ice Cream](/silton-mise/recipes/old-fashioned-fresh-peach-ice-cream) (for the adults)

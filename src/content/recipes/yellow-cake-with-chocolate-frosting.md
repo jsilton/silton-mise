@@ -1,7 +1,7 @@
 ---
 title: Yellow Cake with Chocolate Frosting
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 25 min
 totalTime: 45 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive "Birthday Standard" for the Silton family. The secret to its Success is **The Fat-Hybrid Pattern**: by using both softened butter (for the "Bounce") and liquid oil (for the "Moisture Guard"), we achieve a cake that is rich but never dry. We use **Extra Egg Yolks** to introduce more lecithin, resulting in a dense, velvety structure usually only found in professional bakeries. The buttermilk provide the mandatory **Acid Finish** needed to balance the sweet **Chocolate Silk Frosting**.
+This is the definitive "Birthday Standard" for the Family Kitchen. The secret to its Success is **The Fat-Hybrid Method**: by using both softened butter (for the Texture) and liquid oil (for the "Moisture Guard"), we achieve a cake that is rich but never dry. We use **Extra Egg Yolks** to introduce more lecithin, resulting in a dense, velvety structure usually only found in professional bakeries. The buttermilk provide the mandatory **Acid Balance** needed to balance the sweet **Chocolate Silk Frosting**.
 
 ## Directions
 
@@ -33,11 +33,11 @@ This is the definitive "Birthday Standard" for the Silton family. The secret to 
 3.  **Dry Mix:** Whisk flour, baking powder, and salt.
 4.  **Incorporate:** Alternately add the dry mix and the buttermilk to the butter, beginning and ending with the dry. **Do not over-mix.**
 5.  **Bake:** Bake for 25 minutes until a tester comes out with moist crumbs. Let cool **completely** before inverting.
-6.  **Frosting:** Whisk melted butter and cocoa. Beat in the sugar, milk, and vanilla for 5 minutes until light and billowy (The Silk Standard).
+6.  **Frosting:** Whisk melted butter and cocoa. Beat in the sugar, milk, and vanilla for 5 minutes until light and billowy.
 7.  **Finish:** Frost the layers heavily. Garnish with a "High Note" of flaky sea salt if desired.
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Fresh Raspberries
 - Cold Glass of Milk

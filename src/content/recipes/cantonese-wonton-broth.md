@@ -30,5 +30,5 @@ A real wonton broth shouldn't just taste like chicken soup. It needs a high "oce
 
 ## Pairs With
 
-- [Cantonese Shrimp and Pork Wontons](/recipes/cantonese-shrimp-and-pork-wontons)
-- [Bernard's Style Roast Pork](/recipes/bernards-style-char-siu)
+- [Cantonese Shrimp and Pork Wontons](/silton-mise/recipes/cantonese-shrimp-and-pork-wontons)
+- [Bernard's Style Roast Pork](/silton-mise/recipes/bernards-style-char-siu)

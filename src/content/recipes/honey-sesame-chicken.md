@@ -1,7 +1,7 @@
 ---
 title: Honey Sesame Chicken (Pan-Seared)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -16,14 +16,14 @@ ingredients:
   - '1 tbsp Garlic, minced'
   - '1 tsp Fresh Ginger, grated'
   - '1 tbsp Toasted Sesame Seeds'
-  - '--- The Texture ---'
+  - '--- the texture ---'
   - '1 tbsp Cornstarch'
   - '3 stalks Green Onion, sliced'
 ---
 
 ## Chef's Note
 
-This is the **Silton Standard** for takeout at home: no deep frying, no heavy breading. We use a **High-Heat Sear** on the chicken chunks to get crispy edges, then glaze them in a sauce that balances the sweetness of honey with the sharp acid of rice vinegar. The result is a dish that is light, bouncy, and intensely flavorful.
+This is the **Kitchen Standard** for takeout at home: no deep frying, no heavy breading. We use a **High-Heat Sear** on the chicken chunks to get crispy edges, then glaze them in a sauce that balances the sweetness of honey with the sharp acid of rice vinegar. The result is a dish that is light, bouncy, and intensely flavorful.
 
 ## Directions
 
@@ -32,10 +32,10 @@ This is the **Silton Standard** for takeout at home: no deep frying, no heavy br
 3.  **Aromatics:** Add the garlic and ginger to the pan. Sauté for 30 seconds.
 4.  **Glaze:** Pour in the honey, soy sauce, rice vinegar, and sesame oil. Toss the chicken constantly for 1-2 minutes until the sauce bubbles and thickens into a glossy lacquer.
 5.  **Finish:** Stir in the toasted sesame seeds and green onions.
-6.  **Serve:** Serve immediately over [Jasmine Rice](/recipes/near-east-rice-pilaf-hack).
+6.  **Serve:** Serve immediately over [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf).
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)
 - Steamed Broccoli with Garlic
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

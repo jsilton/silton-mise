@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a fluffy "Restaurant Quality" pancake is **Texture Integrity** through the **Batter Rest**. After mixing, you must let the batter sit for 5 minutes; this allows the flour to fully hydrate and the gluten to relax. We also use **Honey** instead of granulated sugar to create a deeper, more caramelized "Snap" on the edges. Always sprinkle the blueberries on top of the pancake while it's on the griddle rather than mixing them in—this prevents the juice from bleeding and turning your pancakes purple.
+The secret to a fluffy restaurant-quality pancake is **Textural Balance** through the **Batter Rest**. After mixing, you must let the batter sit for 5 minutes; this allows the flour to fully hydrate and the gluten to relax. We also use **Honey** instead of granulated sugar to create a deeper, more caramelized Crunch on the edges. Always sprinkle the blueberries on top of the pancake while it's on the griddle rather than mixing them in—this prevents the juice from bleeding and turning your pancakes purple.
 
 ## Directions
 
@@ -35,5 +35,5 @@ The secret to a fluffy "Restaurant Quality" pancake is **Texture Integrity** thr
 ## Serving Suggestions
 
 - Crispy Bacon or Sausage
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Orange Juice

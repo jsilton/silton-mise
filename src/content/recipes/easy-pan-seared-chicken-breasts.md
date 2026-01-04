@@ -1,7 +1,7 @@
 ---
 title: Easy Pan-Seared Chicken Breasts
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 15-minute "Speed" cooking. The secret to avoiding dry, tough chicken is **Texture Integrity** through the **Butterfly and Bone-Dry Patterns**. You must use thin-cut breasts or butterfly them yourself to ensure the meat cooks in exactly 8 minutes. Before dredging, pat the chicken with paper towels until it is **bone-dry**—this ensures the flour creates a shatteringly crisp "Snap" on the surface rather than a gummy paste.
+This is the baseline for 15-minute quick cooking. The secret to avoiding dry, tough chicken is **Textural Balance** through the **Butterfly and Bone-Dry Methods**. You must use thin-cut breasts or butterfly them yourself to ensure the meat cooks in exactly 8 minutes. Before dredging, pat the chicken with paper towels until it is **bone-dry**—this ensures the flour creates a shatteringly crisp Crunch on the surface rather than a gummy paste.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is the baseline for 15-minute "Speed" cooking. The secret to avoiding dry, 
 
 ## Serving Suggestions
 
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

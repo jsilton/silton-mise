@@ -1,5 +1,5 @@
 ---
-title: Crockpot Vegetarian Chili (The Plant-Based Standard)
+title: Crockpot Vegetarian Chili
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -26,14 +26,14 @@ ingredients:
   - '1 tbsp Ground Cumin'
   - '2 tsp Garlic Powder'
   - '2 tsp Dried Oregano'
-  - '1 tbsp Apple Cider Vinegar (The High Note)'
+  - '1 tbsp Apple Cider Vinegar (The Finishing Touch)'
   - '1 cup Water (or Veggie Stock)'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-This is the "Gold Standard" for plant-based comfort. Most vegetarian chilis are thin or watery; we solve this with **Texture Integrity** through the **Sweet Potato Thickener Pattern**. As the sweet potato simmers for 4 hours, it partially breaks down, releasing starches that create a rich, velvety body without the need for a roux. We use a **Triple Bean Pattern** to ensure a complex "Bounce" in every spoonful. The mandatory **Acid Finish** (apple cider vinegar) provides the "High Note" needed to wake up the earthy spices.
+This is the "Kitchen Standard" for plant-based comfort. Most vegetarian chilis are thin or watery; we solve this with **Textural Balance** through the **Sweet Potato Thickener Method**. As the sweet potato simmers for 4 hours, it partially breaks down, releasing starches that create a rich, velvety body without the need for a roux. We use a **Triple Bean Method** to ensure a complex Texture in every spoonful. The mandatory **Acid Balance** (apple cider vinegar) provides the "High Note" needed to wake up the earthy spices.
 
 ## Directions
 
@@ -46,6 +46,6 @@ This is the "Gold Standard" for plant-based comfort. Most vegetarian chilis are 
 
 ## Serving Suggestions
 
-- [My Favorite Cornbread](/recipes/my-favorite-cornbread)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Pickled Red Onions](/recipes/pickled-red-onions)
+- [My Favorite Cornbread](/silton-mise/recipes/my-favorite-cornbread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Pickled Red Onions](/silton-mise/recipes/pickled-red-onions)

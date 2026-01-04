@@ -1,7 +1,7 @@
 ---
 title: Mediterranean Salmon with Lemon-Herb Emulsion
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Texture Integrity** through **Staged Roasting**. The secret to the Silton Standard is **The Crispy Chickpea Pattern**: we roast the chickpeas at high heat (400°F) until they develop a "Snap" that contrasts the soft orzo and succulent salmon. We use **The Emulsion Pattern**: whisking lemon juice and honey into olive oil creates a thick, glossy "High Note" finish that we drizzle over the salmon _after_ searing to preserve its clean flavor.
+This is a masterclass in **Textural Balance** through **Staged Roasting**. The secret to the Kitchen Standard is **The Crispy Chickpea Method**: we roast the chickpeas at high heat (400°F) until they develop a Crunch that contrasts the soft orzo and succulent salmon. We use **The Emulsion Method**: whisking lemon juice and honey into olive oil creates a thick, glossy "High Note" finish that we drizzle over the salmon _after_ searing to preserve its clean flavor.
 
 ## Directions
 
@@ -34,10 +34,10 @@ This is a masterclass in **Texture Integrity** through **Staged Roasting**. The 
 3.  **The Emulsion:** In a small jar, shake together olive oil, lemon juice, garlic, honey, and oregano until thick and opaque.
 4.  **The Orzo:** Boil orzo until al dente. Drain and toss with 1 tbsp oil, the roasted chickpeas, tomatoes, feta, and fresh herbs. Season with salt and pepper.
 5.  **Assemble:** Place a generous portion of herbed orzo on each plate. Top with a salmon fillet.
-6.  **Finish:** Drizzle the lemon-herb emulsion generously over the salmon and greens for the mandatory **Acid Finish**.
+6.  **Finish:** Drizzle the lemon-herb emulsion generously over the salmon and greens for the mandatory **Acid Balance**.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Sliced Radishes
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

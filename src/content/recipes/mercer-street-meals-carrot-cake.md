@@ -1,7 +1,7 @@
 ---
 title: Mercer Street Carrot Cake (The Brown Butter Upgrade)
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 30 min
 totalTime: 90 min
@@ -44,4 +44,4 @@ We have elevated this Mercer Street classic using the **Bravetart Brown Butter m
 ## Serving Suggestions
 
 - Strong Coffee or Espresso
-- [Vieux Carré](/recipes/vieux-carre)
+- [Vieux Carré](/silton-mise/recipes/vieux-carre)

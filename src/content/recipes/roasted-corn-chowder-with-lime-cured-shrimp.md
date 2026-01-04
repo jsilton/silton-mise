@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This chowder is about **Texture Integrity**. Most corn chowders are mushy; we fix this by roasting the corn at high heat first to get "pop" and sweetness. We use the **Bacon Fat** as the base for the onion and garlic to layer the smoky flavor throughout. The finish of fresh lime juice is the "Silton High Note" that cuts the richness of the cream.
+This chowder is about **Textural Balance**. Most corn chowders are mushy; we fix this by roasting the corn at high heat first to get "pop" and sweetness. We use the **Bacon Fat** as the base for the onion and garlic to layer the smoky flavor throughout. The finish of fresh lime juice is the "Executive High Note" that cuts the richness of the cream.
 
 ## Directions
 
@@ -37,4 +37,4 @@ This chowder is about **Texture Integrity**. Most corn chowders are mushy; we fi
 ## Serving Suggestions
 
 - Garlic Bread or Oyster Crackers
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

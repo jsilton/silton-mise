@@ -1,7 +1,7 @@
 ---
 title: All-Purpose Chinese Garlic Sauce
 role: condiment
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 2 min
 totalTime: 7 min
@@ -30,6 +30,6 @@ This is the "Mother Sauce" of the Chinese-American kitchen. It balances the five
 
 ## Pairs With
 
-- [Chinese Spicy Garlic Eggplant](/recipes/chinese-spicy-garlic-eggplant)
+- [Chinese Spicy Garlic Eggplant](/silton-mise/recipes/chinese-spicy-garlic-eggplant)
 - Steamed Broccoli with Garlic
 - Chicken and Broccoli

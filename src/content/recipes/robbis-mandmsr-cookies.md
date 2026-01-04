@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to a family favorite. The secret to the Silton Standard is **The Surface Press Pattern**: we fold only 3/4 of the M&M's into the dough, then press the remaining candies into the tops of the dough balls _after_ scooping. This ensures a professional visual "High Note" where the colors stay vibrant and don't bleed into the batter. We use a high ratio of brown sugar to ensure a chewy "Bounce" that contrasts the "Snap" of the candy shell.
+This is a **Updated Classic** update to a family favorite. The secret to the Kitchen Standard is **The Surface Press Method**: we fold only 3/4 of the M&M's into the dough, then press the remaining candies into the tops of the dough balls _after_ scooping. This ensures a professional visual "High Note" where the colors stay vibrant and don't bleed into the batter. We use a high ratio of brown sugar to ensure a chewy Texture that contrasts the Crunch of the candy shell.
 
 ## Directions
 
@@ -29,10 +29,10 @@ This is a **Modern Heritage** update to a family favorite. The secret to the Sil
 4.  **Shape:** Preheat oven to 350°F. Drop teaspoon-sized balls of dough onto ungreased sheets.
 5.  **Press:** Press 3-4 of the remaining M&M's into the top of each ball.
 6.  **Bake:** Bake for 9-11 minutes until the edges are just golden. Do not over-bake; they will set on the pan.
-7.  **Cool:** Let rest on the pan for 5 minutes to ensure **Texture Integrity**.
+7.  **Cool:** Let rest on the pan for 5 minutes to ensure **Textural Balance**.
 
 ## Serving Suggestions
 
 - Cold Glass of Milk
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream) (as a cookie sandwich)
-- [Oreo Truffles](/recipes/easy-oreo-truffles)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream) (as a cookie sandwich)
+- [Oreo Truffles](/silton-mise/recipes/easy-oreo-truffles)

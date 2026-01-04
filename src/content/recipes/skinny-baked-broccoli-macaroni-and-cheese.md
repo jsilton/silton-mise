@@ -1,7 +1,7 @@
 ---
 title: Skinny Broccoli Mac & Cheese
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
@@ -15,14 +15,14 @@ ingredients:
   - '1 1/2 tbsp Unsalted Butter'
   - '1/4 cup All-Purpose Flour'
   - '1/4 cup Minced Onion'
-  - '--- The Snap ---'
+  - '--- The Crunch ---'
   - '1/4 cup Seasoned Breadcrumbs'
   - '2 tbsp Parmesan, grated'
 ---
 
 ## Chef's Note
 
-This is a high-performance "Fuel" update to the classic side. The secret to its Success is **The Hybrid Stock Emulsion**: by using a mix of skim milk and chicken broth for the sauce, we achieve a rich, savory "Bounce" without the heavy calories of cream. We maintain **Texture Integrity** through **The Staged Boil**: we cook the pasta and broccoli in the same pot, adding the broccoli during the final 2 minutes. This ensures the florets stay vibrant and "Snappy" rather than dissolving into the sauce.
+This is a high-performance nutritious update to the classic side. The secret to its Success is **The Hybrid Stock Emulsion**: by using a mix of skim milk and chicken broth for the sauce, we achieve a rich, savory Texture without the heavy calories of cream. We maintain **Textural Balance** through **The Staged Boil**: we cook the pasta and broccoli in the same pot, adding the broccoli during the final 2 minutes. This ensures the florets stay vibrant and crispy rather than dissolving into the sauce.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is a high-performance "Fuel" update to the classic side. The secret to its 
 
 ## Serving Suggestions
 
-- [Turkey Burgers](/recipes/turkey-burgers)
-- [Easy Pan-Seared Chicken Breasts](/recipes/easy-pan-seared-chicken-breasts)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Turkey Burgers](/silton-mise/recipes/turkey-burgers)
+- [Easy Pan-Seared Chicken Breasts](/silton-mise/recipes/easy-pan-seared-chicken-breasts)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

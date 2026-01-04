@@ -36,5 +36,5 @@ The secret to this dish is **Staged Cooking**. If you cook the potatoes in the c
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Crusty Sourdough

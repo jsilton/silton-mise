@@ -15,12 +15,12 @@ ingredients:
   - '--- The Flavor Finish ---'
   - '1/4 tsp Sea Salt'
   - 'Plenty of Black Pepper'
-  - 'Pinch of Nutmeg (The High Note)'
+  - 'Pinch of Nutmeg (The Finishing Touch)'
 ---
 
 ## Chef's Note
 
-This is our **Modern Heritage** version of the blue-box classic, re-engineered for "Fuel" performance with whole-wheat pasta. The secret to the Silton Standard is **The Starch Bind Pattern**: we don't drain the pasta bone-dry; instead, we combine the hot noodles directly with butter and cream to create a natural emulsion. By using **Freshly Grated Cheddar**, we avoid the stabilizers in pre-shredded bags, resulting in a "Bounce" that is far superior to any processed version. A pinch of **Nutmeg** provides the mandatory "High Note" that bridges the earthy wheat and rich cream.
+This is our **Updated Classic** version of the blue-box classic, re-engineered for nutritious performance with whole-wheat pasta. The secret to the Kitchen Standard is **The Starch Bind Method**: we don't drain the pasta bone-dry; instead, we combine the hot noodles directly with butter and cream to create a natural emulsion. By using **Freshly Grated Cheddar**, we avoid the stabilizers in pre-shredded bags, resulting in a Texture that is far superior to any processed version. A pinch of **Nutmeg** provides the mandatory "High Note" that bridges the earthy wheat and rich cream.
 
 ## Directions
 
@@ -32,6 +32,6 @@ This is our **Modern Heritage** version of the blue-box classic, re-engineered f
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
-- [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)
+- [Buttermilk Baked Chicken](/silton-mise/recipes/buttermilk-baked-chicken)

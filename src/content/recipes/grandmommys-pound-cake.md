@@ -1,7 +1,7 @@
 ---
-title: Grandmommy's Pound Cake
+title: 'Grandmommy’s Pound Cake'
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 90 min
 totalTime: 110 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-The pound cake is the ultimate expression of **Modern Heritage**. We have eliminated the legacy margarine entirely, using only **Unsalted Butter** to achieve the mandatory "Golden Crumb." The secret to the Silton Standard is **The Low-Heat Bake Pattern**: by baking at 275°F for a full 90 minutes, we ensure the cake rises evenly without a tough outer crust, resulting in a dense, velvety "Bounce" that defines a true heritage pound cake. Room temperature eggs are mandatory for a perfect emulsion.
+The pound cake is the ultimate expression of **Updated Classic**. We have eliminated the legacy margarine entirely, using only **Unsalted Butter** to achieve the mandatory "Golden Crumb." The secret to the Kitchen Standard is **The Low-Heat Bake Method**: by baking at 275°F for a full 90 minutes, we ensure the cake rises evenly without a tough outer crust, resulting in a dense, velvety Texture that defines a true heritage pound cake. Room temperature eggs are mandatory for a perfect emulsion.
 
 ## Directions
 
@@ -33,6 +33,6 @@ The pound cake is the ultimate expression of **Modern Heritage**. We have elimin
 
 ## Serving Suggestions
 
-- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+- [Old-Fashioned Strawberry Ice Cream](/silton-mise/recipes/old-fashioned-strawberry-ice-cream)
 - Fresh Macerated Berries
-- [Favorite Cream Cheese Frosting](/recipes/favorite-cream-cheese-frosting)
+- [Favorite Cream Cheese Frosting](/silton-mise/recipes/favorite-cream-cheese-frosting)

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tahini Sauce
 role: condiment
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
@@ -28,6 +28,6 @@ Tahini is an oil-rich paste that can behave unexpectedly. When you add lemon jui
 
 ## Pairs With
 
-- [Chicken Shawarma](/recipes/chicken-shawarma)
-- [Falafel](/recipes/falafel)
-- [Roasted Root Vegetables](/recipes/roasted-root-vegetables)
+- [Chicken Shawarma](/silton-mise/recipes/chicken-shawarma)
+- [Falafel](/silton-mise/recipes/falafel)
+- [Roasted Root Vegetables](/silton-mise/recipes/roasted-root-vegetables)

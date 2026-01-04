@@ -1,7 +1,7 @@
 ---
 title: Strawberry Quinoa Breakfast Bars
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 25 min
@@ -10,7 +10,7 @@ ingredients:
   - '3/4 cup Cooked Quinoa (chilled)'
   - '1 1/2 cups Old-fashioned Rolled Oats'
   - '1 cup Fresh Strawberries, chopped'
-  - '--- The "Bounce" Binder ---'
+  - '--- Binder ---'
   - '2 large Ripe Bananas, mashed'
   - '2 large Eggs'
   - '1/4 cup Raisins or Golden Raisins'
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-These are high-performance **Modularity** components for busy mornings. The secret to their incredible "Bounce" is **Structural Science** through **The Quinoa-Egg Bind**. By using pre-cooked quinoa, we introduce a protein-rich moisture that prevents the oats from becoming dry and crumbly. We maintain **Texture Integrity** by mashing the bananas into a smooth paste _before_ adding the eggs; this creates a stable emulsion that acts as a healthy "glue" for the strawberries. The raisins provide a necessary chewy "Snap."
+These are high-performance **Modularity** components for busy mornings. The secret to their incredible Texture is **Culinary Technique** through **The Quinoa-Egg Bind**. By using pre-cooked quinoa, we introduce a protein-rich moisture that prevents the oats from becoming dry and crumbly. We maintain **Textural Balance** by mashing the bananas into a smooth paste _before_ adding the eggs; this creates a stable emulsion that acts as a healthy "glue" for the strawberries. The raisins provide a necessary chewy "Snap."
 
 ## Directions
 
@@ -33,6 +33,6 @@ These are high-performance **Modularity** components for busy mornings. The secr
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
-- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
+- [Mango-Rita Green Smoothie](/silton-mise/recipes/mango-rita-green-smoothie)
 - Fresh Orange Slices

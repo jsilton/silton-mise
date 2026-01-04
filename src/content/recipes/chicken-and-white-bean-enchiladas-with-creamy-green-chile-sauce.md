@@ -1,7 +1,7 @@
 ---
 title: Chicken and White Bean Enchiladas (Suizas Style)
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 30 min
 totalTime: 50 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-protein, "Fuel" focused take on Enchiladas Suizas. By adding **White Beans** to the shredded chicken filling, we increase the fiber and satiety of the dish. The secret to the sauce is blending the green chiles and cilantro directly into the sour cream—this creates a vibrant, tangy, and creamy "Suiza" glaze that is lighter than traditional versions but hits the same flavor notes.
+This is a high-protein, nutritious focused take on Enchiladas Suizas. By adding **White Beans** to the shredded chicken filling, we increase the fiber and satiety of the dish. The secret to the sauce is blending the green chiles and cilantro directly into the sour cream—this creates a vibrant, tangy, and creamy "Suiza" glaze that is lighter than traditional versions but hits the same flavor notes.
 
 ## Directions
 
@@ -31,9 +31,9 @@ This is a high-protein, "Fuel" focused take on Enchiladas Suizas. By adding **Wh
 3.  **Assemble:** Spread 1/2 cup of sauce on the bottom of a 9x13 dish. Fill each tortilla with the chicken/bean mixture, roll tightly, and place seam-side down.
 4.  **Bake:** Pour the remaining sauce over the top. Cover with cheese.
 5.  **Crisp:** Bake at 375°F for 20-25 minutes until the sauce is bubbling and the cheese is golden.
-6.  **Finish:** Top with fresh cilantro and [Quick Pickled Red Onions](/recipes/pickled-red-onions).
+6.  **Finish:** Top with fresh cilantro and [quick Pickled Red Onions](/silton-mise/recipes/pickled-red-onions).
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Mexican Red Rice (Arroz Rojo)](/silton-mise/recipes/mexican-red-rice)

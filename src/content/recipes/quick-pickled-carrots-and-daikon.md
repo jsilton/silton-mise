@@ -1,7 +1,7 @@
 ---
-title: Quick Pickled Carrots and Daikon (Do Chua)
+title: quick Pickled Carrots and Daikon (Do Chua)
 role: condiment
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 0 min
 totalTime: 60 min
@@ -28,6 +28,6 @@ This is the essential "acid crunch" for Banh Mi and Vietnamese bowls. The secret
 
 ## Pairs With
 
-- [Grilled-Pork Banh Mi](/recipes/grilled-pork-banh-mi)
-- [Vietnamese Grilled Chicken](/recipes/vietnamese-grilled-chicken)
-- [Tuna Poke Bowls](/recipes/tuna-poke-bowls)
+- [Grilled-Pork Banh Mi](/silton-mise/recipes/grilled-pork-banh-mi)
+- [Vietnamese Grilled Chicken](/silton-mise/recipes/vietnamese-grilled-chicken)
+- [Tuna Poke Bowls](/silton-mise/recipes/tuna-poke-bowls)

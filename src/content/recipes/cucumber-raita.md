@@ -1,7 +1,7 @@
 ---
 title: Cucumber Raita (The Indian Cooler)
 role: side
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 10 min
@@ -17,7 +17,7 @@ ingredients:
 
 ## Chef's Note
 
-Raita is the essential cooling side for spicy Indian dishes. To achieve the **Silton Standard** for texture, you must **Grate and Squeeze** the cucumber. Skipping this step results in a watery sauce that dilutes the flavor of your curry. By removing the excess water, the yogurt stays thick and luscious.
+Raita is the essential cooling side for spicy Indian dishes. To achieve the **Kitchen Standard** for texture, you must **Grate and Squeeze** the cucumber. Skipping this step results in a watery sauce that dilutes the flavor of your curry. By removing the excess water, the yogurt stays thick and luscious.
 
 ## Directions
 
@@ -28,6 +28,6 @@ Raita is the essential cooling side for spicy Indian dishes. To achieve the **Si
 
 ## Serving Suggestions
 
-- [Chicken Tikka Masala](/recipes/chicken-tikka-masala)
-- [Lamb Keema Matar](/recipes/lamb-keema-matar)
-- [Basmati Rice](/recipes/basmati-rice)
+- [Chicken Tikka Masala](/silton-mise/recipes/chicken-tikka-masala)
+- [Lamb Keema Matar](/silton-mise/recipes/lamb-keema-matar)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)

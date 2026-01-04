@@ -1,7 +1,7 @@
 ---
 title: Frozen Blueberry Muffins
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Bakery Quality" muffins using frozen fruit is **Texture Integrity** through **The Frozen Berry Fold**. You must never thaw the berries before adding them to the batter; adding them frozen ensures they maintain their "Snap" and prevents the juice from bleeding, which would turn the entire muffin a muddy purple. We finish with a **Nutmeg Sugar Dusting**—this provides the mandatory "High Note" aroma that defines a professional-grade breakfast muffin.
+The secret to "Bakery Quality" muffins using frozen fruit is **Textural Balance** through **The Frozen Berry Fold**. You must never thaw the berries before adding them to the batter; adding them frozen ensures they maintain their Crunch and prevents the juice from bleeding, which would turn the entire muffin a muddy purple. We finish with a **Nutmeg Sugar Dusting**—this provides the mandatory "High Note" aroma that defines a professional-grade breakfast muffin.
 
 ## Directions
 
@@ -36,6 +36,6 @@ The secret to "Bakery Quality" muffins using frozen fruit is **Texture Integrity
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Salted Butter
-- [Elderberry Syrup](/recipes/elderberry-syrup) (stirred into tea)
+- [Elderberry Syrup](/silton-mise/recipes/elderberry-syrup) (stirred into tea)

@@ -1,7 +1,7 @@
 ---
 title: Thai Basil-Ginger Spritzer
 role: drink
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 15 min
 totalTime: 20 min
@@ -12,7 +12,7 @@ ingredients:
   - '1/2 cup Granulated Sugar'
   - '3 tbsp Fresh Ginger, sliced'
   - '2 Thai Basil sprigs'
-  - '2 Kaffir Lime Leaves (The High Note)'
+  - '2 Kaffir Lime Leaves (The Finishing Touch)'
   - '--- The Build ---'
   - '3 cups Prosecco or Sparkling Wine (chilled)'
   - '6 Fresh Thai Basil leaves (for bruising)'
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Gold Standard" for a technical garden cocktail. The secret to its Success is **The Cold Infusion Pattern**: we boil the sugar and ginger to create a base, but add the Thai basil and Kaffir lime leaves only _after_ removing from heat. This preserves the delicate essential oils, providing a floral **Acid Finish** that standard syrups lack. We use **Bruised Basil** in each glass to ensure the aromatic experience precedes the first sip.
+This is the "Kitchen Standard" for a technical garden cocktail. The secret to its Success is **The Cold Infusion Method**: we boil the sugar and ginger to create a base, but add the Thai basil and Kaffir lime leaves only _after_ removing from heat. This preserves the delicate essential oils, providing a floral **Acid Balance** that standard syrups lack. We use **Bruised Basil** in each glass to ensure the aromatic experience precedes the first sip.
 
 ## Directions
 
@@ -30,10 +30,10 @@ This is the "Gold Standard" for a technical garden cocktail. The secret to its S
 3.  **thermal Prep:** Chill 6 glasses in the freezer.
 4.  **The Bruise:** Place 1 fresh basil leaf in each chilled glass. Use a spoon to gently press (bruise) the leaf against the glass.
 5.  **Assemble:** To each glass, add 2 tbsp of the chilled syrup, 1/2 cup Prosecco, and a lime wedge.
-6.  **Finish:** Stir once very gently to maintain the "Bounce" of the bubbles. Serve immediately.
+6.  **Finish:** Stir once very gently to maintain the Texture of the bubbles. Serve immediately.
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Thai Basil Chicken & Eggplant](/recipes/stir-fried-chicken-and-eggplant-with-thai-basil)
-- [Oreo Truffles](/recipes/easy-oreo-truffles)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Thai Basil Chicken & Eggplant](/silton-mise/recipes/stir-fried-chicken-and-eggplant-with-thai-basil)
+- [Oreo Truffles](/silton-mise/recipes/easy-oreo-truffles)

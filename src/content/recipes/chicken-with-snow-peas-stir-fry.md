@@ -1,7 +1,7 @@
 ---
 title: Chicken with Snow Peas Stir-Fry
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this 25-minute "Speed" meal is the **Structural Science** of **Velveting** and **High-Heat Folding**. By marinating the chicken in a cornstarch-oil-soy mixture, we create a barrier that keeps the breast meat juicy in the wok. We maintain **Texture Integrity** by using a "bottom-to-top" folding motion—this ensures the snow peas stay bright green and "Shatteringly Crisp" rather than steaming into a limp yellow mess.
+The secret to this 25-minute quick meal is the **Culinary Technique** of **Velveting** and **High-Heat Folding**. By marinating the chicken in a cornstarch-oil-soy mixture, we create a barrier that keeps the breast meat juicy in the wok. We maintain **Textural Balance** by using a "bottom-to-top" folding motion—this ensures the snow peas stay bright green and perfectly crispy rather than steaming into a limp yellow mess.
 
 ## Directions
 
@@ -41,6 +41,6 @@ The secret to this 25-minute "Speed" meal is the **Structural Science** of **Vel
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Sausage Fried Rice](/silton-mise/recipes/chinese-sausage-fried-rice)

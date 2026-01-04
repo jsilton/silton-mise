@@ -1,7 +1,7 @@
 ---
 title: Favorite Cream Cheese Frosting
 role: condiment
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
@@ -11,12 +11,12 @@ ingredients:
   - '1/2 cup (1 stick) Unsalted Butter, softened'
   - '3 cups Confectioners’ Sugar (plus extra if needed)'
   - '1 tsp Pure Vanilla Extract'
-  - '1/8 tsp Sea Salt (The High Note)'
+  - '1/8 tsp Sea Salt (The Finishing Touch)'
 ---
 
 ## Chef's Note
 
-This is our baseline **Modularity** component for all elite cakes. The secret to a "Gold Standard" frosting that isn't runny is **Structural Science** through **The Temperature Pattern**. Both the butter and cream cheese must be **softened to the same temperature** before starting; this ensures they emulsify perfectly into a stable "Bounce." We use the **Paddle Attachment** rather than a whisk to incorporate the sugar; this provides a dense, silky texture without introducing too many air bubbles, which would cause the frosting to "weep" over time.
+This is our baseline **Modularity** component for all elite cakes. The secret to a "Kitchen Standard" frosting that isn't runny is **Culinary Technique** through **The Temperature Method**. Both the butter and cream cheese must be **softened to the same temperature** before starting; this ensures they emulsify perfectly into a stable "Bounce." We use the **Paddle Attachment** rather than a whisk to incorporate the sugar; this provides a dense, silky texture without introducing too many air bubbles, which would cause the frosting to "weep" over time.
 
 ## Directions
 
@@ -28,7 +28,7 @@ This is our baseline **Modularity** component for all elite cakes. The secret to
 
 ## Serving Suggestions
 
-- [Breakfast Carrot Cake](/recipes/breakfast-carrot-cake)
-- [Red Velvet Cupcakes](/recipes/red-velvet-cupcakes)
-- [Yellow Cake with Chocolate Frosting](/recipes/yellow-cake-with-chocolate-frosting)
-- [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake)
+- [Breakfast Carrot Cake](/silton-mise/recipes/breakfast-carrot-cake)
+- [Red Velvet Cupcakes](/silton-mise/recipes/red-velvet-cupcakes)
+- [Yellow Cake with Chocolate Frosting](/silton-mise/recipes/yellow-cake-with-chocolate-frosting)
+- [Nana's Pound Cake](/silton-mise/recipes/grandmommys-pound-cake)

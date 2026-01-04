@@ -1,7 +1,7 @@
 ---
 title: Grilled Chicken with Herbed Corn Salsa
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -14,14 +14,14 @@ ingredients:
   - '1/2 cup Fresh Mint, packed'
   - '1/4 cup Freshly Grated Parmesan'
   - '1 clove Garlic'
-  - '1/4 cup Fresh Lemon Juice (The High Note)'
+  - '1/4 cup Fresh Lemon Juice (The Finishing Touch)'
   - '2 tbsp Extra-Virgin Olive Oil'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-This is a high-performance "Fuel" meal that relies on **Texture Integrity**. The secret is **The Charred Kernel Pattern**: we grill the corn whole until the kernels are slightly blackened and "pop" with sweetness, then shear them off the cob. This provides a smoky contrast to the **Herbed Salsa**, which we build using **The Emulsion Pattern**—blending fresh mint and basil with lemon and Parmesan. The lemon provides the mandatory **Acid Finish** that cuts through the rich fat of the chicken thighs.
+This is a high-performance nutritious meal that relies on **Textural Balance**. The secret is **The Charred Kernel Method**: we grill the corn whole until the kernels are slightly blackened and "pop" with sweetness, then shear them off the cob. This provides a smoky contrast to the **Herbed Salsa**, which we build using **The Emulsion Method**—blending fresh mint and basil with lemon and Parmesan. The lemon provides the mandatory **Acid Balance** that cuts through the rich fat of the chicken thighs.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is a high-performance "Fuel" meal that relies on **Texture Integrity**. The
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

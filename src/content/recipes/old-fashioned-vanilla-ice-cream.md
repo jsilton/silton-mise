@@ -1,7 +1,7 @@
 ---
 title: Old-Fashioned Vanilla Ice Cream
 role: dessert
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 300 min
@@ -11,13 +11,13 @@ ingredients:
   - '1/2 cup Granulated Sugar'
   - '1 cup Whole Milk'
   - '1 cup Heavy Cream'
-  - '2 tsp Pure Vanilla Bean Paste (The "Gold" Standard)'
+  - '2 tsp Pure Vanilla Bean Paste'
   - 'Pinch of Sea Salt'
 ---
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for all Silton desserts. The secret to its incredible "Bounce" is **Structural Science** through **The Tempering Pattern**: you must slowly whisk the hot milk into the egg yolks to ensure a stable emulsion without scrambling the proteins. We use **Vanilla Bean Paste** instead of extract to provide the mandatory visual "High Note" of black seeds and a deeper, more resinous aroma. The longer you chill the base (up to 24 hours), the creamier the final snap will be.
+This is the baseline **Modularity** component for all Executive desserts. The secret to its incredible Texture is **Culinary Technique** through **The Tempering Method**: you must slowly whisk the hot milk into the egg yolks to ensure a stable emulsion without scrambling the proteins. We use **Vanilla Bean Paste** instead of extract to provide the mandatory visual "High Note" of black seeds and a deeper, more resinous aroma. The longer you chill the base (up to 24 hours), the creamier the final snap will be.
 
 ## Directions
 
@@ -30,6 +30,6 @@ This is the baseline **Modularity** component for all Silton desserts. The secre
 
 ## Serving Suggestions
 
-- [Best Homemade Brownies](/recipes/best-homemade-brownies)
-- [Apple Pie](/recipes/apple-pie)
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider) (as a "float")
+- [Best Homemade Brownies](/silton-mise/recipes/best-homemade-brownies)
+- [Apple Pie](/silton-mise/recipes/apple-pie)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider) (as a "float")

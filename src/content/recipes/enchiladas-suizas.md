@@ -36,5 +36,5 @@ ingredients:
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Essential to cut the heavy cream)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Essential to cut the heavy cream)
 - Mexican Rice and Black Beans

@@ -1,7 +1,7 @@
 ---
-title: Chinese-Style Snapper (The Whole Fish Standard)
+title: Chinese-Style Snapper
 role: main
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 50 min
 totalTime: 70 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-Cooking a whole fish is the ultimate expression of **Modern Heritage**. To ensure **Texture Integrity**, we use the **Triple Slash Pattern**: cutting three deep slits into the thickest part of the fish. This allows the heat and the seasoning sauce to penetrate the core, preventing the outside from overcooking before the middle is done. We finish with the **Smoking Oil Method**, pouring just-smoking peanut oil over fresh scallions to release their aromatic essence directly into the skin.
+Cooking a whole fish is the ultimate expression of **Updated Classic**. To ensure **Textural Balance**, we use the **Triple Slash Method**: cutting three deep slits into the thickest part of the fish. This allows the heat and the seasoning sauce to penetrate the core, preventing the outside from overcooking before the middle is done. We finish with the **Smoking Oil Method**, pouring just-smoking peanut oil over fresh scallions to release their aromatic essence directly into the skin.
 
 ## Directions
 
@@ -37,6 +37,6 @@ Cooking a whole fish is the ultimate expression of **Modern Heritage**. To ensur
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Steamed Bok Choy with Oyster Sauce](/recipes/steamed-bok-choy-with-oyster-sauce)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Steamed Bok Choy with Oyster Sauce](/silton-mise/recipes/steamed-bok-choy-with-oyster-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

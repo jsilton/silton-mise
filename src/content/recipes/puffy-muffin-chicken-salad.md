@@ -1,27 +1,27 @@
 ---
 title: Puffy Muffin Chicken Salad
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
 servings: '4'
 ingredients:
   - '2 cups Chicken Tenders (about 1 lb)'
-  - '--- The Texture Mix ---'
+  - '--- Mix ---'
   - '1/2 cup Celery, finely diced'
   - '2/3 cup Red Grapes, quartered'
-  - '1/4 cup Red Onion, finely minced (The "Snap")'
+  - '1/4 cup Red Onion, finely minced (the crunch)'
   - '--- The Creamy Bind ---'
   - '1/2 cup Mayonnaise (Duke’s or Hellmann’s)'
-  - '1 tbsp Fresh Lemon Juice (The Acid Finish)'
+  - '1 tbsp Fresh Lemon Juice (The Acid Balance)'
   - '1/2 tsp Sea Salt'
   - '1/4 tsp Black Pepper'
 ---
 
 ## Chef's Note
 
-This is a baseline **Modern Heritage** recipe for high-performance lunch fuel. The secret to its Success is **The Pull-Not-Cut Pattern**: you must poach the chicken tenders and then manually pull them into shreds while warm; this ensures the maximum surface area for the mayonnaise to bind to, resulting in a rich "Bounce." We maintain **Texture Integrity** through **The Cold Snap**: using quartered grapes and finely diced celery provides a necessary watery crunch that cuts through the rich mayo. Always add a hit of fresh lemon to provide the mandatory **High Note**.
+This is a baseline **Updated Classic** recipe for high-performance lunch fuel. The secret to its Success is **The Pull-Not-Cut Method**: you must poach the chicken tenders and then manually pull them into shreds while warm; this ensures the maximum surface area for the mayonnaise to bind to, resulting in a rich "Bounce." We maintain **Textural Balance** through **The Cold Snap**: using quartered grapes and finely diced celery provides a necessary watery crunch that cuts through the rich mayo. Always add a hit of fresh lemon to provide the mandatory **High Note**.
 
 ## Directions
 
@@ -34,6 +34,6 @@ This is a baseline **Modern Heritage** recipe for high-performance lunch fuel. T
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- On a toasted croissant or [My Favorite Challah](/recipes/my-favorite-challah)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- On a toasted croissant or [My Favorite Challah](/silton-mise/recipes/my-favorite-challah)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

@@ -1,5 +1,5 @@
 ---
-title: Chocolate Crinkle Cookies (The Shackle Standard)
+title: Chocolate Crinkle Cookies
 role: dessert
 vibe: comfort
 prepTime: 25 min
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-The crinkle cookie is all about the **Texture Integrity** of the "shackle"—the crackly, snowy crust. The secret to the Silton Standard is the **Double-Sugar Roll**: we roll the dough balls in granulated sugar first, then in powdered sugar. The granulated sugar acts as a structural barrier that prevents the powdered sugar from being absorbed into the dough during baking, resulting in a high-contrast "Snap" and a snowy-white finish. Chilling the dough for the full 2 hours is mandatory for the "Bounce."
+The crinkle cookie is all about the **Textural Balance** of the "shackle"—the crackly, snowy crust. The secret to the Kitchen Standard is the **Double-Sugar Roll**: we roll the dough balls in granulated sugar first, then in powdered sugar. The granulated sugar acts as a structural barrier that prevents the powdered sugar from being absorbed into the dough during baking, resulting in a high-contrast Crunch and a snowy-white finish. Chilling the dough for the full 2 hours is mandatory for the "Bounce."
 
 ## Directions
 
@@ -41,6 +41,6 @@ The crinkle cookie is all about the **Texture Integrity** of the "shackle"—the
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Cold Glass of Milk
-- [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake) (as part of a cookie platter)
+- [Nana's Pound Cake](/silton-mise/recipes/grandmommys-pound-cake) (as part of a cookie platter)

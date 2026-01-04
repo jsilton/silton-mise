@@ -1,7 +1,7 @@
 ---
-title: Golden Veil (The Herbal Standard)
+title: Golden Veil
 role: drink
-vibe: project
+vibe: technical
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 10 min
@@ -10,7 +10,7 @@ ingredients:
   - '2 oz Plymouth Gin'
   - '1.5 oz Montelobos Mezcal'
   - '2 oz Remy Martin Cognac'
-  - '2.5 oz Fresh Lemon Juice (The Acid Finish)'
+  - '2.5 oz Fresh Lemon Juice (The Acid Balance)'
   - '1 oz Dom Benedictine'
   - '0.5 oz Agave Syrup'
   - '3 dashes Orange Bitters'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The Golden Veil is a masterclass in **Structural Science** and flavor layering. The secret to its aromatic complexity is **The Slap Pattern**: you must place the thyme sprig in your palm and slap it sharply before garnishing; this ruptures the oil glands, releasing the herb's essence without the bitterness of muddling. We use **The Effervescence Layering Pattern**: the Prosecco is added only after the base is shaken and strained, ensuring the "Bounce" of the bubbles is preserved to cut through the smoky mezcal and rich cognac.
+The Golden Veil is a masterclass in **Culinary Technique** and flavor layering. The secret to its aromatic complexity is **The Slap Method**: you must place the thyme sprig in your palm and slap it sharply before garnishing; this ruptures the oil glands, releasing the herb's essence without the bitterness of muddling. We use **The Effervescence Layering Method**: the Prosecco is added only after the base is shaken and strained, ensuring the Texture of the bubbles is preserved to cut through the smoky mezcal and rich cognac.
 
 ## Directions
 
@@ -35,6 +35,6 @@ The Golden Veil is a masterclass in **Structural Science** and flavor layering. 
 
 ## Serving Suggestions
 
-- [Extraordinary Chocolate Chip Cookie](/recipes/extraordinary-chocolate-chip-cookie)
-- [Mediterranean Pinwheels](/recipes/mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options)
+- [Extraordinary Chocolate Chip Cookie](/silton-mise/recipes/extraordinary-chocolate-chip-cookie)
+- [Mediterranean Pinwheels](/silton-mise/recipes/mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options)
 - Smoked Gouda

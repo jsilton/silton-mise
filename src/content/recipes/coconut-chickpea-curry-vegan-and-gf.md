@@ -1,7 +1,7 @@
 ---
 title: Coconut Chickpea Curry
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
@@ -18,7 +18,7 @@ ingredients:
   - '1 tsp Curry Powder'
   - '1/4 tsp Ground Cumin'
   - '--- The Finish ---'
-  - '1 small Lime, juiced (The Acid Finish)'
+  - '1 small Lime, juiced (The Acid Balance)'
   - '2 tsp Coconut Flour (optional, for thickening)'
   - 'Fresh Cilantro'
   - 'Salt and Black Pepper'
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute "Speed" hero. The secret to a rich, non-watery vegan curry is **Texture Integrity** through the **Tomato Reduction Pattern**. We sauté the onions and tomatoes together for 10 minutes _before_ adding the coconut milk—this releases the tomatoes' natural sugars and thickens their juices. The **Acid Finish** from the fresh lime juice is mandatory; it provides the "High Note" that brightens the earthy chickpeas and rich coconut fat.
+This is a 25-minute quick hero. The secret to a rich, non-watery vegan curry is **Textural Balance** through the **Tomato Reduction Method**. We sauté the onions and tomatoes together for 10 minutes _before_ adding the coconut milk—this releases the tomatoes' natural sugars and thickens their juices. The **Acid Balance** from the fresh lime juice is mandatory; it provides the "High Note" that brightens the earthy chickpeas and rich coconut fat.
 
 ## Directions
 
@@ -39,6 +39,6 @@ This is a 25-minute "Speed" hero. The secret to a rich, non-watery vegan curry i
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Homemade Naan](/recipes/homemade-naan)
-- [Cucumber Raita](/recipes/cucumber-raita)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Homemade Naan](/silton-mise/recipes/homemade-naan)
+- [Cucumber Raita](/silton-mise/recipes/cucumber-raita)

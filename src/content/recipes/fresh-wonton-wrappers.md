@@ -1,7 +1,7 @@
 ---
 title: Fresh Wonton Wrappers
 role: base
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 0 min
 totalTime: 60 min
@@ -29,4 +29,4 @@ Store-bought wrappers are excellent for survival, but homemade wrappers offer a 
 
 ## Pairs With
 
-- [Cantonese Shrimp and Pork Wontons](/recipes/cantonese-shrimp-and-pork-wontons)
+- [Cantonese Shrimp and Pork Wontons](/silton-mise/recipes/cantonese-shrimp-and-pork-wontons)

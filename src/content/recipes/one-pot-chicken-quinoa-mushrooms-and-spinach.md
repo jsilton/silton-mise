@@ -1,7 +1,7 @@
 ---
 title: One-Pot Chicken, Quinoa, & Mushrooms
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 30 min
 totalTime: 40 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the Gold Standard for a high-performance "Fuel" meal. The secret to quinoa that isn't mushy is **Texture Integrity** through **The Staged Simmer Pattern**. We sear the chicken thighs and sauté the mushrooms separately to develop a "Snap" crust before adding the broth. By nestling the chicken into the quinoa, we ensure the grains absorb the savory juices of the meat as they bloom. The smoked paprika provides the mandatory savory **High Note**.
+This is the Kitchen Standard for a high-performance nutritious meal. The secret to quinoa that isn't mushy is **Textural Balance** through **The Staged Simmer Method**. We sear the chicken thighs and sauté the mushrooms separately to develop a Crunch crust before adding the broth. By nestling the chicken into the quinoa, we ensure the grains absorb the savory juices of the meat as they bloom. The smoked paprika provides the mandatory savory **High Note**.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is the Gold Standard for a high-performance "Fuel" meal. The secret to quin
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Asparagus](/recipes/roasted-asparagus)
-- [Cucumber Raita](/recipes/cucumber-raita)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Asparagus](/silton-mise/recipes/roasted-asparagus)
+- [Cucumber Raita](/silton-mise/recipes/cucumber-raita)

@@ -1,7 +1,7 @@
 ---
 title: Sun-Dried Tomato Chicken Orzo
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 35 min
 totalTime: 45 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-speed "Fuel" main. The secret to its Success is **The Boursin Melt Pattern**: we place a block of Boursin cheese directly in the center of the baking dish surrounded by the raw orzo and broth. As it bakes, the cheese emulsifies with the chicken juices to create a thick, garlic-herb "Bounce" that standard cream cannot mimic. We maintain **Texture Integrity** through **The Lemon Sizzle**: placing fresh lemon slices over the chicken provides a mandatory **Acid Finish** that keeps the rich cheese from feeling heavy.
+This is the ultimate high-speed nutritious main. The secret to its Success is **The Boursin Melt Method**: we place a block of Boursin cheese directly in the center of the baking dish surrounded by the raw orzo and broth. As it bakes, the cheese emulsifies with the chicken juices to create a thick, garlic-herb Texture that standard cream cannot mimic. We maintain **Textural Balance** through **The Lemon Sizzle**: placing fresh lemon slices over the chicken provides a mandatory **Acid Balance** that keeps the rich cheese from feeling heavy.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is the ultimate high-speed "Fuel" main. The secret to its Success is **The 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

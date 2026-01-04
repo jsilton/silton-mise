@@ -1,6 +1,6 @@
-# Contributing to Silton Mise
+# Contributing to Mise
 
-This document defines the operational mandates and best practices for working on the `silton-mise` project. Adherence ensures consistency, quality, and stability.
+This document defines the operational mandates and best practices for working on the `mise` project. Adherence ensures consistency, quality, and stability.
 
 ## 1. Safety & Verification (CRITICAL)
 
@@ -20,7 +20,7 @@ This document defines the operational mandates and best practices for working on
 - **No Placeholders:** Never leave "TODO", "lorem ipsum", or stubbed logic in committed code.
 - **Dependency Awareness:** Check `package.json` before installing new packages to avoid redundancy.
 
-## 4. The Silton Standard (Recipe Guidelines)
+## 4. The Culinary Standard (Recipe Guidelines)
 
 Every recipe in this library must be a "Keeper." We prioritize flavor layering, texture, and reliability.
 
@@ -29,17 +29,17 @@ Every recipe in this library must be a "Keeper." We prioritize flavor layering, 
 Recipes are components, not just isolated instructions.
 
 - **Role:** Every dish must have a role (`main`, `side`, `base`, `dessert`, `drink`, `condiment`).
-- **Vibe:** Every dish must have a context (`speed`, `fuel`, `comfort`, `project`, `holiday`).
+- **Vibe:** Every dish must have a context (`quick`, `nutritious`, `comfort`, `technical`, `holiday`).
 
-### B. The 7 Core Silton Patterns
+### B. The 7 Core Culinary Techniques
 
-1.  **Modularity:** Split complex dishes into reusable components (e.g., sauces, pickles, grains).
-2.  **Modern Heritage:** Preserve family soul but replace legacy errors (Crisco, Boiling meat) with modern standards (Butter, Searing).
-3.  **Menu-First:** Mains MUST suggest pairings (e.g., "Pairs with: Arugula Salad").
-4.  **Texture Integrity:** No mixed-in mushy veg. Keep components distinct or roast separately to maintain "pop."
-5.  **Gold Standard Choice:** Lead with the scratch recipe; offer shortcuts (H-Mart, jars) as options.
-6.  **Structural Science:** Use specific techniques for mouthfeel (Alkaline rinses for shrimp snap, emulsion stirring for meat bounce).
-7.  **The Acid Finish:** Ensure every savory dish has a "high note" (Lemon, Vinegar, Miso) to cut fat.
+1.  **Traditional Roots:** Preserve the soul of a dish while updating it for modern equipment and quality ingredients.
+2.  **Modern Interpretation:** Preserving family history while replacing legacy shortcuts (e.g., margarine, boiling meat) with professional standards (e.g., butter, searing).
+3.  **Acid & Salt Balance:** Every dish must have a "High Note"—a finishing element of acidity or salt that cuts through richness.
+4.  **Textural Balance:** Maintaining distinct textures. No overcooked or mushy vegetables; keep components distinct to maintain "pop."
+5.  **Component-Based Cooking (Modularity):** Design recipes as versatile building blocks that can be reused across different meals.
+6.  **Culinary Science:** Use specific techniques for mouthfeel (e.g., alkaline rinses for shrimp crispness, emulsion for meat texture).
+7.  **Thermal Precision:** Using exact temperatures (e.g., 137°F for pork) rather than "until done."
 
 ### C. Technique Over Convenience
 

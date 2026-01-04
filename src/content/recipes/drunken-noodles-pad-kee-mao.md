@@ -1,7 +1,7 @@
 ---
 title: Drunken Noodles (Pad Kee Mao)
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 15 min
 totalTime: 35 min
@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Street Quality" pad kee mao is **Structural Science** through **Velveting**. By working water and cornstarch into the chicken, we ensure it stays succulent even at the "Highest Heat" needed for the noodles. We maintain **Texture Integrity** through **The Scrape Pattern**: wide rice noodles tend to stick and tear; you must use a metal spatula to scrape the bottom of the wok aggressively during the final sauce reduction to create those slightly charred, chewy edges known as "Wok Hei."
+The secret to authentic pad kee mao is **Culinary Technique** through **Velveting**. By working water and cornstarch into the chicken, we ensure it stays succulent even at the "Highest Heat" needed for the noodles. We maintain **Textural Balance** through **The Scrape Method**: wide rice noodles tend to stick and tear; you must use a metal spatula to scrape the bottom of the wok aggressively during the final sauce reduction to create those slightly charred, chewy edges known as "Wok Hei."
 
 ## Directions
 
@@ -47,6 +47,6 @@ The secret to "Street Quality" pad kee mao is **Structural Science** through **V
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)
 - Thai Iced Tea

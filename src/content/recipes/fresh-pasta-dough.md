@@ -1,7 +1,7 @@
 ---
 title: Fresh Pasta Dough (Stand-Mixer Standard)
 role: base
-vibe: project
+vibe: technical
 prepTime: 15 min
 cookTime: 0 min
 totalTime: 60 min
@@ -15,7 +15,7 @@ ingredients:
 
 ## Chef's Note
 
-This is our baseline **Modularity** component for standard pasta nights. We use **Structural Science** through **The Dough Hook Emulsion Pattern**: by utilizing the stand mixer, we develop the gluten chain with mechanical precision, ensuring a uniform "Bounce" that hand-kneading can rarely achieve. The mandatory **Rest Cycle** (30-60 mins) is what allows the gluten to relax, ensuring the dough doesn't snap back while rolling.
+This is our baseline **Modularity** component for standard pasta nights. We use **Culinary Technique** through **The Dough Hook Emulsion Method**: by utilizing the stand mixer, we develop the gluten chain with mechanical precision, ensuring a uniform Texture that hand-kneading can rarely achieve. The mandatory **Rest Cycle** (30-60 mins) is what allows the gluten to relax, ensuring the dough doesn't snap back while rolling.
 
 ## Directions
 
@@ -23,10 +23,10 @@ This is our baseline **Modularity** component for standard pasta nights. We use 
 2.  **The Hook:** Use the dough hook on speed 2. Run until a shaggy dough forms and starts to climb the hook (about 3-4 mins).
 3.  **The Knead:** Continue on speed 2 for 8-10 minutes. The dough should transform from lumpy to completely smooth, elastic, and slightly tacky.
 4.  **The Rest:** Remove from the bowl. Wrap tightly in plastic wrap. **Let rest for at least 30 minutes** (up to 24 hours in the fridge) before rolling.
-5.  **Shape:** Cut, roll, and shape as desired. See [Fresh Egg Pasta](/recipes/fresh-egg-pasta) for rolling settings.
+5.  **Shape:** Cut, roll, and shape as desired. See [Fresh Egg Pasta](/silton-mise/recipes/fresh-egg-pasta) for rolling settings.
 
 ## Serving Suggestions
 
-- [Real Alfredo Sauce](/recipes/real-alfredo-sauce)
-- [Real Spaghetti Carbonara](/recipes/real-spaghetti-carbonara)
-- [Pasta with Sausage, Basil, and Mustard](/recipes/pasta-with-sausage-basil-and-mustard)
+- [Real Alfredo Sauce](/silton-mise/recipes/real-alfredo-sauce)
+- [Real Spaghetti Carbonara](/silton-mise/recipes/real-spaghetti-carbonara)
+- [Pasta with Sausage, Basil, and Mustard](/silton-mise/recipes/pasta-with-sausage-basil-and-mustard)

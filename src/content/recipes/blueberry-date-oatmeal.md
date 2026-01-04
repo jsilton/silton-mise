@@ -1,7 +1,7 @@
 ---
 title: Blueberry Date Oatmeal
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance "Fuel" breakfast. We use the **Volume Hack**: adding riced cauliflower increases the fiber and portion size without altering the flavor of the oats. To maintain **Texture Integrity**, we stir the frozen blueberries in at the very end—this prevents the entire bowl from turning a muddy gray and preserves the "Pop" of the fruit. The dates provide a natural, caramel-like sweetness that eliminates the need for refined sugar.
+This is a high-performance nutritious breakfast. We use the **Volume Hack**: adding riced cauliflower increases the fiber and portion size without altering the flavor of the oats. To maintain **Textural Balance**, we stir the frozen blueberries in at the very end—this prevents the entire bowl from turning a muddy gray and preserves the "Pop" of the fruit. The dates provide a natural, caramel-like sweetness that eliminates the need for refined sugar.
 
 ## Directions
 
@@ -34,4 +34,4 @@ This is a high-performance "Fuel" breakfast. We use the **Volume Hack**: adding 
 
 - A dollop of Greek Yogurt
 - A drizzle of Almond Butter
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)

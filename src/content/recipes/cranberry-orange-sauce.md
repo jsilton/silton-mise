@@ -16,7 +16,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Acid Finish** for your Thanksgiving plate. The heavy fat of the turkey and the creaminess of the gratin need the sharp, citrusy lift of this sauce to reset the palate. By using fresh zest and juice rather than just water, we ensure the sauce is bright and aromatic rather than just sweet.
+This is the **Acid Balance** for your Thanksgiving plate. The heavy fat of the turkey and the creaminess of the gratin need the sharp, citrusy lift of this sauce to reset the palate. By using fresh zest and juice rather than just water, we ensure the sauce is bright and aromatic rather than just sweet.
 
 ## Directions
 
@@ -28,6 +28,6 @@ This is the **Acid Finish** for your Thanksgiving plate. The heavy fat of the tu
 
 ## Serving Suggestions
 
-- [Good Eats Roast Turkey](/recipes/good-eats-roast-turkey)
-- [Corn Bread Dressing](/recipes/corn-bread-dressing)
+- [Good Eats Roast Turkey](/silton-mise/recipes/good-eats-roast-turkey)
+- [Corn Bread Dressing](/silton-mise/recipes/corn-bread-dressing)
 - Leftover Turkey Sandwiches

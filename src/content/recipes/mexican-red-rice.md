@@ -1,7 +1,7 @@
 ---
 title: Arroz Rojo (Mexican Red Rice)
 role: base
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 35 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to fluffy, distinct Mexican rice is **Toasting**. You must fry the dry rice in oil until it is opaque and smells like popcorn. This creates a protective seal around each grain so they don't turn into a mushy clump when you add the tomato liquid. This is the **Structural Science** of great rice.
+The secret to fluffy, distinct Mexican rice is **Toasting**. You must fry the dry rice in oil until it is opaque and smells like popcorn. This creates a protective seal around each grain so they don't turn into a mushy clump when you add the tomato liquid. This is the **Culinary Technique** of great rice.
 
 ## Directions
 
@@ -33,6 +33,6 @@ The secret to fluffy, distinct Mexican rice is **Toasting**. You must fry the dr
 
 ## Pairs With
 
-- [Enchiladas Suizas](/recipes/enchiladas-suizas)
-- [Weeknight Tacos](/recipes/tacos)
-- [Chicken Tinga](/recipes/chicken-tinga)
+- [Enchiladas Suizas](/silton-mise/recipes/enchiladas-suizas)
+- [Weeknight Tacos](/silton-mise/recipes/tacos)
+- [Chicken Tinga](/silton-mise/recipes/chicken-tinga)

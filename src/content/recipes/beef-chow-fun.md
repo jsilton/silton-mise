@@ -1,5 +1,5 @@
 ---
-title: Beef Chow Fun (The Wok Hei Standard)
+title: Beef Chow Fun
 role: main
 vibe: comfort
 prepTime: 20 min
@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-Beef Chow Fun is the ultimate test of a Cantonese chef. It requires **Structural Science**: the beef must be "velveted" with baking soda to remain tender, and the noodles must be treated gently. The secret is high heat and **minimal stirring**—you want the noodles to sear and char (Wok Hei) without breaking into small pieces.
+Beef Chow Fun is the ultimate test of a Cantonese chef. It requires **Culinary Technique**: the beef must be "velveted" with baking soda to remain tender, and the noodles must be treated gently. The secret is high heat and **minimal stirring**—you want the noodles to sear and char (Wok Hei) without breaking into small pieces.
 
 ## Directions
 
@@ -41,6 +41,6 @@ Beef Chow Fun is the ultimate test of a Cantonese chef. It requires **Structural
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Hot Chili Oil
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

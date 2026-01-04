@@ -11,7 +11,7 @@ ingredients:
   - '1/4 lb Shrimp, peeled and deveined'
   - '1/3 cup Extra-firm Tofu, julienned'
   - '--- The Pad Thai Emulsion ---'
-  - '2 tbsp Tamarind Paste (The Acid Finish)'
+  - '2 tbsp Tamarind Paste (The Acid Balance)'
   - '2 tbsp Palm Sugar (or Granulated Sugar)'
   - '4 tsp Fish Sauce'
   - '1/2 tsp Ground Dried Chili'
@@ -26,12 +26,12 @@ ingredients:
 
 ## Chef's Note
 
-Pad Thai is a masterclass in the **Acid-Salt-Sweet balance**. The secret to "Gold Standard" noodles is **The Cold Soak Pattern**: you must soak the rice noodles in room-temperature water for 40 minutes rather than boiling them. This ensures they maintain a resilient "Bounce" and absorb the **Tamarind Emulsion** without becoming mushy. The tamarind provides the mandatory **Acid Finish** that defines the dish. Always add the bean sprouts at the very end to ensure a fresh, watery "Snap" that contrasts the chewy noodles.
+Pad Thai is a masterclass in the **Acid-Salt-Sweet balance**. The secret to "Kitchen Standard" noodles is **The Cold Soak Method**: you must soak the rice noodles in room-temperature water for 40 minutes rather than boiling them. This ensures they maintain a resilient Texture and absorb the **Tamarind Emulsion** without becoming mushy. The tamarind provides the mandatory **Acid Balance** that defines the dish. Always add the bean sprouts at the very end to ensure a fresh, watery Crunch that contrasts the chewy noodles.
 
 ## Directions
 
 1.  **The Soak:** Place dry noodles in a large bowl of cool water. Soak for 40 minutes until flexible but still firm. Drain.
-2.  **The Snap:** Heat 1 tbsp oil in a wok. Fry peanuts until golden; remove. Fry tofu matchsticks until golden and firm; remove.
+2.  **The Crunch:** Heat 1 tbsp oil in a wok. Fry peanuts until golden; remove. Fry tofu matchsticks until golden and firm; remove.
 3.  **Aromatics:** Heat 1 tbsp oil. Sauté garlic and shallots until fragrant. Add the drained noodles and the tamarind mixture (sugar, fish sauce, chili).
 4.  **Toss:** Stir-fry over high heat. If the noodles feel too firm, add 1 tbsp of water at a time until they are chewy and translucent.
 5.  **The Egg:** Push noodles to the side. Scramble the egg until set, then fold into the noodles.
@@ -41,6 +41,6 @@ Pad Thai is a masterclass in the **Acid-Salt-Sweet balance**. The secret to "Gol
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)
 - Thai Iced Tea

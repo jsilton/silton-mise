@@ -1,7 +1,7 @@
 ---
-title: Ratatouille (The Roasted Standard)
+title: Ratatouille
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 40 min
 totalTime: 60 min
@@ -13,10 +13,10 @@ ingredients:
   - '1 medium Zucchini, cubed'
   - '1 medium Yellow Squash, cubed'
   - '--- The Tomato Base ---'
-  - '2 lbs Ripe Tomatoes, grated (The "Pulp" Standard)'
+  - '2 lbs Ripe Tomatoes, grated'
   - '1 medium Yellow Onion, chopped'
   - '4 cloves Garlic, minced'
-  - '--- The High Note Finish ---'
+  - '--- The Finishing Touch Finish ---'
   - '1/4 cup Fresh Basil, chopped'
   - '1/4 tsp Red Pepper Flakes'
   - '1 tsp Fresh Lemon Juice'
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-Traditional ratatouille is often a mushy stew; we elevate it to the Silton Standard through **Texture Integrity** and **The Roasted Pattern**. Instead of simmering everything together, we roast the eggplant and peppers at high heat (425°F) separately. This ensures each vegetable maintains its "Snap" and color. We use **The Pulp Pattern** for the sauce: grating the fresh tomatoes removes the skins and creates a frothy, fresh base that binds the roasted components into a vibrant "Bounce."
+Traditional ratatouille is often a mushy stew; we elevate it to the Kitchen Standard through **Textural Balance** and **The Roasted Method**. Instead of simmering everything together, we roast the eggplant and peppers at high heat (425°F) separately. This ensures each vegetable maintains its Crunch and color. We use **The Pulp Method** for the sauce: grating the fresh tomatoes removes the skins and creates a frothy, fresh base that binds the roasted components into a vibrant "Bounce."
 
 ## Directions
 
@@ -33,11 +33,11 @@ Traditional ratatouille is often a mushy stew; we elevate it to the Silton Stand
 2.  **The Base:** In a large Dutch oven, sauté onion in 2 tbsp oil for 10 minutes until golden. Add garlic for 30 seconds.
 3.  **The Sauce:** Stir in the grated tomato pulp. Simmer over medium-low for 15 minutes to reduce the liquid.
 4.  **Combine:** Carefully fold the roasted eggplant, peppers, and squash into the tomato sauce. Simmer for 5 minutes to let the flavors meld.
-5.  **Finish:** Remove from heat. Stir in the fresh basil, red pepper flakes, and a squeeze of lemon for the mandatory **Acid Finish**.
+5.  **Finish:** Remove from heat. Stir in the fresh basil, red pepper flakes, and a squeeze of lemon for the mandatory **Acid Balance**.
 6.  **Serve:** Serve hot or at room temperature with a final drizzle of high-quality olive oil.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

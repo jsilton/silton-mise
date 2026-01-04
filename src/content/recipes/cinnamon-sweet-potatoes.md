@@ -1,7 +1,7 @@
 ---
 title: Cinnamon Sweet Potatoes
 role: side
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to these 25-minute potatoes is **Texture Integrity** through the **Glaze Pattern**. Instead of boiling or steaming, we roast the rounds at high heat (400°F) in a honey-butter emulsion. The **Lime Juice** provides the mandatory **Acid Finish**, which prevents the dish from being cloyingly sweet and ensures the cinnamon notes are bright rather than muddy. Ensure the slices are uniform in thickness to guarantee even cooking.
+The secret to these 25-minute potatoes is **Textural Balance** through the **Glaze Method**. Instead of boiling or steaming, we roast the rounds at high heat (400°F) in a honey-butter emulsion. The **Lime Juice** provides the mandatory **Acid Balance**, which prevents the dish from being cloyingly sweet and ensures the cinnamon notes are bright rather than muddy. Ensure the slices are uniform in thickness to guarantee even cooking.
 
 ## Directions
 
@@ -30,6 +30,6 @@ The secret to these 25-minute potatoes is **Texture Integrity** through the **Gl
 
 ## Serving Suggestions
 
-- [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roast Turkey Breast](/recipes/roast-turkey-breast)
+- [Buttermilk Baked Chicken](/silton-mise/recipes/buttermilk-baked-chicken)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roast Turkey Breast](/silton-mise/recipes/roast-turkey-breast)

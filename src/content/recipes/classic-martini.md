@@ -1,7 +1,7 @@
 ---
-title: Classic Martini (The Cold Standard)
+title: Classic Martini (Chilled)
 role: drink
-vibe: project
+vibe: technical
 prepTime: 5 min
 cookTime: 0 min
 totalTime: 5 min
@@ -15,7 +15,7 @@ ingredients:
 
 ## Chef's Note
 
-The Silton Standard for a Martini is built on **Structural Science** and the **Thermal Pattern**. We stir, never shake, to preserve the silkiness of the gin without introducing air bubbles or excessive dilution. The secret is **Cracked Ice**: by hand-cracking a large cube, we increase the surface area, allowing the drink to reach sub-zero temperatures in exactly 50 stirs. The final "High Note" is the **Expressed Lemon Oil**—rubbing the peel on the rim ensures the aroma precedes the flavor.
+The Kitchen Standard for a Martini is built on **Culinary Technique** and the **Thermal Method**. We stir, never shake, to preserve the silkiness of the gin without introducing air bubbles or excessive dilution. The secret is **Cracked Ice**: by hand-cracking a large cube, we increase the surface area, allowing the drink to reach sub-zero temperatures in exactly 50 stirs. The final "High Note" is the **Expressed Lemon Oil**—rubbing the peel on the rim ensures the aroma precedes the flavor.
 
 ## Directions
 
@@ -29,4 +29,4 @@ The Silton Standard for a Martini is built on **Structural Science** and the **T
 
 - Castelvetrano Olives
 - Smoked Almonds
-- [Mediterranean Pinwheels](/recipes/mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options)
+- [Mediterranean Pinwheels](/silton-mise/recipes/mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options)

@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate hack for "Project" level ribs on a "Speed" timeline. We use the **Pressure Cooker** to achieve fall-off-the-bone tenderness in just 20 minutes, then use the **Broiler** to create the sticky, caramelized lacquer that usually takes hours in a smoker. The secret is the **Reduction**: never throw away the cooking liquid; boil it down to a syrupy glaze to concentrate the ginger and hoisin.
+This is the ultimate hack for technical dish level ribs on a quick timeline. We use the **Pressure Cooker** to achieve fall-off-the-bone tenderness in just 20 minutes, then use the **Broiler** to create the sticky, caramelized lacquer that usually takes hours in a smoker. The secret is the **Reduction**: never throw away the cooking liquid; boil it down to a syrupy glaze to concentrate the ginger and hoisin.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is the ultimate hack for "Project" level ribs on a "Speed" timeline. We use
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)
 - Corn on the Cob

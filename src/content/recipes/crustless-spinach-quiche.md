@@ -1,7 +1,7 @@
 ---
 title: Crustless Spinach & Gruyère Quiche
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 30 min
 totalTime: 40 min
@@ -11,7 +11,7 @@ ingredients:
   - '1 large Yellow Onion, thinly sliced'
   - '6 large Eggs'
   - '1 cup Gruyère Cheese, freshly grated'
-  - '1/2 cup Plain Greek Yogurt (The "Bounce" Hack)'
+  - '1/2 cup Plain Greek Yogurt for richness'
   - '1/2 tsp Sea Salt'
   - '1/4 tsp Black Pepper'
   - '1 tbsp Olive Oil'
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed "Fuel" meal that relies on **Modern Heritage** techniques to elevate simple ingredients. The secret to the deep flavor is **Onion Blackening**: we sauté the onions on high heat until the edges are charred and sweet, providing a smokiness that balances the earthy spinach. We use **The Greek Yogurt Hack** instead of heavy cream to ensure a firm, high-protein "Bounce" that never turns watery. Always use **Gruyère**—its nuttiness provides the "High Note" that standard Swiss lacks.
+This is a high-speed nutritious meal that relies on **Updated Classic** techniques to elevate simple ingredients. The secret to the deep flavor is **Onion Blackening**: we sauté the onions on high heat until the edges are charred and sweet, providing a smokiness that balances the earthy spinach. We use **The Greek Yogurt Hack** instead of heavy cream to ensure a firm, high-protein Texture that never turns watery. Always use **Gruyère**—its nuttiness provides the "High Note" that standard Swiss lacks.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is a high-speed "Fuel" meal that relies on **Modern Heritage** techniques t
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Sliced Tomatoes
-- [Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)
+- [Crispy Smashed Potatoes](/silton-mise/recipes/crispy-smashed-potatoes)

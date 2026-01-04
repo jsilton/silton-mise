@@ -1,13 +1,13 @@
 ---
-title: Korean Style Tacos (The Kogi Standard)
+title: Korean Style Tacos
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 5 min
 totalTime: 65 min
 servings: '4'
 ingredients:
-  - '1 lb Cooked [Pulled Pork](/recipes/best-slow-cooker-pulled-pork) or Shredded Chicken'
+  - '1 lb Cooked [Pulled Pork](/silton-mise/recipes/best-slow-cooker-pulled-pork) or Shredded Chicken'
   - '12 Corn Tortillas'
   - '--- The Kogi BBQ Sauce ---'
   - '2 tbsp Gochujang'
@@ -15,7 +15,7 @@ ingredients:
   - '2 tbsp Soy Sauce'
   - '1 tsp Rice Vinegar'
   - '2 tsp Toasted Sesame Oil'
-  - '--- The Quick Cucumber Pickle ---'
+  - '--- The quick Cucumber Pickle ---'
   - '1 large English Cucumber, sliced paper-thin'
   - '2 tbsp Rice Vinegar'
   - '1/2 tsp Sugar'
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is a masterclass in **Modularity**. The secret to "Street Standard" tacos is **The Kogi Emulsion Pattern**: we whisk gochujang and sesame oil into a stable glaze that binds instantly to pre-cooked proteins. We maintain **Texture Integrity** through **The Quick Pickle Snap**: you must slice the cucumbers paper-thin and let them sit in vinegar for exactly 1 hour; this creates a translucent, "bouncy" crunch that provides the mandatory **Acid Finish** to cut through the sweet BBQ sauce.
+This dish is a masterclass in **Modularity**. The secret to "Street Standard" tacos is **The Kogi Emulsion Method**: we whisk gochujang and sesame oil into a stable glaze that binds instantly to pre-cooked proteins. We maintain **Textural Balance** through **The quick Pickle Snap**: you must slice the cucumbers paper-thin and let them sit in vinegar for exactly 1 hour; this creates a translucent, "bouncy" crunch that provides the mandatory **Acid Balance** to cut through the sweet BBQ sauce.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This dish is a masterclass in **Modularity**. The secret to "Street Standard" ta
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/recipes/korean-mung-bean-sprouts-salad)
-- [Fresh Cabbage, Cucumber and Radish Kimchi](/recipes/fresh-cabbage-cucumber-and-radish-kimchi)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Korean Mung Bean Sprouts Salad (Sukju Namul)](/silton-mise/recipes/korean-mung-bean-sprouts-salad)
+- [Fresh Cabbage, Cucumber and Radish Kimchi](/silton-mise/recipes/fresh-cabbage-cucumber-and-radish-kimchi)

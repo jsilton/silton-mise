@@ -1,7 +1,7 @@
 ---
 title: Best Cinnamon Roll Recipe (Cinnabon Copycat)
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 120 min
 cookTime: 30 min
 totalTime: 150 min
@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Structural Science** of a perfect roll. We use the **Tangzhong method**—pre-cooking a portion of the flour and water into a paste. This pre-gelatinizes the starches, allowing the dough to hold more moisture without becoming sticky. The result is a roll that stays "Shatteringly Soft" for days, rather than drying out in hours. We also use **European Butter** for its higher fat content, which provides a richer "Bounce" to the crumb.
+This is the **Culinary Technique** of a perfect roll. We use the **Tangzhong method**—pre-cooking a portion of the flour and water into a paste. This pre-gelatinizes the starches, allowing the dough to hold more moisture without becoming sticky. The result is a roll that stays delicate for days, rather than drying out in hours. We also use **European Butter** for its higher fat content, which provides a richer Texture to the crumb.
 
 ## Directions
 
@@ -53,4 +53,4 @@ This is the **Structural Science** of a perfect roll. We use the **Tangzhong met
 
 - Freshly Brewed Coffee
 - Cold Milk
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)

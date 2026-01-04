@@ -14,7 +14,7 @@ ingredients:
   - '1 can (28 oz) Whole Peeled Tomatoes'
   - '3 cups Vegetable or Chicken Broth'
   - '1/2 cup Heavy Cream (Optional)'
-  - '--- The High Note Finish ---'
+  - '--- The Finishing Touch Finish ---'
   - '1/2 cup Fresh Basil, chopped'
   - '1/2 tsp Red Pepper Flakes'
   - '3 tbsp Extra-Virgin Olive Oil'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Gold Standard" for technical comfort food. The secret to its Success is **The Maillard Roast Pattern**: we roast fresh tomatoes and whole garlic cloves until charred and soft _before_ pureeing. This concentrates the natural sugars and provides a smoky depth that canned tomatoes lack. We use **The Basil Emulsion**: by blending the fresh basil directly into the hot soup, we achieve a vibrant green "High Note" that pierces through the rich cream.
+This is the "Kitchen Standard" for technical comfort food. The secret to its Success is **The Maillard Roast Method**: we roast fresh tomatoes and whole garlic cloves until charred and soft _before_ pureeing. This concentrates the natural sugars and provides a smoky depth that canned tomatoes lack. We use **The Basil Emulsion**: by blending the fresh basil directly into the hot soup, we achieve a vibrant green "High Note" that pierces through the rich cream.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is the "Gold Standard" for technical comfort food. The secret to its Succes
 
 ## Serving Suggestions
 
-- [Sourdough Grilled Cheese](/recipes/grilled-cheese-and-tomato-soup)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Sourdough Grilled Cheese](/silton-mise/recipes/grilled-cheese-and-tomato-soup)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

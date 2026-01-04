@@ -1,7 +1,7 @@
 ---
 title: Balsamic Peach Pork Chops
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -32,6 +32,6 @@ This dish is a masterclass in **Flavor Balancing**: the sweetness of the peaches
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Cilantro Lime Rice](/recipes/cilantro-lime-rice) or [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Cilantro Lime Rice](/silton-mise/recipes/cilantro-lime-rice) or [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
 - Glass of Rosé

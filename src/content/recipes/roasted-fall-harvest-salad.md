@@ -1,7 +1,7 @@
 ---
 title: Roasted Fall Harvest Salad
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 30 min
 totalTime: 50 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance "Fuel" salad that relies on **Structural Science**. The secret to Success is **The Massage Pattern**: you must massage the kale with olive oil and salt for 2 minutes; this breaks down the cellulose for a tender "Bounce." We maintain **Texture Integrity** through **The Crispy Chickpea Pattern**: by roasting the bone-dry chickpeas and squash at 450°F, we create a crunchy "Snap" that contrasts the fluffy quinoa. The apple cider in the dressing provides the mandatory **Acid Finish**.
+This is a high-performance nutritious salad that relies on **Culinary Technique**. The secret to Success is **The Massage Method**: you must massage the kale with olive oil and salt for 2 minutes; this breaks down the cellulose for a tender "Bounce." We maintain **Textural Balance** through **The Crispy Chickpea Method**: by roasting the bone-dry chickpeas and squash at 450°F, we create a crunchy Crunch that contrasts the fluffy quinoa. The apple cider in the dressing provides the mandatory **Acid Balance**.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is a high-performance "Fuel" salad that relies on **Structural Science**. T
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Grilled Chicken with Herbed Corn Salsa](/recipes/grilled-chicken-with-herbed-corn-salsa)
-- Warm [Homemade Naan](/recipes/homemade-naan)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Grilled Chicken with Herbed Corn Salsa](/silton-mise/recipes/grilled-chicken-with-herbed-corn-salsa)
+- Warm [Homemade Naan](/silton-mise/recipes/homemade-naan)

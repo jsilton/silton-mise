@@ -1,7 +1,7 @@
 ---
 title: Chicken and Broccoli (Chinese Takeout Style)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Gold Standard** of takeout classics. The secret to "Restaurant Quality" chicken is the **Structural Science** of **Velveting**. By marinating the chicken in Shaoxing wine and cornstarch, we create a protective barrier that keeps the meat succulent and prevents it from toughening over high heat. We also use **The Texture Pattern**: we steam the broccoli with just a splash of water first, then sear the chicken, ensuring the vegetable maintains its "Snap" while the meat gets a slight char.
+This is the **Kitchen Standard** of takeout classics. The secret to restaurant-quality chicken is the **Culinary Technique** of **Velveting**. By marinating the chicken in Shaoxing wine and cornstarch, we create a protective barrier that keeps the meat succulent and prevents it from toughening over high heat. We also use **the texture Method**: we steam the broccoli with just a splash of water first, then sear the chicken, ensuring the vegetable maintains its Crunch while the meat gets a slight char.
 
 ## Directions
 
@@ -42,6 +42,6 @@ This is the **Gold Standard** of takeout classics. The secret to "Restaurant Qua
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice) or [Cilantro Lime Rice](/recipes/cilantro-lime-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice) or [Cilantro Lime Rice](/silton-mise/recipes/cilantro-lime-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Sausage Fried Rice](/silton-mise/recipes/chinese-sausage-fried-rice)

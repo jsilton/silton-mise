@@ -1,7 +1,7 @@
 ---
 title: Fresh Peach Ice Cream
 role: dessert
-vibe: fuel
+vibe: nutritious
 prepTime: 30 min
 cookTime: 10 min
 totalTime: 300 min
@@ -9,7 +9,7 @@ servings: '6'
 ingredients:
   - '3 medium Ripe Peaches, peeled and mashed'
   - '1 1/4 cups Granulated Sugar (divided)'
-  - '1/2 tsp Fresh Lemon Juice (The Acid Finish)'
+  - '1/2 tsp Fresh Lemon Juice (The Acid Balance)'
   - '1/4 tsp Sea Salt'
   - '5 large Egg Yolks (room temp)'
   - '1 1/2 cups Heavy Cream'
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Gold Standard" fruit ice cream is **The Maceration Pattern**. You must toss the peaches in lemon juice and sugar for 30 minutes before mashing; this draws out the natural juices and creates a syrup that prevents the fruit from freezing into icy chunks. We use **The Yolk Emulsion Pattern**: by tempering the egg yolks with hot cream, we create a rich, stable custard "Bounce" that provides a silky mouthfeel. Always add the mashed fruit in the final 30 seconds of churning to maintain **Texture Integrity**.
+The secret to "Kitchen Standard" fruit ice cream is **The Maceration Method**. You must toss the peaches in lemon juice and sugar for 30 minutes before mashing; this draws out the natural juices and creates a syrup that prevents the fruit from freezing into icy chunks. We use **The Yolk Emulsion Method**: by tempering the egg yolks with hot cream, we create a rich, stable custard Texture that provides a silky mouthfeel. Always add the mashed fruit in the final 30 seconds of churning to maintain **Textural Balance**.
 
 ## Directions
 
@@ -33,6 +33,6 @@ The secret to "Gold Standard" fruit ice cream is **The Maceration Pattern**. You
 
 ## Serving Suggestions
 
-- [Grandmommy's Pound Cake](/recipes/grandmommys-pound-cake)
+- [Nana's Pound Cake](/silton-mise/recipes/grandmommys-pound-cake)
 - Fresh Mint sprigs
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

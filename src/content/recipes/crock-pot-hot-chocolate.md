@@ -34,6 +34,6 @@ While serious chocolatiers prefer the stovetop, the slow cooker is an excellent 
 
 ## Serving Suggestions
 
-- [Mom's Famous Chocolate Cake](/recipes/moms-famous-chocolate-cake)
-- [Best Chocolate Chip Cookies](/recipes/best-chocolate-chip-cookies)
+- [Mom's Famous Chocolate Cake](/silton-mise/recipes/moms-famous-chocolate-cake)
+- [Best Chocolate Chip Cookies](/silton-mise/recipes/best-chocolate-chip-cookies)
 - Homemade Whipped Cream

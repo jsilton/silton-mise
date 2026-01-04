@@ -1,7 +1,7 @@
 ---
 title: Blueberry Oat Breakfast Bars
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-The challenge with oat bars is preventing them from crumbling into granola. The secret is **Texture Integrity** through the **Cold Set**. By firmly pressing the mixture into the pan and refrigerating it for at least an hour (or overnight) after baking, the coconut oil and nut butter solidify to act as a natural "glue." This allows you to cut clean, portable bars that hold their "Bounce."
+The challenge with oat bars is preventing them from crumbling into granola. The secret is **Textural Balance** through the **Cold Set**. By firmly pressing the mixture into the pan and refrigerating it for at least an hour (or overnight) after baking, the coconut oil and nut butter solidify to act as a natural "glue." This allows you to cut clean, portable bars that hold their "Bounce."
 
 ## Directions
 
@@ -28,12 +28,12 @@ The challenge with oat bars is preventing them from crumbling into granola. The 
 3.  **Mix:** Remove from heat. Stir in the oats until every grain is coated. Gently fold in the blueberries.
 4.  **Press:** Transfer the mixture to the baking dish. Use the back of a spoon to press down **very firmly**—the more compact it is, the better it will hold.
 5.  **Bake:** Bake for 15-18 minutes until the edges are just beginning to turn golden brown.
-6.  **The Set:** Allow to cool in the pan at room temperature, then transfer to the fridge for at least 1 hour (mandatory) to firm up.
+6.  **The Finish:** Allow to cool in the pan at room temperature, then transfer to the fridge for at least 1 hour (mandatory) to firm up.
 7.  **Glaze:** Whisk together the yogurt and orange juice. Drizzle over the chilled bars.
 8.  **Slice:** Cut into 8 bars and serve cold or at room temperature.
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Fruit Platter
-- [Chocolate Chia Pudding](/recipes/chocolate-chia-pudding)
+- [Chocolate Chia Pudding](/silton-mise/recipes/chocolate-chia-pudding)

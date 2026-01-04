@@ -1,7 +1,7 @@
 ---
 title: BA’s Best Carrot Cake (The Brown Butter Upgrade)
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 40 min
 totalTime: 3 hours
@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Bravetart Upgrade** to the BA classic. We replace generic vegetable oil with **Brown Butter**, which provides a nutty, toasted depth that standard carrot cakes lack. We also use **Buttermilk** to ensure a tender, moist crumb that stays fresh for days. This is a true "Project" dessert that rewards the extra effort of browning and grating.
+This is the **Bravetart Upgrade** to the BA classic. We replace generic vegetable oil with **Brown Butter**, which provides a nutty, toasted depth that standard carrot cakes lack. We also use **Buttermilk** to ensure a tender, moist crumb that stays fresh for days. This is a true technical dish dessert that rewards the extra effort of browning and grating.
 
 ## Directions
 
@@ -42,5 +42,5 @@ This is the **Bravetart Upgrade** to the BA classic. We replace generic vegetabl
 
 ## Serving Suggestions
 
-- [Vieux Carré](/recipes/vieux-carre)
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Vieux Carré](/silton-mise/recipes/vieux-carre)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)

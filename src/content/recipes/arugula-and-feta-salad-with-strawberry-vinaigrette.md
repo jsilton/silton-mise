@@ -1,7 +1,7 @@
 ---
 title: Arugula & Feta Salad with Strawberry Vinaigrette
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 10 min
@@ -10,7 +10,7 @@ ingredients:
   - '5 oz Baby Arugula'
   - '3/4 cup Feta Cheese, crumbled'
   - '1 pint Fresh Strawberries, sliced'
-  - '1/4 cup Toasted Sunflower Seeds (Silton Nut-Free option)'
+  - '1/4 cup Toasted Sunflower Seeds (Nut-Free option)'
   - '--- The Strawberry Vinaigrette ---'
   - '4 large Strawberries'
   - '2 tbsp Extra-Virgin Olive Oil'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This salad is a masterclass in the **Acid Finish**. The sweetness of the strawberries and the richness of the feta need the peppery bite of arugula and the sharp acid of the vinaigrette to balance the plate. We use a **Pureed Base** for the dressing to ensure every leaf is coated in fruit flavor rather than just oil.
+This salad is a masterclass in the **Acid Balance**. The sweetness of the strawberries and the richness of the feta need the peppery bite of arugula and the sharp acid of the vinaigrette to balance the plate. We use a **Pureed Base** for the dressing to ensure every leaf is coated in fruit flavor rather than just oil.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This salad is a masterclass in the **Acid Finish**. The sweetness of the strawbe
 
 ## Pairs With
 
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Grilled-Pork Banh Mi](/recipes/grilled-pork-banh-mi)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Grilled-Pork Banh Mi](/silton-mise/recipes/grilled-pork-banh-mi)
 - Roasted Chicken

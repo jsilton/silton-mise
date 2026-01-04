@@ -1,7 +1,7 @@
 ---
 title: Shrimp & Mango Tacos
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 30 min
@@ -12,8 +12,8 @@ ingredients:
   - '--- The Cumin Sear ---'
   - '2 tsp Cumin Seeds, toasted and ground'
   - '2 cloves Garlic, sliced'
-  - '2 Serrano Chilies, minced (The High Note)'
-  - '--- The Acid Finish ---'
+  - '2 Serrano Chilies, minced (The Finishing Touch)'
+  - '--- The Acid Balance ---'
   - '5 tbsp Fresh Lime Juice'
   - '1/4 cup Fresh Cilantro, chopped'
   - '--- For Serving ---'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in the **Acid-Salt-Sweet balance**. The secret to the Silton Standard is **The Mango-Lime Emulsion**: we sauté the mango briefly with the shrimp; as the fruit releases its natural sugars, it emulsifies with the lime juice and cumin to create a thick, tropical glaze. We maintain **Texture Integrity** through **The Serrano Snap**: using fresh chilies instead of powder ensures every bite has a bright, watery heat that cuts through the sweet mango "Bounce."
+This is a masterclass in the **Acid-Salt-Sweet balance**. The secret to the Kitchen Standard is **The Mango-Lime Emulsion**: we sauté the mango briefly with the shrimp; as the fruit releases its natural sugars, it emulsifies with the lime juice and cumin to create a thick, tropical glaze. We maintain **Textural Balance** through **The Serrano Snap**: using fresh chilies instead of powder ensures every bite has a bright, watery heat that cuts through the sweet mango "Bounce."
 
 ## Directions
 
@@ -33,10 +33,10 @@ This is a masterclass in the **Acid-Salt-Sweet balance**. The secret to the Silt
 4.  **Finish:** Remove from heat. Stir in the lime juice. Taste and adjust with extra salt.
 5.  **Thermal Prep:** Wrap tortillas in a damp towel and microwave for 45 seconds (or char over an open flame).
 6.  **Assemble:** Place 2 tortillas on each plate. Mound the shrimp-mango mixture into the center.
-7.  **Serve:** Serve immediately with a side of [Mexican Red Rice](/recipes/mexican-red-rice).
+7.  **Serve:** Serve immediately with a side of [Mexican Red Rice](/silton-mise/recipes/mexican-red-rice).
 
 ## Serving Suggestions
 
-- [Mexican Red Rice (Arroz Rojo)](/recipes/mexican-red-rice)
-- [Quick Seasoned Black Beans](/recipes/quick-seasoned-black-beans)
-- [Guacamole (The Silton Standard)](/recipes/guacamole)
+- [Mexican Red Rice (Arroz Rojo)](/silton-mise/recipes/mexican-red-rice)
+- [quick Seasoned Black Beans](/silton-mise/recipes/quick-seasoned-black-beans)
+- [Guacamole](/silton-mise/recipes/guacamole)

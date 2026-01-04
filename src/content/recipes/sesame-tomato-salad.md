@@ -1,7 +1,7 @@
 ---
 title: Sesame Tomato Salad
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 20 min
@@ -10,9 +10,9 @@ ingredients:
   - '3 lbs Mixed Heirloom Tomatoes, chopped or halved'
   - '--- The Sesame Emulsion ---'
   - '1/2 cup Extra-Virgin Olive Oil'
-  - '2 tbsp Toasted Sesame Oil (The "Deep Note")'
+  - '2 tbsp Toasted Sesame Oil (The complex flavor)'
   - '6 tbsp Low-sodium Soy Sauce'
-  - '2 tbsp Distilled White Vinegar (The Acid Finish)'
+  - '2 tbsp Distilled White Vinegar (The Acid Balance)'
   - '1 clove Garlic, minced'
   - '1 tsp Granulated Sugar'
   - '1/4 cup Fresh Basil, chopped'
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This salad is a study in **Modularity** and flavor layering. The secret to its Success is **The Sesame Emulsion Pattern**: we whisk toasted sesame oil into a traditional vinaigrette base to introduce a nutty, roasted depth that contrasts the sweet, watery tomatoes. We maintain **Texture Integrity** by using a mix of heirloom varieties—the varying firmness of each tomato provides a spectrum of "Snaps" and "Bounces." The soy sauce acts as the primary salt source, introducing an umami backbone that defines the dish.
+This salad is a study in **Modularity** and flavor layering. The secret to its Success is **The Sesame Emulsion Method**: we whisk toasted sesame oil into a traditional vinaigrette base to introduce a nutty, roasted depth that contrasts the sweet, watery tomatoes. We maintain **Textural Balance** by using a mix of heirloom varieties—the varying firmness of each tomato provides a spectrum of "Snaps" and "Bounces." The soy sauce acts as the primary salt source, introducing an umami backbone that defines the dish.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This salad is a study in **Modularity** and flavor layering. The secret to its S
 
 ## Serving Suggestions
 
-- [Greek-Style Lamb Burgers](/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce)
-- [Tuna Poke Bowls](/recipes/tuna-poke-bowls)
-- [Japanese-Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
+- [Greek-Style Lamb Burgers](/silton-mise/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce)
+- [Tuna Poke Bowls](/silton-mise/recipes/tuna-poke-bowls)
+- [Japanese-Style Trout with Dashi](/silton-mise/recipes/japanese-style-trout-with-dashi)

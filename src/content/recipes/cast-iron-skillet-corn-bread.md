@@ -1,7 +1,7 @@
 ---
-title: Cast Iron Skillet Cornbread (The Crispy Standard)
+title: Cast Iron Skillet Cornbread
 role: side
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" cornbread is the **Preheated Skillet**. By getting your cast iron skillet screaming hot in the oven before pouring in the batter, you "fry" the bottom and sides instantly, resulting in a dark, buttery, crunchy crust that a standard baking dish cannot achieve.
+The secret to restaurant-quality cornbread is the **Preheated Skillet**. By getting your cast iron skillet screaming hot in the oven before pouring in the batter, you "fry" the bottom and sides instantly, resulting in a dark, buttery, crunchy crust that a standard baking dish cannot achieve.
 
 ## Directions
 
@@ -33,6 +33,6 @@ The secret to "Restaurant Quality" cornbread is the **Preheated Skillet**. By ge
 
 ## Serving Suggestions
 
-- [Turkey and Sweet Potato Chili](/recipes/chili)
-- [Classic Beef Stew](/recipes/classic-beef-stew)
-- [IP Pulled Pork](/recipes/instant-pot-pulled-pork)
+- [Turkey and Sweet Potato Chili](/silton-mise/recipes/chili)
+- [Classic Beef Stew](/silton-mise/recipes/classic-beef-stew)
+- [IP Pulled Pork](/silton-mise/recipes/instant-pot-pulled-pork)

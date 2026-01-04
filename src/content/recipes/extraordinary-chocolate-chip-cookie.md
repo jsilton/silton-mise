@@ -17,13 +17,13 @@ ingredients:
   - '1 1/4 tsp Kosher Salt'
   - '1 tsp Baking Powder'
   - '1 tsp Baking Soda'
-  - '--- The Snap ---'
-  - '4 1/2 cups Semisweet Chocolate Chips (The "Maximum Chocolate" Pattern)'
+  - '--- The Crunch ---'
+  - '4 1/2 cups Semisweet Chocolate Chips (The "Maximum Chocolate" Method)'
 ---
 
 ## Chef's Note
 
-The secret to the "Extraordinary" label is **Texture Integrity** through the **24-Hour Chill Pattern**. Refrigerating the dough overnight is mandatory; it allows the starch to fully hydrate and the sugars to undergo enzymatic breakdown, resulting in a cookie with a deep, butterscotch-like "Bounce." We use **Dark Brown Sugar** instead of light to provide a richer moisture profile and a more pronounced chewy center. This recipe utilizes the "Maximum Chocolate" ratio—4.5 cups ensure that every single bite is dominated by molten chocolate.
+The secret to the "Extraordinary" label is **Textural Balance** through the **24-Hour Chill Method**. Refrigerating the dough overnight is mandatory; it allows the starch to fully hydrate and the sugars to undergo enzymatic breakdown, resulting in a cookie with a deep, butterscotch-like "Bounce." We use **Dark Brown Sugar** instead of light to provide a richer moisture profile and a more pronounced chewy center. This recipe utilizes the "Maximum Chocolate" ratio—4.5 cups ensure that every single bite is dominated by molten chocolate.
 
 ## Directions
 
@@ -37,6 +37,6 @@ The secret to the "Extraordinary" label is **Texture Integrity** through the **2
 
 ## Serving Suggestions
 
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream)
 - Cold Glass of Milk
-- [Double Chocolate Layer Cake](/recipes/double-chocolate-layer-cake) (as part of a dessert buffet)
+- [Double Chocolate Layer Cake](/silton-mise/recipes/double-chocolate-layer-cake) (as part of a dessert buffet)

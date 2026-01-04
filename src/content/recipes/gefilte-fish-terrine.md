@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to a classic Passover staple. We replace the boiled grey "loaves" with a baked salmon-carp terrine. The secret to the Silton Standard is **The Coarse Grind Pattern**: we pulse the fish in a food processor just until ground, rather than a paste; this ensures a meaty "Bounce" in every slice. We use a **Bain-Marie** (water bath) during baking to ensure the heavy cream and eggs set into a silky, souffle-like structure without drying out.
+This is a **Updated Classic** update to a classic Passover staple. We replace the boiled grey "loaves" with a baked salmon-carp terrine. The secret to the Kitchen Standard is **The Coarse Grind Method**: we pulse the fish in a food processor just until ground, rather than a paste; this ensures a meaty Texture in every slice. We use a **Bain-Marie** (water bath) during baking to ensure the heavy cream and eggs set into a silky, souffle-like structure without drying out.
 
 ## Directions
 
@@ -37,10 +37,10 @@ This is a **Modern Heritage** update to a classic Passover staple. We replace th
 5.  **Bain-Marie:** Place the loaf pan inside a 9x13 baking dish. Fill the larger dish with boiling water until it reaches halfway up the loaf pan.
 6.  **Bake:** Bake for 1 hour 15 minutes until the center is firm (160°F).
 7.  **Set:** Remove from the water bath and cool. **Chill for at least 4 hours** (ideally overnight) before inverting onto a platter.
-8.  **Finish:** Toss arugula, radishes, and horseradish with lemon juice. Serve the chilled slices topped with the fresh salad for the mandatory **Acid Finish**.
+8.  **Finish:** Toss arugula, radishes, and horseradish with lemon juice. Serve the chilled slices topped with the fresh salad for the mandatory **Acid Balance**.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Horseradish (Chrein)
 - Matzos

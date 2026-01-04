@@ -1,7 +1,7 @@
 ---
 title: Lemony Broccoli Pasta
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 15 min
 totalTime: 20 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate 20-minute "Speed" hero. The secret to its Success is **The Starch-Bind Emulsion Pattern**: we use the hot, starchy pasta water to emulsify the olive oil and Parmesan into a light, silky glaze that clings to the noodles. We maintain **Texture Integrity** by adding the broccoli to the pasta pot during the final 2 minutes; this ensures it is vibrant green and "Snappy" rather than boiled into mush. The lemon zest provides the mandatory aromatic **High Note**.
+This is the ultimate 20-minute quick hero. The secret to its Success is **The Starch-Bind Emulsion Method**: we use the hot, starchy pasta water to emulsify the olive oil and Parmesan into a light, silky glaze that clings to the noodles. We maintain **Textural Balance** by adding the broccoli to the pasta pot during the final 2 minutes; this ensures it is vibrant green and crispy rather than boiled into mush. The lemon zest provides the mandatory aromatic **High Note**.
 
 ## Directions
 
@@ -34,6 +34,6 @@ This is the ultimate 20-minute "Speed" hero. The secret to its Success is **The 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
 - Roasted Cherry Tomatoes

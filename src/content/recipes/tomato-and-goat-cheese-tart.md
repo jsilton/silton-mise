@@ -7,7 +7,7 @@ cookTime: 140 min
 totalTime: 160 min
 servings: '6'
 ingredients:
-  - '--- The Silton Shortcrust ---'
+  - '--- The Executive Shortcrust ---'
   - '2 cups All-Purpose Flour'
   - '3/4 cup (6 oz) Cold Butter, cubed'
   - '1/2 tsp Baking Powder + 1 tbsp Cold Cider Vinegar'
@@ -16,14 +16,14 @@ ingredients:
   - '1 cup Whole-milk Ricotta'
   - '1/2 tsp Garlic, grated'
   - '4 tsp Fresh Thyme'
-  - '--- The Texture Stacks ---'
+  - '--- Stacks ---'
   - '3 lbs Heirloom Tomatoes, thinly sliced'
   - 'Fresh Green and Purple Basil'
 ---
 
 ## Chef's Note
 
-This is the ultimate holiday **Project**. The secret to its Success is **Texture Integrity** through **The Dehydrated Tomato Pattern**: you must roast the sliced heirloom tomatoes at 425°F for 40 minutes _before_ adding them to the tart. This concentrates their flavor into a "Snap" tender consistency and prevents the bottom crust from turning into a soggy mess. We use **Structural Science** for the crust: the addition of **Cider Vinegar** provides a mandatory **Acid Finish** that inhibits gluten development, resulting in a tart shell that is "Shatteringly Soft."
+This is the ultimate holiday **Project**. The secret to its Success is **Textural Balance** through **The Dehydrated Tomato Method**: you must roast the sliced heirloom tomatoes at 425°F for 40 minutes _before_ adding them to the tart. This concentrates their flavor into a Crunch tender consistency and prevents the bottom crust from turning into a soggy mess. We use **Culinary Technique** for the crust: the addition of **Cider Vinegar** provides a mandatory **Acid Balance** that inhibits gluten development, resulting in a tart shell that is "Shatteringly Soft."
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is the ultimate holiday **Project**. The secret to its Success is **Texture
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

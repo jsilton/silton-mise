@@ -1,5 +1,5 @@
 ---
-title: Roasted Root Vegetables (The Winter Standard)
+title: Roasted Root Vegetables
 role: side
 vibe: comfort
 prepTime: 15 min
@@ -32,5 +32,5 @@ The secret to root vegetables that aren't "mushy" is **Uniformity and Space**. Y
 
 ## Pairs With
 
-- [Miriam's Rosh Hashanah Brisket](/recipes/miriams-melt-in-your-mouth-rosh-hashanah-brisket)
+- [Miriam's Rosh Hashanah Brisket](/silton-mise/recipes/miriams-melt-in-your-mouth-rosh-hashanah-brisket)
 - Roasted Chicken or Pork Tenderloin

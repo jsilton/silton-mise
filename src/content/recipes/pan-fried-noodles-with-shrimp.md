@@ -1,14 +1,14 @@
 ---
 title: Pan Fried Noodles with Shrimp
 role: main
-vibe: project
+vibe: technical
 prepTime: 35 min
 cookTime: 20 min
 totalTime: 55 min
 servings: '4'
 ingredients:
   - '1 lb Large Shrimp, peeled and deveined'
-  - '1/4 tsp Baking Soda (The "Snap" rinse)'
+  - '1/4 tsp Baking Soda (the crunch rinse)'
   - '8 oz Fresh Hong Kong-style Egg Noodles'
   - '--- The Golden Sauce ---'
   - '1 1/2 cups Chicken Stock'
@@ -27,11 +27,11 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Project" dish that replicates the texture of a high-end Cantonese seafood house. It features the **Two-Stage Noodle**: first boiled, then pan-fried into a crispy "bird's nest" cake. We apply the **Shrimp Snap** science (alkaline rinse) to ensure the protein is bouncy, and finish with a clear, golden gravy that softens the center of the noodles while leaving the edges crunchy.
+This is a technical dish dish that replicates the texture of a high-end Cantonese seafood house. It features the **Two-Stage Noodle**: first boiled, then pan-fried into a crispy "bird's nest" cake. We apply the **Shrimp Snap** science (alkaline rinse) to ensure the protein is bouncy, and finish with a clear, golden gravy that softens the center of the noodles while leaving the edges crunchy.
 
 ## Directions
 
-1.  **The Snap:** Toss shrimp with baking soda. Let sit for 5 minutes, then **rinse thoroughly** and pat dry.
+1.  **The Crunch:** Toss shrimp with baking soda. Let sit for 5 minutes, then **rinse thoroughly** and pat dry.
 2.  **The Noodles:** Boil noodles for 1 minute (al dente). Drain and rinse with cold water. Shake dry.
 3.  **The Cake:** Heat 2 tbsp oil in a large non-stick pan. Spread noodles in an even layer. Fry undisturbed for 5 minutes until the bottom is a golden-brown disc. Flip (in sections if needed) and crisp the other side. Transfer to a platter.
 4.  **The Veg:** Blanch the greens in boiling water for 30 seconds. Arrange around the noodles.
@@ -41,6 +41,6 @@ This is a "Project" dish that replicates the texture of a high-end Cantonese sea
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Hot Chili Oil
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

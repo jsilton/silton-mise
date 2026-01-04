@@ -1,14 +1,14 @@
 ---
-title: Shakshuka (The Middle Eastern Standard)
+title: Shakshuka
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
 servings: '4'
 ingredients:
   - '4 large Eggs'
-  - '1/2 cup Hummus (The Silton base)'
+  - '1/2 cup Hummus (The Executive base)'
   - '--- The Jammy Base ---'
   - '2 tbsp Olive Oil'
   - '1 large Red Bell Pepper, sliced into thin strips'
@@ -40,6 +40,6 @@ Shakshuka is about the **Jammy Base**. Many recipes are watery; the secret is to
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Warm Whole Wheat Pita
-- [Greek Lemon Chicken Soup](/recipes/avgolemono-soup)
+- [Greek Lemon Chicken Soup](/silton-mise/recipes/avgolemono-soup)

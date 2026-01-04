@@ -1,7 +1,7 @@
 ---
 title: Keto Egg Muffins
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 20 min
 totalTime: 25 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate high-speed "Fuel" for a low-carb week. The secret to avoiding the rubbery "sponginess" of many egg muffins is **Texture Integrity** through **The Charred Meat Base Pattern**: we place the raw chorizo at the bottom of the tin so it renders its spicy fat directly into the egg, creating a crispy "Snap" finish on the bottom. We use **The Pesto Emulsion**: whisking the oily pesto directly into the eggs ensures every bite has a savory "High Note" that cuts through the richness of the yolk.
+These are the ultimate high-speed nutritious for a low-carb week. The secret to avoiding the rubbery "sponginess" of many egg muffins is **Textural Balance** through **The Charred Meat Base Method**: we place the raw chorizo at the bottom of the tin so it renders its spicy fat directly into the egg, creating a crispy Crunch finish on the bottom. We use **The Pesto Emulsion**: whisking the oily pesto directly into the eggs ensures every bite has a savory "High Note" that cuts through the richness of the yolk.
 
 ## Directions
 
@@ -32,6 +32,6 @@ These are the ultimate high-speed "Fuel" for a low-carb week. The secret to avoi
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Sliced Avocado and Hot Sauce
-- [Breakfast Protein Biscuits](/recipes/breakfast-protein-biscuits) (if not strictly Keto)
+- [Breakfast Protein Biscuits](/silton-mise/recipes/breakfast-protein-biscuits) (if not strictly Keto)

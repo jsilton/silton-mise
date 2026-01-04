@@ -1,7 +1,7 @@
 ---
 title: Middle Eastern-Style Grilled Chicken Kabobs
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 35 min
 cookTime: 15 min
 totalTime: 50 min
@@ -18,14 +18,14 @@ ingredients:
   - '--- The Spice Bloom ---'
   - '2 tsp Paprika'
   - '1/2 tsp Cumin'
-  - '1/8 tsp Cinnamon (The "Deep Note")'
+  - '1/8 tsp Cinnamon (The complex flavor)'
   - '1 tsp Red Pepper Flakes'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" kabobs is **Structural Science** through **The Yogurt Tenderizer Pattern**. The lactic acid in full-fat Greek yogurt gently breaks down the chicken's muscle fibers, while the lemon juice provides a secondary **Enzyme Tenderizer**. This results in a "Bounce" that is unattainable with oil-based marinades. We use a pinch of **Cinnamon** as the "Deep Note"—it bridges the gap between the smoky paprika and the bright citrus. You must marinate for at least 8 hours to achieve the Gold Standard texture.
+The secret to restaurant-quality kabobs is **Culinary Technique** through **The Yogurt Tenderizer Method**. The lactic acid in full-fat Greek yogurt gently breaks down the chicken's muscle fibers, while the lemon juice provides a secondary **Enzyme Tenderizer**. This results in a Texture that is unattainable with oil-based marinades. We use a pinch of **Cinnamon** as the complex flavor—it bridges the gap between the smoky paprika and the bright citrus. You must marinate for at least 8 hours to achieve the Kitchen Standard texture.
 
 ## Directions
 
@@ -33,13 +33,13 @@ The secret to "Restaurant Quality" kabobs is **Structural Science** through **Th
 2.  **The Soak:** Toss the chicken pieces in the yogurt mixture until heavily coated. **Refrigerate for at least 8 hours** (ideally overnight).
 3.  **Skewer:** Thread the chicken onto metal skewers, alternating with red onion chunks. Do not crowd the skewers—ensure there is space for the heat to circulate.
 4.  **The Sear:** Preheat a grill to medium-high. Lightly oil the grates.
-5.  **Cook:** Grill kabobs for 12-15 minutes, turning occasionally. The yogurt will create a charred, "Snappy" crust. The internal temp should reach 165°F.
+5.  **Cook:** Grill kabobs for 12-15 minutes, turning occasionally. The yogurt will create a charred, crispy crust. The internal temp should reach 165°F.
 6.  **Rest:** Transfer to a platter and **rest for 5 minutes** before serving.
 7.  **Serve:** Garnish with fresh parsley and extra lemon wedges.
 
 ## Serving Suggestions
 
-- [Israeli-Style Hummus](/recipes/israeli-style-hummus)
-- [Tzatziki Sauce](/recipes/tzatziki-sauce)
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Israeli-Style Hummus](/silton-mise/recipes/israeli-style-hummus)
+- [Tzatziki Sauce](/silton-mise/recipes/tzatziki-sauce)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

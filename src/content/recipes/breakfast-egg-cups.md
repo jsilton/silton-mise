@@ -1,7 +1,7 @@
 ---
 title: Breakfast Egg Cups
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
@@ -11,7 +11,7 @@ ingredients:
   - '1/4 cup Whole Milk'
   - '1/8 tsp Sea Salt'
   - '1/8 tsp Black Pepper'
-  - '--- The Texture ---'
+  - '--- the texture ---'
   - '1 medium Red Bell Pepper, finely diced'
   - '1 cup Fresh Spinach, chiffonade'
   - '1 oz Sharp Cheddar Cheese, shredded'
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate "Fuel" prep for a busy week. The secret to avoiding the rubbery texture of many egg muffins is **Texture Integrity**. We use a **Chiffonade** (thin ribbons) for the spinach, which ensures it wilts perfectly into the egg without creating large, wet clumps. Using a fresh, crisp bell pepper provides a necessary "Pop" that offsets the richness of the yolk and cheddar.
+These are the ultimate nutritious prep for a busy week. The secret to avoiding the rubbery texture of many egg muffins is **Textural Balance**. We use a **Chiffonade** (thin ribbons) for the spinach, which ensures it wilts perfectly into the egg without creating large, wet clumps. Using a fresh, crisp bell pepper provides a necessary "Pop" that offsets the richness of the yolk and cheddar.
 
 ## Directions
 
@@ -35,5 +35,5 @@ These are the ultimate "Fuel" prep for a busy week. The secret to avoiding the r
 ## Serving Suggestions
 
 - Sliced Avocado and Hot Sauce
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Fruit

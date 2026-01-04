@@ -1,7 +1,7 @@
 ---
 title: Easy Wonton Soup
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate 25-minute "Speed" meal. The secret to making store-bought broth taste like a restaurant version is **The Aromatic Smasher Pattern**: instead of mincing ginger and garlic, we smash them with the side of a knife. This releases the essential oils into the broth during the simmer without adding gritty textures. We maintain **Texture Integrity** by adding the wontons and bok choy together at the end; this ensures the greens stay vibrant and the wonton skins keep their "Snap."
+This is the ultimate 25-minute quick meal. The secret to making store-bought broth taste like a restaurant version is **The Aromatic Smasher Method**: instead of mincing ginger and garlic, we smash them with the side of a knife. This releases the essential oils into the broth during the simmer without adding gritty textures. We maintain **Textural Balance** by adding the wontons and bok choy together at the end; this ensures the greens stay vibrant and the wonton skins keep their "Snap."
 
 ## Directions
 
@@ -34,6 +34,6 @@ This is the ultimate 25-minute "Speed" meal. The secret to making store-bought b
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Sausage Fried Rice](/recipes/chinese-sausage-fried-rice)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Sausage Fried Rice](/silton-mise/recipes/chinese-sausage-fried-rice)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)

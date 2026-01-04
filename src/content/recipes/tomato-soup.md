@@ -1,5 +1,5 @@
 ---
-title: Tomato Soup (The Silton Standard)
+title: Tomato Soup
 role: main
 vibe: comfort
 prepTime: 10 min
@@ -14,15 +14,15 @@ ingredients:
   - '1 1/4 cups Chicken Broth'
   - '1/4 cup Granulated Sugar'
   - '2 tbsp Honey'
-  - '3/4 cup Half-and-Half (The "Bounce" Fat)'
-  - '1 tsp Celery Salt (The High Note)'
+  - '3/4 cup Half-and-Half (for richness)'
+  - '1 tsp Celery Salt (The Finishing Touch)'
   - '1/2 cup All-Purpose Flour'
   - 'Salt and Black Pepper'
 ---
 
 ## Chef's Note
 
-This is the definitive restorative soup. The secret to its elite "Velvet" texture is **Structural Science** through **The Butter-Roux Pattern**. Unlike standard soups, we use a massive half-pound of butter to sauté the onions; this provides a fat-moisture barrier that results in a soup with an incredible "Bounce" and sheen. We maintain **Texture Integrity** through **The 30-Minute Low-Simmer**: we cook the tomatoes until the cellulose breaks down completely, then finish with **Half-and-Half and Honey** for a mandatory **Acid-Sweet Finish** that bridge the tart tomatoes.
+This is the definitive restorative soup. The secret to its elite "Velvet" texture is **Culinary Technique** through **The Butter-Roux Method**. Unlike standard soups, we use a massive half-pound of butter to sauté the onions; this provides a fat-moisture barrier that results in a soup with an incredible Texture and sheen. We maintain **Textural Balance** through **The 30-Minute Low-Simmer**: we cook the tomatoes until the cellulose breaks down completely, then finish with **Half-and-Half and Honey** for a mandatory **Acid-Sweet Finish** that bridge the tart tomatoes.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is the definitive restorative soup. The secret to its elite "Velvet" textur
 
 ## Serving Suggestions
 
-- [Sourdough Grilled Cheese](/recipes/grilled-cheese-and-tomato-soup) (Mandatory)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Sourdough Grilled Cheese](/silton-mise/recipes/grilled-cheese-and-tomato-soup) (Mandatory)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

@@ -1,7 +1,7 @@
 ---
 title: Authentic Tzatziki Sauce
 role: condiment
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 0 min
 totalTime: 15 min
@@ -29,6 +29,6 @@ The secret to thick, creamy Tzatziki is **Squeezing**. Cucumbers are mostly wate
 
 ## Pairs With
 
-- [Greek-Style Lamb Burgers](/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce)
-- [Mediterranean Chicken Bowls](/recipes/mediterranean-chicken-bowls)
+- [Greek-Style Lamb Burgers](/silton-mise/recipes/greek-style-lamb-burgers-with-yogurt-cucumber-sauce)
+- [Mediterranean Chicken Bowls](/silton-mise/recipes/mediterranean-chicken-bowls)
 - Warm Pita Bread

@@ -1,7 +1,7 @@
 ---
-title: Panang Curry with Chicken (The Nutty Standard)
+title: Panang Curry with Chicken
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -16,7 +16,7 @@ ingredients:
   - '1 Red Bell Pepper, sliced'
   - '--- The Garnish ---'
   - 'Handful of Thai Basil'
-  - 'Crushed Toasted Peanuts or Sunflower Seeds (Silton Nut-Free option)'
+  - 'Crushed Toasted Peanuts or Sunflower Seeds (Nut-Free option)'
 ---
 
 ## Chef's Note
@@ -31,9 +31,9 @@ Panang is the richest and sweetest of the Thai curries, defined by its thick, nu
 4.  **Poach:** Add the chicken and bell peppers. Simmer gently for 10-12 minutes until the chicken is cooked through and the sauce has thickened.
 5.  **Infuse:** Stir in the torn kaffir lime leaves.
 6.  **Finish:** Turn off the heat. Stir in the Thai basil.
-7.  **Serve:** Serve over [Jasmine Rice](/recipes/near-east-rice-pilaf-hack). Top with crushed seeds for texture.
+7.  **Serve:** Serve over [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf). Top with crushed seeds for texture.
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

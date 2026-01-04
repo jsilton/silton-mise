@@ -1,7 +1,7 @@
 ---
 title: Asian Glazed Turkey Meatballs
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-Ground turkey breast is notoriously dry. We fix this by applying the **Silton Panade Pattern**: soaking the panko in milk before mixing it into the meat creates a moisture reservoir that prevents the meatballs from turning into hockey pucks. We bake them at high heat to get a "sear" without frying, then toss them in a glossy, acid-balanced hoisin glaze.
+Ground turkey breast is notoriously dry. We fix this by applying the **Executive Panade Method**: soaking the panko in milk before mixing it into the meat creates a moisture reservoir that prevents the meatballs from turning into hockey pucks. We bake them at high heat to get a "sear" without frying, then toss them in a glossy, acid-balanced hoisin glaze.
 
 ## Directions
 
@@ -41,6 +41,6 @@ Ground turkey breast is notoriously dry. We fix this by applying the **Silton Pa
 
 ## Serving Suggestions
 
-- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
 - Steamed Bok Choy

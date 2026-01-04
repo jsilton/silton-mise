@@ -1,7 +1,7 @@
 ---
 title: The Best Chocolate Chip Cookies (Science-Backed)
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 10 min
 totalTime: 24 hours
@@ -16,7 +16,7 @@ ingredients:
   - '1 tsp Baking Soda'
   - '1/2 tsp Kosher Salt'
   - '2 cups Semisweet Chocolate Chips (60% cacao)'
-  - '1 cup Toasted Sunflower Seeds (Silton Nut-Free option)'
+  - '1 cup Toasted Sunflower Seeds (Nut-Free option)'
 ---
 
 ## Chef's Note
@@ -34,5 +34,5 @@ To transform these from "Home" to "Restaurant Quality," we apply two science-bac
 
 ## Serving Suggestions
 
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)
 - Vanilla Bean Ice Cream

@@ -1,7 +1,7 @@
 ---
 title: Cottage Cheese Banana Oatmeal Protein Pancakes
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-protein "Fuel" breakfast that relies on **The Blender Pattern**. By pulverizing the cottage cheese and oats together, we create a batter that is rich in protein but tastes exactly like a traditional flour-based pancake. The secret to the **Texture Integrity** is the **Low and Slow Cook**: because of the sugar in the banana and the proteins in the cheese, these pancakes will brown quickly. Cook them over medium-low heat to ensure the middle sets into a "Bounce" before the outside burns.
+This is a high-protein nutritious breakfast that relies on **The Blender Method**. By pulverizing the cottage cheese and oats together, we create a batter that is rich in protein but tastes exactly like a traditional flour-based pancake. The secret to the **Textural Balance** is the **Low and Slow Cook**: because of the sugar in the banana and the proteins in the cheese, these pancakes will brown quickly. Cook them over medium-low heat to ensure the middle sets into a Texture before the outside burns.
 
 ## Directions
 
@@ -34,6 +34,6 @@ This is a high-protein "Fuel" breakfast that relies on **The Blender Pattern**. 
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Berries
-- [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
+- [Blueberry Oat Breakfast Bars](/silton-mise/recipes/blueberry-oat-breakfast-bars)

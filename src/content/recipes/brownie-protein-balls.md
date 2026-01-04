@@ -1,7 +1,7 @@
 ---
 title: Brownie Protein Balls
 role: base
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 10 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate **Modularity** component. We treat these as a "Base" because they can be prepped in bulk and added to lunchboxes, pre-workout stacks, or crumbled over yogurt. The secret to the Silton Standard is the **Hydration Balance**: protein powder absorbs liquid at different rates, so we add the milk one teaspoon at a time until the dough has the "Bounce" of a fresh brownie. Chilling is mandatory to set the healthy fats from the almond butter, ensuring they hold their shape.
+These are the ultimate **Modularity** component. We treat these as a "Base" because they can be prepped in bulk and added to lunchboxes, pre-workout stacks, or crumbled over yogurt. The secret to the Kitchen Standard is the **Hydration Balance**: protein powder absorbs liquid at different rates, so we add the milk one teaspoon at a time until the dough has the Texture of a fresh brownie. Chilling is mandatory to set the healthy fats from the almond butter, ensuring they hold their shape.
 
 ## Directions
 
@@ -33,6 +33,6 @@ These are the ultimate **Modularity** component. We treat these as a "Base" beca
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Apple Slices
-- [Chocolate Chia Pudding](/recipes/chocolate-chia-pudding)
+- [Chocolate Chia Pudding](/silton-mise/recipes/chocolate-chia-pudding)

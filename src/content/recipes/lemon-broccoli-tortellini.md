@@ -1,7 +1,7 @@
 ---
 title: Lemon Broccoli Tortellini
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
@@ -15,7 +15,7 @@ ingredients:
   - '1 large Shallot, minced'
   - '4 cloves Garlic, minced'
   - '3 cups Fresh Baby Spinach'
-  - '--- The High Note Finish ---'
+  - '--- The Finishing Touch Finish ---'
   - '1 large Lemon, zested and juiced'
   - '1/2 cup Freshly Grated Parmesan'
   - '1/4 tsp Red Pepper Flakes'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute "Speed" hero that avoids the "mushy vegetable" trap of most one-pot pastas. We use **Texture Integrity** through **The Staged Roast Pattern**: we roast the broccoli at high heat (400°F) until slightly charred _before_ combining it with the pasta. This provides a smoky "Snap" that contrasts the soft tortellini. The mandatory **Acid Finish** comes from using both the zest and juice of a whole lemon, which brightens the rich, butter-wilted spinach.
+This is a 25-minute quick hero that avoids the "mushy vegetable" trap of most one-pot pastas. We use **Textural Balance** through **The Staged Roast Method**: we roast the broccoli at high heat (400°F) until slightly charred _before_ combining it with the pasta. This provides a smoky Crunch that contrasts the soft tortellini. The mandatory **Acid Balance** comes from using both the zest and juice of a whole lemon, which brightens the rich, butter-wilted spinach.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is a 25-minute "Speed" hero that avoids the "mushy vegetable" trap of most 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
 - Roasted Cherry Tomatoes

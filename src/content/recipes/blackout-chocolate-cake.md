@@ -1,7 +1,7 @@
 ---
-title: Blackout Chocolate Cake (The Maillard Bloom Standard)
+title: Blackout Chocolate Cake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 35 min
 totalTime: 3 hours
@@ -37,4 +37,4 @@ This is a masterpiece of **Flavor Layering**. To get the "Blackout" depth, we us
 ## Serving Suggestions
 
 - Vanilla Bean Ice Cream
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)

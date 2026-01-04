@@ -1,7 +1,7 @@
 ---
-title: Chicken Sausage Pasta (The One-Pan Standard)
+title: Chicken Sausage Pasta
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -37,5 +37,5 @@ The secret to this weeknight hero is **Flavor Layering**. We start by browning t
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Warm Garlic Bread

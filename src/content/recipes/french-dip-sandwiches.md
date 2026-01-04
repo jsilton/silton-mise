@@ -38,5 +38,5 @@ The French Dip is all about the **Jus** (the juice). Most home versions are wate
 ## Serving Suggestions
 
 - Sweet Potato Fries
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)
 - Horseradish Mayo

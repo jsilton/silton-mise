@@ -1,7 +1,7 @@
 ---
 title: Apple Banana and Carrot Muffins (The Fuel Muffin)
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -35,5 +35,5 @@ The common flaw in "Healthy" muffins is a gummy, dense texture. We solve this by
 
 ## Serving Suggestions
 
-- [Old-Fashioned Fresh Peach Ice Cream](/recipes/old-fashioned-fresh-peach-ice-cream) (for a dessert twist)
-- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- [Old-Fashioned Fresh Peach Ice Cream](/silton-mise/recipes/old-fashioned-fresh-peach-ice-cream) (for a dessert twist)
+- [Mango-Rita Green Smoothie](/silton-mise/recipes/mango-rita-green-smoothie)

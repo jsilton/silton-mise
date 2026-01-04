@@ -1,5 +1,5 @@
 ---
-title: Real Banana Pudding (The Scratch Standard)
+title: Real Banana Pudding
 role: dessert
 vibe: comfort
 prepTime: 30 min
@@ -37,5 +37,5 @@ We have moved away from the "Instant" box. Real banana pudding relies on a **Coo
 
 ## Serving Suggestions
 
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)
 - Strong Coffee

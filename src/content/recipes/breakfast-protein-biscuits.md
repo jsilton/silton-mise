@@ -1,7 +1,7 @@
 ---
 title: Breakfast Protein Biscuits
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-These biscuits are a masterclass in **Structural Science**. By using **Greek Yogurt** as the primary hydrator instead of heavy cream or butter, we achieve a high-protein "Fuel" profile while maintaining a tender, moist crumb. The secret is the **Folding Technique**: we fold the spinach and ham in at the very end to ensure **Texture Integrity**—you want distinct pops of salt and green in every bite, not a uniform gray mass.
+These biscuits are a masterclass in **Culinary Technique**. By using **Greek Yogurt** as the primary hydrator instead of heavy cream or butter, we achieve a high-protein nutritious profile while maintaining a tender, moist crumb. The secret is the **Folding Technique**: we fold the spinach and ham in at the very end to ensure **Textural Balance**—you want distinct pops of salt and green in every bite, not a uniform gray mass.
 
 ## Directions
 
@@ -33,11 +33,11 @@ These biscuits are a masterclass in **Structural Science**. By using **Greek Yog
 3.  **Combine:** Gradually add the dry ingredients to the wet. Stir until a thick, sticky dough forms.
 4.  **Fold:** Fold in the chopped spinach, chives, ham, and 1 cup of the cheese. Use your hands if necessary to ensure even distribution without overworking the dough.
 5.  **Shape:** Lightly flour your hands. Scoop about 1/3 cup of dough for each biscuit. Form into 1-inch thick disks and arrange on the baking sheet.
-6.  **The Temperature Pattern:** Sprinkle the remaining 1/2 cup of cheese on top. Bake at 400°F for 5 minutes (to kickstart the rise), then **lower the heat to 350°F** for the remaining 20 minutes.
+6.  **The Temperature Method:** Sprinkle the remaining 1/2 cup of cheese on top. Bake at 400°F for 5 minutes (to kickstart the rise), then **lower the heat to 350°F** for the remaining 20 minutes.
 7.  **Finish:** They are done when the bottoms are golden brown and the cheese on top is bubbly and crisp.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Extra Greek Yogurt for dipping
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)

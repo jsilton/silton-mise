@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish uses the "Marsala Method" but pivots to a bright, Mediterranean profile. The secret to the deep color and umami is **Blooming the Paste**: we sauté the tomato paste with the garlic until it turns from bright red to a deep brick color—this removes the raw metallic taste and concentrates the sweetness. We maintain **Texture Integrity** by folding the spinach in only during the final 30 seconds, so it stays vibrant green.
+This dish uses the "Marsala Method" but pivots to a bright, Mediterranean profile. The secret to the deep color and umami is **Blooming the Paste**: we sauté the tomato paste with the garlic until it turns from bright red to a deep brick color—this removes the raw metallic taste and concentrates the sweetness. We maintain **Textural Balance** by folding the spinach in only during the final 30 seconds, so it stays vibrant green.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This dish uses the "Marsala Method" but pivots to a bright, Mediterranean profil
 
 ## Serving Suggestions
 
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
-- [Steamed Broccoli with Garlic](/recipes/steamed-broccoli)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
+- [Steamed Broccoli with Garlic](/silton-mise/recipes/steamed-broccoli)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

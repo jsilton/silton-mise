@@ -1,7 +1,7 @@
 ---
 title: Freezer Date Cookies
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 12 min
 totalTime: 30 min
@@ -15,7 +15,7 @@ ingredients:
   - '--- The Ancient Grain Base ---'
   - '1/3 cup Buckwheat Flour'
   - '2/3 cup White Whole Wheat Flour'
-  - '1 cup Quick Oats'
+  - '1 cup quick Oats'
   - '--- The Spices ---'
   - '1/2 tsp Baking Soda'
   - '1/2 tsp Ground Cinnamon'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-These are high-speed "Fuel" cookies designed for long-term **Modularity**. The secret to their incredible "Bounce" is **The Food Processor Pattern**: we process the Medjool dates directly with the melted butter to create a smooth, caramel-like paste that acts as the primary sweetener. We use **Buckwheat Flour** to provide a nutty, earthy depth that contrasts with the sweetness of the dates. These are explicitly designed to be kept in the freezer and eaten cold for a "Snappy" energy boost.
+These are high-speed nutritious cookies designed for long-term **Modularity**. The secret to their incredible Texture is **The Food Processor Method**: we process the Medjool dates directly with the melted butter to create a smooth, caramel-like paste that acts as the primary sweetener. We use **Buckwheat Flour** to provide a nutty, earthy depth that contrasts with the sweetness of the dates. These are explicitly designed to be kept in the freezer and eaten cold for a crispy energy boost.
 
 ## Directions
 
@@ -34,10 +34,10 @@ These are high-speed "Fuel" cookies designed for long-term **Modularity**. The s
 4.  **Combine:** Pour the date mixture into the dry ingredients. Mix with a spatula until a thick, sticky dough forms.
 5.  **Shape:** Preheat oven to 350°F. Roll the dough into small balls (about 1 tbsp each). Place on a greased cookie sheet and **press down firmly** with your palm to create a 1/2-inch thick disk.
 6.  **Bake:** Bake for 12-15 minutes until the edges are lightly browned.
-7.  **The Freeze:** Let cool completely. Transfer to a freezer bag. These are at their Gold Standard when eaten straight from the freezer.
+7.  **The Freeze:** Let cool completely. Transfer to a freezer bag. These are at their Kitchen Standard when eaten straight from the freezer.
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Apple Slices
-- [Chocolate Chia Pudding](/recipes/chocolate-chia-pudding)
+- [Chocolate Chia Pudding](/silton-mise/recipes/chocolate-chia-pudding)

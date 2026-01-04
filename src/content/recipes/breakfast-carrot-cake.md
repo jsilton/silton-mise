@@ -1,7 +1,7 @@
 ---
 title: Breakfast Carrot Cake
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to the classic carrot cake, re-engineered as a high-fiber "Fuel" breakfast. By using **Whole Wheat Flour** and **Greek Yogurt**, we achieve a dense, moist crumb that provides sustained energy. The secret to the texture is finely grating the carrots—they should almost melt into the batter during baking, providing moisture without the "mushy veggie" feel. This is the "Keeper" version for busy mornings.
+This is a **Updated Classic** update to the classic carrot cake, re-engineered as a high-fiber nutritious breakfast. By using **Whole Wheat Flour** and **Greek Yogurt**, we achieve a dense, moist crumb that provides sustained energy. The secret to the texture is finely grating the carrots—they should almost melt into the batter during baking, providing moisture without the "mushy veggie" feel. This is the "Keeper" version for busy mornings.
 
 ## Directions
 
@@ -38,6 +38,6 @@ This is a **Modern Heritage** update to the classic carrot cake, re-engineered a
 
 ## Serving Suggestions
 
-- A dollop of [Favorite Cream Cheese Frosting](/recipes/favorite-cream-cheese-frosting)
+- A dollop of [Favorite Cream Cheese Frosting](/silton-mise/recipes/favorite-cream-cheese-frosting)
 - Fresh Berries
 - Cold Brew Coffee

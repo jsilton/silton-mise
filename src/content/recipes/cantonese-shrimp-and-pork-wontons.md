@@ -1,7 +1,7 @@
 ---
 title: Cantonese Shrimp and Pork Wontons
 role: main
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 10 min
 totalTime: 55 min
@@ -20,25 +20,25 @@ ingredients:
   - '1/2 tsp White Pepper'
   - '1 tsp Kosher Salt'
   - '1 Egg, beaten'
-  - '1 package Wonton Wrappers (Or use [Homemade Wrappers](/recipes/fresh-wonton-wrappers))'
+  - '1 package Wonton Wrappers (Or use [Homemade Wrappers](/silton-mise/recipes/fresh-wonton-wrappers))'
 ---
 
 ## Chef's Note
 
-This is the "Gold Standard" Cantonese filling. The secret to the "snap" is the **vigorous mixing**: by stirring the meat in one direction until it becomes a sticky paste, you develop the protein structure found in professional dim sum.
+This is the "Kitchen Standard" Cantonese filling. The secret to the "snap" is the **vigorous mixing**: by stirring the meat in one direction until it becomes a sticky paste, you develop the protein structure found in professional dim sum.
 
-**The Silton Twist:** If you dislike the texture of water chestnuts, you can substitute an equal amount of **finely minced celery or Fuji apple**. It provides the same crunch without the chalkiness.
+**Chef Kriger Twist:** If you dislike the texture of water chestnuts, you can substitute an equal amount of **finely minced celery or Fuji apple**. It provides the same crunch without the chalkiness.
 
 ## Directions
 
 1.  **The Paste:** In a large bowl, combine the pork, the **finely chopped** half of the shrimp, ginger, garlic, soy sauce, Shaoxing wine, sesame oil, sugar, white pepper, salt, and egg.
-2.  **The Bounce:** Stir the mixture **vigorously in one direction** for 3-5 minutes until it becomes pale, sticky, and forms a cohesive paste. Do not skip this!
+2.  **The Texture:** Stir the mixture **vigorously in one direction** for 3-5 minutes until it becomes pale, sticky, and forms a cohesive paste. Do not skip this!
 3.  **Add Texture:** Fold in the water chestnuts (or celery), green onions, and the remaining **shrimp chunks**.
 4.  **The Test:** Fry a small "tab" of the filling in a skillet. Taste for seasoning and adjust salt if needed.
 5.  **Assemble:** Place 1 tsp of filling in a wrapper. Moisten edges, fold into a triangle, and bring the two side corners together to form a "nurse's cap." Press out all air.
 
 ## Serving Suggestions
 
-- Serve in [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
-- Top with [Bernard's Style Roast Pork](/recipes/bernards-style-char-siu)
-- Side of [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
+- Serve in [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)
+- Top with [Bernard's Style Roast Pork](/silton-mise/recipes/bernards-style-char-siu)
+- Side of [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)

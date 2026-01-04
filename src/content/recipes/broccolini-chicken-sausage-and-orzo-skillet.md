@@ -1,7 +1,7 @@
 ---
 title: Broccolini, Chicken Sausage, and Orzo Skillet
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed, one-pot wonder. To solve the "Mushy Veggie" problem, we use **Texture Integrity**: instead of simmering the broccolini in the broth with the pasta, we sauté it hard first to get charred edges and then set it aside, adding it back only at the very end. This keeps the veg snappy and the orzo creamy.
+This is a high-speed, one-pot wonder. To solve the "Mushy Veggie" problem, we use **Textural Balance**: instead of simmering the broccolini in the broth with the pasta, we sauté it hard first to get charred edges and then set it aside, adding it back only at the very end. This keeps the veg snappy and the orzo creamy.
 
 ## Directions
 
@@ -34,5 +34,5 @@ This is a high-speed, one-pot wonder. To solve the "Mushy Veggie" problem, we us
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Extra Parmesan and Chili Flakes

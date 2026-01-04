@@ -1,7 +1,7 @@
 ---
-title: Silton House Granola
+title: Executive Granola
 role: base
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 25 min
 totalTime: 35 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for all Silton breakfasts. The secret to "Gold Standard" clusters is **Structural Science** through **The Syrup Bind Pattern**: we whisk the oil and maple syrup into a stable emulsion before pouring over the oats—this ensures every grain is coated in a thin "guard" that caramelizes in the oven. We maintain **Texture Integrity** by using a **Three-Stage Bake**: we roast at 350°F and stir twice to ensure even browning, but we only add the dried fruit _after_ the granola has cooled to prevent it from turning into rock-hard bullets.
+This is the baseline **Modularity** component for all Executive breakfasts. The secret to "Kitchen Standard" clusters is **Culinary Technique** through **The Syrup Bind Method**: we whisk the oil and maple syrup into a stable emulsion before pouring over the oats—this ensures every grain is coated in a thin "guard" that caramelizes in the oven. We maintain **Textural Balance** by using a **Three-Stage Bake**: we roast at 350°F and stir twice to ensure even browning, but we only add the dried fruit _after_ the granola has cooled to prevent it from turning into rock-hard bullets.
 
 ## Directions
 
@@ -31,11 +31,11 @@ This is the baseline **Modularity** component for all Silton breakfasts. The sec
 3.  **Combine:** Pour the liquid emulsion over the dry mix. Toss with a spatula until the oats look dark and saturated.
 4.  **The Roast:** Spread the mixture in a thin, even layer on a large rimmed baking sheet.
 5.  **Stir:** Bake for 20-25 minutes. **Stir the granola every 8 minutes** to ensure the edges don't burn and the center gets crispy.
-6.  **The Set:** Remove from the oven when deep golden brown. The granola will still feel soft; it will "Snap" only after cooling.
+6.  **The Finish:** Remove from the oven when deep golden brown. The granola will still feel soft; it will Crunch only after cooling.
 7.  **Finish:** Once stone-cold, stir in the dried fruit. Store in an airtight glass jar for up to 3 weeks.
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
-- [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
-- [Easy Chia Pudding](/recipes/easy-chia-pudding)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
+- [Chocolate Blended Oats](/silton-mise/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
+- [Easy Chia Pudding](/silton-mise/recipes/easy-chia-pudding)

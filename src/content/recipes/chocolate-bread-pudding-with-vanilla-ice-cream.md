@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** take on the ultimate comfort dessert. By using **Brioche** instead of standard white bread, we ensure a rich, buttery "Bounce" that absorbs the custard without falling apart. The secret to the Silton Standard here is the **Double Chocolate Pattern**: we use both bittersweet and white chocolate to create pockets of intense dark cocoa and creamy sweetness. Let the bread soak for the full 15 minutes—this is mandatory for **Texture Integrity**.
+This is a **Updated Classic** take on the ultimate comfort dessert. By using **Brioche** instead of standard white bread, we ensure a rich, buttery Texture that absorbs the custard without falling apart. The secret to the Kitchen Standard here is the **Double Chocolate Method**: we use both bittersweet and white chocolate to create pockets of intense dark cocoa and creamy sweetness. Let the bread soak for the full 15 minutes—this is mandatory for **Textural Balance**.
 
 ## Directions
 
@@ -37,5 +37,5 @@ This is a **Modern Heritage** take on the ultimate comfort dessert. By using **B
 ## Serving Suggestions
 
 - Fresh Raspberries or Strawberries
-- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+- [Old-Fashioned Strawberry Ice Cream](/silton-mise/recipes/old-fashioned-strawberry-ice-cream)
 - A drizzle of Salted Caramel

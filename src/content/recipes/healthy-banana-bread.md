@@ -1,7 +1,7 @@
 ---
-title: Healthy Banana Bread (The Silton Standard)
+title: Healthy Banana Bread
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 55 min
 totalTime: 65 min
@@ -9,7 +9,7 @@ servings: '12 slices'
 ingredients:
   - '1 3/4 cups White Whole Wheat Flour'
   - '1 cup (225g) Ripe Bananas, mashed'
-  - '1/3 cup Extra-Virgin Olive Oil (The "Fruity Depth" Hack)'
+  - '1/3 cup Extra-Virgin Olive Oil for depth'
   - '1/2 cup Honey or Maple Syrup'
   - '2 large Eggs'
   - '1/4 cup Milk of choice'
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for high-performance **Fuel** breakfasts. We use **Modern Heritage** techniques to replace heavy butter with **Extra-Virgin Olive Oil**; the oil's grassy notes amplify the sweetness of the bananas while ensuring a moist, open crumb. The secret to the Silton Standard is **The Blender Pattern**: we blend the wet ingredients until perfectly emulsified before folding in the flour—this prevents over-mixing the gluten and guarantees a tender "Bounce" in every slice.
+This is the baseline for high-performance **Fuel** breakfasts. We use **Updated Classic** techniques to replace heavy butter with **Extra-Virgin Olive Oil**; the oil's grassy notes amplify the sweetness of the bananas while ensuring a moist, open crumb. The secret to the Kitchen Standard is **The Blender Method**: we blend the wet ingredients until perfectly emulsified before folding in the flour—this prevents over-mixing the gluten and guarantees a tender Texture in every slice.
 
 ## Directions
 
@@ -36,6 +36,6 @@ This is the baseline for high-performance **Fuel** breakfasts. We use **Modern H
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Sliced Strawberries
 - Salted Butter or Peanut Butter

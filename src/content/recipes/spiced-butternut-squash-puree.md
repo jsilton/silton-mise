@@ -19,7 +19,7 @@ vibe: holiday
 
 ## Chef's Note
 
-We have evolved this family tradition from boiling to **roasting**. Boiling the squash dilutes its natural sugars with water; roasting at high heat evaporates moisture and triggers the Maillard reaction, concentrating the squash into a deeper, sweeter version of itself. This is the definitive Silton Thanksgiving side.
+We have evolved this family tradition from boiling to **roasting**. Boiling the squash dilutes its natural sugars with water; roasting at high heat evaporates moisture and triggers the Maillard reaction, concentrating the squash into a deeper, sweeter version of itself. This is the definitive Executive Thanksgiving side.
 
 ## Directions
 
@@ -31,6 +31,6 @@ We have evolved this family tradition from boiling to **roasting**. Boiling the 
 
 ## Serving Suggestions
 
-- [Good Eats Roast Turkey](/recipes/good-eats-roast-turkey)
-- [Corn Bread Dressing](/recipes/corn-bread-dressing)
-- [Cranberry Orange Sauce](/recipes/cranberry-orange-sauce)
+- [Good Eats Roast Turkey](/silton-mise/recipes/good-eats-roast-turkey)
+- [Corn Bread Dressing](/silton-mise/recipes/corn-bread-dressing)
+- [Cranberry Orange Sauce](/silton-mise/recipes/cranberry-orange-sauce)

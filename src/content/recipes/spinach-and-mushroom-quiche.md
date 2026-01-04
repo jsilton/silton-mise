@@ -15,7 +15,7 @@ ingredients:
   - '1/4 cup Whole Milk'
   - '1/4 cup Half-and-Half'
   - '1 1/2 cups Gruyère Cheese, shredded'
-  - '1 tbsp Dijon Mustard (The High Note)'
+  - '1 tbsp Dijon Mustard (The Finishing Touch)'
   - '1 tbsp Fresh Thyme'
   - '1 1/2 cups Sweet Onion, thinly sliced'
   - '1 tbsp Garlic, sliced'
@@ -23,12 +23,12 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Gold Standard" quiche is **Texture Integrity** through **The Triple-Sauté Pattern**. You must sear the mushrooms until they are browned and dry, then sauté the onions until tender, and finally wilt the spinach _separately_ from the eggs. This ensures the custard remains creamy and "Bouncy" rather than watery. We use **Dijon Mustard** as a structural binder: whisking it into the eggs provides a subtle **Acid Finish** that bridges the gap between the earthy mushrooms and rich Gruyère.
+The secret to a "Kitchen Standard" quiche is **Textural Balance** through **The Triple-Sauté Method**. You must sear the mushrooms until they are browned and dry, then sauté the onions until tender, and finally wilt the spinach _separately_ from the eggs. This ensures the custard remains creamy and "Bouncy" rather than watery. We use **Dijon Mustard** as a structural binder: whisking it into the eggs provides a subtle **Acid Balance** that bridges the gap between the earthy mushrooms and rich Gruyère.
 
 ## Directions
 
 1.  **Thermal Prep:** Preheat oven to 375°F. Line a 9-inch pie pan with the crust and prick with a fork.
-2.  **The Snap:** In a large skillet, sauté mushrooms in oil until deep golden and all moisture has evaporated (8 mins). Add onion and garlic; cook for 5 minutes until soft.
+2.  **The Crunch:** In a large skillet, sauté mushrooms in oil until deep golden and all moisture has evaporated (8 mins). Add onion and garlic; cook for 5 minutes until soft.
 3.  **The Wilt:** Add the spinach. Toss for 1 minute until just collapsed. Remove from heat and let cool.
 4.  **The Emulsion:** In a large bowl, whisk eggs, milk, half-and-half, mustard, thyme, salt, and pepper until very frothy.
 5.  **Assemble:** Fold the mushroom-spinach mixture and the cheese into the egg base. Pour into the prepared crust.
@@ -37,6 +37,6 @@ The secret to a "Gold Standard" quiche is **Texture Integrity** through **The Tr
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Fruit Platter
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

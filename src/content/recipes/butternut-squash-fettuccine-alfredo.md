@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a sophisticated "Comfort" dish that avoids the typical mushy vegetable pitfalls. We use **Texture Integrity** by **Roasting** the squash at high heat (425°F) before blending; this caramelizes the natural sugars and creates a deeper, nuttier flavor than boiling ever could. The secret is the **Nutmeg Finish**: a tiny pinch provides the "High Note" that bridges the sweetness of the squash with the richness of the Parmesan cream.
+This is a sophisticated "Comfort" dish that avoids the typical mushy vegetable pitfalls. We use **Textural Balance** by **Roasting** the squash at high heat (425°F) before blending; this caramelizes the natural sugars and creates a deeper, nuttier flavor than boiling ever could. The secret is the **Nutmeg Finish**: a tiny pinch provides the "High Note" that bridges the sweetness of the squash with the richness of the Parmesan cream.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is a sophisticated "Comfort" dish that avoids the typical mushy vegetable p
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Crispy Sage Leaves (fried in brown butter)
-- [Roasted Asparagus](/recipes/roasted-asparagus)
+- [Roasted Asparagus](/silton-mise/recipes/roasted-asparagus)

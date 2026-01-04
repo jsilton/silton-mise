@@ -1,7 +1,7 @@
 ---
 title: Chocolate Chip Zucchini Muffins
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 16 min
 totalTime: 31 min
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance **Modern Heritage** breakfast. By using **Buckwheat Flour**, we get a nutty, "Fuel" focused profile that stands up to the richness of the chocolate. The secret to the Silton Standard here is the **Dry Squeeze Pattern**: you must squeeze the shredded zucchini in a towel until it is **bone-dry** before adding it to the batter. This ensures the muffins stay "Bouncy" and moist rather than turning into mushy pucks.
+This is a high-performance **Updated Classic** breakfast. By using **Buckwheat Flour**, we get a nutty, nutritious focused profile that stands up to the richness of the chocolate. The secret to the Kitchen Standard here is the **Dry Squeeze Method**: you must squeeze the shredded zucchini in a towel until it is **bone-dry** before adding it to the batter. This ensures the muffins stay "Bouncy" and moist rather than turning into mushy pucks.
 
 ## Directions
 
@@ -39,6 +39,6 @@ This is a high-performance **Modern Heritage** breakfast. By using **Buckwheat F
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Apple Slices
-- [Blueberry Oat Breakfast Bars](/recipes/blueberry-oat-breakfast-bars)
+- [Blueberry Oat Breakfast Bars](/silton-mise/recipes/blueberry-oat-breakfast-bars)

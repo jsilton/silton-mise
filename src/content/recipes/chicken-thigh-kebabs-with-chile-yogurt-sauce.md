@@ -1,7 +1,7 @@
 ---
 title: Chicken Thigh Kebabs with Chile-Yogurt Sauce
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 20 min
 cookTime: 10 min
 totalTime: 45 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-protein "Fuel" meal that relies on **Structural Science** for its tenderness. By using **Greek Yogurt** in the sauce and lemon juice as an **Enzyme Tenderizer**, we break down the chicken's muscle fibers before they hit the high heat of the grill. The paprika-oil marinade provides the "Snap" and deep color. Always use **Skin-on** thighs if possible—the rendered fat provides the "High Note" of flavor that skinless meat lacks.
+This is a high-protein nutritious meal that relies on **Culinary Technique** for its tenderness. By using **Greek Yogurt** in the sauce and lemon juice as an **Enzyme Tenderizer**, we break down the chicken's muscle fibers before they hit the high heat of the grill. The paprika-oil marinade provides the Crunch and deep color. Always use **Skin-on** thighs if possible—the rendered fat provides the "High Note" of flavor that skinless meat lacks.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is a high-protein "Fuel" meal that relies on **Structural Science** for its
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- Warm [Homemade Naan](/recipes/homemade-naan)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- Warm [Homemade Naan](/silton-mise/recipes/homemade-naan)

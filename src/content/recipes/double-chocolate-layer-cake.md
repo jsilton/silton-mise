@@ -1,7 +1,7 @@
 ---
 title: Double Chocolate Layer Cake
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 70 min
 totalTime: 115 min
@@ -23,13 +23,13 @@ ingredients:
   - '1 lb Semisweet Chocolate, chopped'
   - '1 cup Heavy Cream'
   - '2 tbsp Granulated Sugar'
-  - '2 tbsp Light Corn Syrup (The "Gloss" Hack)'
+  - '2 tbsp Light Corn Syrup for gloss'
   - '1/4 cup Unsalted Butter, cubed'
 ---
 
 ## Chef's Note
 
-This is the "Gold Standard" of chocolate cakes. The secret to its intense depth is **The Coffee Bloom Pattern**: we melt the raw chocolate directly into hot coffee, which "blooms" the cocoa solids and releases aromatic compounds that water cannot. We maintain **Texture Integrity** in the frosting by using the **Corn Syrup Gloss Hack**—a tiny amount of corn syrup ensures the ganache stays mirror-shiny and pliable for days. This cake is intentionally low-heat (300°F) to ensure an even, flat-topped rise without a dome.
+This is the "Kitchen Standard" of chocolate cakes. The secret to its intense depth is **The Coffee Bloom Method**: we melt the raw chocolate directly into hot coffee, which "blooms" the cocoa solids and releases aromatic compounds that water cannot. We maintain **Textural Balance** in the frosting by using the **Corn Syrup Gloss Hack**—a tiny amount of corn syrup ensures the ganache stays mirror-shiny and pliable for days. This cake is intentionally low-heat (300°F) to ensure an even, flat-topped rise without a dome.
 
 ## Directions
 
@@ -43,6 +43,6 @@ This is the "Gold Standard" of chocolate cakes. The secret to its intense depth 
 
 ## Serving Suggestions
 
-- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+- [Old-Fashioned Strawberry Ice Cream](/silton-mise/recipes/old-fashioned-strawberry-ice-cream)
 - Fresh Sliced Raspberries
-- [Hot-and-Sour Soup](/recipes/hot-and-sour-soup) (The classic Silton "Night Before" pairing)
+- [Hot-and-Sour Soup](/silton-mise/recipes/hot-and-sour-soup) (The classic Executive "Night Before" pairing)

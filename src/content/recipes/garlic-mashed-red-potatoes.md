@@ -1,7 +1,7 @@
 ---
 title: Garlic Mashed Red Potatoes
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -17,7 +17,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Gold Standard** for rustic mashed potatoes. To ensure **Texture Integrity**, we use the **Skin-on Standard**: leaving the red skins provides a textural "Snap" and earthy "Fuel" that peeled potatoes lack. The secret to the Silton Standard is **The Infused Boil**: we boil the whole garlic cloves directly with the potatoes. This mellows the garlic's bite and allows its oils to penetrate the starch as it cooks, resulting in a deeper, more integrated flavor than adding raw garlic at the end.
+This is the **Kitchen Standard** for rustic mashed potatoes. To ensure **Textural Balance**, we use the **Skin-on Standard**: leaving the red skins provides a textural Crunch and earthy nutritious that peeled potatoes lack. The secret to the Kitchen Standard is **The Infused Boil**: we boil the whole garlic cloves directly with the potatoes. This mellows the garlic's bite and allows its oils to penetrate the starch as it cooks, resulting in a deeper, more integrated flavor than adding raw garlic at the end.
 
 ## Directions
 
@@ -30,6 +30,6 @@ This is the **Gold Standard** for rustic mashed potatoes. To ensure **Texture In
 
 ## Serving Suggestions
 
-- [Brisket with Carrots and Onions](/recipes/brisket-with-carrots-and-onions)
-- [Chicken Coq au Vin](/recipes/chicken-coq-au-vin)
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Brisket with Carrots and Onions](/silton-mise/recipes/brisket-with-carrots-and-onions)
+- [Chicken Coq au Vin](/silton-mise/recipes/chicken-coq-au-vin)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

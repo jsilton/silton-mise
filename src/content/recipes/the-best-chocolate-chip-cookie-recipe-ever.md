@@ -1,7 +1,7 @@
 ---
 title: The Best Chocolate Chip Cookies
 role: dessert
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 20 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive "Speed" dessert for the Silton Standard. The secret to Success is **The Under-Bake Pattern**: you must remove the cookies from the oven when the edges are barely golden but the centers still look "wet" and underdone. The residual heat on the baking pan (The 2-Minute Set) will finish the cook, resulting in a cookie with a permanent "Bounce" and soft, gooey center. We maintain **Texture Integrity** by using a full 3 cups of flour to provide the structural "Snap" needed to hold the massive amount of chocolate.
+This is the definitive quick dessert for the Kitchen Standard. The secret to Success is **The Under-Bake Method**: you must remove the cookies from the oven when the edges are barely golden but the centers still look "wet" and underdone. The residual heat on the baking pan (The 2-Minute Set) will finish the cook, resulting in a cookie with a permanent Texture and soft, gooey center. We maintain **Textural Balance** by using a full 3 cups of flour to provide the structural Crunch needed to hold the massive amount of chocolate.
 
 ## Directions
 
@@ -29,11 +29,11 @@ This is the definitive "Speed" dessert for the Silton Standard. The secret to Su
 2.  **Cream:** In a stand mixer, beat softened butter and both sugars for 2 minutes until light and fluffy. Add eggs and vanilla; beat until emulsified.
 3.  **Incorporate:** Gradually add the dry mix until **just combined**. Fold in the chocolate chips.
 4.  **Shape:** Preheat oven to 375°F. Line sheets with parchment. Roll 2-tbsp balls of dough and place 2 inches apart.
-5.  **Bake:** Bake for 8-10 minutes. **Pull them early**—the Gold Standard is a pale, soft center.
-6.  **The Set:** Let rest on the hot pan for exactly 2 minutes before transferring to a wire rack.
+5.  **Bake:** Bake for 8-10 minutes. **Pull them early**—the Kitchen Standard is a pale, soft center.
+6.  **The Finish:** Let rest on the hot pan for exactly 2 minutes before transferring to a wire rack.
 
 ## Serving Suggestions
 
 - Cold Glass of Milk
-- [Old-Fashioned Vanilla Ice Cream](/recipes/old-fashioned-vanilla-ice-cream) (as a sandwich)
-- [Hot Mulled Apple Cider](/recipes/hot-mulled-apple-cider)
+- [Old-Fashioned Vanilla Ice Cream](/silton-mise/recipes/old-fashioned-vanilla-ice-cream) (as a sandwich)
+- [Hot Mulled Apple Cider](/silton-mise/recipes/hot-mulled-apple-cider)

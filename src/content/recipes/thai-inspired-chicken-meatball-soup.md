@@ -18,12 +18,12 @@ ingredients:
   - '1 can (14 oz) Full-fat Coconut Milk'
   - '2 cups Chicken Broth'
   - '5 oz Fresh Baby Spinach'
-  - '1 tbsp Lime Juice (The Acid Finish)'
+  - '1 tbsp Lime Juice (The Acid Balance)'
 ---
 
 ## Chef's Note
 
-The secret to chicken meatballs that aren't dry is **Structural Science** through **The Aromatic Bind Pattern**. By grating the ginger and garlic into a paste _before_ mixing with the meat, we introduce a massive amount of cellular moisture that protects the lean protein during the sear. We maintain **Texture Integrity** through **The Staged Simmer**: we sear the meatballs to develop a "Snap," then simmer them in the coconut broth for only 5 minutes. The fresh lime juice provides the mandatory **Acid Finish**.
+The secret to chicken meatballs that aren't dry is **Culinary Technique** through **The Aromatic Bind Method**. By grating the ginger and garlic into a paste _before_ mixing with the meat, we introduce a massive amount of cellular moisture that protects the lean protein during the sear. We maintain **Textural Balance** through **The Staged Simmer**: we sear the meatballs to develop a "Snap," then simmer them in the coconut broth for only 5 minutes. The fresh lime juice provides the mandatory **Acid Balance**.
 
 ## Directions
 
@@ -33,10 +33,10 @@ The secret to chicken meatballs that aren't dry is **Structural Science** throug
 4.  **The Base:** Wipe the pot. Sauté the remaining ginger/garlic for 1 minute. Add broth, coconut milk, sugar, and remaining fish sauce. Bring to a simmer.
 5.  **Bind:** Return meatballs to the pot. Simmer for 5-8 minutes until cooked through.
 6.  **Wilt:** Remove from heat. Stir in the baby spinach and lime juice.
-7.  **Serve:** Serve hot over [Basmati Rice](/recipes/basmati-rice).
+7.  **Serve:** Serve hot over [Basmati Rice](/silton-mise/recipes/basmati-rice).
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Jasmine Rice (The Silton Standard)](/recipes/basmati-rice)
-- [Thai Basil Ginger Spritzer](/recipes/thai-basil-ginger-spritzer)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Jasmine Rice](/silton-mise/recipes/basmati-rice)
+- [Thai Basil Ginger Spritzer](/silton-mise/recipes/thai-basil-ginger-spritzer)

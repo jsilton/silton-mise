@@ -1,5 +1,5 @@
 ---
-title: Banana Nut Bread (The Weight Standard)
+title: Banana Nut Bread
 role: side
 vibe: comfort
 prepTime: 15 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to banana bread that isn't dense or dry is **Precision**. We move to **Weight-Based Measurements** (grams) because bananas vary wildly in size. We use melted butter for a tender, cake-like crumb and ensure the bananas are "dead-ripe" (black spots) to maximize the natural sugars. This is a "Modern Heritage" upgrade of a family classic.
+The secret to banana bread that isn't dense or dry is **Precision**. We move to **Weight-Based Measurements** (grams) because bananas vary wildly in size. We use melted butter for a tender, cake-like crumb and ensure the bananas are "dead-ripe" (black spots) to maximize the natural sugars. This is a "Updated Classic" upgrade of a family classic.
 
 ## Directions
 
@@ -34,5 +34,5 @@ The secret to banana bread that isn't dense or dry is **Precision**. We move to 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (if serving as a brunch side)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (if serving as a brunch side)
 - Warm Salted Butter

@@ -1,14 +1,14 @@
 ---
-title: Chicken Lettuce Wraps (The Crunch Standard)
+title: Chicken Lettuce Wraps (the crunch Standard)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
 servings: '4'
 ingredients:
   - '1 lb Ground Chicken or Turkey'
-  - '--- The Texture (No Water Chestnuts!) ---'
+  - '--- the texture (No Water Chestnuts!) ---'
   - '1 cup Celery, finely diced (The crunch substitute)'
   - '1/2 cup Green Onions, sliced'
   - '--- The Glaze ---'
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Silton Standard** for lettuce wraps. We have removed the chalky water chestnuts and replaced them with **Finely Diced Celery**, which provides a superior, fresh snap that doesn't disappear into the sauce. The secret is the **High-Heat Sear**: you want the ground chicken to be browned and slightly crispy before adding the glaze so the cups don't turn soggy.
+This is the **Kitchen Standard** for lettuce wraps. We have removed the chalky water chestnuts and replaced them with **Finely Diced Celery**, which provides a superior, fresh snap that doesn't disappear into the sauce. The secret is the **High-Heat Sear**: you want the ground chicken to be browned and slightly crispy before adding the glaze so the cups don't turn soggy.
 
 ## Directions
 
@@ -37,5 +37,5 @@ This is the **Silton Standard** for lettuce wraps. We have removed the chalky wa
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

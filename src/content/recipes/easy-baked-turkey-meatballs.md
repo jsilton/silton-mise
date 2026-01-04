@@ -1,7 +1,7 @@
 ---
 title: Easy Baked Turkey Meatballs
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-Turkey meatballs often suffer from being dry and rubbery. We solve this with **Texture Integrity** through the **Moisture Guard Pattern**. The secret is the **Finely Minced Carrots**: as the meatballs bake, the carrots release moisture internally, creating a juicy "Bounce" that lean turkey lacks on its own. We use **The 2-Tbsp Portion Pattern** to ensure they cook quickly at high-heat (350°F) without drying out the exterior.
+Turkey meatballs often suffer from being dry and rubbery. We solve this with **Textural Balance** through the **Moisture Guard Method**. The secret is the **Finely Minced Carrots**: as the meatballs bake, the carrots release moisture internally, creating a juicy Texture that lean turkey lacks on its own. We use **The 2-Tbsp Portion Method** to ensure they cook quickly at high-heat (350°F) without drying out the exterior.
 
 ## Directions
 
@@ -33,6 +33,6 @@ Turkey meatballs often suffer from being dry and rubbery. We solve this with **T
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Zucchini Noodles with Avocado Pesto](/recipes/zucchini-noodles-with-avocado-pesto-and-shrimp)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Zucchini Noodles with Avocado Pesto](/silton-mise/recipes/zucchini-noodles-with-avocado-pesto-and-shrimp)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)

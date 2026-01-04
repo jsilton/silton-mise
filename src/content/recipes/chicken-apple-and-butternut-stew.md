@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a New England autumn masterpiece. To avoid the "mushy veggie" problem, we use **Texture Integrity**: we sear the chicken and parsnips first to get a crust, and only add the apples in the final 5 minutes of simmering. The **Apple Cider** provides the natural acid and sweetness that elevates this from a standard chicken stew to a sophisticated holiday-vibe meal.
+This is a New England autumn masterpiece. To avoid the "mushy veggie" problem, we use **Textural Balance**: we sear the chicken and parsnips first to get a crust, and only add the apples in the final 5 minutes of simmering. The **Apple Cider** provides the natural acid and sweetness that elevates this from a standard chicken stew to a sophisticated holiday-vibe meal.
 
 ## Directions
 
@@ -36,5 +36,5 @@ This is a New England autumn masterpiece. To avoid the "mushy veggie" problem, w
 
 ## Serving Suggestions
 
-- [Near East Rice Pilaf Hack](/recipes/near-east-rice-pilaf-hack)
-- Warm [Anadama Bread](/recipes/anadama-bread)
+- [Homemade Rice Pilaf](/silton-mise/recipes/homemade-rice-pilaf)
+- Warm [Anadama Bread](/silton-mise/recipes/anadama-bread)

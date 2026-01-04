@@ -1,7 +1,7 @@
 ---
-title: Chicken Piccata (The Un-Fried Standard)
+title: Chicken Piccata
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-We skip the traditional flour dredging to keep this dish light and the flavors clean. The secret to a "Restaurant Quality" piccata without the mess is the **Structural Science** of the **Monter au Beurre** (The Butter Mount). By whisking cold butter into the hot lemon broth off the heat, we create a stable, glossy emulsion that clings to the chicken. The capers and lemon provide the mandatory **High Note** finish to cut through the richness.
+We skip the traditional flour dredging to keep this dish light and the flavors clean. The secret to a restaurant-quality piccata without the mess is the **Culinary Technique** of the **Monter au Beurre** (The Butter Mount). By whisking cold butter into the hot lemon broth off the heat, we create a stable, glossy emulsion that clings to the chicken. The capers and lemon provide the mandatory **High Note** finish to cut through the richness.
 
 ## Directions
 
@@ -34,6 +34,6 @@ We skip the traditional flour dredging to keep this dish light and the flavors c
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Pasta al Limone](/recipes/lemon-ricotta-pasta)
-- [Roasted Asparagus](/recipes/roasted-asparagus)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Pasta al Limone](/silton-mise/recipes/lemon-ricotta-pasta)
+- [Roasted Asparagus](/silton-mise/recipes/roasted-asparagus)

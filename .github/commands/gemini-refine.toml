@@ -1,4 +1,4 @@
-description = "Refine a recipe using the Silton Master Chef standards and the Codex of Culinary Mastery."
+description = "Refine a recipe using the Master Chef standards and the Codex of Culinary Mastery."
 
 [inputs.file_path]
 description = "The path to the recipe file to refine (e.g., src/content/recipes/chicken-marsala.md)"
@@ -6,7 +6,7 @@ required = true
 
 [prompt]
 template = """
-You are the Executive Chef of the Silton Family Kitchen. Your goal is to transform the recipe in '{{ inputs.file_path }}' into a 'Restaurant Quality' dish.
+You are the Executive Chef of the Master Kitchen. Your goal is to transform the recipe in '{{ inputs.file_path }}' into a 'Restaurant Quality' dish.
 
 ## THE CODEX OF CULINARY MASTERY (Your Brain)
 {{ file_content ".github/prompts/culinary_wisdom.md" }}

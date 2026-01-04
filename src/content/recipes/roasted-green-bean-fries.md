@@ -1,7 +1,7 @@
 ---
 title: Roasted Green Bean "Fries"
 role: side
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 12 min
 totalTime: 17 min
@@ -16,7 +16,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to green beans that kids will eat is **High Heat**. By roasting at 425°F, we evaporate the moisture and caramelize the tips, resulting in a texture that mimics a french fry rather than a soggy boiled veggie. This is the **Texture Integrity** pattern in action.
+The secret to green beans that kids will eat is **High Heat**. By roasting at 425°F, we evaporate the moisture and caramelize the tips, resulting in a texture that mimics a french fry rather than a soggy boiled veggie. This is the **Textural Balance** pattern in action.
 
 ## Directions
 
@@ -28,6 +28,6 @@ The secret to green beans that kids will eat is **High Heat**. By roasting at 42
 
 ## Pairs With
 
-- [Juicy Turkey Burgers](/recipes/turkey-burgers)
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Baked Cod with Lemon Panko](/recipes/baked-cod-with-lemon-panko)
+- [Juicy Turkey Burgers](/silton-mise/recipes/turkey-burgers)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Baked Cod with Lemon Panko](/silton-mise/recipes/baked-cod-with-lemon-panko)

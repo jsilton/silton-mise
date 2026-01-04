@@ -1,7 +1,7 @@
 ---
 title: Easy Spinach Gnocchi (Gnudi)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 5 min
 totalTime: 20 min
@@ -18,7 +18,7 @@ ingredients:
 
 ## Chef's Note
 
-These "Gnudi" are the lighter, pillowy cousin of the potato gnocchi. The secret to the Silton Standard is **Texture Integrity** through the **Dry Squeeze Pattern**: you must squeeze the defrosted spinach in a towel until it is **bone-dry**. Any excess moisture will require more flour, which turns the gnocchi into leaden pucks. We use **Whole-Milk Ricotta** for a rich "Bounce" and a pinch of **Nutmeg** as the mandatory high note to bridge the cheese and greens.
+These "Gnudi" are the lighter, pillowy cousin of the potato gnocchi. The secret to the Kitchen Standard is **Textural Balance** through the **Dry Squeeze Method**: you must squeeze the defrosted spinach in a towel until it is **bone-dry**. Any excess moisture will require more flour, which turns the gnocchi into leaden pucks. We use **Whole-Milk Ricotta** for a rich Texture and a pinch of **Nutmeg** as the mandatory high note to bridge the cheese and greens.
 
 ## Directions
 
@@ -31,6 +31,6 @@ These "Gnudi" are the lighter, pillowy cousin of the potato gnocchi. The secret 
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
-- [Garlic Bread](/recipes/garlic-bread)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Tomato Basil Soup](/silton-mise/recipes/roasted-tomato-basil-soup)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)

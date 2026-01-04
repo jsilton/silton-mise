@@ -1,7 +1,7 @@
 ---
 title: Chicken & Spinach Skillet Pasta
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 15 min
 totalTime: 25 min
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance weeknight meal that relies on **The Emulsion Pattern**. Instead of a heavy cream sauce, we use the starchy pasta water and white wine to bind the lemon and parmesan into a light, silky glaze. The massive amount of spinach provides the "Fuel" without making the dish feel heavy. Always finish with fresh lemon zest for that **High Note** brightness.
+This is a high-performance weeknight meal that relies on **The Emulsion Method**. Instead of a heavy cream sauce, we use the starchy pasta water and white wine to bind the lemon and parmesan into a light, silky glaze. The massive amount of spinach provides the nutritious without making the dish feel heavy. Always finish with fresh lemon zest for that **High Note** brightness.
 
 ## Directions
 
@@ -34,5 +34,5 @@ This is a high-performance weeknight meal that relies on **The Emulsion Pattern*
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Roasted Cherry Tomatoes

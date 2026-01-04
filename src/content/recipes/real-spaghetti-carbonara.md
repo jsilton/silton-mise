@@ -1,7 +1,7 @@
 ---
-title: Real Spaghetti Carbonara (The Roman Standard)
+title: Real Spaghetti Carbonara
 role: main
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 15 min
 totalTime: 20 min
@@ -31,5 +31,5 @@ Real Carbonara is a feat of **Emulsion Science**. There is NO cream in this dish
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory to cut the fat)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Mandatory to cut the fat)
 - Glass of crisp White Wine

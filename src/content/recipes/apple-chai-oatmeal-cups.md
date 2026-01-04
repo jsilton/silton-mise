@@ -1,7 +1,7 @@
 ---
 title: Apple Chai Oatmeal Cups
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Grab-and-Go" fuel staple. To elevate the flavor, we use the **Blooming Pattern**: stir the chai spices into the **melted coconut oil** before adding to the wet mix. This releases the fat-soluble aromas of the cardamom and cinnamon, ensuring the spice flavor is baked into every oat rather than just sitting on the surface.
+This is a "Grab-and-Go" fuel staple. To elevate the flavor, we use the **Blooming Method**: stir the chai spices into the **melted coconut oil** before adding to the wet mix. This releases the fat-soluble aromas of the cardamom and cinnamon, ensuring the spice flavor is baked into every oat rather than just sitting on the surface.
 
 ## Directions
 
@@ -38,5 +38,5 @@ This is a "Grab-and-Go" fuel staple. To elevate the flavor, we use the **Bloomin
 
 ## Serving Suggestions
 
-- [Vanilla Earl Grey Overnight Oats](/recipes/vanilla-earl-grey-overnight-oats) (for a texture contrast)
+- [Vanilla Earl Grey Overnight Oats](/silton-mise/recipes/vanilla-earl-grey-overnight-oats) (for a texture contrast)
 - Greek Yogurt and Honey

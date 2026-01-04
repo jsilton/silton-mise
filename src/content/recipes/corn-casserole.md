@@ -1,5 +1,5 @@
 ---
-title: Corn Casserole (The Holiday Standard)
+title: Corn Casserole
 role: side
 vibe: holiday
 prepTime: 10 min
@@ -20,7 +20,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to a classic potluck staple. To ensure **Texture Integrity**, we use the **Double Corn Pattern**: combining creamed corn for moisture with whole kernels for "Snap." The secret to the Silton Standard is the **Butter Emulsion**: we whisk the melted butter into the sour cream and eggs before adding the dry mix, resulting in a rich, pudding-like "Bounce" that never turns dry or cakey.
+This is a **Updated Classic** update to a classic potluck staple. To ensure **Textural Balance**, we use the **Double Corn Method**: combining creamed corn for moisture with whole kernels for "Snap." The secret to the Kitchen Standard is the **Butter Emulsion**: we whisk the melted butter into the sour cream and eggs before adding the dry mix, resulting in a rich, pudding-like Texture that never turns dry or cakey.
 
 ## Directions
 
@@ -33,6 +33,6 @@ This is a **Modern Heritage** update to a classic potluck staple. To ensure **Te
 
 ## Serving Suggestions
 
-- [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
-- [Chili](/recipes/chili)
-- [Honey Sriracha Salmon Bowls](/recipes/honey-sriracha-salmon-bowls)
+- [Buttermilk Baked Chicken](/silton-mise/recipes/buttermilk-baked-chicken)
+- [Chili](/silton-mise/recipes/chili)
+- [Honey Sriracha Salmon Bowls](/silton-mise/recipes/honey-sriracha-salmon-bowls)

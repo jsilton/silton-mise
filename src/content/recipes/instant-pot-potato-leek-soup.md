@@ -17,7 +17,7 @@ ingredients:
   - '5 cups Chicken Broth (or Veggie Broth)'
   - '--- The Finish ---'
   - '3/4 cup Half-and-Half (or Heavy Cream)'
-  - '1/8 tsp Nutmeg (The High Note)'
+  - '1/8 tsp Nutmeg (The Finishing Touch)'
   - '1 Fresh Bay Leaf'
   - 'Salt and White Pepper'
   - '--- For Garnish ---'
@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to a recipe from my Grandpa. The secret to its elite silkiness is **Structural Science** through **The Allium Sweat Pattern**: you must sauté the leeks in butter and oil until they are completely soft and translucent _before_ adding the flour and broth. This ensures the leeks' sugars are fully developed, which provides the "Bounce" to the puree. We use **White Pepper** and a pinch of **Nutmeg** as the mandatory high notes to bridge the gap between the earthy potatoes and the rich cream.
+This is a **Updated Classic** update to a recipe from my Grandpa. The secret to its elite silkiness is **Culinary Technique** through **The Allium Sweat Method**: you must sauté the leeks in butter and oil until they are completely soft and translucent _before_ adding the flour and broth. This ensures the leeks' sugars are fully developed, which provides the Texture to the puree. We use **White Pepper** and a pinch of **Nutmeg** as the mandatory high notes to bridge the gap between the earthy potatoes and the rich cream.
 
 ## Directions
 
@@ -37,10 +37,10 @@ This is a **Modern Heritage** update to a recipe from my Grandpa. The secret to 
 5.  **Release:** Let the pressure release naturally for 15 minutes (mandatory for potato texture), then vent any remaining steam.
 6.  **The Emulsion:** Remove the bay leaf. Use an immersion blender to puree the soup directly in the pot until perfectly smooth.
 7.  **Finish:** Stir in the half-and-half. Taste and adjust salt if needed.
-8.  **Serve:** Garnish with a dollop of sour cream and fresh chives for **Texture Integrity**.
+8.  **Serve:** Garnish with a dollop of sour cream and fresh chives for **Textural Balance**.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

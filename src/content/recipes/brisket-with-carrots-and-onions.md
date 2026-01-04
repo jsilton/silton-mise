@@ -1,5 +1,5 @@
 ---
-title: Brisket with Carrots and Onions (The Holiday Standard)
+title: Brisket with Carrots and Onions
 role: main
 vibe: holiday
 prepTime: 20 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is **Modern Heritage** in a roasting pan. While the old-school method involves just boiling meat in juice, we prioritize **Flavor Layering**. The secret is the **High-Heat Finish**: after the meat is tender, we boil the vegetables and sauce separately to reduce the tomato juice into a thick, umami-rich glaze. We use parchment under the foil to prevent the acid in the tomato juice from reacting with the aluminum—a critical safety and flavor pattern.
+This is **Updated Classic** in a roasting pan. While the old-school method involves just boiling meat in juice, we prioritize **Flavor Layering**. The secret is the **High-Heat Finish**: after the meat is tender, we boil the vegetables and sauce separately to reduce the tomato juice into a thick, umami-rich glaze. We use parchment under the foil to prevent the acid in the tomato juice from reacting with the aluminum—a critical safety and flavor pattern.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is **Modern Heritage** in a roasting pan. While the old-school method invol
 
 ## Serving Suggestions
 
-- [Miso-Mashed Potatoes](/recipes/miso-mashed-potatoes)
-- [Roasted Asparagus](/recipes/roasted-asparagus)
-- [Challah](/recipes/my-favorite-challah) for dipping
+- [Miso-Mashed Potatoes](/silton-mise/recipes/miso-mashed-potatoes)
+- [Roasted Asparagus](/silton-mise/recipes/roasted-asparagus)
+- [Challah](/silton-mise/recipes/my-favorite-challah) for dipping

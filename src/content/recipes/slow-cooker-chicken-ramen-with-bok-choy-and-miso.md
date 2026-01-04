@@ -13,7 +13,7 @@ ingredients:
   - '2 tbsp Tamari + 2 tbsp Mirin'
   - '3 cloves Garlic, smashed'
   - '4 Dried Shiitake Mushrooms'
-  - '1 sheet Dried Kombu (The "Sea" Standard)'
+  - '1 sheet Dried Kombu'
   - '--- The Finish ---'
   - '1 lb Baby Bok Choy, chopped'
   - '12 oz Fresh Ramen Noodles'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Restaurant Quality" slow-cooker ramen is **Structural Science** through **The Bone-In Simmer Pattern**. By using whole chicken legs, we extract collagen and deep gelatinous fat that provides the mandatory "Bounce" to the broth. We use **The Miso Tempering Pattern**: we stir the miso in at the start to infuse the meat, but whisk in a secondary pulse at the end to maintain its raw, probiotic "High Note." The bok choy is added only during the final 10 minutes to ensure **Texture Integrity**.
+The secret to restaurant-quality slow-cooker ramen is **Culinary Technique** through **The Bone-In Simmer Method**. By using whole chicken legs, we extract collagen and deep gelatinous fat that provides the mandatory Texture to the broth. We use **The Miso Tempering Method**: we stir the miso in at the start to infuse the meat, but whisk in a secondary pulse at the end to maintain its raw, probiotic "High Note." The bok choy is added only during the final 10 minutes to ensure **Textural Balance**.
 
 ## Directions
 
@@ -35,6 +35,6 @@ The secret to "Restaurant Quality" slow-cooker ramen is **Structural Science** t
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Japanese Style Trout with Dashi](/recipes/japanese-style-trout-with-dashi)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Japanese Style Trout with Dashi](/silton-mise/recipes/japanese-style-trout-with-dashi)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

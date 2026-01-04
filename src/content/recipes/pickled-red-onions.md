@@ -1,7 +1,7 @@
 ---
-title: Quick Pickled Red Onions
+title: quick Pickled Red Onions
 role: condiment
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 0 min
 totalTime: 40 min
@@ -16,7 +16,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Silton Acid Finish** in a jar. These onions add brightness, color, and crunch to almost any heavy dish. The secret is the **30-Minute Rest**: while they are edible immediately, letting them sit for half an hour allows the vinegar to turn the onions a vibrant pink and soften their raw "bite."
+This is the **Executive Acid Balance** in a jar. These onions add brightness, color, and crunch to almost any heavy dish. The secret is the **30-Minute Rest**: while they are edible immediately, letting them sit for half an hour allows the vinegar to turn the onions a vibrant pink and soften their raw "bite."
 
 ## Directions
 
@@ -28,6 +28,6 @@ This is the **Silton Acid Finish** in a jar. These onions add brightness, color,
 
 ## Pairs With
 
-- [Enchiladas Suizas](/recipes/enchiladas-suizas)
-- [Instant Pot Pulled Pork](/recipes/instant-pot-pulled-pork)
-- [Chicken Shawarma](/recipes/chicken-shawarma)
+- [Enchiladas Suizas](/silton-mise/recipes/enchiladas-suizas)
+- [Instant Pot Pulled Pork](/silton-mise/recipes/instant-pot-pulled-pork)
+- [Chicken Shawarma](/silton-mise/recipes/chicken-shawarma)

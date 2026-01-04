@@ -1,5 +1,5 @@
 ---
-title: Classic Beef Stew (The Low & Slow Standard)
+title: Classic Beef Stew
 role: main
 vibe: comfort
 prepTime: 30 min
@@ -22,12 +22,12 @@ ingredients:
   - '2 sprigs Fresh Thyme'
   - '1 lb Yukon Gold Potatoes, cut into 1-inch chunks'
   - '1 cup Frozen Peas'
-  - '1 tbsp Balsamic Vinegar (The Acid Finish)'
+  - '1 tbsp Balsamic Vinegar (The Acid Balance)'
 ---
 
 ## Chef's Note
 
-The secret to a "Restaurant Quality" stew is **The Batched Sear**. Never crowd the pan; if you add all the meat at once, it will steam and turn gray. By searing in batches, you build a deep, dark "fond" on the bottom of the pot which provides the savory foundation for the entire dish. We finish with a splash of **Balsamic Vinegar** to provide the high note that cuts the heavy beef fat.
+The secret to a restaurant-quality stew is **The Batched Sear**. Never crowd the pan; if you add all the meat at once, it will steam and turn gray. By searing in batches, you build a deep, dark "fond" on the bottom of the pot which provides the savory foundation for the entire dish. We finish with a splash of **Balsamic Vinegar** to provide the high note that cuts the heavy beef fat.
 
 ## Directions
 
@@ -42,5 +42,5 @@ The secret to a "Restaurant Quality" stew is **The Batched Sear**. Never crowd t
 
 ## Serving Suggestions
 
-- [Anadama Bread](/recipes/anadama-bread) or Crusty Sourdough
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Anadama Bread](/silton-mise/recipes/anadama-bread) or Crusty Sourdough
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

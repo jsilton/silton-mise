@@ -1,7 +1,7 @@
 ---
-title: Jeri's Lentil Soup (The Theater District Standard)
+title: Jeri's Lentil Soup
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 5 hours
 totalTime: 5.5 hours
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Heritage Keeper" with a theatrical soul. To elevate this soup to the **Silton Standard**, we add a splash of **Sherry Vinegar** at the very end. Lentils are earthy and dense; the vinegar provides the "high note" that wakes up the palate. For a creamier texture without dairy, use an immersion blender to pulse the soup 3-4 times before serving—this releases some lentil starch while keeping the "copper penny" carrots intact.
+This is a "Traditional Recipe" with a theatrical soul. To elevate this soup to the **Kitchen Standard**, we add a splash of **Sherry Vinegar** at the very end. Lentils are earthy and dense; the vinegar provides the "high note" that wakes up the palate. For a creamier texture without dairy, use an immersion blender to pulse the soup 3-4 times before serving—this releases some lentil starch while keeping the "copper penny" carrots intact.
 
 ## Directions
 
@@ -32,7 +32,7 @@ This is a "Heritage Keeper" with a theatrical soul. To elevate this soup to the 
 3.  **Slow Cook:** Cook on **LOW** for 5 hours (or on high for 3 hours) until lentils are tender but not mushy.
 4.  **Infuse:** Stir in the white wine and parsley. Cook for another 30 minutes.
 5.  **Texture (Optional):** Use an immersion blender to pulse the soup a few times to create a thicker body.
-6.  **The Acid Finish:** Stir in the sherry vinegar or lemon juice. Season generously with salt and black pepper.
+6.  **The Acid Balance:** Stir in the sherry vinegar or lemon juice. Season generously with salt and black pepper.
 
 ## Notes
 
@@ -40,5 +40,5 @@ _This recipe was a wedding gift from Pat Miller and Sean Kilpatrick, passed down
 
 ## Serving Suggestions
 
-- [Anadama Bread](/recipes/anadama-bread) with Salted Butter
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Anadama Bread](/silton-mise/recipes/anadama-bread) with Salted Butter
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)

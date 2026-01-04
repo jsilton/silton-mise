@@ -1,7 +1,7 @@
 ---
 title: Doc Chey’s Chinese Lo Mein
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is our tribute to an Atlanta heritage favorite. The secret to "Restaurant Quality" lo mein is the **Lo Mein Emulsion Pattern**. Instead of just tossing noodles in cold sauce, we simmer the sauce with the vegetables until it reduces by half, creating a thick, glossy glaze that has enough "Bounce" to fully coat every strand of noodle. We maintain **Texture Integrity** by searing the chicken quickly and removing it—this ensures the breast meat stays succulent while the vegetables caramelize.
+This is our tribute to an Atlanta heritage favorite. The secret to restaurant-quality lo mein is the **Lo Mein Emulsion Method**. Instead of just tossing noodles in cold sauce, we simmer the sauce with the vegetables until it reduces by half, creating a thick, glossy glaze that has enough Texture to fully coat every strand of noodle. We maintain **Textural Balance** by searing the chicken quickly and removing it—this ensures the breast meat stays succulent while the vegetables caramelize.
 
 ## Directions
 
@@ -41,6 +41,6 @@ This is our tribute to an Atlanta heritage favorite. The secret to "Restaurant Q
 
 ## Serving Suggestions
 
-- [Smashed Cucumber Salad](/recipes/smashed-cucumber-salad)
-- [Chinese Eggplant with Garlic Sauce](/recipes/chinese-eggplant-with-garlic-sauce)
-- [Cantonese Wonton Broth](/recipes/cantonese-wonton-broth)
+- [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad)
+- [Chinese Eggplant with Garlic Sauce](/silton-mise/recipes/chinese-eggplant-with-garlic-sauce)
+- [Cantonese Wonton Broth](/silton-mise/recipes/cantonese-wonton-broth)

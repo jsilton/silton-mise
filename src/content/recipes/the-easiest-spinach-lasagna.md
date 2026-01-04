@@ -1,7 +1,7 @@
 ---
 title: The Easiest Spinach Lasagna (No-Boil Method)
 role: main
-vibe: project
+vibe: technical
 prepTime: 15 min
 cookTime: 55 min
 totalTime: 70 min
@@ -36,6 +36,6 @@ The secret to successful "No-Boil" lasagna is the **Sauce-to-Pasta Ratio**. No-b
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Essential)
-- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Essential)
+- [Roasted Tomato Basil Soup](/silton-mise/recipes/roasted-tomato-basil-soup)
 - Garlic Bread

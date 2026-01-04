@@ -1,7 +1,7 @@
 ---
 title: Pumpkin Oatmeal Muffins
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is our favorite high-performance "Fuel" breakfast. We use **The Blender Pattern** to pulverize the rolled oats into a smooth, nutrient-dense "flour" directly with the wet ingredients. The secret to the Silton Standard is **Texture Integrity**: by skipping refined flour entirely and relying on the pumpkin and oats, we achieve a dense, moist "Bounce" that never turns crumbly. These are explicitly designed for **Modularity**—they freeze perfectly and can be pulled out for a high-protein lunch component.
+This is our favorite high-performance nutritious breakfast. We use **The Blender Method** to pulverize the rolled oats into a smooth, nutrient-dense "flour" directly with the wet ingredients. The secret to the Kitchen Standard is **Textural Balance**: by skipping refined flour entirely and relying on the pumpkin and oats, we achieve a dense, moist Texture that never turns crumbly. These are explicitly designed for **Modularity**—they freeze perfectly and can be pulled out for a high-protein lunch component.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is our favorite high-performance "Fuel" breakfast. We use **The Blender Pat
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Apple Slices
-- [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
+- [Chocolate Blended Oats](/silton-mise/recipes/chocolate-blended-oats-with-raspberry-chia-jam)

@@ -1,7 +1,7 @@
 ---
 title: Chana Begoon (Chickpea and Eggplant Curry)
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-The tragedy of eggplant curry is the "mush." We solve this with the **Silton Texture Pattern**: we **Roast** the eggplant cubes at high heat (425°F) separately until they are browned and meaty, adding them to the chickpea gravy only at the very end. This ensures the eggplant holds its shape and provides a satisfying "bite" that rivals meat. Always finish with a squeeze of lemon to provide the **Acid Finish**.
+The tragedy of eggplant curry is the "mush." We solve this with the **Executive Texture Method**: we **Roast** the eggplant cubes at high heat (425°F) separately until they are browned and meaty, adding them to the chickpea gravy only at the very end. This ensures the eggplant holds its shape and provides a satisfying "bite" that rivals meat. Always finish with a squeeze of lemon to provide the **Acid Balance**.
 
 ## Directions
 
@@ -38,6 +38,6 @@ The tragedy of eggplant curry is the "mush." We solve this with the **Silton Tex
 
 ## Serving Suggestions
 
-- [Basmati Rice](/recipes/basmati-rice)
-- [Homemade Naan](/recipes/homemade-naan)
-- [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
+- [Homemade Naan](/silton-mise/recipes/homemade-naan)
+- [Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers)

@@ -1,7 +1,7 @@
 ---
 title: Weeknight Tacos (The Family Setup)
 role: main
-vibe: speed
+vibe: quick
 prepTime: 15 min
 cookTime: 10 min
 totalTime: 25 min
@@ -12,10 +12,10 @@ ingredients:
   - '1/2 cup Water'
   - 'Hard Taco Shells and Flour Tortillas'
   - '--- The Sides & Toppings ---'
-  - '[Mexican Rice](/recipes/near-east-rice-pilaf-hack)'
+  - '[Mexican Rice](/silton-mise/recipes/homemade-rice-pilaf)'
   - 'Black Beans (seasoned with cumin and garlic)'
   - 'Avocado and Diced Tomato'
-  - '[Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers) (The crunch secret)'
+  - '[Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers) (The crunch secret)'
   - 'Shredded Cheese'
 ---
 
@@ -31,6 +31,6 @@ The secret to a great weeknight taco bar is **Contrast and Depth**. Ground turke
 
 ## Serving Suggestions
 
-- [Mexican Street Corn Salad](/recipes/mexican-street-corn-salad)
+- [Mexican Street Corn Salad](/silton-mise/recipes/mexican-street-corn-salad)
 - Fresh Lime Wedges
-- Extra [Korean Pickled Cucumbers](/recipes/korean-pickled-cucumbers)
+- Extra [Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers)

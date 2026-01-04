@@ -19,7 +19,7 @@ ingredients:
 
 ## Chef's Note
 
-The difference between average cornbread and the Silton Standard is **Structural Science** through **The Skillet Sizzle Pattern**. You must preheat your cast-iron skillet _with_ the butter inside until it is screaming hot and foaming. When you pour the cold batter into the hot oil, it creates an immediate deep-gold "Snap" on the bottom crust that is unattainable in a cold baking dish. The **Buttermilk and Baking Soda** reaction provides the necessary "Bounce" and lift.
+The difference between average cornbread and the Kitchen Standard is **Culinary Technique** through **The Skillet Sizzle Method**. You must preheat your cast-iron skillet _with_ the butter inside until it is screaming hot and foaming. When you pour the cold batter into the hot oil, it creates an immediate deep-gold Crunch on the bottom crust that is unattainable in a cold baking dish. The **Buttermilk and Baking Soda** reaction provides the necessary Texture and lift.
 
 ## Directions
 
@@ -34,6 +34,6 @@ The difference between average cornbread and the Silton Standard is **Structural
 
 ## Serving Suggestions
 
-- [Turkey and Sweet Potato Chili](/recipes/chili)
-- [Crockpot Vegetarian Chili](/recipes/crockpot-vegetarian-chili)
-- [Buttermilk Baked Chicken](/recipes/buttermilk-baked-chicken)
+- [Turkey and Sweet Potato Chili](/silton-mise/recipes/chili)
+- [Crockpot Vegetarian Chili](/silton-mise/recipes/crockpot-vegetarian-chili)
+- [Buttermilk Baked Chicken](/silton-mise/recipes/buttermilk-baked-chicken)

@@ -1,7 +1,7 @@
 ---
 title: Pasta with Sausage, Basil & Mustard
 role: main
-vibe: speed
+vibe: quick
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min
@@ -12,7 +12,7 @@ ingredients:
   - '--- The Mustard Emulsion ---'
   - '3/4 cup Dry White Wine'
   - '3/4 cup Heavy Cream'
-  - '3 tbsp Grainy Dijon Mustard (The High Note)'
+  - '3 tbsp Grainy Dijon Mustard (The Finishing Touch)'
   - '--- The Finish ---'
   - '1 cup Fresh Basil, thinly sliced'
   - '1 tbsp Extra-Virgin Olive Oil'
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 30-minute "Speed" meal that relies on **The Mustard Emulsion Pattern**. The secret to the Silton Standard is the **Wine Reduction**: we simmer the hot Italian sausage directly in white wine, scraping up the "fond" to create a deeply savory base. The addition of **Grainy Mustard** provides the mandatory **Acid Finish** that cuts through the rich heavy cream and fatty sausage. We maintain **Texture Integrity** by using a tube-shaped pasta (like rigatoni) which acts as a trap for the thick, creamy sauce.
+This is a 30-minute quick meal that relies on **The Mustard Emulsion Method**. The secret to the Kitchen Standard is the **Wine Reduction**: we simmer the hot Italian sausage directly in white wine, scraping up the "fond" to create a deeply savory base. The addition of **Grainy Mustard** provides the mandatory **Acid Balance** that cuts through the rich heavy cream and fatty sausage. We maintain **Textural Balance** by using a tube-shaped pasta (like rigatoni) which acts as a trap for the thick, creamy sauce.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is a 30-minute "Speed" meal that relies on **The Mustard Emulsion Pattern**
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
-- [Garlic Bread](/recipes/garlic-bread)
-- [Roasted Green Bean "Fries"](/recipes/roasted-green-bean-fries)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Mandatory)
+- [Garlic Bread](/silton-mise/recipes/garlic-bread)
+- [Roasted Green Bean "Fries"](/silton-mise/recipes/roasted-green-bean-fries)

@@ -1,5 +1,5 @@
 ---
-title: Farfel Muffins (The Passover Standard)
+title: Farfel Muffins
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -16,7 +16,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Modern Heritage** update to a beloved Silton holiday tradition. We have replaced the legacy margarine with **Unsalted Butter** to provide a richer flavor and a more consistent "Snap" to the exterior. The secret to the Silton Standard is the **Hydration Pause**: after mixing the farfel with boiling water, you must let it cool completely before adding the eggs. This prevents the eggs from scrambling and ensures a firm, bready "Bounce" that makes these the Gold Standard for Passover breakfasts.
+This is a **Updated Classic** update to a beloved Executive holiday tradition. We have replaced the legacy margarine with **Unsalted Butter** to provide a richer flavor and a more consistent Crunch to the exterior. The secret to the Kitchen Standard is the **Hydration Pause**: after mixing the farfel with boiling water, you must let it cool completely before adding the eggs. This prevents the eggs from scrambling and ensures a firm, bready Texture that makes these the Kitchen Standard for Passover breakfasts.
 
 ## Directions
 
@@ -28,6 +28,6 @@ This is a **Modern Heritage** update to a beloved Silton holiday tradition. We h
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Fresh Fruit Platter
-- [Breakfast Protein Biscuits](/recipes/breakfast-protein-biscuits) (for non-Passover mornings)
+- [Breakfast Protein Biscuits](/silton-mise/recipes/breakfast-protein-biscuits) (for non-Passover mornings)

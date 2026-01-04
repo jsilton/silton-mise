@@ -1,7 +1,7 @@
 ---
-title: Charred Broccoli (The High-Heat Standard)
+title: Charred Broccoli
 role: side
-vibe: speed
+vibe: quick
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -17,7 +17,7 @@ ingredients:
 
 ## Chef's Note
 
-The common mistake with broccoli is steaming it until it's a limp, sulfurous mess. We apply the **Silton Texture Pattern**: we sear the raw florets in a screaming hot pan until they are charred and nutty on the outside but still have a firm "snap" inside. The soy sauce provides a deep umami seasoning that salt alone cannot match.
+The common mistake with broccoli is steaming it until it's a limp, sulfurous mess. We apply the **Executive Texture Method**: we sear the raw florets in a screaming hot pan until they are charred and nutty on the outside but still have a firm "snap" inside. The soy sauce provides a deep umami seasoning that salt alone cannot match.
 
 ## Directions
 
@@ -30,6 +30,6 @@ The common mistake with broccoli is steaming it until it's a limp, sulfurous mes
 
 ## Pairs With
 
-- [Honey Sesame Chicken](/recipes/honey-sesame-chicken)
-- [Chicken Milanese](/recipes/chicken-milanese)
-- [Shrimp with Lobster Sauce](/recipes/shrimp-lobster-sauce)
+- [Honey Sesame Chicken](/silton-mise/recipes/honey-sesame-chicken)
+- [Chicken Milanese](/silton-mise/recipes/chicken-milanese)
+- [Shrimp with Lobster Sauce](/silton-mise/recipes/shrimp-lobster-sauce)

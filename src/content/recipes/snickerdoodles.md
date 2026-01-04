@@ -34,5 +34,5 @@ What separates a Snickerdoodle from a standard sugar cookie is **Chemistry**. Th
 
 ## Serving Suggestions
 
-- [Old-Fashioned Fresh Peach Ice Cream](/recipes/old-fashioned-fresh-peach-ice-cream)
+- [Old-Fashioned Fresh Peach Ice Cream](/silton-mise/recipes/old-fashioned-fresh-peach-ice-cream)
 - Hot Apple Cider

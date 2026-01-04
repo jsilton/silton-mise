@@ -15,7 +15,7 @@ ingredients:
   - '3 1/2 cups Whole Milk'
   - '4 tbsp Unsalted Butter'
   - '1/4 cup All-Purpose Flour'
-  - '2 tsp Dijon Mustard (The High Note)'
+  - '2 tsp Dijon Mustard (The Finishing Touch)'
   - 'Pinch of Nutmeg and Cayenne'
   - '--- The Breadcrumb Snap ---'
   - '1/2 cup Panko Breadcrumbs'
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Gold Standard" for technical comfort food. The secret to its Success is **Texture Integrity** through **The Staged Roast Pattern**: we roast the butternut squash at high heat (400°F) until tender and charred _before_ folding it into the cheese sauce. This prevents the squash from dissolving into a mushy puree. We use **The Mornay Emulsion**: whisking Dijon and nutmeg into the roux creates a sophisticated "Bounce" that balances the heavy cheddar. The Panko topping provides the mandatory **Textural Snap**.
+This is the "Kitchen Standard" for technical comfort food. The secret to its Success is **Textural Balance** through **The Staged Roast Method**: we roast the butternut squash at high heat (400°F) until tender and charred _before_ folding it into the cheese sauce. This prevents the squash from dissolving into a mushy puree. We use **The Mornay Emulsion**: whisking Dijon and nutmeg into the roux creates a sophisticated Texture that balances the heavy cheddar. The Panko topping provides the mandatory **Textural Snap**.
 
 ## Directions
 
@@ -33,11 +33,11 @@ This is the "Gold Standard" for technical comfort food. The secret to its Succes
 3.  **The Roux:** In a large pot, melt 4 tbsp butter. Whisk in flour and cook for 2 minutes until golden.
 4.  **Emulsify:** Slowly whisk in milk. Simmer until the sauce coats a spoon. Stir in the cheddar, mustard, nutmeg, and cayenne until molten.
 5.  **Combine:** Fold the pasta and roasted squash into the cheese sauce. Transfer to a greased 2-quart dish.
-6.  **The Snap:** Toss panko with 2 tbsp melted butter and Parmesan. Sprinkle over the top.
+6.  **The Crunch:** Toss panko with 2 tbsp melted butter and Parmesan. Sprinkle over the top.
 7.  **Bake:** Bake at 350°F for 30 minutes until bubbling and mahogany gold.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
-- [Roasted Tomato Basil Soup](/recipes/roasted-tomato-basil-soup)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
+- [Roasted Tomato Basil Soup](/silton-mise/recipes/roasted-tomato-basil-soup)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)

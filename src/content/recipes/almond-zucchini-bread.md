@@ -1,7 +1,7 @@
 ---
-title: Almond Zucchini Bread (The Moist Standard)
+title: Almond Zucchini Bread
 role: side
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 40 min
 totalTime: 50 min
@@ -35,4 +35,4 @@ The secret to zucchini bread that isn't gummy is **The Squeeze**. Zucchini is mo
 ## Serving Suggestions
 
 - Salted Butter
-- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)
+- [Ultimate Crock-Pot Sipping Chocolate](/silton-mise/recipes/crock-pot-hot-chocolate)

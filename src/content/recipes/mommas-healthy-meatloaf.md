@@ -1,5 +1,5 @@
 ---
-title: Momma's Healthy Meatloaf (The Panade Method)
+title: 'Momma’s Healthy Meatloaf'
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-To keep a "Healthy" meatloaf juicy when using lean meats, we use a **Panade**: a mixture of breadcrumbs and milk that creates a moisture reservoir inside the loaf. We also "hide" a massive amount of vegetables (carrots and zucchini) to provide bulk and nutrition. The secret to the Silton Standard is **Squeezing the Zucchini**: if you don't remove the excess water from the zucchini, the loaf will be mushy and fall apart.
+To keep a "Healthy" meatloaf juicy when using lean meats, we use a **Panade**: a mixture of breadcrumbs and milk that creates a moisture reservoir inside the loaf. We also "hide" a massive amount of vegetables (carrots and zucchini) to provide bulk and nutrition. The secret to the Kitchen Standard is **Squeezing the Zucchini**: if you don't remove the excess water from the zucchini, the loaf will be mushy and fall apart.
 
 ## Directions
 
@@ -39,6 +39,6 @@ To keep a "Healthy" meatloaf juicy when using lean meats, we use a **Panade**: a
 
 ## Serving Suggestions
 
-- [Patate al Forno](/recipes/patate-al-forno) (Crispy Roast Potatoes)
+- [Patate al Forno](/silton-mise/recipes/patate-al-forno) (Crispy Roast Potatoes)
 - Steamed Broccoli with Garlic
-- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)
+- [Nana Ruth's Applesauce](/silton-mise/recipes/nana-ruths-applesauce)

@@ -1,7 +1,7 @@
 ---
 title: Healthy Carrot Cake Muffins
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 15 min
 cookTime: 20 min
 totalTime: 35 min
@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-These muffins are the "Gold Standard" for breakfast fuel. The secret to a professional-grade carrot muffin is **Texture Integrity** through the **Fine Shred Pattern**: you must use the smallest holes on your grater for the carrots so they "melt" into the batter, providing moisture without large, distracting chunks. We use **Applesauce** to reduce the oil content while maintaining a dense "Bounce." The cream cheese glaze provides the mandatory **Acid Finish**—dip the tops while cold for a clean, professional "Snap."
+These muffins are the "Kitchen Standard" for breakfast fuel. The secret to a professional-grade carrot muffin is **Textural Balance** through the **Fine Shred Method**: you must use the smallest holes on your grater for the carrots so they "melt" into the batter, providing moisture without large, distracting chunks. We use **Applesauce** to reduce the oil content while maintaining a dense "Bounce." The cream cheese glaze provides the mandatory **Acid Balance**—dip the tops while cold for a clean, professional "Snap."
 
 ## Directions
 
@@ -43,6 +43,6 @@ These muffins are the "Gold Standard" for breakfast fuel. The secret to a profes
 
 ## Serving Suggestions
 
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
 - Fresh Sliced Apples
-- [Chocolate Blended Oats](/recipes/chocolate-blended-oats-with-raspberry-chia-jam)
+- [Chocolate Blended Oats](/silton-mise/recipes/chocolate-blended-oats-with-raspberry-chia-jam)

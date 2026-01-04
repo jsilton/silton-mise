@@ -1,7 +1,7 @@
 ---
 title: Beef Tenderloin Dogs with Zesty Corn Relish
 role: main
-vibe: project
+vibe: technical
 prepTime: 20 min
 cookTime: 15 min
 totalTime: 35 min
@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-end take on a cookout classic. The beef tenderloin is incredibly tender, so we treat it with **High-Heat Minimalist Cooking**: a hard sear to get a crust while keeping the center medium-rare. The **Corn Relish** provides the essential Silton "Acid Crunch" that makes this dish feel light and balanced rather than heavy.
+This is a high-end take on a cookout classic. The beef tenderloin is incredibly tender, so we treat it with **High-Heat Minimalist Cooking**: a hard sear to get a crust while keeping the center medium-rare. The **Corn Relish** provides the essential Executive "Acid Crunch" that makes this dish feel light and balanced rather than heavy.
 
 ## Directions
 
@@ -35,6 +35,6 @@ This is a high-end take on a cookout classic. The beef tenderloin is incredibly 
 
 ## Serving Suggestions
 
-- [Sweet Potato Fries](/recipes/sweet-potato-fries)
+- [Sweet Potato Fries](/silton-mise/recipes/sweet-potato-fries)
 - Pickle Spears
-- Cold Beer or [Vieux Carré](/recipes/vieux-carre)
+- Cold Beer or [Vieux Carré](/silton-mise/recipes/vieux-carre)

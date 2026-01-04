@@ -1,7 +1,7 @@
 ---
 title: Steel-Cut Oatmeal
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 5 min
 cookTime: 35 min
 totalTime: 40 min
@@ -9,11 +9,11 @@ servings: '4'
 ingredients:
   - '1 cup Steel-cut Oats'
   - '3 cups Boiling Water'
-  - '--- The "Bounce" Emulsion ---'
+  - '--- Emulsion ---'
   - '1/2 cup Whole Milk'
-  - '1/2 cup Low-fat Buttermilk (The Acid Finish)'
+  - '1/2 cup Low-fat Buttermilk (The Acid Balance)'
   - '1 tbsp Unsalted Butter'
-  - '--- The High Note ---'
+  - '--- The Finishing Touch ---'
   - '1 tbsp Light Brown Sugar'
   - '1/4 tsp Ground Cinnamon'
   - 'Pinch of Sea Salt'
@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Gold Standard" oatmeal is **Structural Science** through **The Toasting Pattern**. You must fry the dry oats in butter for 2 minutes _before_ adding the water; this creates a protective nutty shell that ensures each grain maintains a resilient "Snap" rather than turning into a gluey mash. We use **Buttermilk** as the mandatory **Acid Finish**; stirring it in at the very end provides a sophisticated tang that balances the sweet brown sugar and gives the porridge a rich, custardy "Bounce."
+The secret to "Kitchen Standard" oatmeal is **Culinary Technique** through **The Toasting Method**. You must fry the dry oats in butter for 2 minutes _before_ adding the water; this creates a protective nutty shell that ensures each grain maintains a resilient Crunch rather than turning into a gluey mash. We use **Buttermilk** as the mandatory **Acid Balance**; stirring it in at the very end provides a sophisticated tang that balances the sweet brown sugar and gives the porridge a rich, custardy "Bounce."
 
 ## Directions
 
@@ -34,5 +34,5 @@ The secret to "Gold Standard" oatmeal is **Structural Science** through **The To
 ## Serving Suggestions
 
 - Fresh Sliced Strawberries
-- [Easy Breakfast Yogurt Popsicles](/recipes/easy-breakfast-yogurt-popsicles)
-- [Mango-Rita Green Smoothie](/recipes/mango-rita-green-smoothie)
+- [Easy Breakfast Yogurt Popsicles](/silton-mise/recipes/easy-breakfast-yogurt-popsicles)
+- [Mango-Rita Green Smoothie](/silton-mise/recipes/mango-rita-green-smoothie)

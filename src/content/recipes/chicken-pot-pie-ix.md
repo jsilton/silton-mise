@@ -1,7 +1,7 @@
 ---
-title: The Gold Standard Chicken Pot Pie
+title: The Kitchen Standard Chicken Pot Pie
 role: main
-vibe: project
+vibe: technical
 prepTime: 45 min
 cookTime: 40 min
 totalTime: 90 min
@@ -18,13 +18,13 @@ ingredients:
   - '2/3 cup Whole Milk'
   - '1/2 tsp Garlic Powder + 1/4 tsp Celery Seed'
   - '--- The Flaky Crust ---'
-  - '2 (9-inch) unbaked pie crusts (Use the [Apple Pie](/recipes/apple-pie) Vodka Hack dough!)'
+  - '2 (9-inch) unbaked pie crusts (Use the [Apple Pie](/silton-mise/recipes/apple-pie) Vodka Hack dough!)'
   - '1 large Egg (for wash)'
 ---
 
 ## Chef's Note
 
-A great pot pie is defined by the **Velouté** (the gravy) and the **Flaky Crust**. We have moved away from the "boiled chicken" version; instead, use poached or roasted chicken chunks to preserve the meaty texture. The secret to the Silton Standard is the **Celery Seed**: it provides that "savory soul" that makes the pie taste like a professional bakery version. For the best result, use the Vodka Hack dough from our Apple Pie recipe.
+A great pot pie is defined by the **Velouté** (the gravy) and the **Flaky Crust**. We have moved away from the "boiled chicken" version; instead, use poached or roasted chicken chunks to preserve the meaty texture. The secret to the Kitchen Standard is the **Celery Seed**: it provides that "savory soul" that makes the pie taste like a professional bakery version. For the best result, use the Vodka Hack dough from our Apple Pie recipe.
 
 ## Directions
 
@@ -39,5 +39,5 @@ A great pot pie is defined by the **Velouté** (the gravy) and the **Flaky Crust
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad)
 - Roasted Asparagus

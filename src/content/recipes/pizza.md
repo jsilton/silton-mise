@@ -1,24 +1,24 @@
 ---
-title: Pizza (The Silton Standard)
+title: Pizza
 role: main
-vibe: fuel
+vibe: nutritious
 prepTime: 10 min
 cookTime: 12 min
 totalTime: 22 min
 servings: '4'
 ingredients:
-  - '2 balls [Fresh Pasta Dough](/recipes/fresh-pasta-dough) (or Pizza Dough)'
+  - '2 balls [Fresh Pasta Dough](/silton-mise/recipes/fresh-pasta-dough) (or Pizza Dough)'
   - '1 cup Pizza Sauce (The "Silk" Base)'
   - '12 oz Shredded Mozzarella (Whole-milk preferred)'
-  - '--- The Texture Stacks ---'
+  - '--- Stacks ---'
   - 'Pepperoni slices'
-  - 'Fresh Spinach (The "Bounce" Green)'
-  - 'Fresh Pineapple (The "Acid Finish" Snap)'
+  - 'Fresh Spinach (greens)'
+  - 'Fresh Pineapple (The "Acid Balance" Snap)'
 ---
 
 ## Chef's Note
 
-The secret to a "Gold Standard" home pizza is **Structural Science** through **The Thermal Stone Pattern**. You must preheat your oven (and pizza stone) to its maximum temperature (500°F+) for at least 30 minutes. This creates an immediate "Snap" on the bottom crust while the whole-milk mozzarella develops a blistered "Bounce." We maintain **Texture Integrity** by adding the spinach only during the final 2 minutes of baking to prevent it from turning into a wet clump. The pineapple provides the mandatory **Acid Finish** to cut through the salty pepperoni.
+The secret to a "Kitchen Standard" home pizza is **Culinary Technique** through **The Thermal Stone Method**. You must preheat your oven (and pizza stone) to its maximum temperature (500°F+) for at least 30 minutes. This creates an immediate Crunch on the bottom crust while the whole-milk mozzarella develops a blistered "Bounce." We maintain **Textural Balance** by adding the spinach only during the final 2 minutes of baking to prevent it from turning into a wet clump. The pineapple provides the mandatory **Acid Balance** to cut through the salty pepperoni.
 
 ## Directions
 
@@ -28,10 +28,10 @@ The secret to a "Gold Standard" home pizza is **Structural Science** through **T
 4.  **Top:** Arrange the pepperoni and pineapple slices.
 5.  **Bake:** Slide the pizza (with the parchment) onto the hot stone. Bake for 8-10 minutes until the crust is charred and the cheese is bubbling.
 6.  **The Wilt:** During the final 2 minutes, scatter the fresh spinach over the top.
-7.  **Serve:** Remove from the oven. Let rest for 2 minutes (The Set Cycle) before slicing.
+7.  **Serve:** Remove from the oven. Let rest for 2 minutes (The Finish Cycle) before slicing.
 
 ## Serving Suggestions
 
-- [Everyday Arugula Salad](/recipes/everyday-arugula-salad) (Mandatory)
-- [Classic Martini](/recipes/classic-martini) (The Cold Standard)
-- [Hot-and-Sour Soup](/recipes/hot-and-sour-soup) (The Silton "Night Before" tradition)
+- [Everyday Arugula Salad](/silton-mise/recipes/everyday-arugula-salad) (Mandatory)
+- [Classic Martini](/silton-mise/recipes/classic-martini) (Chilled)
+- [Hot-and-Sour Soup](/silton-mise/recipes/hot-and-sour-soup) (The Executive "Night Before" tradition)

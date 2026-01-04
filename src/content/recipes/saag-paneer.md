@@ -1,5 +1,5 @@
 ---
-title: Saag Paneer (The Restaurant Standard)
+title: Saag Paneer
 role: main
 vibe: comfort
 prepTime: 15 min
@@ -39,6 +39,6 @@ This is a professional-grade Saag that relies on the **Soak Method**. Paneer can
 
 ## Serving Suggestions
 
-- [Chicken Tikka Masala](/recipes/chicken-tikka-masala)
-- [Basmati Rice](/recipes/basmati-rice)
+- [Chicken Tikka Masala](/silton-mise/recipes/chicken-tikka-masala)
+- [Basmati Rice](/silton-mise/recipes/basmati-rice)
 - Warm Naan

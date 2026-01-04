@@ -1,7 +1,7 @@
 ---
 title: Brown Butter-Chocolate Soufflé
 role: dessert
-vibe: project
+vibe: technical
 prepTime: 30 min
 cookTime: 30 min
 totalTime: 60 min
@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-Mastering the soufflé is about **Structural Science**, not luck. We use the **Aeration Pattern**: we whip egg whites with cream of tartar to stabilize the protein bubbles, then gently fold in a rich brown-butter chocolate base. The secret to the height is the **Nutty Butter Coating**: we brush the dish with chilled brown butter and sugar, creating a "ladder" that allows the batter to climb the walls of the dish as it rises. Serve immediately—minimal deflation is the goal, but the flavor remains elite regardless.
+Mastering the soufflé is about **Culinary Technique**, not luck. We use the **Aeration Method**: we whip egg whites with cream of tartar to stabilize the protein bubbles, then gently fold in a rich brown-butter chocolate base. The secret to the height is the **Nutty Butter Coating**: we brush the dish with chilled brown butter and sugar, creating a "ladder" that allows the batter to climb the walls of the dish as it rises. Serve immediately—minimal deflation is the goal, but the flavor remains elite regardless.
 
 ## Directions
 
@@ -36,6 +36,6 @@ Mastering the soufflé is about **Structural Science**, not luck. We use the **A
 
 ## Serving Suggestions
 
-- [Old-Fashioned Strawberry Ice Cream](/recipes/old-fashioned-strawberry-ice-cream)
+- [Old-Fashioned Strawberry Ice Cream](/silton-mise/recipes/old-fashioned-strawberry-ice-cream)
 - Fresh Raspberries
 - Glass of Port or Espresso

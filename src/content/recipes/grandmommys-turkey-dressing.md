@@ -1,5 +1,5 @@
 ---
-title: Grandmommy's Turkey Dressing
+title: 'Grandmommy’s Turkey Dressing'
 role: side
 vibe: holiday
 prepTime: 20 min
@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the soul of the Silton Thanksgiving. The secret to its elite texture is **The Crumble Pattern**: we bake a fresh tray of cornbread from scratch and then combine it with crumbled stale white bread. This mix of grain structures ensures the dressing has both "Bounce" and "Snap" rather than turning into a uniform mush. We have upgraded the legacy margarine to **Unsalted Butter** for a cleaner, holiday-worthy flavor. The "Golden Rule" is the broth addition: pour just until it reaches the top of the bread—any more and you'll lose the **Texture Integrity**.
+This is the soul of the Executive Thanksgiving. The secret to its elite texture is **The Crumble Method**: we bake a fresh tray of cornbread from scratch and then combine it with crumbled stale white bread. This mix of grain structures ensures the dressing has both Texture and Crunch rather than turning into a uniform mush. We have upgraded the legacy margarine to **Unsalted Butter** for a cleaner, holiday-worthy flavor. The "Golden Rule" is the broth addition: pour just until it reaches the top of the bread—any more and you'll lose the **Textural Balance**.
 
 ## Directions
 
@@ -37,6 +37,6 @@ This is the soul of the Silton Thanksgiving. The secret to its elite texture is 
 
 ## Serving Suggestions
 
-- [Perfect Cranberry Sauce](/recipes/perfect-cranberry-sauce)
-- [Roast Turkey Breast](/recipes/roast-turkey-breast)
-- [Cinnamon Sweet Potatoes](/recipes/cinnamon-sweet-potatoes)
+- [Perfect Cranberry Sauce](/silton-mise/recipes/perfect-cranberry-sauce)
+- [Roast Turkey Breast](/silton-mise/recipes/roast-turkey-breast)
+- [Cinnamon Sweet Potatoes](/silton-mise/recipes/cinnamon-sweet-potatoes)
