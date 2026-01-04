@@ -1,26 +1,38 @@
 ---
-title: Cast Iron Skillet Corn Bread
-prepTime: 15 min
-cookTime: 25 min
-servings: 'Yield: 8 to 10 servings'
-ingredients:
-  - 1 1/4 cups coarsely ground cornmeal
-  - 3/4 cup all-purpose flour
-  - 1/4 cup granulated sugar
-  - 1 teaspoon kosher salt
-  - 2 teaspoons baking powder
-  - 1/2 teaspoon baking soda
-  - 1/3 cup whole milk
-  - 1 cup buttermilk
-  - '2 eggs, lightly beaten'
-  - '8 tablespoons unsalted butter, melted'
-totalTime: 40 min
+title: Cast Iron Skillet Cornbread (The Crispy Standard)
 role: side
 vibe: speed
+prepTime: 10 min
+cookTime: 20 min
+totalTime: 30 min
+servings: '8'
+ingredients:
+  - '1 1/4 cups Yellow Cornmeal'
+  - '3/4 cup All-Purpose Flour'
+  - '1/4 cup Granulated Sugar'
+  - '1 cup Buttermilk'
+  - '2 large Eggs'
+  - '8 tbsp Unsalted Butter (melted)'
+  - '1 tsp Baking Powder + 1/2 tsp Baking Soda'
+  - '1 tsp Kosher Salt'
 ---
+
+## Chef's Note
+
+The secret to "Restaurant Quality" cornbread is the **Preheated Skillet**. By getting your cast iron skillet screaming hot in the oven before pouring in the batter, you "fry" the bottom and sides instantly, resulting in a dark, buttery, crunchy crust that a standard baking dish cannot achieve.
 
 ## Directions
 
-1. Preheat the oven to 425 degrees F and place a 9-inch cast iron skillet inside to heat while you make the batter.
-2. In a large bowl, whisk together the cornmeal, flour, sugar, salt, baking powder, and baking soda. Whisk in the milk, buttermilk, and eggs. Whisk in almost all of the melted butter, reserving about 1 tablespoon for the skillet later on.
-3. Carefully remove the hot skillet from the oven. Reduce oven temperature to 375 degrees F. Coat the bottom and sides of the hot skillet with the remaining butter. Pour the batter into the skillet and place it in the center of the oven. Bake until the center is firm and a cake tester or toothpick inserted into the center comes out clean, 20 to 25 minutes. Allow to cool for 10 to 15 minutes and serve.
+1.  **Preheat:** Place a 9-inch cast iron skillet in the oven and preheat to 425°F.
+2.  **Dry:** Whisk the cornmeal, flour, sugar, salt, baking powder, and soda in a large bowl.
+3.  **Wet:** In another bowl, whisk buttermilk, eggs, and 7 tbsp of the melted butter.
+4.  **Mix:** Fold wet into dry until just combined.
+5.  **The Sear:** Carefully remove the hot skillet. Add the remaining 1 tbsp of butter—it should sizzle and melt instantly. Swirl to coat the sides.
+6.  **Bake:** Pour the batter into the hot skillet (it should crackle!). Reduce oven to 375°F. Bake for 20-22 minutes until the center is firm and the edges are deep brown.
+7.  **Serve:** Slice directly in the skillet and serve with honey butter.
+
+## Serving Suggestions
+
+- [Turkey and Sweet Potato Chili](/recipes/chili)
+- [Classic Beef Stew](/recipes/classic-beef-stew)
+- [IP Pulled Pork](/recipes/instant-pot-pulled-pork)

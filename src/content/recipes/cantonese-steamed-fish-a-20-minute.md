@@ -1,28 +1,37 @@
 ---
-title: 'Cantonese Steamed Fish: A 20 Minute'
-prepTime: 5 min
-cookTime: 15 min
-ingredients:
-  - 2 scallions
-  - 2 tablespoons ginger (julienned)
-  - 1 small bunch cilantro
-  - 1 ½ tablespoons light soy sauce (or seasoned soy sauce)
-  - 1/8 teaspoon salt
-  - 1/8 teaspoon sugar
-  - 2 tablespoons water
-  - '1 medium tilapia, grey sole, flounder or fluke filet'
-  - 2 tablespoons oil
-totalTime: 20 min
+title: Cantonese Steamed Fish (The 20-Minute Standard)
 role: main
 vibe: speed
-servings: Unknown
+prepTime: 5 min
+cookTime: 15 min
+totalTime: 20 min
+servings: '2'
+ingredients:
+  - '1 lb Whole Fish or Fillet (Tilapia, Flounder, or Sole)'
+  - '--- The Aromatics ---'
+  - '3 tbsp Fresh Ginger, julienned'
+  - '3 Green Onions, thinly sliced (white and green separated)'
+  - '1/2 cup Fresh Cilantro'
+  - '--- The Sizzling Sauce ---'
+  - '3 tbsp Light Soy Sauce'
+  - '1 tsp Sugar'
+  - '3 tbsp Neutral Oil (Avocado or Grapeseed)'
 ---
+
+## Chef's Note
+
+This is the "Gold Standard" for fish. The secret is the **Sizzling Oil Finish**: we steam the fish with ginger to infuse flavor, but the magic happens when we pour smoking-hot oil over raw scallions and cilantro on top of the fish. This flash-cooks the herbs, releasing their aroma directly into the meat. The soy sauce should be seasoned with a hint of sugar to balance the salt.
 
 ## Directions
 
-1. Julienne the scallion and ginger and set aside. Give the cilantro a rough chop and set that aside as well. Combine the soy sauce, salt, sugar and water into a small bowl and mix well.
-2. Prepare your steamer setup, which these days you can purchase easily online or at the store. What also works is a wok or large saucepan or pot with a cover and small a round metal elevated rack you can put the plate on. I’ve even used a cleaned empty tuna can for the plate to sit on, and it works just fine.
-3. Fill your wok or saucepan with about an inch of water, cover and bring it to a boil. Carefully place your plate with the fish on the rack. Cover and steam for about 10 minutes. You can check it for doneness by using a butter knife. If it easily cuts through to the bottom of the plate, your fish is done!
-4. Turn off the heat. Carefully remove the plate from the pot and drain any remaining water off. At this point, you can also transfer the fish to a nice serving plate. Spread the cilantro and about one third of the scallion (use the green portions), directly onto the steamed fish.
-5. Heat a small saucepan to medium to high heat and add 2 tbsp of canola oil. Add the ginger and let it brown lightly, about a minute. Then add the rest of the scallions. The mixture should be giving a good sizzle right about now…
-6. Next, add your soy mixture to the saucepan and keep the heat on high to keep everything sizzling. Cook until the scallions are wilted – about 30 seconds. Take it off the heat and spoon the entire mixture over the fish. Serve immediately!
+1.  **Steam:** Place the fish on a heat-proof plate. Scatter half the ginger on top. Steam over boiling water for 8-10 minutes until the fish flakes easily.
+2.  **Drain:** Carefully pour off any excess liquid from the plate (this liquid can be "fishy").
+3.  **Layer:** Arrange the remaining ginger, scallion greens, and cilantro in a pile on top of the cooked fish.
+4.  **The Sauce:** Whisk the soy sauce and sugar. Pour it around the base of the fish.
+5.  **The Sizzle:** In a small saucepan, heat the oil until it is literally smoking.
+6.  **Finish:** Carefully pour the hot oil directly over the herbs and ginger. It should sizzle loudly. Serve immediately.
+
+## Serving Suggestions
+
+- [Jasmine Rice](/recipes/near-east-rice-pilaf-hack) (Rinse 3 times!)
+- Steamed Bok Choy with Garlic

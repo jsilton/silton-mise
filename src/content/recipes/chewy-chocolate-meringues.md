@@ -1,21 +1,34 @@
 ---
 title: Chewy Chocolate Meringues
-servings: 3 dozen
+role: dessert
+vibe: comfort
+prepTime: 20 min
+cookTime: 45 min
+totalTime: 70 min
+servings: '36 cookies'
 ingredients:
-  - 1 cup egg whites
-  - 2 cups sugar
-  - 1 cup dark chocolate chips
-role: main
-vibe: fuel
+  - '1 cup Egg Whites, room temperature (about 6-7 large eggs)'
+  - '2 cups Granulated Sugar'
+  - '1 cup Dark Chocolate Chips'
+  - '1/2 tsp Cream of Tartar'
+  - 'Pinch of Kosher Salt'
 ---
+
+## Chef's Note
+
+The secret to a meringue that is "Chewy" rather than just "Crispy" is the **Sugar Dissolution**. By gently heating the egg whites and sugar before whipping, you ensure the sugar crystals are fully dissolved into the protein structure. This results in a silky, stable foam that bakes into a cookie with a "shattering" shell and a marshmallow-like fudgy center.
 
 ## Directions
 
-1. Preheat the oven to 250 degrees. Line two baking sheets with parchment paper.
-2. Run sugar through the food processor until moderately fine.
-3. Place the egg whites and sugar in a medium saucepan over medium-low heat. Cook, stirring, until the sugar melts.
-4. Place the warm egg white and sugar mixture in the bowl of a stand mixer and beat on high until the whites are stiff and glossy, about 5 – 10 minutes.
-5. Add the chocolate chips and mix on medium until incorporated.
-6. Scoop large spoonfuls onto the prepared baking sheets. These cookies won’t spread, but you want to keep an inch between them on the sheet. They will look like fluffy clouds, and will retain this shape during baking.
-7. Bake in the oven for about 45 minutes, rotating the sheets halfway through, until they are hard on the outside and soft in the center. The best way to test is to break one in half and make sure it’s cooked through, but still soft.
-8. Allow to cool completely on the baking sheet before removing them carefully with your hands. Store in an airtight container up to 4 days.
+1.  **Prep:** Preheat oven to 250°F. Line two baking sheets with parchment paper.
+2.  **Dissolve:** In a heat-proof bowl set over a pot of simmering water (double boiler), combine egg whites, sugar, and salt. Whisk gently until the sugar is dissolved and the mixture feels smooth (not gritty) between your fingers.
+3.  **Whip:** Transfer to a stand mixer. Add cream of tartar. Whip on high speed for 8-10 minutes until the whites are stiff, glossy, and the bowl feels cool to the touch.
+4.  **Fold:** Gently fold in the chocolate chips by hand.
+5.  **Portion:** Use a large spoon or cookie scoop to place clouds of batter onto the sheets. They will not spread, so you can place them 1 inch apart.
+6.  **Bake:** Bake for 45-50 minutes. The cookies are done when the outside is firm but the center still feels slightly soft.
+7.  **Cool:** Let cool completely on the baking sheet to allow the shell to set.
+
+## Serving Suggestions
+
+- Fresh Raspberries
+- [Ultimate Crock-Pot Sipping Chocolate](/recipes/crock-pot-hot-chocolate)

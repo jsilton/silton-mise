@@ -1,24 +1,35 @@
 ---
-title: Cauliflower Alfredo Sauce
-cookTime: 15 min
-servings: 2 cups
-ingredients:
-  - 2 cup raw cauliflower florets (200g)
-  - '2 tsp minced garlic, or 1/4 tsp garlic powder'
-  - 1/2 tsp salt
-  - '2 tbsp butter or olive oil, or omit for fat-free'
-  - 1 cup milk of choice
-  - optional 1/2 cup shredded mozzarella or nutritional yeast
-  - optional 1/4 cup diced shallot or onion
-totalTime: 15 min
+title: Cauliflower Alfredo (The Fuel Base)
 role: base
-vibe: comfort
+vibe: fuel
+prepTime: 10 min
+cookTime: 15 min
+totalTime: 25 min
+servings: '2 cups'
+ingredients:
+  - '2 cups Cauliflower florets'
+  - '1 cup Milk of choice (or Chicken Broth for dairy-free)'
+  - '2 tbsp Butter or Olive Oil'
+  - '2 cloves Garlic, grated'
+  - '1/2 cup Parmesan Cheese or Nutritional Yeast'
+  - '1/2 tsp Kosher Salt'
+  - 'Pinch of Nutmeg'
 ---
+
+## Chef's Note
+
+This is the "Silton Pattern" alternative to the heavy [Real Alfredo Sauce](/recipes/real-alfredo-sauce). We use the natural starch of pureed cauliflower to create a creamy texture with a fraction of the fat. The secret is the **High-Powered Blend**: you must boil the cauliflower until it is "fall-apart" tender, then blend it while hot with the garlic and cheese to create a silky emulsion.
 
 ## Directions
 
-1. Cauliflower Alfredo Sauce Recipe: Put all ingredients into a medium pot and bring to a complete boil, then cover and simmer 15 minutes or until the cauliflower is fall-apart tender. Pulverize with either an immersion or regular blender. Serve over pasta, or spaghetti squash, rice, roasted vegetables, or whatever you wish. Makes about 2 cups, and it gets much thicker as it sits.
+1.  **Boil:** In a pot, combine cauliflower and milk/broth. Bring to a boil, cover, and simmer for 12-15 minutes until very soft.
+2.  **Infuse:** In a small pan, sauté the garlic in butter for 1 minute until fragrant.
+3.  **Blend:** Transfer the hot cauliflower and its cooking liquid to a blender. Add the garlic butter, Parmesan, salt, and nutmeg.
+4.  **Emulsify:** Blend on high for 1 minute until completely smooth and velvety.
+5.  **Serve:** Toss immediately with your favorite pasta or use as a base for roasted veg.
 
-## Notes
+## Pairs With
 
-The recipe was adapted from this Cauliflower Soup Recipe.
+- Zucchini Noodles or Whole Wheat Pasta
+- [Chicken Milanese](/recipes/chicken-milanese)
+- Roasted Asparagus

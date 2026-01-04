@@ -1,26 +1,38 @@
 ---
-title: Cheese Fondue
+title: Cheese Fondue (The Emulsion Standard)
+role: main
+vibe: project
 prepTime: 10 min
 cookTime: 15 min
-servings: 'Yield: 4 to 6 servings'
-ingredients:
-  - '1/2 pound imported Swiss cheese, shredded'
-  - '1/2 pound Gruyere cheese, shredded'
-  - 2 tablespoons cornstarch
-  - '1 garlic clove, peeled'
-  - 1 cup dry white wine
-  - 1 tablespoon lemon juice
-  - '1 tablespoon cherry brandy, such as kirsch'
-  - 1/2 teaspoon dry mustard
-  - Pinch nutmeg
-  - Assorted dippers
 totalTime: 25 min
-role: main
-vibe: speed
+servings: '6'
+ingredients:
+  - '1/2 lb Gruyère, shredded'
+  - '1/2 lb Emmentaler or Swiss, shredded'
+  - '2 tbsp Cornstarch'
+  - '1 clove Garlic, halved'
+  - '1 cup Dry White Wine (Sauvignon Blanc or Riesling)'
+  - '1 tbsp Fresh Lemon Juice'
+  - '1 tbsp Kirsch (Cherry Brandy)'
+  - 'Pinch of Nutmeg'
+  - '1/2 tsp Dry Mustard'
 ---
+
+## Chef's Note
+
+Cheese fondue is a fragile **Emulsion**. If the heat is too high, the cheese will "break" into a stringy ball and a pool of oil. The secret is the **Cornstarch and Acid**: the cornstarch coats the cheese proteins, while the acid in the wine and lemon juice prevents the proteins from clumping together. Always add the cheese in small handfuls, waiting for each to melt before adding the next.
 
 ## Directions
 
-1. In a small bowl, coat the cheeses with cornstarch and set aside. Rub the inside of the ceramic fondue pot with the garlic, then discard.
-2. Over medium heat, add the wine and lemon juice and bring to a gentle simmer. Gradually stir the cheese into the simmering liquid. Melting the cheese gradually encourages a smooth fondue. Once smooth, stir in cherry brandy, mustard and nutmeg.
-3. Arrange an assortment of bite-sized dipping foods on a lazy Susan around fondue pot. Serve with chunks of French and pumpernickel breads. Some other suggestions are Granny Smith apples and blanched vegetables such as broccoli, cauliflower, carrots and asparagus. Spear with fondue forks or wooden skewers, dip, swirl and enjoy!
+1.  **Rub:** Rub the inside of a heavy pot (ceramic or cast iron) with the garlic halves. Discard the garlic.
+2.  **Coat:** In a bowl, toss the shredded cheeses with the cornstarch until evenly coated.
+3.  **Simmer:** Add the wine and lemon juice to the pot. Bring to a very gentle simmer over medium-low heat.
+4.  **Whisk:** Add one handful of cheese. Whisk constantly in a **Figure-8 motion** until melted. Repeat until all cheese is incorporated and the sauce is smooth.
+5.  **Finish:** Stir in the Kirsch, nutmeg, and dry mustard.
+6.  **Serve:** Keep warm over a low flame. Serve with crusty bread, green apples, and blanched broccoli.
+
+## Serving Suggestions
+
+- [Anadama Bread](/recipes/anadama-bread) cubes
+- Roasted Fingerling Potatoes
+- [Everyday Arugula Salad](/recipes/everyday-arugula-salad)

@@ -1,31 +1,42 @@
 ---
-title: "Chef Kriger's Recipe: Shabbat Brisket"
-ingredients:
-  - 1 First Cut Brisket
-  - 1 Small Bag Baby Carrots
-  - 1 Large Onion (Yellow)
-  - Kosher Salt/Black Pepper
-  - 1 Foil 1/2 Plan
-  - 1 Large Bottle of Ketchup
-  - 2-4 Tablespoons Worcestershire Sauce
-  - 1 Tablespoon Garlic Powder
-  - 1 Tablespoon Onion Powder
-  - 2-4 Tablespoons Dijon Mustard
-  - 2-4 Tablespoons Grape Jelly
-  - 2 Tablespoons Brown Sugar
+title: "Chef Kriger's Shabbat Brisket (The Heritage Standard)"
 role: main
 vibe: holiday
-servings: Unknown
+prepTime: 30 min
+cookTime: 2 hours
+totalTime: 12 hours
+servings: '12'
+ingredients:
+  - '1 First-cut Brisket (4-5 lbs)'
+  - '1 bag Baby Carrots'
+  - '1 large Yellow Onion, chopped'
+  - '--- The Shabbat Sauce ---'
+  - '1 large bottle Ketchup'
+  - '1/4 cup Worcestershire Sauce'
+  - '4 tbsp Dijon Mustard'
+  - '4 tbsp Grape Jelly (The secret sweetness)'
+  - '2 tbsp Brown Sugar'
+  - '1 tbsp Garlic Powder'
+  - '1 tbsp Onion Powder'
+  - 'Salt and Black Pepper'
 ---
+
+## Chef's Note
+
+This is a true "Heritage Keeper." While a traditional French braise uses wine and mirepoix, the American-Jewish Shabbat brisket relies on the **Ketchup and Grape Jelly** base to create a thick, sweet-and-savory glaze that is unmistakable. The secret to the texture is the **Overnight Chill**: by refrigerating the brisket in its sauce, the meat relaxes and becomes much easier to slice against the grain without falling apart.
 
 ## Directions
 
-1. Place Brisket (Fat side up) in foil 1/2 Pan
-2. Generously Salt and Pepper the top of the Brisket
-3. Chop onion into Large Pieces, break apart and cover Brisket
-4. Place Carrots all over pan and top of Brisket
-5. Mix all Sauce Ingredients together then pour over Brisket. Cover the entire Brisket in Sauce
-6. Add a little water around the edges of the Brisket…about 1 cup
-7. Bake Covered with Foil @ 350 degrees for 1.5 hours
-8. Let Chill in Refrigerator till cold. Slice against the grain. Place back in sauce and Re-bake for 25-45 minutes.
-9. Now Serve and Enjoy!!!
+1.  **Season:** Season the brisket generously with salt and pepper on both sides. Place fat-side up in a heavy foil pan or Dutch oven.
+2.  **Vegetables:** Scatter the onions and carrots over and around the meat.
+3.  **Sauce:** In a bowl, whisk all sauce ingredients together. Pour over the entire brisket, ensuring it is fully covered. Add 1 cup of water around the edges.
+4.  **Bake:** Cover tightly with foil. Bake at 350°F for 1.5 to 2 hours until tender.
+5.  **The Chill:** Remove from oven. Let cool, then refrigerate the entire pan **overnight**.
+6.  **Slice:** Remove the cold meat from the sauce. Slice very thin **against the grain**.
+7.  **Finish:** Return the slices to the sauce. Re-bake, covered, at 325°F for 30-45 minutes until hot and the sauce is bubbling.
+
+## Serving Suggestions
+
+- [Corn Bread Dressing](/recipes/corn-bread-dressing)
+- [Patate al Forno](/recipes/patate-al-forno)
+- [Nana Ruth's Applesauce](/recipes/nana-ruths-applesauce)
