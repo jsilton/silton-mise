@@ -18,7 +18,9 @@
       "savory",
       "umami"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "comfort",
     "prepTime": "15 min",
@@ -190,21 +192,7 @@
     "bread",
     "serve",
     "immediately",
-    "side",
-    "serving",
-    "suggestions",
-    "-",
-    "sweet",
-    "potato",
-    "fries",
-    "roasted",
-    "green",
-    "bean",
-    "silton-mise",
-    "recipes",
-    "roasted-green-bean-fries",
-    "horseradish",
-    "mayo"
+    "side"
   ],
   "methods": [
     "sear",

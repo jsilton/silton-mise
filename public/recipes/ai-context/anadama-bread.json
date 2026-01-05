@@ -13,18 +13,37 @@
       "boil"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weekend-project",
+      "comfort-food"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "advancePrep": [
+      "freeze-ahead",
+      "make-ahead"
+    ],
+    "equipment": [],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "base",
     "vibe": "technical",
     "prepTime": "30 min",
     "cookTime": "30 min",
     "totalTime": "3 hours",
     "servings": "1 loaf",
+    "pairsWith": [
+      "soup",
+      "stew"
+    ],
     "ingredients": [
       "1/2 cup Water",
       "1/4 cup Yellow Cornmeal",
@@ -78,6 +97,12 @@
     "new",
     "england",
     "bread",
+    "supposedly",
+    "named",
+    "after",
+    "fisherman",
+    "wife",
+    "anna",
     "defined",
     "by",
     "bittersweet",
@@ -85,7 +110,7 @@
     "of",
     "and",
     "rustic",
-    "bite",
+    "texture",
     "secret",
     "porridge",
     "you",
@@ -103,14 +128,12 @@
     "than",
     "gritty",
     "this",
-    "updated",
-    "classic",
+    "traditional",
     "keeper",
-    "that",
     "pairs",
     "perfectly",
     "with",
-    "salty",
+    "salted",
     "or",
     "bowl",
     "chowder",
@@ -204,23 +227,9 @@
     "sounds",
     "hollow",
     "when",
-    "tapped",
-    "serving",
-    "suggestions",
-    "-",
-    "roasted",
-    "corn",
-    "lime",
-    "shrimp",
-    "silton-mise",
-    "recipes",
-    "roasted-corn-chowder-with-lime-cured-shrimp",
-    "salted",
-    "sunday",
-    "roast"
+    "tapped"
   ],
   "methods": [
-    "roast",
     "bake"
   ],
   "kbSuggestions": [
@@ -234,12 +243,6 @@
       "title": "Maillard note: dry surface for browning",
       "severity": "hint",
       "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
-    },
-    {
-      "ruleId": "kb.missing-resting",
-      "title": "Recommend resting meat after high-heat cooking",
-      "severity": "hint",
-      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
     },
     {
       "ruleId": "kb.plating-suggestion",

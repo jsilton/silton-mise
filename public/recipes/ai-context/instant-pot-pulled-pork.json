@@ -21,7 +21,9 @@
       "acidic",
       "smoky"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Southern"
+    ],
     "role": "main",
     "vibe": "comfort",
     "prepTime": "15 min",
@@ -199,25 +201,7 @@
     "charred",
     "8",
     "serve",
-    "remaining",
-    "serving",
-    "suggestions",
-    "-",
-    "quick",
-    "pickled",
-    "carrots",
-    "daikon",
-    "silton-mise",
-    "recipes",
-    "quick-pickled-carrots-and-daikon",
-    "as",
-    "slaw",
-    "topper",
-    "sweet",
-    "potato",
-    "fries",
-    "brioche",
-    "buns"
+    "remaining"
   ],
   "methods": [
     "sear",

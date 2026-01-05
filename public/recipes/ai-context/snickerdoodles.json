@@ -20,7 +20,9 @@
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "dessert",
     "vibe": "comfort",
     "prepTime": "15 min",
@@ -169,20 +171,7 @@
     "still",
     "appear",
     "soft",
-    "center",
-    "serving",
-    "suggestions",
-    "-",
-    "old-fashioned",
-    "fresh",
-    "peach",
-    "ice",
-    "silton-mise",
-    "recipes",
-    "old-fashioned-fresh-peach-ice-cream",
-    "hot",
-    "apple",
-    "cider"
+    "center"
   ],
   "methods": [
     "bake"

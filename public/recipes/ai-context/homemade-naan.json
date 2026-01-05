@@ -10,7 +10,10 @@
       "steam"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weekend-project",
+      "entertaining"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
@@ -186,22 +189,7 @@
     "keep",
     "clean",
     "kitchen",
-    "towel",
-    "pairs",
-    "-",
-    "chicken",
-    "tikka",
-    "masala",
-    "silton-mise",
-    "recipes",
-    "chicken-tikka-masala",
-    "saag",
-    "paneer",
-    "saag-paneer",
-    "lamb",
-    "keema",
-    "matar",
-    "lamb-keema-matar"
+    "towel"
   ],
   "methods": [
     "sear",
@@ -212,12 +200,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.maillard-note",

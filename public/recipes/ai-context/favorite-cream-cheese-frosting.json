@@ -8,12 +8,34 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "holiday",
+      "entertaining",
+      "indulgent"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "hearty",
+    "leftovers": "excellent",
+    "equipment": [
+      "stand-mixer"
+    ],
+    "advancePrep": [
+      "make-ahead"
+    ],
+    "pairsWith": [
+      "bas-best-carrot-cake",
+      "breakfast-carrot-cake",
+      "funfetti-cake-from-scratch-and-an-unbirthday"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "condiment",
     "vibe": "quick",
     "prepTime": "5 min",
@@ -66,28 +88,19 @@
     "this",
     "is",
     "our",
-    "baseline",
-    "modularity",
-    "component",
+    "go-to",
+    "frosting",
     "for",
     "all",
-    "elite",
     "cakes",
     "secret",
     "to",
-    "a",
-    "kitchen",
-    "standard",
-    "frosting",
     "that",
     "isn",
     "t",
     "runny",
-    "culinary",
-    "technique",
-    "through",
     "temperature",
-    "method",
+    "control",
     "both",
     "and",
     "must",
@@ -100,9 +113,9 @@
     "emulsify",
     "perfectly",
     "into",
+    "a",
     "stable",
-    "bounce",
-    "we",
+    "smooth",
     "use",
     "paddle",
     "attachment",
@@ -141,7 +154,6 @@
     "exactly",
     "minutes",
     "until",
-    "smooth",
     "creamy",
     "reduce",
     "low",
@@ -183,25 +195,7 @@
     "30",
     "briefly",
     "restore",
-    "serving",
-    "suggestions",
-    "-",
-    "breakfast",
-    "carrot",
-    "cake",
-    "silton-mise",
-    "recipes",
-    "breakfast-carrot-cake",
-    "red",
-    "velvet",
-    "cupcakes",
-    "red-velvet-cupcakes",
-    "yellow",
-    "chocolate",
-    "yellow-cake-with-chocolate-frosting",
-    "nana",
-    "pound",
-    "grandmommys-pound-cake"
+    "bounce"
   ],
   "methods": [],
   "kbSuggestions": [

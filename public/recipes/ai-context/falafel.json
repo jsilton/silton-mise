@@ -12,11 +12,16 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "meal-prep"
+    ],
     "flavorProfile": [
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Middle Eastern"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "20 min",
@@ -211,26 +216,7 @@
     "paper-towel-lined",
     "plate",
     "serve",
-    "immediately",
-    "serving",
-    "suggestions",
-    "-",
-    "authentic",
-    "tzatziki",
-    "sauce",
-    "silton-mise",
-    "recipes",
-    "tzatziki-sauce",
-    "israeli",
-    "style",
-    "hummus",
-    "israeli-style-hummus",
-    "warm",
-    "pita",
-    "smashed",
-    "cucumber",
-    "salad",
-    "smashed-cucumber-salad"
+    "immediately"
   ],
   "methods": [
     "fry",

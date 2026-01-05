@@ -13,19 +13,36 @@
       "fry"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "kids-approved",
+      "weeknight",
+      "comfort-food"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "good",
+    "equipment": [],
     "flavorProfile": [
       "sweet",
       "acidic",
       "umami"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "15 min",
     "cookTime": "10 min",
     "totalTime": "25 min",
     "servings": "4",
+    "pairsWith": [
+      "french-fries",
+      "coleslaw",
+      "mac-and-cheese"
+    ],
     "ingredients": [
       "1 lb Chicken Tenderloins or Breasts cut into strips",
       "1/2 cup All-Purpose Flour",
@@ -195,23 +212,7 @@
     "your",
     "favorite",
     "dipping",
-    "sauce",
-    "serving",
-    "suggestions",
-    "roasted",
-    "green",
-    "bean",
-    "fries",
-    "silton-mise",
-    "recipes",
-    "roasted-green-bean-fries",
-    "everyday",
-    "arugula",
-    "salad",
-    "everyday-arugula-salad",
-    "honey",
-    "mustard",
-    "bbq"
+    "sauce"
   ],
   "methods": [
     "roast",

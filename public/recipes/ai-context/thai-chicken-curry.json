@@ -10,7 +10,10 @@
       "boil"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "comfort-food"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
@@ -169,16 +172,9 @@
     "immediately",
     "jasmine",
     "rice",
-    "silton-mise",
+    "mise",
     "recipes",
-    "homemade-rice-pilaf",
-    "serving",
-    "suggestions",
-    "-",
-    "smashed",
-    "cucumber",
-    "salad",
-    "smashed-cucumber-salad"
+    "homemade-rice-pilaf"
   ],
   "methods": [
     "fry"

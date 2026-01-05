@@ -17,7 +17,9 @@
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "drink",
     "vibe": "holiday",
     "prepTime": "10 min",
@@ -171,21 +173,7 @@
     "ladle",
     "mugs",
     "top",
-    "fresh",
-    "suggestions",
-    "-",
-    "mom",
-    "famous",
-    "cake",
-    "silton-mise",
-    "recipes",
-    "moms-famous-chocolate-cake",
-    "best",
-    "chip",
-    "cookies",
-    "best-chocolate-chip-cookies",
-    "homemade",
-    "whipped"
+    "fresh"
   ],
   "methods": [],
   "kbSuggestions": [

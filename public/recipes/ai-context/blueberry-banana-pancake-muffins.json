@@ -11,12 +11,33 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "kids-approved",
+      "post-workout",
+      "quick-lunch"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "equipment": [
+      "muffin-tin",
+      "blender",
+      "mixing-bowl"
+    ],
+    "advancePrep": [
+      "make-ahead",
+      "freeze-ahead"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "5 min",
@@ -132,18 +153,7 @@
     "let",
     "sit",
     "before",
-    "removing",
-    "serving",
-    "suggestions",
-    "-",
-    "mango-rita",
-    "green",
-    "smoothie",
-    "silton-mise",
-    "recipes",
-    "mango-rita-green-smoothie",
-    "fresh",
-    "honey"
+    "removing"
   ],
   "methods": [
     "bake"

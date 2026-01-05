@@ -14,7 +14,10 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "meal-prep"
+    ],
     "flavorProfile": [
       "sweet",
       "savory",
@@ -228,23 +231,11 @@
     "coat",
     "serve",
     "mound",
-    "silton-mise",
+    "mise",
     "recipes",
     "homemade-rice-pilaf",
     "top",
-    "garnish",
-    "serving",
-    "suggestions",
-    "-",
-    "rinse",
-    "times",
-    "smashed",
-    "cucumber",
-    "salad",
-    "smashed-cucumber-salad",
-    "cold",
-    "sake",
-    "tea"
+    "garnish"
   ],
   "methods": [
     "sear",

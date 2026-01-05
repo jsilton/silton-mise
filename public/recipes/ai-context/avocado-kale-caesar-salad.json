@@ -10,7 +10,20 @@
       "blend"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "quick-lunch",
+      "light-and-fresh",
+      "post-workout",
+      "entertaining"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "light",
+    "leftovers": "poor",
+    "equipment": [
+      "blender"
+    ],
     "flavorProfile": [
       "sweet",
       "savory",
@@ -18,13 +31,20 @@
       "umami",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "side",
     "vibe": "nutritious",
     "prepTime": "15 min",
     "cookTime": "0 min",
     "totalTime": "15 min",
     "servings": "4",
+    "pairsWith": [
+      "grilled-chicken",
+      "salmon",
+      "steak"
+    ],
     "ingredients": [
       "1 bunch Lacinato (Dino) Kale, stems removed and finely shredded",
       "1 large Avocado (Half for dressing, half for topping)",
@@ -216,36 +236,14 @@
     "actually",
     "improves",
     "as",
-    "absorbs",
-    "suggestions",
-    "-",
-    "chicken",
-    "milanese",
-    "silton-mise",
-    "recipes",
-    "chicken-milanese",
-    "miso-glazed",
-    "salmon",
-    "miso-salmon-with-bok-choy",
-    "baked",
-    "macaroni",
-    "pimento",
-    "macaroni-and-cheese"
+    "absorbs"
   ],
-  "methods": [
-    "bake"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.plating-suggestion",

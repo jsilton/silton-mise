@@ -19,7 +19,9 @@
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "dessert",
     "vibe": "holiday",
     "prepTime": "20 min",
@@ -84,13 +86,11 @@
     "s",
     "note",
     "this",
-    "is",
-    "a",
-    "updated",
-    "classic",
     "recipe",
+    "is",
     "designed",
     "for",
+    "a",
     "baby",
     "first",
     "birthday",
@@ -108,7 +108,7 @@
     "over-ripe",
     "and",
     "sweetness",
-    "secret",
+    "key",
     "to",
     "successful",
     "smash",
@@ -170,20 +170,7 @@
     "5",
     "serve",
     "guest",
-    "honor",
-    "serving",
-    "suggestions",
-    "-",
-    "fresh",
-    "blueberries",
-    "strawberries",
-    "old-fashioned",
-    "peach",
-    "ice",
-    "silton-mise",
-    "recipes",
-    "old-fashioned-fresh-peach-ice-cream",
-    "adults"
+    "honor"
   ],
   "methods": [
     "bake"

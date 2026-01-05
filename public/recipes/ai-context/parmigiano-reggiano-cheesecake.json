@@ -13,7 +13,21 @@
       "vegetarian",
       "nut-free"
     ],
-    "occasions": [],
+    "occasions": [
+      "holiday",
+      "entertaining",
+      "weekend-project",
+      "indulgent"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "hearty",
+    "leftovers": "excellent",
+    "advancePrep": [
+      "make-ahead"
+    ],
+    "equipment": [],
     "flavorProfile": [
       "sweet",
       "savory",
@@ -21,13 +35,16 @@
       "umami",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Italian"
+    ],
     "role": "dessert",
     "vibe": "technical",
     "prepTime": "45 min",
     "cookTime": "90 min",
     "totalTime": "6 hours",
     "servings": "12",
+    "pairsWith": [],
     "ingredients": [
       "3/4 cup Finely Ground Parmigiano Reggiano",
       "18 Graham Crackers, crushed",
@@ -216,23 +233,7 @@
     "then",
     "refrigerate",
     "least",
-    "hours",
-    "serving",
-    "suggestions",
-    "-",
-    "fresh",
-    "fig",
-    "jam",
-    "or",
-    "balsamic",
-    "glaze",
-    "vieux",
-    "carr",
-    "silton-mise",
-    "recipes",
-    "vieux-carre",
-    "glass",
-    "prosecco"
+    "hours"
   ],
   "methods": [
     "roast",

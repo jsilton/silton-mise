@@ -11,14 +11,30 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "entertaining",
+      "weekend-project",
+      "indulgent",
+      "date-night"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "French"
+    ],
     "role": "dessert",
     "vibe": "technical",
+    "season": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "leftovers": "poor",
+    "healthiness": "hearty",
+    "makeAhead": false,
     "prepTime": "20 min",
     "cookTime": "25 min",
     "totalTime": "45 min",
@@ -67,10 +83,10 @@
     "s",
     "note",
     "this",
-    "is",
-    "ultimate",
-    "test",
-    "culinary",
+    "classic",
+    "dessert",
+    "requires",
+    "careful",
     "technique",
     "secret",
     "to",
@@ -78,8 +94,8 @@
     "tall",
     "even",
     "rise",
+    "is",
     "thumb-run",
-    "method",
     "after",
     "filling",
     "you",
@@ -119,8 +135,8 @@
     "intensity",
     "serve",
     "oven",
-    "mandatory",
-    "high",
+    "magic",
+    "in",
     "fleeting",
     "moment",
     "before",
@@ -140,7 +156,6 @@
     "excess",
     "base",
     "melt",
-    "in",
     "heatproof",
     "bowl",
     "over",
@@ -209,21 +224,7 @@
     "lightly",
     "sweetened",
     "whipped",
-    "cream",
-    "serving",
-    "suggestions",
-    "-",
-    "old-fashioned",
-    "vanilla",
-    "ice",
-    "silton-mise",
-    "recipes",
-    "old-fashioned-vanilla-ice-cream",
-    "fresh",
-    "raspberries",
-    "glass",
-    "ruby",
-    "port"
+    "cream"
   ],
   "methods": [
     "bake"

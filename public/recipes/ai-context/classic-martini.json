@@ -9,7 +9,18 @@
     "dietary": [
       "vegan"
     ],
-    "occasions": [],
+    "occasions": [
+      "entertaining",
+      "date-night"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "light",
+    "leftovers": "poor",
+    "equipment": [
+      "cocktail-shaker"
+    ],
     "flavorProfile": [
       "acidic",
       "smoky"
@@ -23,6 +34,7 @@
     "cookTime": "0 min",
     "totalTime": "5 min",
     "servings": "1",
+    "pairsWith": [],
     "ingredients": [
       "4 oz Beefeater Gin (or high-quality London Dry)",
       "3/4 oz Noilly Prat Dry Vermouth",
@@ -55,25 +67,22 @@
     "chef",
     "s",
     "note",
-    "the",
-    "kitchen",
-    "standard",
     "a",
+    "classic",
     "martini",
     "is",
     "built",
     "on",
-    "culinary",
     "technique",
     "and",
-    "thermal",
-    "method",
+    "temperature",
     "we",
     "stir",
     "never",
     "shake",
     "to",
     "preserve",
+    "the",
     "silkiness",
     "of",
     "without",
@@ -99,8 +108,8 @@
     "exactly",
     "50",
     "stirs",
-    "final",
-    "high",
+    "finishing",
+    "touch",
     "expressed",
     "oil",
     "rubbing",
@@ -110,6 +119,7 @@
     "precedes",
     "flavor",
     "directions",
+    "thermal",
     "prep",
     "chill",
     "your",
@@ -170,19 +180,7 @@
     "over",
     "oils",
     "rub",
-    "drop",
-    "serving",
-    "suggestions",
-    "-",
-    "castelvetrano",
-    "olives",
-    "smoked",
-    "almonds",
-    "mediterranean",
-    "pinwheels",
-    "silton-mise",
-    "recipes",
-    "mediterranean-pinwheels-vegetarian-appetizer-vegan-and-low-carb-options"
+    "drop"
   ],
   "methods": [],
   "kbSuggestions": [

@@ -10,12 +10,30 @@
       "boil"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "holiday",
+      "potluck",
+      "entertaining"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "equipment": [
+      "mixing-bowl",
+      "mold"
+    ],
+    "advancePrep": [
+      "make-ahead"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "side",
     "vibe": "nutritious",
     "prepTime": "10 min",
@@ -63,21 +81,18 @@
     "note",
     "this",
     "is",
-    "a",
+    "an",
     "updated",
+    "take",
+    "on",
+    "a",
     "classic",
-    "update",
-    "to",
     "family",
     "congealed",
     "salad",
     "the",
-    "secret",
-    "kitchen",
-    "standard",
-    "emulsion",
-    "we",
-    "whisk",
+    "key",
+    "whisking",
     "into",
     "hot",
     "base",
@@ -90,20 +105,13 @@
     "creamy",
     "opaque",
     "mousse",
-    "sophisticated",
-    "bounce",
-    "maintain",
-    "textural",
-    "balance",
-    "by",
     "using",
     "its",
     "rice-like",
     "particles",
-    "which",
     "provides",
-    "necessary",
-    "crunch",
+    "texture",
+    "to",
     "contrast",
     "velvety",
     "directions",
@@ -111,6 +119,7 @@
     "in",
     "large",
     "bowl",
+    "whisk",
     "and",
     "no",
     "crystals",
@@ -122,7 +131,6 @@
     "mixture",
     "completely",
     "pale",
-    "texture",
     "fold",
     "finish",
     "pour",
@@ -147,45 +155,14 @@
     "side",
     "dish",
     "light",
-    "dessert",
-    "serving",
-    "suggestions",
-    "-",
-    "roast",
-    "turkey",
-    "breast",
-    "silton-mise",
-    "recipes",
-    "roast-turkey-breast",
-    "buttermilk",
-    "baked",
-    "chicken",
-    "buttermilk-baked-chicken",
-    "everyday",
-    "arugula",
-    "everyday-arugula-salad"
+    "dessert"
   ],
-  "methods": [
-    "roast",
-    "bake"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
-    },
-    {
-      "ruleId": "kb.missing-resting",
-      "title": "Recommend resting meat after high-heat cooking",
-      "severity": "hint",
-      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
     },
     {
       "ruleId": "kb.missing-salt",

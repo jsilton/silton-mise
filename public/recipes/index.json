@@ -206,6 +206,11 @@
     "aliases": []
   },
   {
+    "slug": "boulevardier",
+    "title": "Boulevardier",
+    "aliases": []
+  },
+  {
     "slug": "breakfast-carrot-cake",
     "title": "Breakfast Carrot Cake",
     "aliases": []
@@ -562,6 +567,11 @@
   {
     "slug": "classic-beef-stew",
     "title": "Beef Stew",
+    "aliases": []
+  },
+  {
+    "slug": "classic-manhattan",
+    "title": "Classic Manhattan",
     "aliases": []
   },
   {
@@ -1481,6 +1491,11 @@
     "aliases": []
   },
   {
+    "slug": "old-fashioned",
+    "title": "Old Fashioned",
+    "aliases": []
+  },
+  {
     "slug": "one-pan-citrus-beets-roasted-chicken",
     "title": "Citrus Beet Chicken",
     "aliases": []
@@ -1791,6 +1806,11 @@
     "aliases": []
   },
   {
+    "slug": "sazerac",
+    "title": "Sazerac",
+    "aliases": []
+  },
+  {
     "slug": "seafood-chorizo-tacos",
     "title": "Seafood-Chorizo Tacos",
     "aliases": []
@@ -1908,6 +1928,11 @@
   {
     "slug": "shrimp-wonton-soup",
     "title": "Shrimp Wonton Soup",
+    "aliases": []
+  },
+  {
+    "slug": "shruffs-end",
+    "title": "Shruff's End",
     "aliases": []
   },
   {
@@ -2358,6 +2383,11 @@
   {
     "slug": "weeknight-paella",
     "title": "Weeknight Paella",
+    "aliases": []
+  },
+  {
+    "slug": "whiskey-sour",
+    "title": "Whiskey Sour",
     "aliases": []
   },
   {

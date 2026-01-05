@@ -22,7 +22,9 @@
       "umami",
       "smoky"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Spanish"
+    ],
     "role": "main",
     "vibe": "comfort",
     "prepTime": "20 min",
@@ -213,23 +215,7 @@
     "secret",
     "fluffy",
     "distinct",
-    "grains",
-    "serving",
-    "suggestions",
-    "-",
-    "everyday",
-    "arugula",
-    "salad",
-    "silton-mise",
-    "recipes",
-    "everyday-arugula-salad",
-    "quick",
-    "pickled",
-    "carrots",
-    "daikon",
-    "quick-pickled-carrots-and-daikon",
-    "aioli",
-    "drizzling"
+    "grains"
   ],
   "methods": [
     "bake",

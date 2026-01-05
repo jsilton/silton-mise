@@ -6,7 +6,10 @@
     "difficulty": "easy",
     "cookingMethods": [],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "entertaining"
+    ],
     "flavorProfile": [
       "acidic",
       "rich"
@@ -136,22 +139,7 @@
     "15",
     "before",
     "serving",
-    "infuse",
-    "pairs",
-    "-",
-    "greek-style",
-    "lamb",
-    "burgers",
-    "silton-mise",
-    "recipes",
-    "greek-style-lamb-burgers-with-yogurt-cucumber-sauce",
-    "mediterranean",
-    "chicken",
-    "bowls",
-    "mediterranean-chicken-bowls",
-    "warm",
-    "pita",
-    "bread"
+    "infuse"
   ],
   "methods": [],
   "kbSuggestions": [
@@ -159,12 +147,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.plating-suggestion",

@@ -8,13 +8,18 @@
       "grill"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "summer",
+      "entertaining"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
       "acidic"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Middle Eastern"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "20 min",
@@ -79,14 +84,12 @@
     "is",
     "a",
     "high-protein",
-    "nutritious",
     "meal",
     "that",
     "relies",
     "on",
-    "culinary",
-    "technique",
-    "its",
+    "proper",
+    "marinating",
     "tenderness",
     "by",
     "using",
@@ -94,8 +97,6 @@
     "the",
     "sauce",
     "as",
-    "an",
-    "enzyme",
     "tenderizer",
     "we",
     "break",
@@ -112,9 +113,9 @@
     "paprika-oil",
     "marinade",
     "provides",
-    "crunch",
-    "deep",
     "color",
+    "slight",
+    "char",
     "always",
     "use",
     "if",
@@ -171,22 +172,7 @@
     "transfer",
     "platter",
     "immediately",
-    "chilled",
-    "suggestions",
-    "-",
-    "basmati",
-    "rice",
-    "silton-mise",
-    "recipes",
-    "basmati-rice",
-    "smashed",
-    "cucumber",
-    "salad",
-    "smashed-cucumber-salad",
-    "warm",
-    "homemade",
-    "naan",
-    "homemade-naan"
+    "chilled"
   ],
   "methods": [
     "grill"

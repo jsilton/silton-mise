@@ -11,13 +11,33 @@
       "boil"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "kids-approved",
+      "comfort-food",
+      "meal-prep"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "equipment": [
+      "large-pot",
+      "large-skillet",
+      "baking-dish"
+    ],
+    "advancePrep": [
+      "make-ahead"
+    ],
     "flavorProfile": [
       "savory",
       "umami",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "side",
     "vibe": "nutritious",
     "prepTime": "10 min",
@@ -76,20 +96,13 @@
     "this",
     "is",
     "a",
-    "high-performance",
-    "nutritious",
-    "update",
-    "to",
+    "lighter",
+    "take",
+    "on",
     "the",
     "classic",
     "side",
     "secret",
-    "its",
-    "success",
-    "hybrid",
-    "stock",
-    "emulsion",
-    "by",
     "using",
     "mix",
     "of",
@@ -100,17 +113,11 @@
     "achieve",
     "rich",
     "savory",
-    "texture",
+    "flavor",
     "without",
     "heavy",
     "calories",
     "cream",
-    "maintain",
-    "textural",
-    "balance",
-    "through",
-    "staged",
-    "boil",
     "cook",
     "in",
     "same",
@@ -122,7 +129,7 @@
     "ensures",
     "stay",
     "vibrant",
-    "crispy",
+    "crisp",
     "rather",
     "than",
     "dissolving",
@@ -132,6 +139,8 @@
     "large",
     "salted",
     "water",
+    "to",
+    "boil",
     "add",
     "before",
     "al",
@@ -179,27 +188,11 @@
     "15-20",
     "broil",
     "top",
+    "crispy",
     "cheese",
-    "snappy",
-    "serving",
-    "suggestions",
-    "-",
-    "turkey",
-    "burgers",
-    "silton-mise",
-    "recipes",
-    "turkey-burgers",
-    "easy",
-    "pan-seared",
-    "breasts",
-    "easy-pan-seared-chicken-breasts",
-    "everyday",
-    "arugula",
-    "salad",
-    "everyday-arugula-salad"
+    "snappy"
   ],
   "methods": [
-    "sear",
     "bake"
   ],
   "kbSuggestions": [
@@ -213,18 +206,6 @@
       "title": "Poultry low-temperature safety note",
       "severity": "warn",
       "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
-    },
-    {
-      "ruleId": "kb.maillard-note",
-      "title": "Maillard note: dry surface for browning",
-      "severity": "hint",
-      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
-    },
-    {
-      "ruleId": "kb.missing-resting",
-      "title": "Recommend resting meat after high-heat cooking",
-      "severity": "hint",
-      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
     },
     {
       "ruleId": "kb.plating-suggestion",

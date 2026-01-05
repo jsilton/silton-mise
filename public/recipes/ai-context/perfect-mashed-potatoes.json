@@ -10,11 +10,27 @@
       "steam"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "holiday",
+      "entertaining",
+      "comfort-food",
+      "weeknight"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "hearty",
+    "leftovers": "good",
+    "equipment": [
+      "large-pot",
+      "electric-mixer"
+    ],
     "flavorProfile": [
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "side",
     "vibe": "nutritious",
     "prepTime": "10 min",
@@ -64,23 +80,15 @@
     "note",
     "these",
     "are",
-    "the",
-    "definitive",
-    "kitchen",
-    "standard",
+    "classic",
     "mashed",
     "to",
     "ensure",
-    "textural",
-    "balance",
-    "we",
-    "use",
-    "dry-steam",
-    "method",
+    "the",
+    "best",
+    "texture",
     "after",
     "draining",
-    "you",
-    "must",
     "return",
     "them",
     "hot",
@@ -98,11 +106,10 @@
     "ensures",
     "starch",
     "is",
-    "thirsty",
     "ready",
     "absorb",
-    "triple",
-    "emulsion",
+    "we",
+    "use",
     "an",
     "electric",
     "mixer",
@@ -111,7 +118,6 @@
     "seconds",
     "create",
     "a",
-    "texture",
     "that",
     "light",
     "aerated",
@@ -137,6 +143,7 @@
     "until",
     "fork-tender",
     "dry",
+    "method",
     "drain",
     "thoroughly",
     "over",
@@ -145,6 +152,7 @@
     "constantly",
     "look",
     "chalky",
+    "emulsion",
     "mound",
     "one",
     "side",
@@ -174,38 +182,14 @@
     "stir",
     "plenty",
     "high",
-    "pat",
-    "serving",
-    "suggestions",
-    "-",
-    "brisket",
-    "carrots",
-    "onions",
-    "silton-mise",
-    "recipes",
-    "brisket-with-carrots-and-onions",
-    "chicken",
-    "coq",
-    "au",
-    "vin",
-    "chicken-coq-au-vin",
-    "meatloaf",
-    "mommas-healthy-meatloaf"
+    "pat"
   ],
-  "methods": [
-    "steam"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.plating-suggestion",

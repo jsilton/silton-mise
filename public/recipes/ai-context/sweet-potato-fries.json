@@ -13,13 +13,26 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "kids-approved"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "poor",
+    "equipment": [
+      "sheet-pan"
+    ],
     "flavorProfile": [
       "sweet",
       "savory",
       "smoky"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "10 min",
@@ -71,11 +84,8 @@
     "and",
     "oily",
     "is",
-    "textural",
-    "balance",
-    "through",
-    "single-layer",
-    "guard",
+    "proper",
+    "spacing",
     "have",
     "more",
     "moisture",
@@ -106,25 +116,25 @@
     "circulate",
     "resulting",
     "in",
-    "a",
     "caramelized",
-    "crunch",
+    "edges",
     "rather",
     "steamed",
-    "bounce",
+    "softness",
     "we",
     "use",
     "as",
-    "mandatory",
+    "essential",
     "savory",
-    "high",
+    "element",
     "it",
     "introduces",
+    "a",
     "wood-fired",
     "depth",
     "balances",
     "natural",
-    "fructose",
+    "sweetness",
     "directions",
     "prep",
     "preheat",
@@ -160,6 +170,7 @@
     "perfectly",
     "coated",
     "4",
+    "guard",
     "onto",
     "pans",
     "no",
@@ -175,9 +186,9 @@
     "metal",
     "spatula",
     "6",
+    "crunch",
     "another",
     "10-12",
-    "edges",
     "dark",
     "brown",
     "crispy",
@@ -192,22 +203,7 @@
     "steam",
     "will",
     "destroy",
-    "snap",
-    "serving",
-    "suggestions",
-    "-",
-    "turkey",
-    "burgers",
-    "silton-mise",
-    "recipes",
-    "turkey-burgers",
-    "greek-style",
-    "lamb",
-    "greek-style-lamb-burgers-with-yogurt-cucumber-sauce",
-    "homemade",
-    "sugar-free",
-    "ketchup",
-    "homemade-sugar-free-ketchup"
+    "snap"
   ],
   "methods": [
     "roast",
@@ -220,12 +216,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.maillard-note",

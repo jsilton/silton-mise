@@ -7,7 +7,10 @@
     "difficulty": "easy",
     "cookingMethods": [],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "meal-prep"
+    ],
     "flavorProfile": [
       "sweet",
       "savory",
@@ -175,20 +178,7 @@
     "more",
     "seconds",
     "remove",
-    "immediately",
-    "serving",
-    "suggestions",
-    "-",
-    "bibimbap",
-    "silton-mise",
-    "recipes",
-    "lettuce",
-    "wraps",
-    "with",
-    "ssamjang",
-    "jasmine",
-    "rice",
-    "homemade-rice-pilaf"
+    "immediately"
   ],
   "methods": [
     "sear"

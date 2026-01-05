@@ -11,7 +11,10 @@
       "boil"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "comfort-food",
+      "weekend-project"
+    ],
     "flavorProfile": [
       "savory",
       "umami",
@@ -212,22 +215,7 @@
     "serve",
     "mashed",
     "potatoes",
-    "rice",
-    "serving",
-    "suggestions",
-    "-",
-    "miso-mashed",
-    "silton-mise",
-    "recipes",
-    "miso-mashed-potatoes",
-    "everyday",
-    "arugula",
-    "salad",
-    "everyday-arugula-salad",
-    "glass",
-    "same",
-    "used",
-    "cooking"
+    "rice"
   ],
   "methods": [
     "sear"

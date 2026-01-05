@@ -10,7 +10,10 @@
       "no-cook"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "summer",
+      "light-and-fresh"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
@@ -35,7 +38,7 @@
       "3 cloves Garlic, minced",
       "2 stalks Lemongrass, finely minced (white parts only)",
       "2 Crusty Baguettes (soft crumb, crispy crust)",
-      "[quick Pickled Carrots and Daikon](/silton-mise/recipes/quick-pickled-carrots-and-daikon)",
+      "[quick Pickled Carrots and Daikon](/mise/recipes/quick-pickled-carrots-and-daikon)",
       "Fresh Cilantro and Sliced Jalapeños",
       "Cucumber spears",
       "Mayo and Maggi Seasoning (or Soy Sauce)"
@@ -81,7 +84,7 @@
     "carrots",
     "and",
     "daikon",
-    "silton-mise",
+    "mise",
     "recipes",
     "quick-pickled-carrots-and-daikon",
     "fresh",
@@ -183,17 +186,7 @@
     "drops",
     "fill",
     "grilled",
-    "top",
-    "serving",
-    "suggestions",
-    "-",
-    "smashed",
-    "salad",
-    "smashed-cucumber-salad",
-    "iced",
-    "coffee",
-    "condensed",
-    "milk"
+    "top"
   ],
   "methods": [
     "grill"

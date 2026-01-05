@@ -8,7 +8,10 @@
       "grill"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "summer",
+      "entertaining"
+    ],
     "flavorProfile": [
       "acidic"
     ],
@@ -153,24 +156,7 @@
     "final",
     "hit",
     "over",
-    "hot",
-    "serving",
-    "suggestions",
-    "-",
-    "authentic",
-    "tzatziki",
-    "sauce",
-    "silton-mise",
-    "recipes",
-    "tzatziki-sauce",
-    "cilantro",
-    "lime",
-    "rice",
-    "cilantro-lime-rice",
-    "potatoes",
-    "warm",
-    "pita",
-    "bread"
+    "hot"
   ],
   "methods": [
     "sear",

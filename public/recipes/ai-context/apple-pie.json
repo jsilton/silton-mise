@@ -15,7 +15,22 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "holiday",
+      "entertaining",
+      "weekend-project",
+      "comfort-food"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "nutritionalDensity": "hearty",
+    "leftovers": "excellent",
+    "advancePrep": [
+      "make-ahead"
+    ],
+    "equipment": [],
     "flavorProfile": [
       "sweet",
       "acidic",
@@ -30,6 +45,7 @@
     "cookTime": "50 min",
     "totalTime": "4 hours",
     "servings": "8",
+    "pairsWith": [],
     "ingredients": [
       "2 1/2 cups All-Purpose Flour",
       "14 tbsp Unsalted Butter, ice cold and cubed",
@@ -213,22 +229,7 @@
     "heat",
     "8",
     "hours",
-    "slicing",
-    "serving",
-    "suggestions",
-    "old-fashioned",
-    "fresh",
-    "peach",
-    "cream",
-    "silton-mise",
-    "recipes",
-    "old-fashioned-fresh-peach-ice-cream",
-    "sharp",
-    "cheddar",
-    "cheese",
-    "new",
-    "england",
-    "way"
+    "slicing"
   ],
   "methods": [
     "bake",

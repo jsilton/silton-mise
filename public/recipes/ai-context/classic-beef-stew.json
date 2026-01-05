@@ -22,7 +22,9 @@
       "acidic",
       "umami"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "comfort",
     "prepTime": "30 min",
@@ -221,21 +223,7 @@
     "taste",
     "adjust",
     "serve",
-    "hot",
-    "serving",
-    "suggestions",
-    "-",
-    "anadama",
-    "bread",
-    "silton-mise",
-    "recipes",
-    "anadama-bread",
-    "crusty",
-    "sourdough",
-    "everyday",
-    "arugula",
-    "salad",
-    "everyday-arugula-salad"
+    "hot"
   ],
   "methods": [
     "sear",

@@ -9,11 +9,17 @@
       "steam"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "meal-prep"
+    ],
     "flavorProfile": [
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Indian",
+      "Middle Eastern"
+    ],
     "role": "base",
     "vibe": "quick",
     "prepTime": "5 min",
@@ -152,24 +158,7 @@
     "fluff",
     "gently",
     "fork",
-    "serve",
-    "pairs",
-    "-",
-    "sunday",
-    "feast",
-    "chicken",
-    "tikka",
-    "masala",
-    "silton-mise",
-    "recipes",
-    "chicken-tikka-masala",
-    "lamb",
-    "keema",
-    "matar",
-    "lamb-keema-matar",
-    "saag",
-    "paneer",
-    "saag-paneer"
+    "serve"
   ],
   "methods": [
     "steam"
@@ -179,12 +168,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.plating-suggestion",

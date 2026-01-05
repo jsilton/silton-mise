@@ -9,7 +9,10 @@
       "grill"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "summer",
+      "light-and-fresh"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
@@ -165,26 +168,7 @@
     "fresh",
     "cilantro",
     "green",
-    "onions",
-    "serving",
-    "suggestions",
-    "-",
-    "homemade",
-    "rice",
-    "pilaf",
-    "silton-mise",
-    "recipes",
-    "homemade-rice-pilaf",
-    "coconut",
-    "quick",
-    "pickled",
-    "carrots",
-    "daikon",
-    "quick-pickled-carrots-and-daikon",
-    "smashed",
-    "cucumber",
-    "salad",
-    "smashed-cucumber-salad"
+    "onions"
   ],
   "methods": [
     "sear",

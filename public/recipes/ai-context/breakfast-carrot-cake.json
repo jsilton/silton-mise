@@ -10,12 +10,35 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "kids-approved",
+      "weekend-project"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "equipment": [
+      "baking-dish",
+      "mixing-bowl",
+      "grater"
+    ],
+    "advancePrep": [
+      "make-ahead",
+      "freeze-ahead"
+    ],
+    "pairsWith": [
+      "favorite-cream-cheese-frosting"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "15 min",
@@ -85,17 +108,14 @@
     "this",
     "is",
     "a",
-    "updated",
-    "classic",
-    "update",
-    "to",
-    "the",
+    "nutritious",
+    "take",
+    "on",
     "carrot",
     "cake",
-    "re-engineered",
+    "reimagined",
     "as",
     "high-fiber",
-    "nutritious",
     "breakfast",
     "by",
     "using",
@@ -109,7 +129,9 @@
     "provides",
     "sustained",
     "energy",
+    "the",
     "secret",
+    "to",
     "texture",
     "grating",
     "they",
@@ -122,11 +144,10 @@
     "providing",
     "moisture",
     "without",
+    "any",
     "mushy",
-    "veggie",
-    "feel",
-    "keeper",
-    "version",
+    "great",
+    "option",
     "for",
     "busy",
     "mornings",
@@ -213,23 +234,7 @@
     "once",
     "spices",
     "have",
-    "bloomed",
-    "serving",
-    "suggestions",
-    "-",
-    "dollop",
-    "favorite",
-    "cream",
-    "cheese",
-    "frosting",
-    "silton-mise",
-    "recipes",
-    "favorite-cream-cheese-frosting",
-    "fresh",
-    "berries",
-    "cold",
-    "brew",
-    "coffee"
+    "bloomed"
   ],
   "methods": [
     "bake"

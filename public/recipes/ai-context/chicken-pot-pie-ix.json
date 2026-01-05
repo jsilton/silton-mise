@@ -16,7 +16,22 @@
       "no-cook"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "comfort-food",
+      "entertaining",
+      "weekend-project",
+      "holiday"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "nutritionalDensity": "hearty",
+    "leftovers": "excellent",
+    "advancePrep": [
+      "make-ahead"
+    ],
+    "equipment": [],
     "flavorProfile": [
       "savory",
       "rich"
@@ -30,6 +45,9 @@
     "cookTime": "40 min",
     "totalTime": "90 min",
     "servings": "8",
+    "pairsWith": [
+      "caesar-salad"
+    ],
     "ingredients": [
       "1 lb Chicken Breast, poached and cubed",
       "1 cup Carrots, diced",
@@ -40,7 +58,7 @@
       "1 3/4 cups Chicken Broth",
       "2/3 cup Whole Milk",
       "1/2 tsp Garlic Powder + 1/4 tsp Celery Seed",
-      "2 (9-inch) unbaked pie crusts (Use the [Apple Pie](/silton-mise/recipes/apple-pie) Vodka Hack dough!)",
+      "2 (9-inch) unbaked pie crusts (Use the [Apple Pie](/mise/recipes/apple-pie) Vodka Hack dough!)",
       "1 large Egg (for wash)"
     ]
   },
@@ -80,7 +98,7 @@
     "use",
     "the",
     "apple",
-    "silton-mise",
+    "mise",
     "recipes",
     "apple-pie",
     "vodka",
@@ -103,29 +121,25 @@
     "gravy",
     "flaky",
     "crust",
-    "we",
-    "have",
-    "moved",
-    "away",
-    "from",
-    "boiled",
+    "this",
     "version",
-    "instead",
+    "uses",
     "or",
     "roasted",
     "chunks",
+    "rather",
+    "than",
+    "boiled",
     "to",
     "preserve",
     "meaty",
     "texture",
     "secret",
-    "kitchen",
-    "standard",
     "it",
     "provides",
     "that",
     "savory",
-    "soul",
+    "depth",
     "makes",
     "taste",
     "like",
@@ -133,6 +147,7 @@
     "bakery",
     "best",
     "result",
+    "from",
     "our",
     "recipe",
     "directions",
@@ -200,20 +215,12 @@
     "10",
     "before",
     "serving",
-    "this",
     "allows",
     "set",
     "so",
     "doesn",
     "t",
-    "run",
-    "suggestions",
-    "-",
-    "everyday",
-    "arugula",
-    "salad",
-    "everyday-arugula-salad",
-    "asparagus"
+    "run"
   ],
   "methods": [
     "roast",

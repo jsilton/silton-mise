@@ -11,12 +11,32 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "post-workout",
+      "quick-lunch",
+      "kids-approved"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "equipment": [
+      "baking-sheet",
+      "food-processor"
+    ],
+    "advancePrep": [
+      "make-ahead",
+      "freeze-ahead"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "15 min",
@@ -78,29 +98,27 @@
     "note",
     "these",
     "are",
-    "high-speed",
     "nutritious",
     "cookies",
     "designed",
     "for",
     "long-term",
-    "modularity",
+    "freezer",
+    "storage",
     "the",
-    "secret",
+    "key",
     "to",
     "their",
-    "incredible",
     "texture",
     "is",
-    "food",
-    "processor",
-    "method",
-    "we",
-    "process",
+    "processing",
     "directly",
     "with",
-    "create",
+    "in",
     "a",
+    "food",
+    "processor",
+    "create",
     "smooth",
     "caramel-like",
     "paste",
@@ -109,6 +127,7 @@
     "as",
     "primary",
     "sweetener",
+    "we",
     "use",
     "provide",
     "nutty",
@@ -119,8 +138,6 @@
     "explicitly",
     "be",
     "kept",
-    "in",
-    "freezer",
     "and",
     "eaten",
     "cold",
@@ -197,23 +214,7 @@
     "standard",
     "when",
     "straight",
-    "from",
-    "serving",
-    "suggestions",
-    "-",
-    "easy",
-    "breakfast",
-    "popsicles",
-    "silton-mise",
-    "recipes",
-    "easy-breakfast-yogurt-popsicles",
-    "fresh",
-    "apple",
-    "slices",
-    "chocolate",
-    "chia",
-    "pudding",
-    "chocolate-chia-pudding"
+    "from"
   ],
   "methods": [
     "bake"

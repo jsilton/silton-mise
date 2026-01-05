@@ -11,7 +11,10 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "comfort-food",
+      "weeknight"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
@@ -164,20 +167,7 @@
     "warm",
     "naan",
     "or",
-    "rice",
-    "serving",
-    "suggestions",
-    "-",
-    "basmati",
-    "silton-mise",
-    "recipes",
-    "basmati-rice",
-    "korean",
-    "pickled",
-    "cucumbers",
-    "korean-pickled-cucumbers",
-    "cooling",
-    "side"
+    "rice"
   ],
   "methods": [
     "sear"

@@ -8,14 +8,19 @@
       "no-cook"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "light-and-fresh",
+      "summer"
+    ],
     "flavorProfile": [
       "spicy",
       "savory",
       "acidic",
       "umami"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Hawaiian"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "20 min",
@@ -29,9 +34,9 @@
       "1 tsp Rice Vinegar",
       "1/2 tsp Grated Ginger",
       "1/2 tsp Chili Crisp or Sriracha",
-      "4 cups Cooked Sushi Rice or [Jasmine Rice](/silton-mise/recipes/homemade-rice-pilaf)",
+      "4 cups Cooked Sushi Rice or [Jasmine Rice](/mise/recipes/homemade-rice-pilaf)",
       "1 Avocado, diced",
-      "[Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers) (The crunch secret)",
+      "[Korean Pickled Cucumbers](/mise/recipes/korean-pickled-cucumbers) (The crunch secret)",
       "1/2 cup Shelled Edamame",
       "Sliced Scallions and Toasted Sesame Seeds",
       "Shredded Nori (Seaweed)"
@@ -72,7 +77,7 @@
     "cooked",
     "sushi",
     "jasmine",
-    "silton-mise",
+    "mise",
     "recipes",
     "homemade-rice-pilaf",
     "avocado",
@@ -176,15 +181,7 @@
     "extra",
     "spicy",
     "mayo",
-    "side",
-    "suggestions",
-    "-",
-    "miso",
-    "soup",
-    "miso-soup",
-    "iced",
-    "green",
-    "tea"
+    "side"
   ],
   "methods": [],
   "kbSuggestions": [

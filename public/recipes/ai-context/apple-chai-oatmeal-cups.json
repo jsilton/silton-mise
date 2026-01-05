@@ -10,17 +10,36 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "kids-approved",
+      "post-workout"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "advancePrep": [
+      "make-ahead"
+    ],
+    "equipment": [
+      "muffin-tin"
+    ],
     "flavorProfile": [
       "sweet"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "10 min",
     "cookTime": "20 min",
     "totalTime": "30 min",
     "servings": "12 cups",
+    "pairsWith": [],
     "ingredients": [
       "3 cups Rolled Oats (Old Fashioned)",
       "1 tsp Baking Powder",
@@ -81,16 +100,12 @@
     "is",
     "a",
     "grab-and-go",
-    "fuel",
+    "breakfast",
     "staple",
     "to",
     "elevate",
     "the",
     "flavor",
-    "we",
-    "use",
-    "blooming",
-    "method",
     "stir",
     "chai",
     "spices",
@@ -155,22 +170,7 @@
     "cool",
     "10",
     "allow",
-    "set",
-    "serving",
-    "suggestions",
-    "-",
-    "vanilla",
-    "earl",
-    "grey",
-    "overnight",
-    "silton-mise",
-    "recipes",
-    "vanilla-earl-grey-overnight-oats",
-    "texture",
-    "contrast",
-    "greek",
-    "yogurt",
-    "honey"
+    "set"
   ],
   "methods": [
     "bake"

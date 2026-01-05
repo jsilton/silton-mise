@@ -9,14 +9,19 @@
       "simmer"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "summer"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
       "acidic",
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Mediterranean"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "10 min",
@@ -151,26 +156,7 @@
     "chili",
     "flakes",
     "let",
-    "rest",
-    "serving",
-    "suggestions",
-    "-",
-    "everyday",
-    "arugula",
-    "salad",
-    "silton-mise",
-    "recipes",
-    "everyday-arugula-salad",
-    "cilantro",
-    "lime",
-    "rice",
-    "cilantro-lime-rice",
-    "or",
-    "homemade",
-    "pilaf",
-    "homemade-rice-pilaf",
-    "glass",
-    "ros"
+    "rest"
   ],
   "methods": [
     "sear"

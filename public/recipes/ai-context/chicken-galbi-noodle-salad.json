@@ -9,7 +9,10 @@
       "boil"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "meal-prep"
+    ],
     "flavorProfile": [
       "sweet",
       "savory",
@@ -17,7 +20,9 @@
       "umami",
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Korean"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "15 min",
@@ -37,7 +42,7 @@
       "1 Bell Pepper, thinly sliced",
       "1/4 cup Toasted Sesame Seeds",
       "1/2 cup Fresh Basil or Cilantro",
-      "1/2 cup [Korean Pickled Cucumbers](/silton-mise/recipes/korean-pickled-cucumbers) (Optional crunch)"
+      "1/2 cup [Korean Pickled Cucumbers](/mise/recipes/korean-pickled-cucumbers) (Optional crunch)"
     ]
   },
   "audiences": [],
@@ -87,7 +92,7 @@
     "cilantro",
     "pickled",
     "cucumbers",
-    "silton-mise",
+    "mise",
     "recipes",
     "korean-pickled-cucumbers",
     "optional",
@@ -179,12 +184,7 @@
     "absorb",
     "flavors",
     "they",
-    "sit",
-    "serving",
-    "suggestions",
-    "-",
-    "extra",
-    "drizzle"
+    "sit"
   ],
   "methods": [],
   "kbSuggestions": [

@@ -19,7 +19,9 @@
       "rich",
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "holiday",
     "prepTime": "30 min",
@@ -231,26 +233,7 @@
     "take",
     "it",
     "safe",
-    "165",
-    "serving",
-    "suggestions",
-    "-",
-    "corn",
-    "bread",
-    "dressing",
-    "silton-mise",
-    "recipes",
-    "corn-bread-dressing",
-    "cranberry",
-    "orange",
-    "sauce",
-    "cranberry-orange-sauce",
-    "spiced",
-    "butternut",
-    "squash",
-    "pur",
-    "e",
-    "spiced-butternut-squash-puree"
+    "165"
   ],
   "methods": [
     "roast",

@@ -11,7 +11,10 @@
       "fry"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "quick-lunch"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
@@ -20,7 +23,9 @@
       "umami",
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Thai"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "10 min",
@@ -103,11 +108,7 @@
     "meal",
     "the",
     "key",
-    "to",
-    "kitchen",
-    "standard",
-    "acid",
-    "balance",
+    "acidity",
     "heavy",
     "salty",
     "needs",
@@ -118,6 +119,7 @@
     "at",
     "very",
     "end",
+    "to",
     "make",
     "flavors",
     "pop",
@@ -191,21 +193,11 @@
     "just",
     "wilted",
     "7",
+    "acid",
+    "balance",
     "off",
     "squeeze",
-    "half",
-    "serving",
-    "suggestions",
-    "-",
-    "smashed",
-    "cucumber",
-    "salad",
-    "silton-mise",
-    "recipes",
-    "smashed-cucumber-salad",
-    "extra",
-    "chili",
-    "crisp"
+    "half"
   ],
   "methods": [
     "sear",

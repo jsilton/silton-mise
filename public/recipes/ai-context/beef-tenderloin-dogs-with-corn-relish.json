@@ -11,18 +11,36 @@
       "no-cook"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "entertaining",
+      "summer",
+      "weekend-project"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "good",
+    "equipment": [
+      "grill"
+    ],
     "flavorProfile": [
       "sweet",
       "acidic"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "technical",
     "prepTime": "20 min",
     "cookTime": "15 min",
     "totalTime": "35 min",
     "servings": "4",
+    "pairsWith": [
+      "potato-salad",
+      "coleslaw"
+    ],
     "ingredients": [
       "1 lb Center-cut Beef Tenderloin, cut into 4 long \"dogs\"",
       "1 tbsp Olive Oil",
@@ -100,11 +118,8 @@
     "tender",
     "so",
     "we",
-    "treat",
-    "it",
-    "with",
+    "use",
     "high-heat",
-    "minimalist",
     "cooking",
     "hard",
     "sear",
@@ -118,8 +133,7 @@
     "relish",
     "provides",
     "essential",
-    "executive",
-    "acid",
+    "acidity",
     "crunch",
     "that",
     "makes",
@@ -135,6 +149,7 @@
     "bowl",
     "whisk",
     "toss",
+    "with",
     "peppers",
     "onions",
     "let",
@@ -169,23 +184,7 @@
     "each",
     "bun",
     "top",
-    "generously",
-    "serving",
-    "suggestions",
-    "-",
-    "sweet",
-    "potato",
-    "fries",
-    "silton-mise",
-    "recipes",
-    "sweet-potato-fries",
-    "pickle",
-    "spears",
-    "cold",
-    "beer",
-    "vieux",
-    "carr",
-    "vieux-carre"
+    "generously"
   ],
   "methods": [
     "sear",

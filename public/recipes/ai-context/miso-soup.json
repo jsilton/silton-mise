@@ -11,7 +11,10 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "quick-lunch"
+    ],
     "flavorProfile": [
       "sweet",
       "savory",
@@ -151,20 +154,7 @@
     "5",
     "serve",
     "immediately",
-    "bowls",
-    "serving",
-    "suggestions",
-    "-",
-    "honey",
-    "sriracha",
-    "salmon",
-    "silton-mise",
-    "recipes",
-    "honey-sriracha-salmon-bowls",
-    "bibimbap",
-    "tuna",
-    "poke",
-    "tuna-poke-bowls"
+    "bowls"
   ],
   "methods": [],
   "kbSuggestions": [

@@ -8,18 +8,31 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "quick-lunch",
+      "post-workout",
+      "weeknight"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "poor",
+    "equipment": [],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "5 min",
     "cookTime": "10 min",
     "totalTime": "15 min",
     "servings": "1",
+    "pairsWith": [],
     "ingredients": [
       "1 large ripe Banana (the spottier the better)",
       "2 large Eggs",
@@ -154,20 +167,7 @@
     "fruit",
     "drizzle",
     "maple",
-    "syrup",
-    "serving",
-    "suggestions",
-    "-",
-    "berries",
-    "old-fashioned",
-    "peach",
-    "ice",
-    "cream",
-    "silton-mise",
-    "recipes",
-    "old-fashioned-fresh-peach-ice-cream",
-    "brunch",
-    "treat"
+    "syrup"
   ],
   "methods": [
     "sear"

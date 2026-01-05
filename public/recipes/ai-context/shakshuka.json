@@ -11,14 +11,19 @@
       "no-cook"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "entertaining"
+    ],
     "flavorProfile": [
       "spicy",
       "acidic",
       "umami",
       "smoky"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Middle Eastern"
+    ],
     "role": "main",
     "vibe": "nutritious",
     "prepTime": "15 min",
@@ -187,23 +192,7 @@
     "ladle",
     "7",
     "finish",
-    "garnish",
-    "serving",
-    "suggestions",
-    "-",
-    "smashed",
-    "cucumber",
-    "salad",
-    "silton-mise",
-    "smashed-cucumber-salad",
-    "warm",
-    "wheat",
-    "pita",
-    "greek",
-    "lemon",
-    "chicken",
-    "soup",
-    "avgolemono-soup"
+    "garnish"
   ],
   "methods": [],
   "kbSuggestions": [
@@ -211,12 +200,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.plating-suggestion",

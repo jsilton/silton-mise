@@ -11,11 +11,28 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "quick-lunch",
+      "post-workout"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "equipment": [
+      "muffin-tin"
+    ],
+    "advancePrep": [
+      "make-ahead"
+    ],
     "flavorProfile": [
       "savory"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "10 min",
@@ -77,13 +94,12 @@
     "note",
     "these",
     "are",
-    "the",
-    "ultimate",
-    "modularity",
-    "component",
+    "ideal",
     "for",
     "breakfast",
+    "meal",
     "prep",
+    "the",
     "secret",
     "to",
     "avoiding",
@@ -95,13 +111,7 @@
     "egg",
     "muffins",
     "is",
-    "textural",
-    "balance",
-    "through",
-    "squeeze",
-    "method",
-    "you",
-    "must",
+    "squeezing",
     "in",
     "a",
     "towel",
@@ -109,11 +119,8 @@
     "bone-dry",
     "before",
     "adding",
-    "we",
-    "use",
-    "anchor",
     "placing",
-    "veg",
+    "vegetables",
     "at",
     "bottom",
     "tin",
@@ -121,14 +128,14 @@
     "they",
     "develop",
     "slight",
-    "crunch",
+    "crisp",
     "against",
     "metal",
     "providing",
     "savory",
     "foundation",
     "fluffy",
-    "bounce",
+    "top",
     "directions",
     "preheat",
     "oven",
@@ -188,22 +195,7 @@
     "months",
     "reheated",
     "45",
-    "seconds",
-    "serving",
-    "suggestions",
-    "-",
-    "sliced",
-    "avocado",
-    "hot",
-    "sauce",
-    "everyday",
-    "arugula",
-    "salad",
-    "silton-mise",
-    "recipes",
-    "everyday-arugula-salad",
-    "fresh",
-    "fruit"
+    "seconds"
   ],
   "methods": [
     "bake"

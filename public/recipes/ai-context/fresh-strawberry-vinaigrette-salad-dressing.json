@@ -9,12 +9,29 @@
       "blend"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "light-and-fresh",
+      "summer"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "nutritionalDensity": "light",
+    "leftovers": "good",
+    "equipment": [
+      "blender"
+    ],
+    "pairsWith": [
+      "arugula-and-feta-salad-with-strawberry-vinaigrette"
+    ],
     "flavorProfile": [
       "sweet",
       "acidic"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "base",
     "vibe": "nutritious",
     "prepTime": "10 min",
@@ -57,21 +74,13 @@
     "this",
     "is",
     "a",
-    "baseline",
-    "modularity",
-    "component",
+    "dressing",
     "for",
     "summer",
     "salads",
     "the",
-    "secret",
-    "kitchen",
-    "standard",
-    "maceration",
-    "method",
-    "you",
-    "must",
-    "let",
+    "key",
+    "letting",
     "sit",
     "in",
     "30",
@@ -82,6 +91,7 @@
     "out",
     "natural",
     "juices",
+    "through",
     "osmosis",
     "creates",
     "syrup",
@@ -90,18 +100,13 @@
     "perfectly",
     "with",
     "result",
-    "dressing",
     "bright",
-    "acid",
-    "balance",
-    "has",
-    "texture",
-    "of",
+    "acidity",
+    "tastes",
+    "like",
     "fruit",
     "rather",
     "than",
-    "flat",
-    "flavor",
     "bottled",
     "version",
     "directions",
@@ -113,6 +118,7 @@
     "add",
     "toss",
     "coat",
+    "let",
     "stand",
     "at",
     "room",
@@ -141,6 +147,7 @@
     "splash",
     "more",
     "if",
+    "you",
     "need",
     "higher",
     "high",
@@ -154,38 +161,14 @@
     "shake",
     "vigorously",
     "each",
-    "restore",
-    "serving",
-    "suggestions",
-    "-",
-    "everyday",
-    "arugula",
-    "salad",
-    "silton-mise",
-    "recipes",
-    "everyday-arugula-salad",
-    "feta",
-    "strawberry",
-    "vinaigrette",
-    "arugula-and-feta-salad-with-strawberry-vinaigrette",
-    "grilled",
-    "salmon",
-    "chicken"
+    "restore"
   ],
-  "methods": [
-    "grill"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.plating-suggestion",

@@ -8,14 +8,31 @@
       "grill"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "light-and-fresh",
+      "quick-lunch",
+      "entertaining"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Mediterranean"
+    ],
     "role": "side",
     "vibe": "nutritious",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "leftovers": "poor",
+    "healthiness": "light",
+    "pairsWith": [
+      "grilled-chicken",
+      "fish",
+      "shrimp"
+    ],
     "prepTime": "15 min",
     "cookTime": "0 min",
     "totalTime": "15 min",
@@ -94,11 +111,8 @@
     "tough",
     "bitter",
     "is",
-    "culinary",
-    "technique",
-    "through",
     "massage",
-    "method",
+    "technique",
     "you",
     "must",
     "drizzle",
@@ -124,10 +138,6 @@
     "cooked",
     "greens",
     "we",
-    "maintain",
-    "textural",
-    "balance",
-    "set",
     "add",
     "only",
     "at",
@@ -145,7 +155,7 @@
     "has",
     "distinct",
     "creamy",
-    "snap",
+    "pieces",
     "directions",
     "place",
     "wide",
@@ -179,51 +189,19 @@
     "5",
     "finish",
     "fold",
-    "pieces",
     "just",
     "before",
     "serving",
     "mandatory",
     "high",
-    "creaminess",
-    "suggestions",
-    "-",
-    "everyday",
-    "arugula",
-    "silton-mise",
-    "recipes",
-    "everyday-arugula-salad",
-    "grilled",
-    "chicken",
-    "herbed",
-    "corn",
-    "salsa",
-    "grilled-chicken-with-herbed-corn-salsa",
-    "coconut",
-    "curry",
-    "shrimp",
-    "coconut-curry-shrimp"
+    "creaminess"
   ],
-  "methods": [
-    "grill"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
-    },
-    {
-      "ruleId": "kb.missing-resting",
-      "title": "Recommend resting meat after high-heat cooking",
-      "severity": "hint",
-      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
     },
     {
       "ruleId": "kb.plating-suggestion",

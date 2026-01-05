@@ -19,7 +19,9 @@
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "French"
+    ],
     "role": "dessert",
     "vibe": "comfort",
     "prepTime": "20 min",
@@ -191,18 +193,7 @@
     "let",
     "completely",
     "sheet",
-    "allow",
-    "serving",
-    "suggestions",
-    "-",
-    "fresh",
-    "raspberries",
-    "ultimate",
-    "crock-pot",
-    "sipping",
-    "silton-mise",
-    "recipes",
-    "crock-pot-hot-chocolate"
+    "allow"
   ],
   "methods": [
     "bake"

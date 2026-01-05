@@ -15,7 +15,9 @@
     "flavorProfile": [
       "sweet"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Southern"
+    ],
     "role": "main",
     "vibe": "comfort",
     "prepTime": "10 min",
@@ -160,28 +162,9 @@
     "pile",
     "onto",
     "brioche",
-    "buns",
-    "serving",
-    "suggestions",
-    "-",
-    "quick",
-    "pickled",
-    "carrots",
-    "daikon",
-    "silton-mise",
-    "recipes",
-    "quick-pickled-carrots-and-daikon",
-    "roasted",
-    "green",
-    "bean",
-    "fries",
-    "roasted-green-bean-fries",
-    "sweet",
-    "potato"
+    "buns"
   ],
-  "methods": [
-    "roast"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",

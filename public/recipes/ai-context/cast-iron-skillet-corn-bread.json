@@ -9,15 +9,35 @@
       "fry"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "entertaining",
+      "holiday"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Southern"
+    ],
     "role": "side",
     "vibe": "quick",
+    "season": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "leftovers": "good",
+    "healthiness": "moderate",
+    "pairsWith": [
+      "chili",
+      "bbq",
+      "ribs",
+      "pulled-pork"
+    ],
     "prepTime": "10 min",
     "cookTime": "20 min",
     "totalTime": "30 min",
@@ -151,24 +171,7 @@
     "slice",
     "directly",
     "with",
-    "honey",
-    "serving",
-    "suggestions",
-    "-",
-    "turkey",
-    "sweet",
-    "potato",
-    "chili",
-    "silton-mise",
-    "recipes",
-    "classic",
-    "beef",
-    "stew",
-    "classic-beef-stew",
-    "ip",
-    "pulled",
-    "pork",
-    "instant-pot-pulled-pork"
+    "honey"
   ],
   "methods": [
     "sear",
@@ -180,12 +183,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.maillard-note",

@@ -17,7 +17,9 @@
       "rich",
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Southern"
+    ],
     "role": "side",
     "vibe": "holiday",
     "prepTime": "30 min",
@@ -92,8 +94,9 @@
     "family",
     "classic",
     "is",
-    "textural",
-    "balance",
+    "getting",
+    "right",
+    "texture",
     "most",
     "dressings",
     "are",
@@ -101,7 +104,6 @@
     "we",
     "solve",
     "by",
-    "specifically",
     "baking",
     "dry",
     "them",
@@ -187,26 +189,9 @@
     "at",
     "30",
     "top",
-    "crispy",
-    "serving",
-    "suggestions",
-    "-",
-    "good",
-    "eats",
-    "roast",
-    "turkey",
-    "silton-mise",
-    "recipes",
-    "good-eats-roast-turkey",
-    "spiced",
-    "butternut",
-    "squash",
-    "pur",
-    "e",
-    "spiced-butternut-squash-puree"
+    "crispy"
   ],
   "methods": [
-    "roast",
     "bake"
   ],
   "kbSuggestions": [
@@ -226,12 +211,6 @@
       "title": "Maillard note: dry surface for browning",
       "severity": "hint",
       "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
-    },
-    {
-      "ruleId": "kb.missing-resting",
-      "title": "Recommend resting meat after high-heat cooking",
-      "severity": "hint",
-      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
     },
     {
       "ruleId": "kb.plating-suggestion",

@@ -9,7 +9,10 @@
       "grill"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "entertaining"
+    ],
     "flavorProfile": [
       "sweet",
       "acidic"
@@ -122,34 +125,14 @@
     "30",
     "up",
     "week",
-    "fridge",
-    "pairs",
-    "-",
-    "grilled-pork",
-    "silton-mise",
-    "recipes",
-    "grilled-pork-banh-mi",
-    "grilled",
-    "chicken",
-    "vietnamese-grilled-chicken",
-    "tuna",
-    "poke",
-    "tuna-poke-bowls"
+    "fridge"
   ],
-  "methods": [
-    "grill"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.plating-suggestion",

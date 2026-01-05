@@ -11,11 +11,16 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "entertaining",
+      "weekend-project"
+    ],
     "flavorProfile": [
       "acidic"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Swiss"
+    ],
     "role": "main",
     "vibe": "technical",
     "prepTime": "10 min",
@@ -164,37 +169,14 @@
     "green",
     "apples",
     "blanched",
-    "broccoli",
-    "serving",
-    "suggestions",
-    "-",
-    "anadama",
-    "silton-mise",
-    "recipes",
-    "anadama-bread",
-    "cubes",
-    "roasted",
-    "fingerling",
-    "potatoes",
-    "everyday",
-    "arugula",
-    "salad",
-    "everyday-arugula-salad"
+    "broccoli"
   ],
-  "methods": [
-    "roast"
-  ],
+  "methods": [],
   "kbSuggestions": [
     {
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.missing-resting",
-      "title": "Recommend resting meat after high-heat cooking",
-      "severity": "hint",
-      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
     },
     {
       "ruleId": "kb.missing-salt",

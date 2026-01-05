@@ -11,7 +11,10 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "entertaining"
+    ],
     "flavorProfile": [
       "acidic",
       "rich"
@@ -194,16 +197,7 @@
     "paprika",
     "or",
     "za",
-    "atar",
-    "pairs",
-    "-",
-    "falafel",
-    "silton-mise",
-    "recipes",
-    "shakshuka",
-    "homemade",
-    "naan",
-    "homemade-naan"
+    "atar"
   ],
   "methods": [],
   "kbSuggestions": [

@@ -10,7 +10,10 @@
       "steam"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "quick-lunch"
+    ],
     "flavorProfile": [
       "spicy",
       "sweet",
@@ -18,7 +21,9 @@
       "acidic",
       "umami"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Japanese"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "10 min",
@@ -88,8 +93,8 @@
     "great",
     "yaki",
     "is",
-    "textural",
-    "balance",
+    "maintaining",
+    "texture",
     "has",
     "a",
     "superior",
@@ -187,19 +192,7 @@
     "hot",
     "sprinkle",
     "furikake",
-    "chili",
-    "serving",
-    "suggestions",
-    "-",
-    "miso",
-    "soup",
-    "silton-mise",
-    "recipes",
-    "miso-soup",
-    "korean",
-    "pickled",
-    "cucumbers",
-    "korean-pickled-cucumbers"
+    "chili"
   ],
   "methods": [
     "sear",

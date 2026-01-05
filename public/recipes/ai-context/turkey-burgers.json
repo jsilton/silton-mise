@@ -13,11 +13,27 @@
       "no-cook"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "summer",
+      "kids-approved"
+    ],
+    "seasons": [
+      "summer",
+      "year-round"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "good",
+    "equipment": [
+      "grill",
+      "large-skillet"
+    ],
     "flavorProfile": [
       "sweet"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "15 min",
@@ -197,34 +213,10 @@
     "6",
     "assemble",
     "build",
-    "on",
-    "serving",
-    "suggestions",
-    "-",
-    "sweet",
-    "potato",
-    "fries",
-    "silton-mise",
-    "recipes",
-    "sweet-potato-fries",
-    "roasted",
-    "green",
-    "bean",
-    "toss",
-    "beans",
-    "roast",
-    "425",
-    "12",
-    "mins",
-    "mexican",
-    "street",
-    "corn",
-    "salad",
-    "mexican-street-corn-salad"
+    "on"
   ],
   "methods": [
     "sear",
-    "roast",
     "grill"
   ],
   "kbSuggestions": [

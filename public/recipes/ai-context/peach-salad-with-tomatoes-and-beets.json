@@ -11,15 +11,31 @@
       "no-cook"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "light-and-fresh",
+      "entertaining",
+      "weekend-project"
+    ],
     "flavorProfile": [
       "sweet",
       "acidic",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Mediterranean"
+    ],
     "role": "side",
     "vibe": "nutritious",
+    "season": [
+      "summer"
+    ],
+    "leftovers": "good",
+    "healthiness": "light",
+    "pairsWith": [
+      "grilled-chicken",
+      "pork",
+      "fish"
+    ],
     "prepTime": "25 min",
     "cookTime": "60 min",
     "totalTime": "85 min",
@@ -79,16 +95,10 @@
     "note",
     "this",
     "salad",
-    "is",
-    "a",
-    "masterclass",
-    "in",
-    "textural",
-    "through",
-    "roasted",
-    "stacks",
-    "method",
-    "we",
+    "showcases",
+    "contrasting",
+    "textures",
+    "temperatures",
     "roast",
     "at",
     "high",
@@ -100,7 +110,6 @@
     "reach",
     "an",
     "earthy",
-    "crunch",
     "tender",
     "consistency",
     "then",
@@ -109,20 +118,17 @@
     "with",
     "raw",
     "creates",
+    "a",
     "spectrum",
     "of",
-    "grain",
-    "structures",
+    "in",
     "every",
     "forkful",
-    "mandatory",
-    "comes",
-    "from",
     "lemon-honey-shallot",
     "emulsion",
-    "which",
     "provides",
-    "needed",
+    "essential",
+    "acidity",
     "to",
     "bridge",
     "sweet",
@@ -184,26 +190,11 @@
     "everything",
     "garnish",
     "aromatic",
-    "serving",
-    "suggestions",
-    "-",
-    "everyday",
-    "arugula",
-    "silton-mise",
-    "recipes",
-    "everyday-arugula-salad",
-    "grilled",
-    "pork",
-    "grilled-pork-and-peaches",
-    "classic",
-    "martini",
-    "classic-martini",
-    "chilled"
+    "freshness"
   ],
   "methods": [
     "roast",
-    "bake",
-    "grill"
+    "bake"
   ],
   "kbSuggestions": [
     {

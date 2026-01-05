@@ -16,7 +16,9 @@
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Southern"
+    ],
     "role": "side",
     "vibe": "comfort",
     "prepTime": "10 min",
@@ -68,14 +70,9 @@
     "average",
     "cornbread",
     "and",
-    "kitchen",
-    "standard",
+    "exceptional",
     "is",
-    "culinary",
-    "technique",
-    "through",
     "skillet",
-    "sizzle",
     "method",
     "you",
     "must",
@@ -99,10 +96,9 @@
     "an",
     "immediate",
     "deep-gold",
-    "crunch",
+    "crust",
     "on",
     "bottom",
-    "crust",
     "that",
     "unattainable",
     "in",
@@ -131,6 +127,7 @@
     "wet",
     "separate",
     "bubbly",
+    "sizzle",
     "carefully",
     "remove",
     "from",
@@ -178,22 +175,7 @@
     "warm",
     "directly",
     "honey",
-    "extra",
-    "serving",
-    "suggestions",
-    "-",
-    "turkey",
-    "sweet",
-    "potato",
-    "chili",
-    "silton-mise",
-    "recipes",
-    "crockpot",
-    "vegetarian",
-    "crockpot-vegetarian-chili",
-    "baked",
-    "chicken",
-    "buttermilk-baked-chicken"
+    "extra"
   ],
   "methods": [
     "bake"
@@ -203,12 +185,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.maillard-note",

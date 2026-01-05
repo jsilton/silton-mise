@@ -16,7 +16,9 @@
       "sweet",
       "savory"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Jewish"
+    ],
     "role": "main",
     "vibe": "holiday",
     "prepTime": "30 min",
@@ -185,24 +187,7 @@
     "30-45",
     "minutes",
     "hot",
-    "bubbling",
-    "serving",
-    "suggestions",
-    "-",
-    "corn",
-    "bread",
-    "dressing",
-    "silton-mise",
-    "recipes",
-    "corn-bread-dressing",
-    "patate",
-    "al",
-    "forno",
-    "patate-al-forno",
-    "nana",
-    "ruth",
-    "applesauce",
-    "nana-ruths-applesauce"
+    "bubbling"
   ],
   "methods": [
     "bake",

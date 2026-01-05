@@ -10,7 +10,10 @@
       "simmer"
     ],
     "dietary": [],
-    "occasions": [],
+    "occasions": [
+      "entertaining",
+      "weekend-project"
+    ],
     "flavorProfile": [
       "acidic",
       "herbaceous",
@@ -195,20 +198,7 @@
     "9",
     "finish",
     "garnish",
-    "lots",
-    "serving",
-    "suggestions",
-    "-",
-    "everyday",
-    "arugula",
-    "salad",
-    "silton-mise",
-    "recipes",
-    "everyday-arugula-salad",
-    "glass",
-    "cold",
-    "albari",
-    "o"
+    "lots"
   ],
   "methods": [
     "sear",

@@ -25,7 +25,9 @@
       "rich",
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "side",
     "vibe": "nutritious",
     "prepTime": "15 min",
@@ -191,23 +193,7 @@
     "cool",
     "on",
     "wire",
-    "rack",
-    "serving",
-    "suggestions",
-    "-",
-    "old-fashioned",
-    "peach",
-    "ice",
-    "cream",
-    "silton-mise",
-    "recipes",
-    "old-fashioned-fresh-peach-ice-cream",
-    "dessert",
-    "twist",
-    "mango-rita",
-    "green",
-    "smoothie",
-    "mango-rita-green-smoothie"
+    "rack"
   ],
   "methods": [
     "bake"

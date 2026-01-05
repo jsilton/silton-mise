@@ -15,12 +15,35 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "holiday",
+      "entertaining",
+      "weekend-project",
+      "indulgent"
+    ],
+    "seasons": [
+      "year-round"
+    ],
+    "nutritionalDensity": "hearty",
+    "leftovers": "excellent",
+    "equipment": [
+      "cake-pans",
+      "stand-mixer",
+      "grater"
+    ],
+    "advancePrep": [
+      "make-ahead"
+    ],
+    "pairsWith": [
+      "favorite-cream-cheese-frosting"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "dessert",
     "vibe": "technical",
     "prepTime": "30 min",
@@ -102,21 +125,23 @@
     "chef",
     "s",
     "note",
-    "we",
-    "have",
-    "elevated",
     "this",
     "mercer",
     "street",
     "classic",
+    "is",
+    "elevated",
     "using",
+    "stella",
+    "parks",
     "bravetart",
-    "method",
+    "technique",
     "by",
     "replacing",
     "generic",
     "with",
     "toasted",
+    "you",
     "inject",
     "a",
     "deep",
@@ -127,7 +152,6 @@
     "complements",
     "and",
     "spices",
-    "is",
     "final",
     "secret",
     "it",
@@ -199,19 +223,7 @@
     "frost",
     "top",
     "sides",
-    "generously",
-    "serving",
-    "suggestions",
-    "-",
-    "strong",
-    "coffee",
-    "or",
-    "espresso",
-    "vieux",
-    "carr",
-    "silton-mise",
-    "recipes",
-    "vieux-carre"
+    "generously"
   ],
   "methods": [
     "bake"

@@ -10,12 +10,31 @@
     "dietary": [
       "vegetarian"
     ],
-    "occasions": [],
+    "occasions": [
+      "meal-prep",
+      "kids-approved"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "nutritionalDensity": "moderate",
+    "leftovers": "excellent",
+    "equipment": [
+      "muffin-tin",
+      "mixing-bowl"
+    ],
+    "advancePrep": [
+      "make-ahead",
+      "freeze-ahead"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "American"
+    ],
     "role": "main",
     "vibe": "quick",
     "prepTime": "5 min",
@@ -68,7 +87,7 @@
     "chef",
     "s",
     "note",
-    "secret",
+    "key",
     "to",
     "muffins",
     "that",
@@ -76,11 +95,8 @@
     "t",
     "dry",
     "is",
-    "culinary",
-    "technique",
-    "through",
-    "high-hydration",
-    "method",
+    "high",
+    "hydration",
     "has",
     "a",
     "more",
@@ -102,13 +118,7 @@
     "in",
     "tender",
     "cake-like",
-    "bounce",
-    "use",
-    "as",
-    "mandatory",
-    "aromatic",
-    "high",
-    "it",
+    "texture",
     "defines",
     "autumnal",
     "profile",
@@ -117,6 +127,7 @@
     "over-mix",
     "once",
     "added",
+    "as",
     "will",
     "deflate",
     "lose",
@@ -174,24 +185,7 @@
     "allow",
     "set",
     "crunch",
-    "crumb",
-    "serving",
-    "suggestions",
-    "-",
-    "old-fashioned",
-    "vanilla",
-    "ice",
-    "cream",
-    "silton-mise",
-    "recipes",
-    "old-fashioned-vanilla-ice-cream",
-    "fresh",
-    "sliced",
-    "apples",
-    "mango-rita",
-    "green",
-    "smoothie",
-    "mango-rita-green-smoothie"
+    "crumb"
   ],
   "methods": [
     "bake"

@@ -26,7 +26,9 @@
       "rich",
       "herbaceous"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "French"
+    ],
     "role": "side",
     "vibe": "holiday",
     "prepTime": "25 min",
@@ -220,22 +222,9 @@
     "serving",
     "so",
     "layers",
-    "set",
-    "suggestions",
-    "good",
-    "eats",
-    "roast",
-    "turkey",
-    "silton-mise",
-    "recipes",
-    "good-eats-roast-turkey",
-    "cranberry",
-    "orange",
-    "sauce",
-    "cranberry-orange-sauce"
+    "set"
   ],
   "methods": [
-    "roast",
     "bake"
   ],
   "kbSuggestions": [
@@ -243,12 +232,6 @@
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
-    },
-    {
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
       "ruleId": "kb.maillard-note",

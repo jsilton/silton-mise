@@ -17,7 +17,9 @@
       "sweet",
       "acidic"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Jewish"
+    ],
     "role": "main",
     "vibe": "holiday",
     "prepTime": "30 min",
@@ -196,20 +198,7 @@
     "reheat",
     "gently",
     "before",
-    "serving",
-    "suggestions",
-    "-",
-    "nana",
-    "biscuits",
-    "silton-mise",
-    "recipes",
-    "nanas-biscuits",
-    "roasted",
-    "root",
-    "vegetables",
-    "ruth",
-    "applesauce",
-    "nana-ruths-applesauce"
+    "serving"
   ],
   "methods": [
     "sear",

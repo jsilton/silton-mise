@@ -19,7 +19,9 @@
       "savory",
       "rich"
     ],
-    "cuisines": [],
+    "cuisines": [
+      "Southern"
+    ],
     "role": "side",
     "vibe": "comfort",
     "prepTime": "10 min",
@@ -192,24 +194,9 @@
     "watching",
     "intensely",
     "prevent",
-    "burning",
-    "serving",
-    "suggestions",
-    "-",
-    "sunday",
-    "roast",
-    "savory",
-    "stew",
-    "ruth",
-    "applesauce",
-    "silton-mise",
-    "recipes",
-    "nana-ruths-applesauce",
-    "local",
-    "honey"
+    "burning"
   ],
   "methods": [
-    "roast",
     "bake"
   ],
   "kbSuggestions": [
@@ -223,12 +210,6 @@
       "title": "Maillard note: dry surface for browning",
       "severity": "hint",
       "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
-    },
-    {
-      "ruleId": "kb.missing-resting",
-      "title": "Recommend resting meat after high-heat cooking",
-      "severity": "hint",
-      "suggestion": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy."
     },
     {
       "ruleId": "kb.plating-suggestion",

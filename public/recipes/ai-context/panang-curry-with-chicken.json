@@ -12,7 +12,10 @@
     "dietary": [
       "nut-free"
     ],
-    "occasions": [],
+    "occasions": [
+      "weeknight",
+      "comfort-food"
+    ],
     "flavorProfile": [
       "sweet",
       "rich"
@@ -181,18 +184,11 @@
     "serve",
     "jasmine",
     "rice",
-    "silton-mise",
+    "mise",
     "recipes",
     "homemade-rice-pilaf",
     "with",
-    "texture",
-    "serving",
-    "suggestions",
-    "-",
-    "smashed",
-    "cucumber",
-    "salad",
-    "smashed-cucumber-salad"
+    "texture"
   ],
   "methods": [
     "fry"
