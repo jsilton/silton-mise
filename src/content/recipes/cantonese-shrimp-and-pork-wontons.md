@@ -37,7 +37,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" Cantonese filling. The secret to the "snap" is the **vigorous mixing**: by stirring the meat in one direction until it becomes a sticky paste, you develop the protein structure found in professional dim sum.
+Cantonese wontons from Guangdong province have been made for centuries, traditionally served in clear broth. The key to the bouncy texture is stirring the meat mixture vigorously in one direction until it becomes sticky and emulsified—this develops the protein structure. Using a mix of finely chopped and chunky shrimp gives you both flavor and textural contrast. Water chestnuts add crunch; if you don't like them, finely minced celery or Fuji apple work as substitutes.
 
 **Chef Kriger Twist:** If you dislike the texture of water chestnuts, you can substitute an equal amount of **finely minced celery or Fuji apple**. It provides the same crunch without the chalkiness.
 

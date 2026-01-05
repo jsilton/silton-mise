@@ -43,7 +43,7 @@ ingredients:
 
 ## Chef's Note
 
-This is not a delicate potsticker; this is a **Boston Peking Ravioli**. It is defined by its thick, chewy, almost pasta-like skin and a bottom that is fried to a deep, dark golden brown. The secret to the dough is using **Boiling Water** (hot water crust method)—this partially cooks the flour, resulting in a wrapper that stays soft and chewy even after frying. The sauce must be ginger-forward and slightly sweet to mimic the legendary versions from Bernard's and Golden Temple.
+Peking ravioli (also called potstickers) were popularized in Boston by Joyce Chen's restaurant in the 1950s-60s. The Boston style is distinctive for its thick, chewy wrapper—more like pasta than delicate dim sum. The secret is using boiling water to make the dough, which partially cooks the flour and creates a chewier texture that stays soft even after frying. The bottom should be fried until deeply golden and crispy. A ginger-forward dipping sauce with black vinegar and a touch of sweetness is traditional.
 
 ## Directions
 

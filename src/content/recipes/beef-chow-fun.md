@@ -35,7 +35,7 @@ ingredients:
 
 ## Chef's Note
 
-Beef Chow Fun is the ultimate test of a Cantonese chef. It requires **Culinary Technique**: the beef must be "velveted" with baking soda to remain tender, and the noodles must be treated gently. The secret is high heat and **minimal stirring**—you want the noodles to sear and char (Wok Hei) without breaking into small pieces.
+Beef chow fun is a classic Cantonese stir-fry from Guangzhou, famous for showcasing wok hei—the smoky, charred flavor from high-heat cooking. Marinating the beef with baking soda tenderizes it (a technique called "velveting" in Chinese cooking). The key is using very high heat and stirring minimally—let the noodles sit undisturbed so they char and develop flavor without breaking apart. Fresh wide rice noodles (ho fun) are essential for the authentic chewy texture.
 
 ## Directions
 

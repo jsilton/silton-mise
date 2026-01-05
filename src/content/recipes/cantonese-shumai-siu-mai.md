@@ -36,7 +36,7 @@ ingredients:
 
 ## Chef's Note
 
-Shumai is the test of a Dim Sum master. The secret to the "Restaurant Bounce" is **Culinary Technique**: you must stir the pork and shrimp mixture vigorously in one direction for 5 minutes until it becomes a sticky, emulsified paste. This creates the snap that differentiates a real shumai from a simple meatball. Always use dried shiitakes for their intense, concentrated umami.
+Shumai (also spelled siu mai) are open-topped Cantonese dumplings, a dim sum staple from Guangdong province. The distinctive bouncy texture comes from stirring the pork and shrimp mixture vigorously in one direction for several minutes until it becomes sticky—this develops the protein and gives it that characteristic snap. Dried shiitake mushrooms are essential for their concentrated umami flavor. The yellow egg wrappers and the small diced carrot or goji berry garnish on top are traditional touches.
 
 ## Directions
 

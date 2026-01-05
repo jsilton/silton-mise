@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Bernard's Style" roast pork—meaty, sweet, and sticky. While traditional Char Siu is hung in a specialized oven, we achieve the same result by roasting on a rack and **basting** repeatedly with the honey-glaze to build up that dark, caramelized lacquer. Sliced thin, it is the ultimate topping for wonton soup.
+Char siu is Cantonese barbecued pork, traditionally hung and roasted in special ovens. The name means "fork roasted" from the long forks used to hang the meat. This home version uses a rack and repeated basting with honey glaze to build up the signature sticky, caramelized coating. Marinate overnight for the best flavor penetration. The five-spice powder gives it the distinctive sweet-savory aroma. Slice thin and serve over rice or as a topping for noodle soups.
 
 ## Directions
 

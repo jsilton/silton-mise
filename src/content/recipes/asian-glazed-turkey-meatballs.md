@@ -36,7 +36,7 @@ ingredients:
 
 ## Chef's Note
 
-Ground turkey breast is notoriously dry. We fix this by applying the **Executive Panade Method**: soaking the panko in milk before mixing it into the meat creates a moisture reservoir that prevents the meatballs from turning into hockey pucks. We bake them at high heat to get a "sear" without frying, then toss them in a glossy, acid-balanced hoisin glaze.
+Ground turkey breast is notoriously dry since it's so lean. The trick is making a panade: soak the panko breadcrumbs in milk for 5 minutes before mixing with the meat. This creates a moisture reservoir that keeps the meatballs tender even when fully cooked. Baking at high heat gives you a nice crust without the mess of frying, and the hoisin-soy glaze adds sweet-savory flavor with a glossy finish.
 
 ## Directions
 
