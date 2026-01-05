@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 20-minute quick main dishes. The secret to Success is **The Cold Soak Method**: you must soak the rice noodles in hot water for 25 minutes rather than boiling them; this ensures they maintain a resilient Texture and don't turn into a tangled mush. We use **The Sugared Sear Method**: marinating the shrimp in sweet chili sauce for 15 minutes allows the sugars to caramelize instantly when they hit the hot wok, providing a professional-grade mahogany "Snap."
+This quick stir-fry showcases the Cantonese approach to spring vegetables, pairing sweet, crisp snow peas with tender shrimp. Soaking rice noodles in hot (not boiling) water prevents them from breaking apart, while marinating shrimp in sweet chili sauce creates caramelized edges when seared in a hot wok.
 
 ## Directions
 

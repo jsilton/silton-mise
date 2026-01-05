@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to authentic "Lobster Sauce" style shrimp is **Culinary Technique** through **The Egg Ribbon Method**. You must pour the beaten egg slowly across the surface of the boiling sauce and let it sit for 10 seconds before folding; this creates long, silken ribbons that provide a velvety "Bounce." We maintain **Textural Balance** through **The Pork-Bean Sear**: we fry the ground pork and mashed black beans first to develop a smoky, savory foundation that contrasts the sweet Crunch of the shrimp.
+This Cantonese dish builds flavor from fermented black beans (douchi), which provide a pungent, earthy base when fried with ground pork. Drizzling beaten egg across the surface of the hot sauce and letting it set before folding creates the characteristic silky ribbons found in classic lobster-style sauces popular in Chinese-American restaurants.
 
 ## Directions
 

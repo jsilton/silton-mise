@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to authentic Shanghai Fried Noodles is **The Dark Soy Method**. Unlike other stir-fries, this dish relies on a heavy hit of dark soy sauce to achieve a deep, mahogany lacquer and a subtle sweetness. We use **Culinary Technique** through **The Velveting Method**: marinating the pork in cornstarch and wine ensures it maintains a succulent Texture under the high heat of the wok. We maintain **Textural Balance** by using thick udon noodles, which provide a chewy, resilient Crunch against the soft bok choy.
+Cu chao mian is a Shanghai classic characterized by its dark, glossy noodles coated in generous dark soy sauce for a deep mahogany color and subtle sweetness. Velveting the pork in cornstarch and Shaoxing wine keeps it tender during high-heat cooking, while thick udon noodles provide a satisfying chew against wilted bok choy.
 
 ## Directions
 

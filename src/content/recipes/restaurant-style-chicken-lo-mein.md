@@ -35,7 +35,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to restaurant-quality Lo Mein is **Culinary Technique** through **The Velveting Method**. By marinating the chicken in cornstarch and water, we ensure it remains juicy even under high heat. We maintain **Textural Balance** through **The 60-Second Steam**: we add a splash of water and cover the wok for exactly one minute; this "shocks" the cabbage and carrots into tenderness while keeping the noodles resilient. The dark soy sauce is the mandatory **High Note** for that iconic takeout bronze.
+Cantonese lo mein is a tossed noodle dish that relies on fresh egg noodles and a light soy-based sauce, distinguishing it from the heavier, soupier chow mein. Velveting the chicken in cornstarch and water keeps the meat tender during high-heat stir-frying, while dark soy sauce provides the characteristic bronze color of Chinese-American takeout.
 
 ## Directions
 

@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive Boston-Chinese "Heritage" standard. The name is literal: the sauce is designed _for_ lobster, though we use shrimp here. The secret to its Success is **Culinary Technique** through **The Egg Ribbon Method**: you must turn off the heat and slowly drizzle the beaten egg into the boiling sauce while stirring gently; this creates silken ribbons that provide a velvety "Bounce." We use **Fermented Black Beans** as the complex flavor to provide the earthy backbone that defines the dish.
+Lobster sauce is a Chinese-American invention from the mid-20th century, originally designed to accompany whole lobster but now commonly served with shrimp. The sauce gets its distinctive character from fermented black beans (douchi) and silky egg ribbons created by drizzling beaten egg into the hot sauce off-heat, a Cantonese technique that adds body and richness.
 
 ## Directions
 

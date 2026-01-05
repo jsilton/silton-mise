@@ -39,7 +39,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a classic Cantonese "Clean" stir-fry. To achieve the "Restaurant Snap," we use two professional techniques: **The Alkaline Rinse** (baking soda) which gives the shrimp a bouncy texture, and **Velveting** (cornstarch/wine marinade) which protects the delicate protein from the high heat of the wok. This results in shrimp that are juicy and translucent, paired with snow peas that are vivid green and crisp.
+This classic Cantonese stir-fry showcases delicate proteins and spring vegetables with minimal sauce. Treating shrimp with baking soda creates a firm, snappy texture, while a cornstarch and Shaoxing wine marinade (velveting) keeps them tender under high heat. The result is juicy, translucent shrimp paired with crisp, bright green snow peas.
 
 ## Directions
 
