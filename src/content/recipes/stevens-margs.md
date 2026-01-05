@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive quick cocktail for the home bar. The secret to its Success is **The Smoked Salt Pulse**. Instead of rimming the glass (which provides inconsistent flavor), we add a tiny pinch of **Smoked Sea Salt** directly into the shaker. This introduces a complex flavor that amplifies the wood-aged notes of the reposado tequila. We use a **1:1:1 ratio** of tequila, orange liqueur, and lime to ensure a perfect balance where the acid provides a sharp Crunch against the velvety agave "Bounce."
+This modern margarita uses a 1:1:1 ratio of reposado tequila, Cointreau, and fresh lime juice for balanced sweet-tart-boozy proportions. Instead of rimming the glass, a pinch of smoked sea salt added directly to the shaker amplifies the wood-aged notes of the reposado while providing consistent seasoning throughout the drink.
 
 ## Directions
 

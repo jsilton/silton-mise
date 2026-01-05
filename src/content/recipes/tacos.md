@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a great weeknight taco bar is **Contrast and Depth**. Ground turkey can be bland; we fix this by simmering it with **Better Than Bouillon**, which provides an umami punch that mimics slow-cooked meat. Adding **Korean Pickled Cucumbers** provides a surprising and vital "acid-crunch" that elevates this from a basic box meal to something restaurant-worthy.
+This Tex-Mex weeknight taco bar keeps lean ground turkey flavorful by simmering it with Better Than Bouillon chicken base, which adds umami depth that mimics slow-cooked meat. Korean pickled cucumbers provide a surprising tangy crunch that elevates the meal beyond standard taco seasoning.
 
 ## Directions
 

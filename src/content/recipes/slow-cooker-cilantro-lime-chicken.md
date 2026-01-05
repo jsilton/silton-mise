@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate **Modularity** component for tacos and bowls. The secret to its Success is **The Salsa-Acid Method**: we slow-cook the chicken in a bath of salsa verde and Rotel; the acidity of the tomatillos acts as a continuous enzyme tenderizer, resulting in a protein that has a succulent Texture rather than a stringy texture. We maintain **Textural Balance** by adding the fresh lime juice and an extra pulse of cilantro only _after_ shredding—this provides the mandatory **High Note** of freshness.
+This Tex-Mex slow-cooker chicken cooks in a bath of salsa verde and Rotel tomatoes, where the tomatillos' natural acidity tenderizes the meat over long cooking. After shredding, fresh lime juice and cilantro stirred in at the end provide bright, fresh flavor that contrasts the slow-cooked base.
 
 ## Directions
 

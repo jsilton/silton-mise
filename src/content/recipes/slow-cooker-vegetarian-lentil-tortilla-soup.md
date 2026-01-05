@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a vegetarian tortilla soup that has "Main Dish" weight is **Culinary Technique** through **The Red Lentil Method**. As the red lentils slow-cook, they dissolve completely, creating a naturally thick, protein-rich Texture that binds the black beans and corn together. We maintain **Textural Balance** through **The Late-Cream Bind**: adding a splash of heavy cream (or sour cream) only at the moment of serving provides a rich, fatty Crunch that balances the tart salsa verde. The lime juice provides the mandatory **Acid Balance**.
+This Tex-Mex vegetarian tortilla soup uses red lentils that dissolve completely during slow-cooking, creating a naturally thick, protein-rich base that binds beans and corn together. A splash of heavy cream or sour cream stirred in at serving adds richness that balances the tart salsa verde. Lime juice brightens the finished soup.
 
 ## Directions
 

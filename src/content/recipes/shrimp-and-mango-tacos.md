@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in the **Acid-Salt-Sweet balance**. The secret to the Kitchen Standard is **The Mango-Lime Emulsion**: we sauté the mango briefly with the shrimp; as the fruit releases its natural sugars, it emulsifies with the lime juice and cumin to create a thick, tropical glaze. We maintain **Textural Balance** through **The Serrano Snap**: using fresh chilies instead of powder ensures every bite has a bright, watery heat that cuts through the sweet mango "Bounce."
+These Mexican-inspired tacos balance sweet mango with savory cumin-spiced shrimp. Briefly sautéing the mango with shrimp allows the fruit's sugars to release and create a tropical glaze when combined with lime juice. Fresh serrano chilies add bright heat that cuts through the sweet mango without overpowering.
 
 ## Directions
 

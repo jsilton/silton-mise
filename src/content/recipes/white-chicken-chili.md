@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" white chili is **Textural Balance** through **The Hominy Method**. By using hominy instead of just corn, we introduce a chewy, nixtamalized Crunch that contrasts the soft white beans and shredded chicken. We maintain **Culinary Technique** through **The Late-Cream Bind**: adding the sour cream only at the very end of the 8-hour slow-cook ensures the sauce remains thick and velvety without breaking. The green chilies provide the mandatory **Acid Balance**.
+This Tex-Mex white chili features nixtamalized hominy, which provides a distinctive chewy texture that contrasts soft white beans and shredded chicken. Adding sour cream at the very end of the slow-cooking process keeps the sauce thick and velvety without breaking. Green chilies add mild heat and acidity.
 
 ## Directions
 
