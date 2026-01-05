@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Culinary Technique** and flavor concentration. The secret to its Success is **The Red Pepper Emulsion Method**: we puree roasted red peppers into the clam-steaming liquid to create a thick, vibrant Texture that standard clam sauces lack. We maintain **Textural Balance** through **The Staged Braise**: we wilt the greens in the garlic-chili oil _before_ combining them with the pasta and clams. The mandatory **Acid Balance** comes from mounting the sauce with cold butter and fresh lemon at the very end.
+Spaghetti with clams is a classic Italian coastal dish, typically made with white wine and garlic. This version adds pureed roasted red peppers to the clam-steaming liquid for a thicker, more colorful sauce—a modern American twist. Sauté the greens separately in garlic oil before combining everything, so they stay bright and flavorful. Finish with cold butter and fresh lemon juice for richness and brightness.
 
 ## Directions
 

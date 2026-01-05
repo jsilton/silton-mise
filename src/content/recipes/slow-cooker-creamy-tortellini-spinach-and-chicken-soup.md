@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a slow-cooker soup that isn't thin and watery is **Culinary Technique** through **The Microwave Roux Method**. We "cook" the onions, flour, and tomato paste in the microwave first to create a toasted, thick paste before it hits the pot; this ensures the soup has a rich Texture from the start. We maintain **Textural Balance** by adding the tortellini and heavy cream only in the final 10 minutes—this ensures the pasta stays crispy and the cream doesn't curdle.
+Creamy tortellini soup is comfort food that became popular in American slow-cooker cooking during the 2000s. Making a quick roux in the microwave with flour, onions, and tomato paste gives the soup body from the start, so it doesn't turn out thin and watery. Add the tortellini and cream only in the final 10 minutes to prevent the pasta from getting mushy and the cream from curdling.
 
 ## Directions
 

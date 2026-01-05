@@ -35,7 +35,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to meatless meatballs that aren't mushy is **Culinary Technique** through **The Walnut-Starch Bind**. By combining pressed tofu with ground walnuts and whole-wheat crumbs, we create a multi-dimensional Crunch that mimics beef. We maintain **Textural Balance** by sautéing the mirepoix vegetables until tender _before_ adding them to the tofu; this ensures the "meatballs" set firmly in the oven. The Dijon mustard provides the mandatory **Acid Balance** needed to bridge the earthy soy and nutty walnuts.
+Vegetarian "meatballs" have been made with nuts and grains for centuries, though tofu-based versions became popular in the 1970s and 80s. The key to firm texture is pressing the tofu bone-dry, then binding it with ground walnuts and breadcrumbs. Sauté your vegetables until tender before mixing them into the tofu—this ensures they don't release water during baking. Dijon mustard adds a tangy note that balances the earthy soy and nutty flavors.
 
 ## Directions
 

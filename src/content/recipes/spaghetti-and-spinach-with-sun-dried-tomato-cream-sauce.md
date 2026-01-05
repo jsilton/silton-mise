@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this nutritious pasta is **Textural Balance** through **The Colander Wilt Method**. Instead of sautéing the spinach, we place the raw leaves in a colander and drain the boiling pasta directly over them. This "thermal shock" ensures the spinach is just wilted and vibrant green rather than overcooked. We use **Sour Cream** instead of heavy cream to introduce a mandatory **Acid Balance** that cuts through the oily sun-dried tomatoes, resulting in a lighter Texture to the sauce.
+This lighter pasta became popular in Italian-American cooking during the 1990s health-food movement. The clever trick: place raw spinach in a colander and drain the boiling pasta water directly over it. The hot water wilts the spinach perfectly while keeping it bright green. Sour cream instead of heavy cream adds tangy brightness that cuts through the rich, oily sun-dried tomatoes.
 
 ## Directions
 

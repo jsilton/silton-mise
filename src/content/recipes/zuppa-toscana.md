@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to an elite Zuppa Toscana without heavy cream is **Culinary Technique** through **The Potato-Starch Method**. We simmer cubed Russet potatoes in bone broth until they are "fork-tender"; as the starch granules release, they naturally emulsify with the full-fat **Coconut Milk** to create a rich, velvety "Bounce." We maintain **Textural Balance** through **The Late-Kale Wilt**: we add the kale during the final 60 seconds of cooking—this ensures the leaves are bright green and maintain their Crunch against the smoky sausage.
+Zuppa Toscana ("Tuscan soup") became famous in America through Olive Garden in the 1990s, though similar soups with sausage, potatoes, and greens have been made in Tuscany for generations. Russet potatoes naturally thicken the broth as they simmer—their starch helps emulsify the coconut milk into a creamy consistency without heavy cream. Add the kale in the final minute to keep it bright green and slightly crisp against the rich sausage.
 
 ## Directions
 
