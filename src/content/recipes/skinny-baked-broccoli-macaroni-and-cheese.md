@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance nutritious update to the classic side. The secret to its Success is **The Hybrid Stock Emulsion**: by using a mix of skim milk and chicken broth for the sauce, we achieve a rich, savory Texture without the heavy calories of cream. We maintain **Textural Balance** through **The Staged Boil**: we cook the pasta and broccoli in the same pot, adding the broccoli during the final 2 minutes. This ensures the florets stay vibrant and crispy rather than dissolving into the sauce.
+This is a lighter take on the classic side. The secret is using a mix of skim milk and chicken broth for the sauce—we achieve a rich, savory flavor without the heavy calories of cream. We cook the pasta and broccoli in the same pot, adding the broccoli during the final 2 minutes. This ensures the florets stay vibrant and crisp rather than dissolving into the sauce.
 
 ## Directions
 

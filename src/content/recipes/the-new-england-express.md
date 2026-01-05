@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This cocktail is a masterclass in **Updated Classic** flavor layering. The secret to its Success is **The Herbal Syrup Method**: we boil the sugar into a simple syrup but steep the fresh thyme for 10 minutes _after_ removing from heat. This introduces a savory, botanical complex flavor that bridges the gap between the earthy apple cider and the rich molasses of the dark rum. The fresh lime juice provides the mandatory **Acid Balance** that defines the "Express" punch.
+This cocktail showcases sophisticated flavor layering. The secret is the herbal syrup: we boil the sugar into a simple syrup but steep the fresh thyme for 10 minutes _after_ removing from heat. This introduces a savory, botanical flavor that bridges the gap between the earthy apple cider and the rich molasses of the dark rum. The fresh lime juice provides the essential brightness that defines the "Express" punch.
 
 ## Directions
 

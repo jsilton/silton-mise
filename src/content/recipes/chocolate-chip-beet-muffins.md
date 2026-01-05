@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to the classic chocolate muffin. We use **Beet Puree** as a structural hydrator; it provides a deep, earthy moisture that keeps the muffins succulent for days without needing excessive oil. The secret to the Kitchen Standard here is **Textural Balance**: the batter should be "Scoopable," not pourable. This ensures that the whole-wheat flour doesn't become gummy and the chocolate chips stay suspended rather than sinking to the bottom.
+This is a nutritious twist on the classic chocolate muffin. We use beet puree as a moisture source; it provides a deep, earthy richness that keeps the muffins succulent for days without needing excessive oil. The key to good texture is having a thick batter that's scoopable, not pourable. This ensures that the whole-wheat flour doesn't become gummy and the chocolate chips stay suspended rather than sinking to the bottom.
 
 ## Directions
 

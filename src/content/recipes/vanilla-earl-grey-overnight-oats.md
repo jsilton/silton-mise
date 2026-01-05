@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance **Fuel** breakfast that utilizes **Culinary Technique** through **The Botanical Infusion Method**. By steeping the oats in a concentrated Earl Grey base _before_ the milk, we ensure the bergamot essential oils penetrate the starch cells of the grain. This results in a Texture that is fragrant and complex rather than just sweet. We maintain **Textural Balance** through **The 6-Hour Set**: overnight hydration is mandatory to ensure the oats are "squeaky" to the bite (al dente). The Stroopwafel provides the final mandatory **Textural Snap**.
+This is an energizing breakfast that uses a smart infusion technique. By steeping the oats in a concentrated Earl Grey base _before_ the milk, we ensure the bergamot oils penetrate the grains deeply. This results in a flavor that is fragrant and complex rather than just sweet. Overnight hydration (at least 6 hours) is essential to ensure the oats are chewy to the bite (al dente). The Stroopwafel provides the final textural contrast.
 
 ## Directions
 

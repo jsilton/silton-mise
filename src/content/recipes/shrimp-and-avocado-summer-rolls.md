@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-Summer rolls are a masterclass in **Textural Balance**. The secret to Success is **The Cold Snap Method**: you must cook the shrimp and vermicelli separately and then plunge them into an ice-water bath. This stops the cooking instantly and ensures the shrimp maintain a resilient Crunch rather than turning mushy. We use **The 30-Second Soak**: dipping the rice paper into warm water for exactly 30 seconds ensures it has the Texture to roll tightly without tearing. The bird chile sauce provide the mandatory savory-sweet **High Note**.
+Summer rolls require careful attention to texture. The secret is the ice-water bath: you must cook the shrimp and vermicelli separately and then plunge them into ice water. This stops the cooking instantly and ensures the shrimp maintain a firm snap rather than turning mushy. Dip the rice paper into warm water for exactly 30 seconds so it has the right pliability to roll tightly without tearing. The bird chile sauce provides the essential savory-sweet contrast.
 
 ## Directions
 

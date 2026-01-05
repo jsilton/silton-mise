@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate holiday **Project** soup. The secret to its Success is **The Scrap-Stock Method**. We don't just use water; we simmer the squash peels, seeds, and trimmings with whole cinnamon and star anise for 45 minutes to create a concentrated "Harvest Broth." This introduces a botanical complex flavor that standard stock lacks. We maintain **Textural Balance** through **The Two-Stage Simmer**: roasting the squash cubes in the pot with onions _before_ adding the broth creates a Maillard Texture that defines the puree.
+This is a wonderful holiday soup with deep flavor. The secret is making a scrap stock: we simmer the squash peels, seeds, and trimmings with whole cinnamon and star anise for 45 minutes to create a concentrated, spiced broth. This introduces a complex flavor that plain water lacks. We use a two-stage cooking method: roasting the squash cubes in the pot with onions _before_ adding the broth creates caramelized flavors that define the puree.
 
 ## Directions
 

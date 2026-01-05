@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for family productivity. The secret to a play-dough that has a resilient, professional Texture is **Culinary Technique** through **The Heat-Gelatinization Method**. Unlike no-cook versions, cooking the dough on the stovetop ensures the starch molecules are fully cross-linked, resulting in a Crunch that doesn't stick to hands. The **Cream of Tartar** is mandatory—it acts as a gluten-stiffener and a natural preservative.
+This is an easy homemade play-dough recipe. The secret to a resilient, professional texture is cooking it on the stovetop. Unlike no-cook versions, heating the dough ensures the starch molecules are fully gelatinized, resulting in a smooth consistency that doesn't stick to hands. The cream of tartar is essential—it acts as a stabilizer and a natural preservative.
 
 ## Directions
 

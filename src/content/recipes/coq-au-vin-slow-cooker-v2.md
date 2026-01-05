@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" slow-cooker braise is **Fond Extraction**. Many recipes just dump raw meat in; we sear the chicken thighs first to develop a deep brown crust—this caramelized flavor is what elevates the wine sauce from "stew" to "Coq au Vin." We maintain **Textural Balance** by using **Thick-Sliced Mushrooms** and **Frozen Pearl Onions**; they hold their shape through the long simmer, providing the Texture that differentiates this from a mushy soup.
+The secret to a rich slow-cooker braise is developing fond. Many recipes just dump raw meat in; we sear the chicken thighs first to develop a deep brown crust—this caramelized flavor is what elevates the wine sauce from "stew" to "Coq au Vin." We use thick-sliced mushrooms and frozen pearl onions; they hold their shape through the long simmer, providing body that differentiates this from a mushy soup.
 
 ## Directions
 

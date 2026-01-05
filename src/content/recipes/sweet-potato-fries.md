@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to sweet potato fries that aren't limp and oily is **Textural Balance** through **The Single-Layer Guard**. Sweet potatoes have more moisture than Russets; you must spread them across **two separate baking sheets** to ensure every fry has at least 1 inch of space. This allows the hot air to circulate, resulting in a caramelized Crunch rather than a steamed "Bounce." We use **Smoked Paprika** as the mandatory savory **High Note**—it introduces a wood-fired depth that balances the natural fructose of the potato.
+The secret to sweet potato fries that aren't limp and oily is proper spacing. Sweet potatoes have more moisture than Russets; you must spread them across two separate baking sheets to ensure every fry has at least 1 inch of space. This allows the hot air to circulate, resulting in caramelized edges rather than steamed softness. We use smoked paprika as the essential savory element—it introduces a wood-fired depth that balances the natural sweetness of the potato.
 
 ## Directions
 

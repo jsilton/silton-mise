@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed technical dish dessert that mimics the exact flavor profile of our [Key Lime Pie](/silton-mise/recipes/key-lime-pie). The secret to a professional-grade churn is **Culinary Technique** through **The Condensed Milk Emulsion**: the sugar and fats in the condensed milk act as a powerful stabilizer, preventing the formation of large ice crystals and ensuring a silky "Bounce." We maintain **Textural Balance** through **The Graham Snap Method**: we stir half the crackers into the churn and reserve the other half for the topping just before serving—this ensures you have both soft, cake-like bits and shatteringly crisp "Snaps."
+This frozen dessert mimics the exact flavor profile of our [Key Lime Pie](/silton-mise/recipes/key-lime-pie). The secret to a smooth, professional churn is the condensed milk: the sugar and fats act as a powerful stabilizer, preventing the formation of large ice crystals and ensuring a silky texture. We use a two-part graham cracker approach—stir half into the churn and reserve the other half for topping just before serving. This ensures you have both soft, cake-like bits and shatteringly crisp pieces.
 
 ## Directions
 

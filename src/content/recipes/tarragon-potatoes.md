@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Kitchen Standard" tarragon potatoes is **Textural Balance** through **The Butter-Finish Method**. Tarragon has a powerful, anise-like complex flavor that can become bitter if burned; we toss the potatoes in oil and herbs first, then add cold butter cubes to the pan halfway through roasting. This creates a foaming emulsion that bastes the potatoes, ensuring a rich Texture inside a crispy golden crust. Be precise with the tarragon—it provides a sharp **Acid Balance** that defines the dish.
+The secret to excellent tarragon potatoes is the butter-finish technique. Tarragon has a powerful, anise-like flavor that can become bitter if burned; we toss the potatoes in oil and herbs first, then add cold butter cubes to the pan halfway through roasting. This creates a foaming butter that bastes the potatoes, ensuring a rich interior inside a crispy golden crust. Be precise with the tarragon—its bright flavor defines the dish.
 
 ## Directions
 

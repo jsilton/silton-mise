@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance **Updated Classic** breakfast. By using **Buckwheat Flour**, we get a nutty, nutritious focused profile that stands up to the richness of the chocolate. The secret to the Kitchen Standard here is the **Dry Squeeze Method**: you must squeeze the shredded zucchini in a towel until it is **bone-dry** before adding it to the batter. This ensures the muffins stay "Bouncy" and moist rather than turning into mushy pucks.
+This is a nutritious breakfast muffin. By using buckwheat flour, we get a nutty flavor that stands up to the richness of the chocolate. The secret to good texture is squeezing the shredded zucchini in a towel until it is bone-dry before adding it to the batter. This ensures the muffins stay tender and moist rather than turning into mushy pucks.
 
 ## Directions
 

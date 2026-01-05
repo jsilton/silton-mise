@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Textural Balance** through **The Skillet-to-Oven Method**. The secret to its Success is the **Cold-Start Sear**: we place the chicken thighs skin-side down in a cold skillet and _then_ turn on the heat; this ensures the fat renders slowly, resulting in a shatteringly crisp Crunch on the skin while the meat stays "Bouncy." We use **Dijon Mustard** as the mandatory **Acid Balance** to emulsify the herb-flecked wine sauce into a thick, glossy lacquer.
+This recipe uses a skillet-to-oven approach for perfectly cooked chicken. The secret is the cold-start sear: we place the chicken thighs skin-side down in a cold skillet and _then_ turn on the heat; this ensures the fat renders slowly, resulting in shatteringly crisp skin while the meat stays juicy. We use Dijon mustard to emulsify the herb-flecked wine sauce into a thick, glossy coating.
 
 ## Directions
 

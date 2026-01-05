@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate test of **Culinary Technique**. The secret to a tall, even rise is the **Thumb-Run Method**: after filling the dish, you must run your thumb around the inside rim to create a small "channel." This prevents the batter from sticking to the edges, allowing it to rise straight up like a top hat. We use a **2:1 Ratio** of whites to yolks to ensure a light, airy Texture while maintaining deep chocolate intensity. Serve straight from the oven—the mandatory "High Note" is the fleeting moment before deflation.
+This classic dessert requires careful technique. The secret to a tall, even rise is the thumb-run: after filling the dish, you must run your thumb around the inside rim to create a small channel. This prevents the batter from sticking to the edges, allowing it to rise straight up like a top hat. We use a 2:1 ratio of whites to yolks to ensure a light, airy texture while maintaining deep chocolate intensity. Serve straight from the oven—the magic is in the fleeting moment before deflation.
 
 ## Directions
 

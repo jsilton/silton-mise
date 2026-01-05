@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate expression of **Updated Classic** in the brownie category. The secret to the Hepburn Standard is the **Ultra-Low Flour Ratio**: using only 1/4 cup of flour ensures the structure remains "Gooey" and fudge-like rather than cakey. We use **The Saucepan Melt Method**: melting the cocoa directly into the hot butter "blooms" the chocolate intensity instantly. We maintain **Textural Balance** by using large nut pieces, which provide a necessary Crunch to contrast the decadent Texture of the fudge. Do not over-bake; pull them when they still look slightly underdone.
+This is the classic Katharine Hepburn brownie recipe. The secret to its fudgy texture is the ultra-low flour ratio: using only 1/4 cup of flour ensures the structure remains gooey and fudge-like rather than cakey. We melt the cocoa directly into the hot butter to bloom the chocolate flavor instantly. Large nut pieces provide a necessary crunch to contrast the decadent fudge. Do not over-bake; pull them when they still look slightly underdone.
 
 ## Directions
 
