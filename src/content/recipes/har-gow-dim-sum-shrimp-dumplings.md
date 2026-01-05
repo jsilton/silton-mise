@@ -37,7 +37,7 @@ ingredients:
 
 ## Chef's Note
 
-Har Gow is the "Black Belt" of Dim Sum. The secret to the legendary **Translucency** is **Culinary Technique** through the **Wheat-Starch Method**. You must use boiling water to gelatinize the starch instantly, creating a dough that is flexible but transforms into a glass-like shell when steamed. For the interior, we use **The Shrimp Bounce Method**: whip the shrimp mixture in one direction until it becomes a sticky paste—this creates the Crunch that differentiates a Kitchen Standard dumpling from a soggy one.
+Har gow are Cantonese shrimp dumplings with translucent, pleated wrappers—a dim sum classic and a test of a chef's skill. The dough uses wheat starch (not wheat flour) mixed with boiling water, which gelatinizes the starch instantly and creates a flexible dough that steams into a glass-like wrapper. For the filling, whip the shrimp mixture vigorously in one direction until sticky—this develops the protein structure for that characteristic bouncy texture.
 
 ## Directions
 

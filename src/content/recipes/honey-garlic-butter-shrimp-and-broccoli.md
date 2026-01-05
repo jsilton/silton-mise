@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 20-minute quick masterpiece. The secret to the Kitchen Standard is **The Shrimp Snap Method**: we sear the shrimp in butter first and remove them _before_ building the sauce. This ensures they don't overcook while the honey reduces. We maintain **Textural Balance** by searing the fresh broccoli until "tender-crisp" and vibrant green. The **Cornstarch Slurry** is the mandatory **Culinary Technique** that transforms the liquid marinade into a mirror-glossy glaze that has the Texture to fully coat every piece of broccoli.
+This quick Chinese-American inspired stir-fry is done in 20 minutes. The trick: sear the shrimp in butter first and remove them before building the sauce, so they don't overcook while the honey reduces. Sear the broccoli separately until bright green and tender-crisp. The cornstarch in the sauce transforms the liquid into a glossy glaze that coats everything perfectly. Serve immediately over rice.
 
 ## Directions
 

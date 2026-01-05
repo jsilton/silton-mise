@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for high-performance "Comfort" weeknights. The secret to a non-mushy sheet pan dinner is **Textural Balance** through **Staged Roasting**. Chicken and potatoes require 40+ minutes, while broccoli only needs 20. We roast the heavy components first to develop a Crunch on the potato skins, then add the broccoli in the center. The broccoli acts as a steam-trap for the chicken juices, ensuring the meat stays succulent while the florets get those crispy, charred edges.
+Sheet pan dinners became popular in the 2010s for their simplicity. The key is staged roasting: chicken and potatoes need 40+ minutes, while broccoli only needs 20. Roast the heavier items first, then add the broccoli in the center so it steams slightly from the chicken juices while still getting crispy, charred edges. The teriyaki glaze with fresh ginger adds sweet-savory flavor to tie everything together.
 
 ## Directions
 

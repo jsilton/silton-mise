@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate hack for technical dish level ribs on a quick timeline. We use the **Pressure Cooker** to achieve fall-off-the-bone tenderness in just 20 minutes, then use the **Broiler** to create the sticky, caramelized lacquer that usually takes hours in a smoker. The secret is the **Reduction**: never throw away the cooking liquid; boil it down to a syrupy glaze to concentrate the ginger and hoisin.
+Honey-glazed spareribs are a Chinese-American restaurant staple. This version uses a pressure cooker to achieve fall-off-the-bone tenderness in 20 minutes instead of hours of smoking or braising. The hoisin-ginger cooking liquid gets boiled down into a concentrated syrupy glaze, then brushed on the ribs before broiling for sticky, caramelized edges. A major time-saver with restaurant-quality results.
 
 ## Directions
 

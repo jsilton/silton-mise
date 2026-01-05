@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Kitchen Standard** for takeout at home: no deep frying, no heavy breading. We use a **High-Heat Sear** on the chicken chunks to get crispy edges, then glaze them in a sauce that balances the sweetness of honey with the sharp acid of rice vinegar. The result is a dish that is light, bouncy, and intensely flavorful.
+Honey sesame chicken is a lighter take on Chinese-American takeout—no deep frying or heavy breading. Instead, sear chicken chunks over high heat to get crispy edges, then glaze them in a sauce that balances honey's sweetness with rice vinegar's sharpness. Toasted sesame seeds and green onions add finishing flavor and texture. Much healthier than the fried version but still intensely flavorful.
 
 ## Directions
 

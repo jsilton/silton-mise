@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate nutritious meal. The secret is the **High-Heat Sear** on the salmon cubes—you want them to have crispy, spicy edges while remaining tender inside. We use the [Smashed Cucumber Salad](/silton-mise/recipes/smashed-cucumber-salad) as the primary veggie to provide a cooling crunch against the heat of the Sriracha.
+Asian-inspired grain bowls with glazed proteins became hugely popular in the 2010s. Cutting salmon into cubes and searing them creates crispy, spicy edges while keeping the inside tender. The honey-sriracha marinade doubles as the glaze—reduce it in the hot pan after searing for a thick, syrupy coating. Build bowls with rice, cucumber salad, avocado, and edamame for a balanced, flavorful meal.
 
 ## Directions
 
