@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to wontons that float like clouds is **Culinary Technique** through **The Directional Emulsion Method**. You must stir the pork and liquid seasonings in **one direction only** for 3 minutes until the meat turns into a sticky, tacky paste; this ensures the filling has a resilient Texture that won't crumble. We use **The Heated-Bowl Method**: adding the hot broth to the raw seasonings in each individual bowl just before adding the wontons—this provides a fresh, aromatic **High Note** that is lost in a large boiling pot.
+Cantonese wonton soup features delicate pork wontons in clear, aromatic broth. Stirring the pork filling vigorously in one direction until it becomes sticky and tacky is a traditional technique that ensures the filling stays cohesive during boiling. Ladling hot broth over aromatics placed in individual bowls preserves their fresh fragrance.
 
 ## Directions
 

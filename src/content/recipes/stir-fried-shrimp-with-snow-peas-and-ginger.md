@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 10-minute quick main dishes. The secret to its Success is **The Cold Soak Method**: we soak the shrimp in cold salted water for 5 minutes _before_ patting them dry; this "plumps" the protein and ensures a resilient Texture under high heat. We maintain **Textural Balance** through **The 5-Second Garlic Pulse**: we add the garlic and ginger to the hot oil for only 5 seconds before the shrimp—this captures the raw aromatic "High Note" without any bitter browning.
+This Cantonese quick stir-fry pairs tender shrimp with crisp spring snow peas in a light, ginger-scented sauce. Soaking shrimp in cold salted water before cooking plumps them and improves texture. Adding garlic and ginger to hot oil for just seconds before the shrimp captures their aromatic essence without bitterness.
 
 ## Directions
 

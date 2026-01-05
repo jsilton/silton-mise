@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a technical "Heritage" dish known as **Bian Dou Men Mian**. The secret to its Success is **The Double-Texture Method**: we steam the fresh noodles separately first to set their structure , then braise them directly on top of the green beans and pork without stirring. This allows the bottom of the noodles to absorb the savory **Dark Soy Glaze** while the top remains light and airy. We maintain **Textural Balance** through **The Pork Render**: browning the pork belly in a single layer provides a smoky Crunch that balances the soft beans.
+Bian dou men mian is a northern Chinese braised noodle dish where steamed noodles are layered over braising beans and meat, absorbing flavor without direct stirring. The noodles steam-set first to hold their structure, then the bottom layer soaks up the dark soy-based braising liquid while the top stays light. Pork belly adds rich, rendered fat to the dish.
 
 ## Directions
 

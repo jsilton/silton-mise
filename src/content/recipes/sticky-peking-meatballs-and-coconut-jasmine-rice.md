@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-speed **Modularity** hack for busy weeknights. The secret to its Success is **The Coconut Emulsion Method**: we cook jasmine rice directly in full-fat coconut milk; the fat provides a velvety Texture that standard water-boiled rice lacks. We maintain **Textural Balance** through **The Frozen Sear**: we fry the meatballs while still frozen on high heat—this ensures a dark, crispy Maillard crust before the interior becomes too soft. The lemon juice over the kale provides the mandatory **Acid Balance**.
+This quick Chinese-American style dinner uses frozen meatballs glazed in hoisin and Peking duck sauce for a sticky, sweet coating reminiscent of takeout favorites. Jasmine rice cooked directly in coconut milk instead of water creates a rich, creamy base. Frozen meatballs seared from frozen develop a crispy exterior before heating through.
 
 ## Directions
 
