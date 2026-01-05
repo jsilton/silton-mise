@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the Kitchen Standard for a high-performance nutritious meal. The secret to quinoa that isn't mushy is **Textural Balance** through **The Staged Simmer Method**. We sear the chicken thighs and sauté the mushrooms separately to develop a Crunch crust before adding the broth. By nestling the chicken into the quinoa, we ensure the grains absorb the savory juices of the meat as they bloom. The smoked paprika provides the mandatory savory **High Note**.
+This one-pot meal brings together protein, whole grains, and vegetables in a single skillet. The secret to quinoa that isn't mushy is proper timing: sear the chicken thighs and sauté the mushrooms separately to develop a golden crust before adding the broth. By nestling the chicken into the quinoa, the grains absorb the savory juices of the meat as they cook. The smoked paprika provides essential depth and warmth.
 
 ## Directions
 

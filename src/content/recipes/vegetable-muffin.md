@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-These are high-performance **Modularity** components for busy families. The secret to their Success is **Culinary Technique** through **The High-Speed Emulsion**. You must pulverize the raw greens and wet ingredients in a blender until they form a perfectly smooth, neon-green liquid. This ensures the moisture is evenly distributed, resulting in a cake-like Texture that masks the fibrous greens. The addition of **Apple Cider Vinegar** is the mandatory **Acid Balance** needed to activate the baking soda for a tall rise.
+These are ideal for busy families looking to sneak vegetables into breakfast. The secret to their success is blending: pulverize the raw greens and wet ingredients in a blender until they form a perfectly smooth, neon-green liquid. This ensures the moisture is evenly distributed, resulting in a cake-like texture that masks the fibrous greens. The apple cider vinegar activates the baking soda for a tall rise and adds just a hint of tanginess.
 
 ## Directions
 

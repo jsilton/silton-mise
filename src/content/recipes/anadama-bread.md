@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-Anadama is a quintessential New England bread defined by the bittersweet depth of **Molasses** and the rustic "bite" of cornmeal. The secret is the **Cornmeal Porridge**: you must cook the cornmeal in water first to hydrate the starch, ensuring the bread stays moist rather than gritty. This is a "Updated Classic" keeper that pairs perfectly with a salty butter or a bowl of chowder.
+Anadama is a quintessential New England bread, supposedly named after a fisherman's wife named Anna. The bread is defined by the bittersweet depth of molasses and the rustic texture of cornmeal. The secret is the cornmeal porridge: you must cook the cornmeal in water first to hydrate the starch, ensuring the bread stays moist rather than gritty. This traditional keeper pairs perfectly with salted butter or a bowl of chowder.
 
 ## Directions
 

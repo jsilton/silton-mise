@@ -42,5 +42,5 @@ This is a modern healthy fusion that became popular in the 2010s as avocados wen
 3.  **Blend:** Start blending on low. Slowly drizzle in the olive oil and 1/2 cup of the reserved pasta water. Blend for 60 seconds until completely smooth and aerated.
 4.  **Combine:** Place the hot, drained pasta in a large bowl. Pour the green sauce over the top and toss vigorously until the noodles are glossy and fully coated.
 5.  **Adjust:** If the sauce is too thick, add a few more tablespoons of pasta water.
-6.  **Serve:** Top immediately with halved cherry tomatoes and Parmesan for **Textural Balance**.
+6.  **Serve:** Top immediately with halved cherry tomatoes and Parmesan for color and contrast.
 

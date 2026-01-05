@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is our baseline **Modularity** component for all elite cakes. The secret to a "Kitchen Standard" frosting that isn't runny is **Culinary Technique** through **The Temperature Method**. Both the butter and cream cheese must be **softened to the same temperature** before starting; this ensures they emulsify perfectly into a stable "Bounce." We use the **Paddle Attachment** rather than a whisk to incorporate the sugar; this provides a dense, silky texture without introducing too many air bubbles, which would cause the frosting to "weep" over time.
+This is our go-to cream cheese frosting for all cakes. The secret to frosting that isn't runny is temperature control: both the butter and cream cheese must be softened to the same temperature before starting. This ensures they emulsify perfectly into a stable, smooth frosting. Use the paddle attachment rather than a whisk to incorporate the sugar; this provides a dense, silky texture without introducing too many air bubbles, which would cause the frosting to "weep" over time.
 
 ## Directions
 

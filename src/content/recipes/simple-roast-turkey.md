@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate holiday **Project**. The secret to a bird that is succulent rather than dry is **Culinary Technique** through **The 3-Day Dry Brine Method**. You must rub the turkey with salt and lemon zest and refrigerate it uncovered for at least 24 hours; this draws moisture out of the skin (ensuring a glass-like Crunch) while seasoning the meat to the bone. We use **Hard Apple Cider** in the roasting pan as a "Sweet Pulse" that prevents the drippings from burning and infuses the meat with a sophisticated harvest aroma.
+This is the ultimate holiday centerpiece. The secret to a bird that is succulent rather than dry is dry brining: rub the turkey with salt and lemon zest and refrigerate it uncovered for at least 24 hours. This draws moisture out of the skin (ensuring crisp, golden skin) while seasoning the meat to the bone. Hard apple cider in the roasting pan prevents the drippings from burning and infuses the meat with a sophisticated harvest aroma.
 
 ## Directions
 

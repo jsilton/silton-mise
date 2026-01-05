@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to a beloved Executive holiday tradition. We have replaced the legacy margarine with **Unsalted Butter** to provide a richer flavor and a more consistent Crunch to the exterior. The secret to the Kitchen Standard is the **Hydration Pause**: after mixing the farfel with boiling water, you must let it cool completely before adding the eggs. This prevents the eggs from scrambling and ensures a firm, bready Texture that makes these the Kitchen Standard for Passover breakfasts.
+This is an update to a beloved Passover tradition. Replacing the traditional margarine with unsalted butter provides richer flavor and a more consistent golden crust. The secret to success is the cooling pause: after mixing the farfel (toasted egg barley) with boiling water, you must let it cool completely before adding the eggs. This prevents the eggs from scrambling and ensures a firm, bready texture that makes these ideal for Passover breakfasts.
 
 ## Directions
 

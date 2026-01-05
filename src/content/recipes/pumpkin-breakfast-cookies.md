@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-These are high-performance **Modularity** components for busy mornings. The secret to their incredible texture is **The Double-Oat Method**: by using both rolled and quick-cooking oats, we create a cookie with a dense, chewy Texture and a structural Crunch that won't crumble. We use **Coconut Oil and Honey** as the primary emulsifiers to ensure a clean energy profile. These cookies are intentionally designed **not to spread**; you must flatten them by hand before baking to achieve the Kitchen Standard shape.
+These breakfast cookies are ideal for busy mornings when you need portable nutrition. The secret to their incredible texture is using both rolled and quick-cooking oats, creating a cookie that's dense and chewy without crumbling. Coconut oil and honey serve as the primary binders and natural sweeteners. These cookies are intentionally designed not to spread; you must flatten them by hand before baking to achieve the desired shape.
 
 ## Directions
 

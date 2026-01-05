@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This cocktail is a masterclass in **Culinary Technique** and aromatic layering. The secret to its Success is **The Smoky Emulsion Method**: the combination of herbal gin, rich cognac, and a pulse of mezcal creates a flavor profile that is both heavy and light. We use **Spindrift Lemon** instead of standard soda water to provide a real fruit **Acid Balance** that bridges the agave and gin. The orange bitters are added twice (in the shaker and on the surface) to ensure the aroma precedes the flavor.
+This cocktail showcases complex aromatic layering. The combination of herbal gin, rich cognac, and a hint of smoky mezcal creates a flavor profile that balances depth with brightness. Spindrift Lemon instead of standard soda water provides real fruit acidity that bridges the agave and botanicals. The orange bitters are added twice (in the shaker and on the surface) to ensure the aroma precedes the flavor.
 
 ## Directions
 
