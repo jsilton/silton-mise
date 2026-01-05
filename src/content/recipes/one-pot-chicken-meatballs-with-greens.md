@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to succulent chicken meatballs is **Culinary Technique** through **The Yogurt-Panko Method**. By combining ground chicken with Greek yogurt, we create an internal moisture guard that prevents the lean meat from drying out during the sear. We maintain **Textural Balance** through **The Smothered Braise**: we sear the meatballs to develop a "Snap," then pile the chard and lemon slices directly on top to steam in the Dutch oven. This ensures the greens stay vibrant while the lemon juice provides the mandatory **Acid Balance**.
+Chicken meatballs can dry out easily since ground chicken is so lean, but adding Greek yogurt and panko keeps them moist and tender. This one-pot method borrows from Italian-American home cooking: brown the meatballs first for flavor, then pile greens and lemon slices on top to steam together. The lemon brightens everything while the chard stays vibrant and tender.
 
 ## Directions
 

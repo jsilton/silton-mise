@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The frittata is the ultimate quick hero for using up **Modularity** components. The secret to a professional texture is **Culinary Technique** through **The 12:3 Aeration Ratio**: 12 eggs to 3 tablespoons of full-fat dairy ensures a custard-like Texture that never turns rubbery. We use **The Edge-Set Method**: cook on the stovetop just until the perimeter is pale and firm, then transfer to a high-heat oven (425°F) to finish. This creates a "souffléd" rise and a moist, slightly jiggly center.
+Frittatas are Italian open-faced omelets perfect for using up vegetables and leftover ingredients—a thrifty tradition that dates back centuries. The ratio matters: 12 eggs to 3 tablespoons of cream creates a custardy texture that stays tender, not rubbery. Start on the stovetop to set the edges, then finish in a 425°F oven for a puffed, golden top with a slightly jiggly center.
 
 ## Directions
 

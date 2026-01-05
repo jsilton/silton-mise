@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive Executive side dish. The secret to its Success is **Textural Balance** through **The Bone-Dry Standard**. You must wash the cubed potatoes and then pat them with paper towels until they are perfectly dry; moisture is the enemy of the Maillard reaction. We use **The High-Heat Roast Method**: roasting at 450°F ensures a shatteringly crisp Crunch on the skin while the internal starch of the Yukon Gold remains buttery and soft. The rosemary provides the mandatory aromatic **High Note**.
+Patate al forno are classic Italian oven-roasted potatoes—a Sunday staple in Roman homes. The secret to crispy edges is drying the potatoes thoroughly after cutting; any moisture will cause them to steam instead of crisp. Roasting at 450°F gets you golden, crunchy exteriors while keeping the insides creamy. Fresh rosemary is traditional and adds a wonderful aromatic note.
 
 ## Directions
 

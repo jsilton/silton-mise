@@ -35,7 +35,7 @@ ingredients:
 
 ## Chef's Note
 
-A galette is the ultimate technical dish meal for a Sunday afternoon. The secret to avoiding a soggy crust is **Textural Balance** through **The Bone-Dry Tomato Method**: you must slice the heirloom tomatoes and pat them between paper towels for 10 minutes before layering; this removes the excess water that would otherwise steam the pastry. We use **Culinary Technique** for the crust: the food processor ensures the butter remains in pea-sized chunks, which creates the mandatory Crunch and flaky layers.
+Galettes are rustic free-form tarts from France, though Italians have embraced them with summer ingredients like tomatoes and pesto. The key to avoiding a soggy crust is simple: slice your tomatoes and pat them dry with paper towels for 10 minutes to remove excess moisture. For the flakiest pastry, keep your butter cold and in pea-sized pieces—a food processor makes this easy.
 
 ## Directions
 

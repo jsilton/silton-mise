@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is our baseline **Modularity** component for standard pasta nights. We use **Culinary Technique** through **The Dough Hook Emulsion Method**: by utilizing the stand mixer, we develop the gluten chain with mechanical precision, ensuring a uniform Texture that hand-kneading can rarely achieve. The mandatory **Rest Cycle** (30-60 mins) is what allows the gluten to relax, ensuring the dough doesn't snap back while rolling.
+Traditional pasta dough from Northern Italy uses just flour and eggs—the simplicity lets you taste the quality of each ingredient. The 30-60 minute rest period is essential: it allows the gluten to relax fully so the dough rolls smoothly without springing back. A stand mixer makes quick work of kneading, but hand-kneading works just as well if you have 10 minutes and strong arms.
 
 ## Directions
 

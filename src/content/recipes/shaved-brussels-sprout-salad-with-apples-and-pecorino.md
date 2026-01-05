@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" sprout salad is **Textural Balance** through **The Mandoline Method**. You must shave the raw sprouts at 1/16th of an inch; this transforms a dense, bitter vegetable into a light, airy pile with a resilient "Bounce." We use **The 15-Minute Set Method**: tossing the sprouts in the cider-honey emulsion and letting them rest for 15 minutes allows the acid to soften the fibers, resulting in a sophisticated mouthfeel. The Pecorino provides the mandatory salty **High Note**.
+Shaving Brussels sprouts paper-thin transforms them from dense and bitter to light and crisp—a technique that became popular in modern Italian-American restaurants during the 2000s. Tossing the shaved sprouts with vinegar dressing 15 minutes before serving softens them slightly while maintaining their crunch. Pecorino Romano adds the sharp, salty note that balances the sweet apple and tangy dressing.
 
 ## Directions
 
