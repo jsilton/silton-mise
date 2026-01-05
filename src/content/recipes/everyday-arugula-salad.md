@@ -36,4 +36,3 @@ This is a simple, versatile side salad. The secret to avoiding a wilted, soggy s
 3.  **Season:** Sprinkle with flaky salt and a generous amount of cracked black pepper.
 4.  **Toss:** Using your hands or large tongs, toss gently until every leaf is lightly glossy and the seasonings are evenly distributed.
 5.  **Finish:** Top with the shaved Parmesan curls. Serve immediately—this salad waits for no one.
-

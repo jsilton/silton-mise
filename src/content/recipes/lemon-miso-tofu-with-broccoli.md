@@ -41,4 +41,3 @@ This is a quick, nutritious dish that solves the problem of soggy tofu. By dredg
 5.  **The Glaze:** Wipe the pan. Add sesame oil, garlic, and ginger; sauté for 30 seconds. Pour in the miso-lemon mixture. Simmer for 3 minutes until thick and glossy.
 6.  **Bind:** Return tofu and broccoli to the pan. Toss vigorously for 30 seconds to coat.
 7.  **Serve:** Garnish with scallions and serve hot over rice.
-

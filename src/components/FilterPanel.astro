@@ -19,12 +19,12 @@ const { recipes = [] } = Astro.props;
 
 // Collect all unique values for each filter dimension
 const uniqueFilters = {
-  cuisines: Array.from(new Set(recipes.flatMap(r => r.data.cuisines || []))).sort(),
-  dietary: Array.from(new Set(recipes.flatMap(r => r.data.dietary || []))).sort(),
-  cookingMethods: Array.from(new Set(recipes.flatMap(r => r.data.cookingMethods || []))).sort(),
-  occasions: Array.from(new Set(recipes.flatMap(r => r.data.occasions || []))).sort(),
-  flavorProfiles: Array.from(new Set(recipes.flatMap(r => r.data.flavorProfile || []))).sort(),
-  seasons: Array.from(new Set(recipes.flatMap(r => r.data.seasons || []))).sort(),
+  cuisines: Array.from(new Set(recipes.flatMap((r) => r.data.cuisines || []))).sort(),
+  dietary: Array.from(new Set(recipes.flatMap((r) => r.data.dietary || []))).sort(),
+  cookingMethods: Array.from(new Set(recipes.flatMap((r) => r.data.cookingMethods || []))).sort(),
+  occasions: Array.from(new Set(recipes.flatMap((r) => r.data.occasions || []))).sort(),
+  flavorProfiles: Array.from(new Set(recipes.flatMap((r) => r.data.flavorProfile || []))).sort(),
+  seasons: Array.from(new Set(recipes.flatMap((r) => r.data.seasons || []))).sort(),
 };
 
 // Format values for display (capitalize)
@@ -36,10 +36,7 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
     <!-- Header with reset button -->
     <div class="flex items-center justify-between">
       <h3 class="text-sm font-semibold text-slate-700">Filters & Sort</h3>
-      <button
-        id="resetFilters"
-        class="text-xs text-indigo-600 hover:text-indigo-800 font-medium"
-      >
+      <button id="resetFilters" class="text-xs text-indigo-600 hover:text-indigo-800 font-medium">
         Reset
       </button>
     </div>
@@ -84,7 +81,9 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
 
       <!-- Cooking Method Filter -->
       <div class="flex flex-col gap-1">
-        <label for="filterCookingMethod" class="text-xs font-medium text-slate-600">Cooking Method</label>
+        <label for="filterCookingMethod" class="text-xs font-medium text-slate-600"
+          >Cooking Method</label
+        >
         <select
           id="filterCookingMethod"
           class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
@@ -173,7 +172,8 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
       uniqueFilters.occasions.forEach((occasion) => {
         const option = document.createElement('option');
         option.value = occasion;
-        option.textContent = occasion.charAt(0).toUpperCase() + occasion.slice(1).replace(/-/g, ' ');
+        option.textContent =
+          occasion.charAt(0).toUpperCase() + occasion.slice(1).replace(/-/g, ' ');
         selects.occasion.appendChild(option);
       });
     }
@@ -199,7 +199,7 @@ const formatLabel = (val: string) => val.charAt(0).toUpperCase() + val.slice(1).
     sortMode: 'title',
   };
 
-  window.updateFilterState = function() {
+  window.updateFilterState = function () {
     window.filterState.difficulty = document.getElementById('filterDifficulty').value;
     window.filterState.cuisine = document.getElementById('filterCuisine').value;
     window.filterState.dietary = document.getElementById('filterDietary').value;

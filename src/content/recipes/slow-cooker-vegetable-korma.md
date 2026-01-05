@@ -41,4 +41,3 @@ Korma is traditionally a thick, rich braise rather than a watery curry. Whisking
 4.  **Cook:** Cover and cook on **High for 5 hours** (or Low for 8 hours) until the sauce is very thick and the vegetables are tender.
 5.  **Finish:** Stir once more before serving. Taste and adjust salt if needed.
 6.  **Serve:** Serve immediately with warm naan or basmati rice.
-

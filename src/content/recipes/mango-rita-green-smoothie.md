@@ -37,4 +37,3 @@ This is a nutritious green smoothie. The secret to its flavor is a tiny pinch of
 3.  **Process:** Blend on high for 60 seconds until perfectly velvety.
 4.  **Adjust:** If the smoothie is too thick, add a splash more coconut water. If you want more "Snap," add extra lime juice.
 5.  **Serve:** Pour into two chilled glasses. Garnish with a lime slice and serve immediately.
-

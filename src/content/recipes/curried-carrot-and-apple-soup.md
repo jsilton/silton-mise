@@ -42,4 +42,3 @@ Gingersnap cookies replace flour as a thickener - their spices complement the cu
 4.  **The Emulsion:** Working in batches, puree the soup in a blender with the sour cream and apple cider vinegar until completely smooth.
 5.  **Finish:** Return to the pot to warm through. Taste and adjust with salt and pepper.
 6.  **Serve:** Ladle into bowls and top with toasted pumpkin seeds and fresh herbs for **Textural Balance**.
-

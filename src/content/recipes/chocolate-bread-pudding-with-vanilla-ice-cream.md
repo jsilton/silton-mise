@@ -37,4 +37,3 @@ This is an elevated take on the comfort dessert. By using brioche instead of sta
 5.  **Assemble:** Transfer the mixture to the prepared ramekins, spreading evenly. Drizzle the remaining 4 tbsp of sugar over the tops.
 6.  **Bake:** Bake for 15-20 minutes until the edges are golden and the custard is set in the center but still has a slight wobble.
 7.  **Serve:** Serve warm with a generous scoop of vanilla bean ice cream.
-

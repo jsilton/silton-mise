@@ -39,4 +39,3 @@ This is the classic Katharine Hepburn brownie recipe. The secret to its fudgy te
 3.  **The Fold:** In a separate bowl, whisk the sugar and flour. Add the dry mix and the nuts to the saucepan. Stir with a spatula until **just combined**.
 4.  **Bake:** Pour the batter into the prepared pan. Bake for 30-35 minutes. **The Kitchen Standard Test:** The center should still have a slight jiggle and a toothpick should come out with moist crumbs.
 5.  **Cool:** Let cool completely in the pan before slicing. These brownies are elite when refrigerated and eaten cold.
-

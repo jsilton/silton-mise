@@ -40,4 +40,3 @@ This quick stir-fry showcases the Cantonese approach to spring vegetables, pairi
 4.  **The Crunch:** Add 1 tbsp oil. Sauté snow peas, ginger, and garlic for 2 minutes over high heat until bright green.
 5.  **Bind:** Add the drained noodles and the remaining sweet chili sauce. Toss vigorously for 4 minutes until the noodles are hot and glossy.
 6.  **Serve:** Return shrimp to the pan. Toss for 30 seconds. Serve immediately.
-

@@ -39,4 +39,3 @@ Soaking basmati rice for 45 minutes hydrates the grains before cooking, ensuring
 6.  **The Towel:** Bring to a boil. Place a clean kitchen towel over the pot, then secure the lid. Reduce heat to **lowest setting**. Cook for 15 minutes.
 7.  **Wilt:** Remove from heat. Layer the kale ribbons over the rice. Cover and let stand for 10 minutes (The Steam Cycle).
 8.  **Serve:** Fluff the rice and chicken together. Serve with pickled chiles and lime wedges for the final **High Note**.
-

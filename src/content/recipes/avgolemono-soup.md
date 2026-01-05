@@ -40,4 +40,3 @@ Avgolemono is a miracle of **Tempering Science**. It is incredibly creamy and ri
 4.  **Temper (Critical):** While whisking the egg-lemon mixture constantly, slowly ladle in 2 cups of the hot broth, one ladle at a time. This "warms up" the eggs so they don't scramble when they hit the pot.
 5.  **Combine:** Pour the tempered egg mixture back into the large pot. Stir constantly over **low heat** for 2 minutes. The soup will instantly turn creamy and opaque.
 6.  **Finish:** Season with salt and a generous amount of white pepper. Serve immediately.
-

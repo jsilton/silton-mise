@@ -38,4 +38,3 @@ Fresh egg pasta (pasta all'uovo) is traditional in Northern Italy, particularly 
 4.  **Roll:** Divide dough into 4 pieces. Use a pasta machine on the widest setting. Fold the sheet in thirds like a letter and pass through again. Repeat on each setting until you reach the desired thickness (Setting 6 or 7 for fettuccine).
 5.  **Shape:** Cut into ribbons or shapes. Dust with flour and arrange in "nests" on a parchment-lined sheet.
 6.  **Boil:** Cook in a massive pot of heavily salted water for 1-3 minutes until they float and the center is cooked through.
-

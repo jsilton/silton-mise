@@ -39,4 +39,3 @@ The secret to a rich slow-cooker braise is developing fond. Many recipes just du
 5.  **Simmer:** Pour the wine slurry over the chicken.
 6.  **Cook:** Cover and cook on **HIGH for 2.5–3 hours** (or LOW for 5-6 hours) until the chicken is fork-tender.
 7.  **Serve:** Serve hot over [Miso-Mashed Potatoes](/mise/recipes/miso-mashed-potatoes) or steamed rice.
-

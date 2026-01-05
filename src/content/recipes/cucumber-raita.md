@@ -1,7 +1,7 @@
 ---
 title: Cucumber Raita
 aliases:
-  - "cucumber-raita-the-indian-cooler"
+  - 'cucumber-raita-the-indian-cooler'
 difficulty: easy
 cookingMethods: []
 dietary: []
@@ -37,4 +37,3 @@ Raita is the essential cooling side for spicy Indian dishes. Grating and squeezi
 2.  **Squeeze:** Place the grated cucumber in a clean kitchen towel. Sprinkle with a pinch of salt. Let sit for 2 minutes, then **squeeze vigorously** until bone-dry.
 3.  **Mix:** In a bowl, whisk the yogurt until smooth. Stir in the squeezed cucumber, cilantro, cumin, salt, and sugar.
 4.  **Finish:** Taste and adjust salt. Let sit for 10 minutes in the fridge before serving to let the flavors meld.
-

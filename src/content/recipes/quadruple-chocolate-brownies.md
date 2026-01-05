@@ -38,4 +38,3 @@ Folding chunks of bittersweet, white, and milk chocolate into unsweetened chocol
 5.  **The Swirl:** Melt the remaining chopped chocolates in separate microwave-safe bowls. Drizzle the three chocolates over the batter and use a knife to create a marbled "High Note" pattern.
 6.  **Bake:** Bake for 35-40 minutes until the tops are mirror-shiny and the edges are firm.
 7.  **The Finish:** Cool **completely** in the pans before slicing into squares. This is mandatory for the structural integrity.
-

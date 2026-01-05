@@ -39,4 +39,3 @@ The pound cake is a heritage recipe perfected over generations. We have eliminat
 5.  **Flavor:** Fold in the lemon, almond, and vanilla extracts by hand.
 6.  **Bake:** Pour the thick batter into the prepared pan. Bake at 275°F for 1.5 hours (or at 300°F for 1 hour if using loaf pans) until a toothpick inserted in the center comes out clean.
 7.  **Cool:** Let cool in the pan for 20 minutes before inverting onto a rack.
-

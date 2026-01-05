@@ -37,4 +37,3 @@ Traditional Mexican guacamole keeps avocados bright green by tossing chunks in l
 4.  **Add Snap:** Gently fold in the onions, tomatoes, jalapeño, garlic, and cilantro.
 5.  **The Finish:** Cover the bowl tightly with plastic wrap pressed directly onto the surface of the guacamole. **Let sit at room temperature for 1 hour** before serving.
 6.  **Serve:** Stir once and serve with high-quality corn chips.
-

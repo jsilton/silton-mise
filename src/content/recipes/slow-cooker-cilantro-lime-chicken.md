@@ -37,4 +37,3 @@ This Tex-Mex slow-cooker chicken cooks in a bath of salsa verde and Rotel tomato
 3.  **The Pull:** Using two forks, shred the chicken directly in the pot. Stir to ensure every strand is coated in the spicy juices.
 4.  **Finish:** Stir in the fresh lime juice. Season with a generous amount of sea salt and pepper.
 5.  **Serve:** Serve immediately in charred tortillas or over [Cilantro Lime Rice](/mise/recipes/cilantro-lime-rice).
-

@@ -37,4 +37,3 @@ Adding pasta during the final 40 minutes of the slow-cook cycle prevents it from
 4.  **The Pasta:** Stir in the dry noodles. Cover and cook on **Low for 30-40 minutes** until the pasta is perfectly al dente.
 5.  **Finish:** Stir in the lemon juice and fresh parsley.
 6.  **Serve:** Ladle into massive bowls. Serve immediately to maintain **Textural Balance**.
-

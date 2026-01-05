@@ -41,4 +41,3 @@ This pasta transforms the classic Caprese salad (from the island of Capri) into 
 4.  **Bind:** Remove the skillet from the heat. Immediately add the hot pasta and the lemon juice. Toss vigorously.
 5.  **Emulsify:** Add the fresh mozzarella and basil. Toss for 30 seconds until the cheese just begins to soften and pull.
 6.  **Serve:** Season generously with black pepper. Serve immediately while the cheese is at its peak "Bounce."
-

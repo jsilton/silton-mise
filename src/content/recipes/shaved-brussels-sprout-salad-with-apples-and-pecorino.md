@@ -39,4 +39,3 @@ Shaving Brussels sprouts paper-thin transforms them from dense and bitter to lig
 4.  **Bind:** Add the shaved sprouts to the dressing. Toss vigorously with your hands until every strand is coated. Let stand at room temperature for **at least 15 minutes**.
 5.  **Finish:** Add the apples and the Pecorino. Toss gently to combine.
 6.  **Serve:** Season with an extra crack of black pepper and serve chilled.
-

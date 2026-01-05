@@ -34,4 +34,3 @@ This Lebanese garlic sauce requires patience - add oil in the thinnest possible 
 5.  **The Texture:** With the motor still running, slowly add the cold water. This will lighten the paste and give it its signature cloud-like fluffiness.
 6.  **Set:** Transfer to a glass jar and refrigerate for at least 4 hours before using. This allows the garlic vapors to mellow and the emulsion to set.
 7.  **Store:** Keeps in the fridge for up to 3 weeks.
-

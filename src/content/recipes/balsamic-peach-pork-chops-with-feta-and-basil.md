@@ -34,4 +34,3 @@ This dish is a masterclass in **Flavor Balancing**: the sweetness of the peaches
 3.  **Peaches:** Place peach slices on top of and around the pork chops.
 4.  **Broil:** Transfer the skillet to the oven (under the broiler). Broil for 4-5 minutes until the peaches are charred at the edges and the pork hits 145°F.
 5.  **Finish:** Remove from oven. Sprinkle with feta, fresh basil, and chili flakes. Let rest for 5 minutes.
-

@@ -38,4 +38,3 @@ This is the soul of Thanksgiving. The key to its texture is combining freshly ba
 4.  **The Hydration:** Gradually pour in the chicken broth. Stir gently until the mixture is very moist but not swimming in liquid (aim for the consistency of wet stuffing).
 5.  **Bake:** Transfer to a large greased baking dish. Bake at 350°F for 50-60 minutes until the top is deep golden brown and the edges are crispy.
 6.  **Serve:** Serve hot alongside turkey and cranberry sauce.
-

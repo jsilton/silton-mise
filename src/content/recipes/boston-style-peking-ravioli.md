@@ -68,4 +68,3 @@ Peking ravioli (also called potstickers) were popularized in Boston by Joyce Che
 1.  **Sear:** Heat 2 tbsp oil in a large flat-bottomed skillet over medium-high heat. Place ravioli in the pan and fry undisturbed for 2-3 minutes until the bottoms are dark golden.
 2.  **Steam:** Pour in 1/2 cup of water and immediately cover with a tight lid. Reduce heat to medium and steam for 6-8 minutes until the water is gone.
 3.  **Crisp:** Remove lid. Add 1 more tsp of oil. Fry for 1 more minute until the bottoms "crackle" and are perfectly crisp.
-

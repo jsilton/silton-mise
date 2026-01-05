@@ -37,4 +37,3 @@ These Mexican-style tacos combine spicy chorizo with delicate seafood by renderi
 4.  **Finish:** Stir in the lime juice. Remove from heat. Season with salt and pepper.
 5.  **Assemble:** Warm corn tortillas over an open flame until charred.
 6.  **Serve:** Fill each tortilla with the seafood-chorizo mix. Top with sliced avocado and cilantro for the final **High Note**.
-

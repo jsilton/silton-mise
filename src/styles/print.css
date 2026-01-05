@@ -1,0 +1,109 @@
+/* Print Styles for Recipe Pages */
+@media print {
+  /* Hide navigation, footer, and interactive elements */
+  header,
+  footer,
+  nav,
+  .no-print,
+  button,
+  [type='checkbox'] {
+    display: none !important;
+  }
+
+  /* Page setup */
+  @page {
+    margin: 1cm;
+    size: letter;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 11pt;
+    line-height: 1.4;
+  }
+
+  /* Recipe title */
+  h1 {
+    font-size: 20pt;
+    margin-bottom: 0.5cm;
+    page-break-after: avoid;
+  }
+
+  h2 {
+    font-size: 14pt;
+    margin-top: 0.5cm;
+    page-break-after: avoid;
+  }
+
+  h3 {
+    font-size: 12pt;
+    page-break-after: avoid;
+  }
+
+  /* Ingredients list */
+  ul {
+    margin: 0.3cm 0;
+    padding-left: 0.5cm;
+  }
+
+  li {
+    page-break-inside: avoid;
+    margin-bottom: 0.2cm;
+  }
+
+  /* Directions - numbered list */
+  ol {
+    margin: 0.3cm 0;
+    padding-left: 0.7cm;
+  }
+
+  ol li {
+    page-break-inside: avoid;
+    margin-bottom: 0.3cm;
+  }
+
+  /* Tags and metadata */
+  .recipe-card,
+  .tag-badge {
+    border: 1px solid #ccc !important;
+    background: white !important;
+    color: black !important;
+    padding: 2px 6px;
+    margin: 2px;
+  }
+
+  /* Preserve links but show URL */
+  a {
+    color: black !important;
+    text-decoration: none;
+  }
+
+  a[href^='http']:after {
+    content: ' (' attr(href) ')';
+    font-size: 9pt;
+    color: #666;
+  }
+
+  /* Avoid breaks */
+  .recipe-header,
+  .chef-note,
+  .ingredients-section {
+    page-break-inside: avoid;
+  }
+
+  /* Grid to single column */
+  .grid {
+    display: block !important;
+  }
+
+  .grid > * {
+    margin-bottom: 0.5cm;
+  }
+
+  /* Remove shadows and fancy effects */
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+}

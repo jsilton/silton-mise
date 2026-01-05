@@ -36,4 +36,3 @@ Never let mulled cider reach a rolling boil once spices are added—high heat tu
 4.  **Strain:** Pour the cider through a fine-mesh sieve into a clean pot or slow cooker to remove the whole spices.
 5.  **Garnish:** Stud each orange wedge with a whole clove.
 6.  **Serve:** Ladle into mugs and float a clove-studded orange wedge in each.
-

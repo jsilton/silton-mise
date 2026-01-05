@@ -35,4 +35,3 @@ These are classic sugar cookies for holiday baking. The secret to crisp edges is
 5.  **Shape:** Preheat oven to 375°F. On a floured surface, roll dough to 1/4-inch thickness. Cut into shapes.
 6.  **Bake:** Place 1 inch apart on parchment. Bake for 10-12 minutes until the very edges are just beginning to turn golden brown.
 7.  **The Finish:** Let cool on the pan for 5 minutes to ensure a crispy base. Serve plain or decorate with [Royal Icing](/mise/recipes/royal-icing).
-

@@ -40,4 +40,3 @@ Pai huang gua (smashed cucumber salad) is a northern Chinese classic where cucum
 3.  **Dress:** Whisk together vinegar, soy sauce, sesame oil, garlic, and chili crisp.
 4.  **Toss:** Drain the liquid from the cucumbers (shake them well). Toss with the dressing.
 5.  **Serve:** Top with sesame seeds. Serve immediately or marinate for up to 4 hours.
-

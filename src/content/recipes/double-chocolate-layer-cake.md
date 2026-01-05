@@ -50,4 +50,3 @@ Melting chocolate directly into hot coffee "blooms" cocoa solids and releases ar
 5.  **Bake:** Divide between pans. Bake for 60-70 minutes until a tester comes out clean. Cool completely in the pans before inverting.
 6.  **The Ganache:** Bring cream, sugar, and corn syrup to a boil. Pour over the 1 lb chopped chocolate. Let sit for 5 minutes, then whisk. Add butter cubes and stir until mirror-glossy.
 7.  **Assemble:** Frost between layers and over the top and sides. Let set for 1 hour at room temperature before serving.
-

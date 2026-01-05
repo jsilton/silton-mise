@@ -45,4 +45,3 @@ Mongolian chicken follows the same Chinese-American formula as Mongolian beef. T
 5.  **Bind:** Stir in the cornstarch slurry. Simmer for 2 minutes until the sauce is thick and mirror-glossy.
 6.  **Toss:** Add the crispy chicken and scallion greens. Toss for 10 seconds until every piece is lacquered.
 7.  **Serve:** Serve immediately over steamed rice.
-

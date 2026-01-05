@@ -9,12 +9,14 @@ This document explains how to access and follow the established development prac
 ## 🎯 Quick Start for New Contributors
 
 ### 1. Read These First (In Order)
+
 1. **[README.md](./README.md)** - Project overview and features
 2. **[CONTRIBUTING.md](./CONTRIBUTING.md)** - Content/recipe guidelines
 3. **[CODE_PRACTICES.md](./CODE_PRACTICES.md)** - Development standards & best practices
 4. **[DEPLOYMENT.md](./DEPLOYMENT.md)** - How to deploy changes safely
 
 ### 2. Understand Our Philosophy
+
 - **Keep it simple:** Only create components when truly reusable
 - **Tailwind only:** No additional CSS files
 - **Test before deploying:** Use `npm run qa` every time
@@ -23,21 +25,25 @@ This document explains how to access and follow the established development prac
 ### 3. Key Rules to Follow
 
 **Component Architecture:**
+
 - Reusable components go in `/src/components/` (must be used in 2+ places)
 - Only 8-10 components total for this project size
 - Use props interface for clarity
 
 **Styling:**
+
 - Tailwind CSS only (classes inline in components)
 - Color mapping for tags is consistent across all components
 - No new CSS files without approval
 
 **Recipe Data:**
+
 - Frontmatter must be complete (title, origin, cuisines, difficulty, etc.)
 - Use `npm run validate-recipes` to verify
 - Auto-generated fields: cookingMethods, dietary, occasions, flavorProfile
 
 **Testing & Deployment:**
+
 - **Always** run `npm run qa` before major changes
 - **Always** test: homepage search/filters, recipe detail page, mobile layout
 - **Never** skip the manual testing checklist
@@ -48,6 +54,7 @@ This document explains how to access and follow the established development prac
 ## 📚 Project Knowledge Base
 
 ### Standards Documentation
+
 - **[CODE_PRACTICES.md](./CODE_PRACTICES.md)**
   - Component architecture rules (when to create, when not to)
   - Styling conventions and Tailwind patterns
@@ -69,6 +76,7 @@ This document explains how to access and follow the established development prac
   - How to add new recipes
 
 ### Automation & Validation
+
 - **[/scripts/validate-recipes.mjs](./scripts/validate-recipes.mjs)**
   - Validates all 474+ recipes for correctness
   - Checks required frontmatter fields
@@ -82,6 +90,7 @@ This document explains how to access and follow the established development prac
   - Exit codes: 0 = pass, 1 = fix needed
 
 ### Knowledge Codex
+
 - **[/src/knowledge/codex/](./src/knowledge/codex/)**
   - `recipe-validation-rules.json` - Recipe validation constraints
   - `development-standards.json` - Architectural standards for future models
@@ -92,6 +101,7 @@ This document explains how to access and follow the established development prac
 ## 🔍 How to Access Established Practices
 
 ### For Development Standards
+
 ```javascript
 // Read: src/knowledge/codex/development-standards.json
 // Contains: component architecture, styling rules, testing procedures
@@ -104,6 +114,7 @@ This document explains how to access and follow the established development prac
 ```
 
 ### For Recipe Schema
+
 ```yaml
 # Read: CONTRIBUTING.md (Section 7: Content Standards)
 # Also: src/knowledge/codex/recipe-validation-rules.json
@@ -116,9 +127,12 @@ cookingMethods, dietary, occasions, flavorProfile
 ```
 
 ### For Tagging System
+
 ```markdown
 # Read: src/knowledge/TAGGING_GUIDE.md
+
 # 6-category system:
+
 1. Cooking Methods (bake, roast, fry, steam, slow-cook)
 2. Cuisines (Italian, Thai, Chinese, etc.)
 3. Dietary (vegetarian, vegan, gluten-free, dairy-free)
@@ -132,6 +146,7 @@ cookingMethods, dietary, occasions, flavorProfile
 ## 🚀 Before Making Any Changes
 
 ### Workflow Checklist
+
 ```bash
 # 1. Understand what we're changing
 # (read relevant section in CODE_PRACTICES.md)
@@ -167,6 +182,7 @@ npm run deploy
 ## 🎓 Learning Path
 
 ### If You're New to the Project
+
 1. Build the project: `npm run build`
 2. Start dev server: `npm run dev`
 3. Explore the site at `http://localhost:4321/silton-mise/`
@@ -175,6 +191,7 @@ npm run deploy
 6. Run: `npm run qa`
 
 ### If You're Adding Recipes
+
 1. Read: CONTRIBUTING.md
 2. Create: new `.md` file in `/src/content/recipes/`
 3. Follow: frontmatter template (all 14 fields)
@@ -182,6 +199,7 @@ npm run deploy
 5. Test: recipe appears on homepage, detail page works
 
 ### If You're Modifying Components
+
 1. Read: CODE_PRACTICES.md (sections 1, 2)
 2. Check: if component is reused (2+ locations)
 3. Update: component in `/src/components/`
@@ -189,6 +207,7 @@ npm run deploy
 5. Run QA: `npm run qa`
 
 ### If You're Deploying
+
 1. Read: DEPLOYMENT.md (complete document)
 2. Run: `npm run qa` (all tests must pass)
 3. Manual test: use checklist in DEPLOYMENT.md
@@ -228,32 +247,38 @@ npm run deploy
 ## 📝 Standards Summary
 
 ### Component Rules
+
 ✅ **DO CREATE** if:
+
 - Used in 2+ pages/contexts
 - Self-contained with clear purpose
 - Reduces code duplication
 
 ❌ **DON'T CREATE** if:
+
 - Single-use only
 - Just wraps 1-2 HTML elements
 - Scatters related code
 
 ### Component Count
+
 - **Current:** 8 components (SearchBar, FilterPanel, RecipeCard, etc.)
 - **Max:** ~12 before considering redesign
 - **Target:** Keep simple
 
 ### Testing Before Deploy
-| Feature | Test Case | Expected |
-|---------|-----------|----------|
-| Search | "chicken" | ~20 results |
-| Filter | difficulty=easy | only easy |
-| Combine | vegan + pasta | vegan pasta |
-| Sort | prepTime | ascending |
-| Tags | Recipe page | 6 categories |
-| Mobile | 375px width | responsive |
+
+| Feature | Test Case       | Expected     |
+| ------- | --------------- | ------------ |
+| Search  | "chicken"       | ~20 results  |
+| Filter  | difficulty=easy | only easy    |
+| Combine | vegan + pasta   | vegan pasta  |
+| Sort    | prepTime        | ascending    |
+| Tags    | Recipe page     | 6 categories |
+| Mobile  | 375px width     | responsive   |
 
 ### Git Commits
+
 ```
 feat: add new feature
 fix: resolve bug
@@ -268,6 +293,7 @@ docs: update documentation
 ### Debugging Steps
 
 **Build fails?**
+
 ```bash
 npm install
 npm run build
@@ -276,6 +302,7 @@ npm run build
 ```
 
 **QA tests fail?**
+
 ```bash
 npm run qa
 # Review failed tests
@@ -284,6 +311,7 @@ npm run qa
 ```
 
 **Recipe doesn't appear?**
+
 ```bash
 npm run validate-recipes
 # Check frontmatter fields
@@ -291,6 +319,7 @@ npm run validate-recipes
 ```
 
 **Filters don't work?**
+
 ```bash
 # Verify FilterPanel component loads
 # Check browser console for JS errors

@@ -42,4 +42,3 @@ Slicing spinach into thin ribbons (chiffonade) prevents large, wet clumps in the
 5.  **Fill:** Pour the mixture into the muffin cups, filling each about 3/4 full.
 6.  **Bake:** Bake for 20-25 minutes until the centers are set and the tops are slightly golden.
 7.  **Cool:** Allow to cool in the tin for 5 minutes before removing. These can be refrigerated for up to 4 days and reheated for 30 seconds in the microwave.
-

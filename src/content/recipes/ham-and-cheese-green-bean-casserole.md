@@ -39,4 +39,3 @@ This modern update transforms the classic holiday side into a main dish by addin
 6.  **Bake:** Bake for 30 minutes until bubbling.
 7.  **The Crunch Finish:** Remove the pan. Sprinkle the remaining 1/2 cup of cheese and the remaining 1/2 cup of fried onions over the top. Bake for an additional 10 minutes until the crust is deep golden and shatteringly crisp.
 8.  **Rest:** Let sit for 5 minutes before serving to allow the sauce to set.
-

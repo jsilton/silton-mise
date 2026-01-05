@@ -43,4 +43,3 @@ Replacing butter with extra-virgin olive oil creates a healthier banana bread wh
 4.  **The Swirl:** Pour the batter into the prepared pan. Sprinkle a pinch of cinnamon on top and run a knife in a zig-zag pattern for a visual "High Note."
 5.  **Bake:** Bake for 55-60 minutes until a toothpick inserted into the center comes out clean.
 6.  **Rest:** Let cool in the pan for 10 minutes, then transfer to a wire rack. Slice only once completely cool to preserve the structural integrity.
-

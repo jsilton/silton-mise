@@ -44,4 +44,3 @@ This is strawberry-rhubarb shortcake for special occasions. The key is cutting c
 5.  **The Emulsion:** Whip mascarpone and 1/4 cup sugar until smooth. Slowly pour in heavy cream and whip to stiff peaks. Stir in a splash of St. Germain.
 6.  **Assemble:** Split warm shortcakes. Top with a massive mound of roasted fruit and its syrup.
 7.  **Finish:** Add a dollop of mascarpone cream and fresh thyme for the final **High Note**.
-

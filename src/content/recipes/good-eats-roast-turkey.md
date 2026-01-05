@@ -43,4 +43,3 @@ This is the scientifically superior method for roast turkey. **The Brine** uses 
 6.  **The Blast:** Roast on the lowest rack at 500°F for 30 minutes.
 7.  **The Finish:** Insert a probe thermometer into the thickest part of the breast. Reduce oven to 350°F. Roast until the internal temp hits 161°F (about 2-2.5 hours total).
 8.  **Rest:** Let rest for at least 15 minutes before carving. Carryover heat will take it to the safe 165°F.
-

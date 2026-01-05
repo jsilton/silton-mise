@@ -41,4 +41,3 @@ Potatoes take significantly longer than salmon and asparagus, so roast them at 4
 4.  **The Glaze:** Drizzle the garlic-butter mixture evenly over the salmon and asparagus.
 5.  **Finish:** Return the pan to the oven and roast for 10-12 minutes until the salmon flakes easily and the asparagus is tender-crisp.
 6.  **Serve:** Garnish with fresh parsley and serve immediately.
-

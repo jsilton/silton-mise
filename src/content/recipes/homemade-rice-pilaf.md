@@ -37,4 +37,3 @@ This versatile Middle Eastern-inspired side dish gains its nutty complexity from
 5.  **Cooking:** Reduce heat to low. Cover tightly with a lid. Simmer for 15-18 minutes until the liquid is fully absorbed.
 6.  **Steaming:** Remove from heat. **Do not open the lid.** Let the rice steam for 10 minutes (essential for structure).
 7.  **Finishing:** Remove lid, stir in dried parsley, and fluff with a fork.
-

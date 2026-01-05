@@ -37,4 +37,3 @@ This is a modern Mediterranean-inspired one-pot meal that uses the risotto techn
 4.  **The Simmer:** Pour in the broth. Bring to a boil, then reduce to low and cover. Simmer for 10 minutes until liquid is absorbed and pasta is al dente.
 5.  **The Fold:** Stir in the Parmesan, the reserved sausage, and the broccolini.
 6.  **Finish:** If the pasta is too dry, add a splash of hot water. Season with plenty of black pepper.
-

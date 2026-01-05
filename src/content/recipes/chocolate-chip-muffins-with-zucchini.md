@@ -45,4 +45,3 @@ This is a nutritious breakfast muffin. By using buckwheat flour, we get a nutty 
 5.  **Fold:** Fold in the chocolate chips and the **squeezed zucchini**.
 6.  **Bake:** Scoop the batter into the muffin cups (about 3/4 full). Bake for 16-18 minutes until a toothpick inserted into the center comes out clean.
 7.  **Cool:** Let cool in the pan for 10 minutes to allow the buckwheat structure to set before removing to a rack.
-

@@ -1,7 +1,7 @@
 ---
 title: Instant Pot Pulled Pork
 aliases:
-  - "instant-pot-pulled-pork-the-batch-king"
+  - 'instant-pot-pulled-pork-the-batch-king'
 difficulty: easy
 cookingMethods: [bake, sauté]
 dietary: []
@@ -42,4 +42,3 @@ This is the ultimate hack for families. The high-sugar soda contains phosphoric 
 6.  **Shred:** Remove pork to a tray and shred with two forks. Discard the excess liquid (or keep a little for moisture).
 7.  **The Bark (Critical):** Toss the shredded pork with 1/2 cup of BBQ sauce. Spread on a baking sheet and **BROIL** for 5 minutes until the edges are crispy and charred.
 8.  **Serve:** Toss with the remaining BBQ sauce.
-

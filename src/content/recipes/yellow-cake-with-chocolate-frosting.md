@@ -44,4 +44,3 @@ This is the definitive birthday cake for the family. The secret is using both so
 5.  **Bake:** Bake for 25 minutes until a tester comes out with moist crumbs. Let cool **completely** before inverting.
 6.  **Frosting:** Whisk melted butter and cocoa. Beat in the sugar, milk, and vanilla for 5 minutes until light and billowy.
 7.  **Finish:** Frost the layers heavily. Garnish with a "High Note" of flaky sea salt if desired.
-

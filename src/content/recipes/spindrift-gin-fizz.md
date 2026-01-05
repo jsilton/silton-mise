@@ -36,4 +36,3 @@ This is the ultimate "In the Park" cocktail—refreshing, low-sugar, and aromati
 3.  **Top:** Top each glass with the Spindrift Grapefruit.
 4.  **Finish:** Add 2 dashes of bitters to each glass. Stir gently once to combine.
 5.  **Garnish:** Top with a lime wheel.
-

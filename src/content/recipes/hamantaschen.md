@@ -39,4 +39,3 @@ These triangular Jewish cookies for Purim require careful technique to prevent b
 7.  **Fill & Fold:** Place 1 tsp filling in the center. Fold the three sides up to form a triangle. **The Pinwheel:** Tuck the left corner of each flap _under_ the adjacent side to lock it. Pinch the corners firmly.
 8.  **Bake:** Preheat oven to 350°F. Bake for 20-25 minutes until the edges are just barely golden.
 9.  **Store:** Let cool completely. Store in an airtight container to maintain the "Snap."
-

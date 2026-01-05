@@ -37,4 +37,3 @@ Roasting fresh tomatoes and whole garlic cloves at 400°F until charred and soft
 4.  **The Emulsion:** Stir in the fresh basil. Use an immersion blender to puree until completely velvety and smooth.
 5.  **Finish:** Stir in the cream for the mandatory **Acid/Fat Finish**. Taste and adjust salt.
 6.  **Serve:** Serve with a drizzle of high-quality olive oil.
-

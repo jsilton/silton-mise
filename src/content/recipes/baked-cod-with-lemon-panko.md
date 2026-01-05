@@ -38,4 +38,3 @@ This Mediterranean-style preparation uses two butter applications: one mixed wit
 4.  **Press:** Press the panko mixture firmly onto the top of each fillet to create an even, thick coating.
 5.  **Bake:** Bake for 12-15 minutes until the fish flakes easily with a fork and the panko is deep golden brown.
 6.  **Serve:** Spoon some of the lemon butter from the pan over the fish just before serving.
-

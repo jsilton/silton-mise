@@ -47,4 +47,3 @@ This is an upgrade to the old-school "pudding pie." The secret is using 70% caca
 5.  **The Finish:** Pour the hot filling into the cooled pie crust. Press a piece of plastic wrap directly onto the surface of the pudding to prevent a "skin" from forming.
 6.  **Chill:** Refrigerate for **at least 4 hours** (uncovered after the first hour) until perfectly set.
 7.  **Serve:** Top with billowy whipped cream and shaved chocolate for contrast.
-

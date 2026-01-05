@@ -43,4 +43,3 @@ This is the go-to granola recipe for batch breakfast prep. The secret to getting
 5.  **Stir:** Bake for 20-25 minutes. **Stir the granola every 8 minutes** to ensure the edges don't burn and the center gets crispy.
 6.  **The Finish:** Remove from the oven when deep golden brown. The granola will still feel soft; it will Crunch only after cooling.
 7.  **Finish:** Once stone-cold, stir in the dried fruit. Store in an airtight glass jar for up to 3 weeks.
-

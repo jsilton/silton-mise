@@ -37,4 +37,3 @@ The Vieux Carré is a New Orleans masterpiece that demands **Precision and Dilig
 3.  **Stir:** Stir gently with a long barspoon for **30 seconds**. You want the liquid to be ice cold and slightly diluted.
 4.  **Strain:** Strain into the chilled glass over one large clear ice cube (or neat).
 5.  **Express:** Squeeze the lemon twist over the surface of the drink to release the oils, then drop it in.
-

@@ -37,4 +37,3 @@ The secret to this vegetable puree is sweating the vegetables gently. You must s
 4.  **The Emulsion:** Working in two batches, transfer to a high-speed blender. Puree until the soup is completely smooth and glossy.
 5.  **Finish:** Stir in the lemon juice for the mandatory **Acid Balance**.
 6.  **Serve:** Ladle into bowls. Top with the julienned raw zucchini and a drizzle of olive oil for the final **High Note**.
-

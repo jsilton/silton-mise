@@ -41,4 +41,3 @@ This dish is a play on Korean Japchae but served as a bright, protein-heavy sala
 3.  **Toss:** In a large bowl, combine the cold noodles, the hot chicken, the remaining marinade, and the sesame oil.
 4.  **Crunch:** Fold in the raw bell peppers, fresh herbs, and toasted sesame seeds.
 5.  **Serve:** Serve warm or at room temperature. The noodles will absorb the flavors as they sit.
-

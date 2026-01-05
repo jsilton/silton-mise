@@ -42,4 +42,3 @@ These are pumpkin cookies with a cream cheese center. The critical step is freez
 5.  **The Crunch:** Roll the stuffed balls in the cinnamon-ginger sugar until heavily coated.
 6.  **Bake:** Arrange 3 inches apart on a parchment-lined sheet. Press down lightly to flatten. Bake for 16-19 minutes until the edges are set. **Do not over-bake.**
 7.  **Cool:** Let cool on the pan for 10 minutes. These are elite when refrigerated and eaten cold.
-

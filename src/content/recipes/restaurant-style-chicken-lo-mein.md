@@ -47,4 +47,3 @@ Cantonese lo mein is a tossed noodle dish that relies on fresh egg noodles and a
 6.  **The Steam:** Cover the wok for exactly 1 minute to soften the vegetables.
 7.  **The Glaze:** Remove lid. Add both soy sauces, sesame oil, and sugar. Stir-fry for 30 seconds until the noodles are evenly dark and glossy.
 8.  **Finish:** Fold in the mung bean sprouts and scallions. Toss for 30 more seconds and serve immediately.
-

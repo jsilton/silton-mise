@@ -41,4 +41,3 @@ This is a lighter take on the classic side. The secret is using a mix of skim mi
 4.  **Bind:** Remove from heat. Stir in the cheddar until molten. Fold in the cooked macaroni and broccoli.
 5.  **Bake:** Transfer to a greased baking dish. Sprinkle with breadcrumbs and Parmesan.
 6.  **Finish:** Bake at 375°F for 15-20 minutes. Broil for 2 minutes until the top is crispy and the cheese is "Snappy."
-

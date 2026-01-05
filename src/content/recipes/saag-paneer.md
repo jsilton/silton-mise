@@ -40,4 +40,3 @@ This is a professional-grade Saag that relies on the **Soak Method**. Paneer can
 5.  **Cream:** Reduce heat to low. Stir in the heavy cream.
 6.  **Combine:** Drain the paneer and fold gently into the spinach.
 7.  **Finish:** Stir in the Garam Masala and crushed Kasuri Methi. Cover and let sit for 5 minutes off the heat before serving.
-

@@ -39,4 +39,3 @@ This Mexican-inspired corn chowder builds depth by roasting corn kernels at high
 5.  **Cream & Corn:** Stir in the heavy cream and the roasted corn. Use an immersion blender to pulse the soup 3-4 times (you want it creamy but still chunky).
 6.  **The Shrimp:** Add the shrimp to the hot liquid. Cook for 2-3 minutes until pink.
 7.  **Finish:** Stir in the fresh lime juice and the reserved bacon bits. Taste and adjust salt.
-

@@ -38,4 +38,3 @@ Sear mushrooms in butter until golden rather than boiling them to gray mush. Res
 5.  **The Emulsion:** Using an immersion blender (or a regular blender in batches), puree the soup until completely smooth and velvety.
 6.  **Finish:** Stir in the heavy cream and the **Dry Sherry**. Simmer for 1 more minute.
 7.  **Serve:** Ladle into bowls and top with the **Reserved Seared Mushrooms** for texture.
-

@@ -36,4 +36,3 @@ This French-style quiche sautés onions over high heat until edges char and cara
 5.  **Bake:** Preheat oven to 350°F. Spray a 9-inch pie plate with oil. Pour the mixture into the plate and sprinkle the remaining cheese over the top.
 6.  **Finish:** Bake for 25-30 minutes until the top is golden brown and the center is set.
 7.  **Serve:** Serve warm or at room temperature with a side of greens.
-

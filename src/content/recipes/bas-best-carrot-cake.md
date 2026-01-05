@@ -1,7 +1,7 @@
 ---
 title: Carrot Cake
 aliases:
-  - "bas-best-carrot-cake-the-brown-butter-upgrade"
+  - 'bas-best-carrot-cake-the-brown-butter-upgrade'
 difficulty: intermediate
 cookingMethods: [bake, no-cook]
 dietary: [vegetarian]
@@ -50,4 +50,3 @@ This is the **Bravetart Upgrade** to the BA classic. We replace generic vegetabl
 4.  **Bake:** Pour into two 9-inch lined pans. Bake at 350°F for 35-45 minutes. Cool completely.
 5.  **Frosting:** Beat cream cheese and butter until smooth. Add powdered sugar and vanilla.
 6.  **Assemble:** Layer and frost the cakes generously.
-

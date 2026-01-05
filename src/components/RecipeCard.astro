@@ -25,13 +25,11 @@ interface Props {
   baseUrl?: string;
 }
 
-const { 
-  recipe,
-  baseUrl = import.meta.env.BASE_URL
-} = Astro.props;
+const { recipe, baseUrl = import.meta.env.BASE_URL } = Astro.props;
 
 // Extract primary dietary tag (prioritize vegetarian/vegan)
-const primaryDietaryTag = recipe.data.dietary?.find((d) => d === 'vegetarian' || d === 'vegan') || recipe.data.dietary?.[0];
+const primaryDietaryTag =
+  recipe.data.dietary?.find((d) => d === 'vegetarian' || d === 'vegan') || recipe.data.dietary?.[0];
 ---
 
 <a
@@ -46,38 +44,47 @@ const primaryDietaryTag = recipe.data.dietary?.find((d) => d === 'vegetarian' ||
   data-prep-time={recipe.data.prepTime}
 >
   <div class="p-4 flex flex-col h-full">
-    <h2 class="text-base font-semibold text-slate-800 group-hover:text-indigo-600 line-clamp-2 mb-2 leading-tight">
+    <h2
+      class="text-base font-semibold text-slate-800 group-hover:text-indigo-600 line-clamp-2 mb-2 leading-tight"
+    >
       {recipe.data.title}
     </h2>
 
     <!-- Key Tags -->
     <div class="flex flex-wrap gap-1 mb-3">
-      {recipe.data.cuisines?.[0] && (
-        <TagBadge tag={recipe.data.cuisines[0]} category="cuisine" size="sm" />
-      )}
-      {recipe.data.difficulty && (
-        <TagBadge tag={recipe.data.difficulty} category="difficulty" size="sm" />
-      )}
-      {primaryDietaryTag && (
-        <TagBadge tag={primaryDietaryTag} category="dietary" size="sm" />
-      )}
+      {
+        recipe.data.cuisines?.[0] && (
+          <TagBadge tag={recipe.data.cuisines[0]} category="cuisine" size="sm" />
+        )
+      }
+      {
+        recipe.data.difficulty && (
+          <TagBadge tag={recipe.data.difficulty} category="difficulty" size="sm" />
+        )
+      }
+      {primaryDietaryTag && <TagBadge tag={primaryDietaryTag} category="dietary" size="sm" />}
     </div>
 
     <!-- Time metadata -->
-    <div class="mt-auto pt-3 border-t border-slate-50 flex items-center justify-between text-[11px] text-slate-400">
+    <div
+      class="mt-auto pt-3 border-t border-slate-50 flex items-center justify-between text-[11px] text-slate-400"
+    >
       <div class="flex items-center gap-2">
         {recipe.data.prepTime && <span>{recipe.data.prepTime}</span>}
-        {recipe.data.cookTime && (
-          <span class="flex items-center gap-1 before:content-['•'] before:mr-1">
-            {recipe.data.cookTime} cook
-          </span>
-        )}
+        {
+          recipe.data.cookTime && (
+            <span class="flex items-center gap-1 before:content-['•'] before:mr-1">
+              {recipe.data.cookTime} cook
+            </span>
+          )
+        }
       </div>
     </div>
   </div>
 
   <!-- Hidden search data for filtering -->
   <div class="hidden search-data">
-    {recipe.data.title.toLowerCase()} {recipe.data.ingredients?.join(' ').toLowerCase()}
+    {recipe.data.title.toLowerCase()}
+    {recipe.data.ingredients?.join(' ').toLowerCase()}
   </div>
 </a>

@@ -42,4 +42,3 @@ Sheet pan meal prep bowls became hugely popular in the 2010s for their simplicit
 4.  **Stage 2:** Remove pan. Add the broccoli, zucchini, and cherry tomatoes. Toss with another 2 tbsp of pesto.
 5.  **Bake:** Roast for 10 more minutes until the chicken is cooked through (165°F) and the broccoli is tender-crisp.
 6.  **Store:** Divide among 4 bowls. Serve over pasta or rice. Keeps in the fridge for 5 days with a perfect Texture when reheated.
-

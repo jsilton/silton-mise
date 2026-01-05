@@ -37,4 +37,3 @@ The secret to excellent tarragon potatoes is the butter-finish technique. Tarrag
 4.  **The Sizzle:** Remove pan. Add the cold butter cubes to the dish and toss the potatoes to coat in the melting fat.
 5.  **Finish:** Return to oven. Bake for 20 more minutes, tossing once, until the potatoes are deep golden brown and the edges are crispy.
 6.  **Serve:** Serve immediately while the herb aroma is at its peak.
-

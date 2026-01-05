@@ -42,4 +42,3 @@ Quick wonton soup using store-bought frozen wontons makes a comforting 25-minute
 3.  **Wontons:** Add the frozen wontons. Simmer for 2-3 minutes until they float and are heated through.
 4.  **Finish:** Stir in the soy sauce and toasted sesame oil. Add a pinch of white pepper for the mandatory **High Note**.
 5.  **Serve:** Divide into bowls, ensuring everyone gets 5 wontons. Garnish with fresh scallions.
-

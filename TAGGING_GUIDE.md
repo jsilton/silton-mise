@@ -1,6 +1,7 @@
 # Recipe Metadata Tagging Guide
 
 ## Purpose
+
 This guide helps systematically add complete planning metadata to all 474 recipes for AI-powered meal planning.
 
 ## Tagging Decision Trees
@@ -8,18 +9,21 @@ This guide helps systematically add complete planning metadata to all 474 recipe
 ### OCCASIONS (Multiple allowed)
 
 **Step 1: Time-Based**
+
 - Total time ≤30 min AND simple → `quick-lunch`
 - Total time ≤45 min AND weekday-appropriate → `weeknight`
 - Total time >45 min AND leisurely → `weekend-project`
 - Makes ahead + reheats well → `meal-prep`
 
 **Step 2: Social Context**
+
 - Impressive presentation OR multi-component → `entertaining`
 - Intimate, special but manageable → `date-night`
 - Mild flavors, familiar ingredients → `kids-approved`
 - Travels well, room temp okay, serves crowd → `potluck`
 
 **Step 3: Seasonal/Calendar**
+
 - Traditional holiday dish → `holiday`
 - Peak summer produce (tomatoes, berries, corn) → `summer`
 - Root vegetables, warm spices → `winter`
@@ -27,6 +31,7 @@ This guide helps systematically add complete planning metadata to all 474 recipe
 - Squash, apples, warming → `fall`
 
 **Step 4: Nutritional Intent**
+
 - Rich, indulgent, soul-satisfying → `comfort-food`
 - Light proteins, lots of vegetables → `light-and-fresh`
 - Protein-forward, nutrient-dense → `post-workout`
@@ -42,34 +47,40 @@ This guide helps systematically add complete planning metadata to all 474 recipe
 
 ### NUTRITIONAL DENSITY (Single)
 
-**light**: 
+**light**:
+
 - Salads, seafood, vegetable-forward
 - Leaves you energized, not stuffed
 - <500 calories likely
 
 **moderate**:
+
 - Balanced protein + starch + veg
 - Standard portion feels satisfying
 - 500-700 calories likely
 
 **hearty**:
+
 - Pasta dishes, stews, casseroles
 - Rich sauces, generous portions
-- >700 calories likely
+- > 700 calories likely
 
 ### LEFTOVERS (Single)
 
 **poor**:
+
 - Texture degrades (crispy, delicate fish, salads)
 - Best eaten immediately
 - Examples: fried foods, fresh salads, seared scallops
 
 **good**:
+
 - Reheats okay, slight quality loss
 - Works for next-day lunch
 - Examples: grilled chicken, roasted vegetables, simple pastas
 
 **excellent**:
+
 - Improves with time OR reheats perfectly
 - Meal prep friendly
 - Examples: stews, curries, marinated dishes, soups
@@ -77,6 +88,7 @@ This guide helps systematically add complete planning metadata to all 474 recipe
 ### ADVANCE PREP (Multiple allowed)
 
 **Common values**:
+
 - `marinate-overnight` - proteins need 4+ hours
 - `make-ahead-sauce` - sauce can be prepped days before
 - `dough-rest` - bread/pasta dough needs time
@@ -90,6 +102,7 @@ This guide helps systematically add complete planning metadata to all 474 recipe
 ### EQUIPMENT (Multiple allowed)
 
 Only list if REQUIRED (not optional):
+
 - `grill` - must grill, no oven substitute
 - `slow-cooker` - recipe specifically for slow cooker
 - `instant-pot` - pressure cooker required
@@ -106,6 +119,7 @@ Only list if REQUIRED (not optional):
 ### PAIRS WITH (3-5 suggestions)
 
 Suggest actual recipe slugs from library:
+
 - For mains: sides, starches, salads
 - For sides: proteins they complement
 - For bases: proteins and vegetables
@@ -115,6 +129,7 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 ## Tagging Patterns by Category
 
 ### Chinese Mains (58 recipes)
+
 - **Occasions**: Usually `weeknight`, often `kids-approved`, sometimes `meal-prep`
 - **Seasons**: Mostly `year-round`
 - **Density**: Usually `moderate`, occasionally `hearty`
@@ -123,6 +138,7 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 - **Pairs**: `basmati-rice`, `steamed-broccoli`, `garlic-sesame-spinach`
 
 ### Italian Pastas (many of 60 Italian)
+
 - **Occasions**: `weeknight`, `comfort-food`, `entertaining`
 - **Seasons**: `year-round` unless specific produce
 - **Density**: Usually `hearty`
@@ -131,6 +147,7 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 - **Pairs**: `garlic-bread`, `caesar-salad`, `arugula-salad`
 
 ### Salads (need more!)
+
 - **Occasions**: `light-and-fresh`, `quick-lunch`, often seasonal
 - **Seasons**: Match produce
 - **Density**: `light`
@@ -139,6 +156,7 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 - **Pairs**: Heartier mains, grilled proteins
 
 ### Southern Comfort (19 recipes)
+
 - **Occasions**: `comfort-food`, `weekend-project`, `holiday`, `entertaining`
 - **Seasons**: Often `year-round`, some `fall`/`winter`
 - **Density**: `hearty`
@@ -147,6 +165,7 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 - **Pairs**: Multiple sides make a spread
 
 ### Quick Lunches (need more!)
+
 - **Occasions**: `quick-lunch`, `weeknight`
 - **Seasons**: `year-round`
 - **Density**: `light` to `moderate`
@@ -154,6 +173,7 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 - **Total time**: ≤30 min
 
 ### Vegetable Sides (need 30-40 more!)
+
 - **Occasions**: `weeknight`, seasonal tags, `entertaining`
 - **Seasons**: Match peak produce
 - **Density**: `light`
@@ -162,12 +182,14 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 - **Pairs**: List complementary proteins
 
 ### Meal Prep Winners
+
 - **Occasions**: `meal-prep`, `weeknight`
 - **Leftovers**: `excellent`
 - **Makes**: Large batches
 - **Examples**: Curries, stews, marinated proteins, grain bowls
 
 ### Weekend Projects
+
 - **Occasions**: `weekend-project`, `entertaining`, `indulgent`
 - **Total time**: >90 min
 - **Skill**: Often `intermediate` or `hard`
@@ -176,20 +198,24 @@ Use recipe slug format: `garlic-bread`, `steamed-broccoli`, `basmati-rice`
 ## Systematic Tagging Process
 
 ### Phase 1: Quick Wins (Do these in batches)
+
 1. All Chinese mains (58) - similar patterns
-2. All Italian pastas (~40) - similar patterns  
+2. All Italian pastas (~40) - similar patterns
 3. All sides (70) - seasonal + pairing focused
 4. All desserts (59) - occasion + season
 5. All drinks (15) - occasion focused
 
 ### Phase 2: Deep Analysis (Recipe by recipe)
+
 6. American mains (179) - highly varied
 7. All other cuisines - cultural context
 8. Bases (30) - pairing critical
 9. Condiments (9) - pairing critical
 
 ### Phase 3: Quality Audit (Simultaneous)
+
 While tagging, flag for quality review:
+
 - **KEEP**: Clear winner, makes rotation
 - **TEST**: Unsure if it's best version
 - **REPLACE**: Find better source
@@ -198,12 +224,14 @@ While tagging, flag for quality review:
 ## Efficiency Tips
 
 ### Batch by Similarity
+
 - Do all stir-fries together
-- Do all soups together  
+- Do all soups together
 - Do all grain bowls together
 - Do all roasted vegetables together
 
 ### Use Find/Replace for Common Patterns
+
 ```bash
 # All Chinese stir-fries likely need:
 equipment: [wok]
@@ -217,9 +245,11 @@ occasions: [light-and-fresh]
 ```
 
 ### Reference Existing Tagged Recipes
+
 Look at similar recipes already tagged to maintain consistency.
 
 ### When Unsure
+
 - **Occasions**: Be generous, multiple tags okay
 - **Seasons**: If year-round possible, include it
 - **Density**: Think about how full you feel after
@@ -229,6 +259,7 @@ Look at similar recipes already tagged to maintain consistency.
 ## Quality Questions While Tagging
 
 For each recipe, note:
+
 1. Is this actually restaurant-quality?
 2. Do we make this regularly?
 3. Is the source authoritative?
@@ -240,6 +271,7 @@ Flag recipes scoring <15/25 on quality rubric for replacement.
 ## Output Format
 
 Each recipe should have:
+
 ```yaml
 ---
 title: Recipe Name
@@ -271,6 +303,7 @@ ingredients:
 ## Progress Tracking
 
 Use todo list to track:
+
 - [ ] Chinese mains (58) - 3 done, 55 remaining
 - [ ] Italian pastas (~40)
 - [ ] Sides (70) - 1 done, 69 remaining

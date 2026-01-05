@@ -30,4 +30,3 @@ This is a "Traditional Recipe" with a vital modern upgrade. While the original f
 3.  **Hydrate:** Add the buttermilk and the pinch of baking soda. Mix gently with your hand just until the dough comes together. If it's too dry, add a tablespoon more buttermilk; if too sticky, a dusting of flour.
 4.  **Shape:** Roll the dough into 12 small balls. Place on the greased cookie sheet and flatten slightly with the palm of your hand. This flat shape ensures a crispy exterior and a tender middle.
 5.  **Bake:** Bake for 10-12 minutes. If the tops are not golden brown, switch to **Broil** for 1 minute, watching intensely to prevent burning.
-

@@ -31,4 +31,3 @@ Miso soup is a miracle of **Emulsion and Timing**. The most common mistake is bo
 3.  **The Miso:** Place the miso paste in a small bowl. Ladle in about 1/2 cup of the hot broth. Whisk until the miso is completely smooth and liquid.
 4.  **Finish:** **Turn off the heat.** Stir the miso liquid back into the pot.
 5.  **Serve:** Add the green onions and serve immediately in small bowls.
-

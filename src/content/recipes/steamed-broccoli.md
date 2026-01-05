@@ -36,4 +36,3 @@ Warming olive oil and minced garlic in a small pan for exactly 1 minute "blooms"
 4.  **Bind:** Transfer broccoli to a bowl. Drizzle with the garlic oil, salt, and pepper.
 5.  **Toss:** Toss gently until every floret is glossy.
 6.  **Serve:** Serve immediately as a clean, restorative side.
-

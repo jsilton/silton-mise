@@ -38,4 +38,3 @@ These Mexican-inspired shrimp tacos roast on a divided sheet pan where shrimp, p
 4.  **The Slaw:** While the pan roasts, toss cabbage and cilantro with lime juice and salt. Refrigerate until stone-cold.
 5.  **Assemble:** Warm tortillas. Place a handful of cold slaw in each. Top with 3-4 shrimp and several pieces of roasted onion and pineapple.
 6.  **Finish:** Top with avocado and sour cream for the final aromatic **High Note**.
-

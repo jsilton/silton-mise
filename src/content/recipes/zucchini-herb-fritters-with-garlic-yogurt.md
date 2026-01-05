@@ -41,4 +41,3 @@ The secret to fritters that aren't a soggy mess is removing all the moisture. Yo
 5.  **Fry:** Drop 1/4-cup scoops into the hot oil. Flatten with a spatula. Fry for 3 minutes per side until deep golden brown.
 6.  **Drain:** Transfer to a wire rack (The Air-Snap Method) to keep the bottom crispy.
 7.  **Serve:** Whisk yogurt ingredients. Serve the warm fritters with a dollop of cold garlic yogurt.
-

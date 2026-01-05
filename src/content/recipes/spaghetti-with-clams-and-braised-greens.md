@@ -44,4 +44,3 @@ Spaghetti with clams is a classic Italian coastal dish, typically made with whit
 5.  **Bind:** Pour the pepper broth into the greens. Add the hot pasta and the cold butter.
 6.  **Emulsify:** Toss vigorously over medium heat. Add lemon juice, zest, and Parmesan. Stir until the sauce is glossy.
 7.  **Serve:** Return clams to the pot to warm through. Serve in shallow bowls with plenty of extra Parmesan.
-

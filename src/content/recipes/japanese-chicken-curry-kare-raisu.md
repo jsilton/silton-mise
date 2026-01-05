@@ -42,4 +42,3 @@ Japanese curry (kare raisu) is yoshoku—Western-influenced Japanese cuisine tha
 5.  **Emulsify:** Whisk 1/2 cup of the hot broth into the roux to form a paste, then pour the paste back into the main pot.
 6.  **Season:** Stir in the grated apple, Worcestershire, ketchup, and soy sauce.
 7.  **Finish:** Simmer uncovered for 10 more minutes until the sauce is glossy and thick. Serve over steamed rice.
-

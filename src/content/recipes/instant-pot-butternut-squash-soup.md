@@ -40,4 +40,3 @@ Sautéing bacon first, removing it for garnish, then cooking aromatics in the re
 5.  **Release:** Perform a "quick Release" of the pressure. Remove and discard the thyme sprigs.
 6.  **The Emulsion:** Stir in the heavy cream. Using an immersion blender, puree the soup directly in the pot until completely velvety and smooth.
 7.  **Serve:** Ladle into bowls. Garnish with the reserved crispy bacon and chives for the mandatory **Textural Snap**.
-

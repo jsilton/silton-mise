@@ -43,4 +43,3 @@ These autumn cookies achieve incredible softness by whisking pumpkin puree direc
 5.  **Bake:** Bake at 350°F for 15-18 minutes until the edges are firm and the tops are slightly golden.
 6.  **Glaze:** Whisk glaze ingredients until smooth. Drizzle over warm cookies.
 7.  **Serve:** Let cool for 10 minutes to allow the glaze to set into a "Snap."
-

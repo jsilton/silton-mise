@@ -38,4 +38,3 @@ While not edible, this no-cook playdough stays soft and pliable for months. Crea
 4.  **Knead:** Once cool enough to handle, dump the dough onto a clean surface. Knead vigorously for 2-3 minutes until it becomes completely smooth, elastic, and non-sticky.
 5.  **Finish:** If you want multiple colors, divide the white dough and knead the colors into each portion separately.
 6.  **Store:** Keep in an airtight container or a zip-top bag to maintain the "Bounce."
-

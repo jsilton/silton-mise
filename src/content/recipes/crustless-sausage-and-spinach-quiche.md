@@ -40,4 +40,3 @@ This French-inspired crustless quiche prevents wateriness by draining spinach th
 6.  **Pour:** Pour the egg mixture over the fillings.
 7.  **Bake:** Bake for 35-40 minutes until the center is set and the edges are slightly golden and puffed.
 8.  **Rest:** Let sit for 5 minutes before slicing into 6 wedges.
-

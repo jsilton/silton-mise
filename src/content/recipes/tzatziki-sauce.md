@@ -32,4 +32,3 @@ The secret to thick, creamy Tzatziki is **Squeezing**. Cucumbers are mostly wate
 2.  **Squeeze:** Place the grated cucumber in a clean kitchen towel. Sprinkle with salt. Let sit for 5 minutes, then twist and **squeeze vigorously** until no more water comes out.
 3.  **Mix:** In a bowl, combine the squeezed cucumber, yogurt, garlic, lemon juice, olive oil, and dill.
 4.  **Chill:** Let sit for at least 15 minutes before serving to let the garlic infuse the yogurt.
-

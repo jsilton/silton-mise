@@ -33,4 +33,3 @@ This is a **Palate Tuning** masterclass. We use white miso to provide a complex,
 4.  **Mash:** Mash the potatoes using a ricer (for restaurant-smooth) or a masher (for rustic).
 5.  **Emulsify:** Gradually pour in the warm miso-milk mixture while stirring gently.
 6.  **Serve:** Garnish with green onions.
-

@@ -38,4 +38,3 @@ The secret to extraordinary texture is chilling the dough for 24 hours. Refriger
 5.  **Portion:** Preheat oven to 350°F. Using a 2 1/4-inch scoop, drop dough balls onto parchment-lined sheets, 3 inches apart.
 6.  **Bake:** Bake for 15-17 minutes until the edges are golden brown and the centers are set but still look soft.
 7.  **Cool:** Let sit on the sheet for 5 minutes before transferring to a wire rack.
-

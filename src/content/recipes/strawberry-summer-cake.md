@@ -42,4 +42,3 @@ This is a beautiful summer dessert cake showcasing fresh strawberries. The secre
 5.  **The Crunch:** Sprinkle the remaining 2 tbsp sugar over the berries.
 6.  **Bake:** Bake for 10 minutes at 350°F, then **reduce heat to 325°F**. Roast for 50-60 minutes until the top is golden and a tester comes out clean.
 7.  **Serve:** Let cool completely in the pan. Serve with lightly whipped cream.
-

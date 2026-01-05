@@ -39,4 +39,3 @@ This is a high-protein, flourless breakfast. The challenge is **Structural Integ
 4.  **Sear:** Drop 3-inch circles of batter into the pan. **Do not move them** for 3 minutes until the edges are set and bubbles appear.
 5.  **Flip:** Carefully flip and cook for only 60 seconds on the other side.
 6.  **Serve:** Serve hot with fresh fruit and a drizzle of maple syrup.
-

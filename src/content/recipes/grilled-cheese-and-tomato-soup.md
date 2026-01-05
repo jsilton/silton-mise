@@ -1,7 +1,7 @@
 ---
 title: Grilled Cheese and Tomato Soup
 aliases:
-  - "grilled-cheese-and-tomato-soup-the-ultimate-pair"
+  - 'grilled-cheese-and-tomato-soup-the-ultimate-pair'
 difficulty: intermediate
 cookingMethods: [grill, sauté, simmer, no-cook, blend]
 dietary: []
@@ -40,4 +40,3 @@ Mayonnaise on the bread's exterior creates a more evenly golden crust than butte
 4.  **Assemble:** Place two slices, mayo-side down, in a cool skillet. Layer with cheese and avocado slices. Top with the remaining bread, mayo-side up.
 5.  **The Sear:** Turn heat to medium. Cook for 3-4 minutes per side, pressing down lightly with a spatula, until the bread is deep golden brown and the cheese is fully melted.
 6.  **Serve:** Slice the sandwiches on a diagonal and serve immediately with a deep bowl of the hot tomato soup for dipping.
-

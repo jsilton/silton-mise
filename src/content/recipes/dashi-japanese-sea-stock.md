@@ -31,4 +31,3 @@ Dashi is the foundation of Japanese cuisine. Remove kombu just before water boil
 4.  **Settle:** Let stand for 3 minutes without stirring until the flakes sink to the bottom.
 5.  **Strain:** Pour through a fine-mesh sieve or coffee filter into a clean bowl. Do not squeeze the flakes, as this will cloud the stock.
 6.  **Store:** Use immediately or refrigerate for up to 4 days.
-

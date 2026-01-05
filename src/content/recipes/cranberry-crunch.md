@@ -35,4 +35,3 @@ This family crisp uses butter instead of margarine for a richer oat topping. Tar
 4.  **Layer:** Spread the topping evenly over the fruit. Press down lightly to ensure it adheres to the sugar-coated fruit.
 5.  **Bake:** Bake for 45-60 minutes until the fruit is tender and bubbling and the topping is a deep golden brown.
 6.  **Cool:** Let cool for 10 minutes before serving. This allows the fruit juices to thicken into a glossy syrup.
-

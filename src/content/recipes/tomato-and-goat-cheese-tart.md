@@ -38,4 +38,3 @@ This is the ultimate holiday tart. The key is roasting the sliced heirloom tomat
 6.  **Assemble:** Layer the roasted tomatoes in a beautiful overlapping pattern over the cheese.
 7.  **Final Bake:** Bake at 425°F for 20 minutes until the crust is mahogany brown.
 8.  **Serve:** Garnish with fresh purple and green basil for the aromatic **High Note**.
-

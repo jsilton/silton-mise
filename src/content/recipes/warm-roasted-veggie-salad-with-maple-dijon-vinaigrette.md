@@ -42,4 +42,3 @@ This salad combines roasted and raw vegetables for contrasting textures. The sec
 4.  **Assemble:** Add the warm roasted vegetables directly to the kale bowl.
 5.  **Bind:** Add the cranberries and Parmesan. Pour the dressing over the top.
 6.  **Toss:** Toss vigorously with your hands until every leaf is coated in the sweet-savory emulsion. Serve immediately.
-

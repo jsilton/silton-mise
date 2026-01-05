@@ -46,4 +46,3 @@ This is a grab-and-go breakfast staple. To elevate the flavor, stir the chai spi
 4.  **Combine:** Pour the wet mixture over the oats. Fold in the minced apples.
 5.  **Bake:** Scoop into a lined 12-count muffin tin. Bake at 350°F for 20 minutes until the tops are firm and golden.
 6.  **Cool:** Let cool for 10 minutes in the tin to allow the oats to set.
-

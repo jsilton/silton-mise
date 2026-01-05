@@ -3,7 +3,15 @@
 
 interface Props {
   tag: string;
-  category: 'cooking-method' | 'cuisine' | 'dietary' | 'occasion' | 'flavor' | 'difficulty' | 'role' | 'vibe';
+  category:
+    | 'cooking-method'
+    | 'cuisine'
+    | 'dietary'
+    | 'occasion'
+    | 'flavor'
+    | 'difficulty'
+    | 'role'
+    | 'vibe';
   href?: string;
   size?: 'sm' | 'md' | 'lg';
 }
@@ -13,36 +21,38 @@ const { tag, category, href, size = 'md' } = Astro.props;
 // Color mappings by category
 const categoryColors = {
   'cooking-method': 'bg-blue-50 text-blue-700 border-blue-200 hover:bg-blue-100',
-  'cuisine': 'bg-purple-50 text-purple-700 border-purple-200 hover:bg-purple-100',
-  'dietary': 'bg-green-50 text-green-700 border-green-200 hover:bg-green-100',
-  'occasion': 'bg-amber-50 text-amber-700 border-amber-200 hover:bg-amber-100',
-  'flavor': 'bg-rose-50 text-rose-700 border-rose-200 hover:bg-rose-100',
-  'difficulty': 'bg-slate-100 text-slate-700 border-slate-200 hover:bg-slate-200',
-  'role': 'bg-indigo-50 text-indigo-700 border-indigo-200 hover:bg-indigo-100',
-  'vibe': 'bg-teal-50 text-teal-700 border-teal-200 hover:bg-teal-100',
+  cuisine: 'bg-purple-50 text-purple-700 border-purple-200 hover:bg-purple-100',
+  dietary: 'bg-green-50 text-green-700 border-green-200 hover:bg-green-100',
+  occasion: 'bg-amber-50 text-amber-700 border-amber-200 hover:bg-amber-100',
+  flavor: 'bg-rose-50 text-rose-700 border-rose-200 hover:bg-rose-100',
+  difficulty: 'bg-slate-100 text-slate-700 border-slate-200 hover:bg-slate-200',
+  role: 'bg-indigo-50 text-indigo-700 border-indigo-200 hover:bg-indigo-100',
+  vibe: 'bg-teal-50 text-teal-700 border-teal-200 hover:bg-teal-100',
 };
 
 const sizeClasses = {
-  'sm': 'text-xs px-2 py-1',
-  'md': 'text-sm px-2.5 py-1.5',
-  'lg': 'text-base px-3 py-2',
+  sm: 'text-xs px-2 py-1',
+  md: 'text-sm px-2.5 py-1.5',
+  lg: 'text-base px-3 py-2',
 };
 
 const colorClass = categoryColors[category];
 const sizeClass = sizeClasses[size];
 ---
 
-{href ? (
-  <a
-    href={href}
-    class={`inline-flex items-center gap-1 border rounded-full font-medium transition-colors ${colorClass} ${sizeClass}`}
-  >
-    {tag}
-  </a>
-) : (
-  <span
-    class={`inline-flex items-center gap-1 border rounded-full font-medium ${colorClass} ${sizeClass}`}
-  >
-    {tag}
-  </span>
-)}
+{
+  href ? (
+    <a
+      href={href}
+      class={`inline-flex items-center gap-1 border rounded-full font-medium transition-colors ${colorClass} ${sizeClass}`}
+    >
+      {tag}
+    </a>
+  ) : (
+    <span
+      class={`inline-flex items-center gap-1 border rounded-full font-medium ${colorClass} ${sizeClass}`}
+    >
+      {tag}
+    </span>
+  )
+}

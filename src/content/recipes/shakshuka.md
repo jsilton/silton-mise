@@ -41,4 +41,3 @@ Shakshuka is about the **Jammy Base**. Many recipes are watery; the secret is to
 5.  **Set:** Cook for 5-8 minutes until the egg whites are set but the yolks are still runny.
 6.  **Assemble:** Smear 2 tbsp of hummus on the bottom of each plate. Carefully ladle the sauce and an egg over the hummus.
 7.  **Finish:** Garnish with feta and cilantro.
-

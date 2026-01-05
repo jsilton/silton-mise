@@ -41,4 +41,3 @@ This represents the lighter side of Italian-American cooking that emerged in the
 4.  **Toss:** Add the hot pasta and 1/2 cup of the reserved pasta water to the pan. Add the chicken and the spinach.
 5.  **Bind:** Toss vigorously over medium heat. The spinach will wilt in seconds. Stir in the Parmesan. Add more pasta water if needed until the sauce is glossy and coats the noodles.
 6.  **Serve:** Garnish with extra Parmesan and black pepper.
-

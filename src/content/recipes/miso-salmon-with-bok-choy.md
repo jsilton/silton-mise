@@ -42,4 +42,3 @@ This dish is about the interplay between the buttery, caramelized salmon and the
 6.  **Steam:** Pour in 2 tablespoons of water or broth, immediately cover with a lid, and steam for 1 minute.
 7.  **Finish:** Remove lid, stir in the oyster sauce and sesame oil. Toss to coat.
 8.  **Serve:** Place a mound of [Jasmine Rice](/mise/recipes/homemade-rice-pilaf) in each bowl, top with the salmon and bok choy. Garnish with sesame seeds and green onions.
-

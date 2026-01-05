@@ -36,4 +36,3 @@ This ragù comes from Abruzzo, the mountainous region in central Italy where she
 5.  **Boil:** Cook pasta in salted water until al dente.
 6.  **Combine:** Toss the hot pasta directly into the lamb sauce. Add the Pecorino and toss to coat.
 7.  **Serve:** Serve with extra cheese and a crack of black pepper.
-

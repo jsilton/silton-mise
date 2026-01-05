@@ -36,4 +36,3 @@ Cheese fondue is a fragile **Emulsion**. If the heat is too high, the cheese wil
 4.  **Whisk:** Add one handful of cheese. Whisk constantly in a **Figure-8 motion** until melted. Repeat until all cheese is incorporated and the sauce is smooth.
 5.  **Finish:** Stir in the Kirsch, nutmeg, and dry mustard.
 6.  **Serve:** Keep warm over a low flame. Serve with crusty bread, green apples, and blanched broccoli.
-

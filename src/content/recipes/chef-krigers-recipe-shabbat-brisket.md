@@ -39,4 +39,3 @@ This is a true "Traditional Recipe." While a traditional French braise uses wine
 5.  **The Chill:** Remove from oven. Let cool, then refrigerate the entire pan **overnight**.
 6.  **Slice:** Remove the cold meat from the sauce. Slice very thin **against the grain**.
 7.  **Finish:** Return the slices to the sauce. Re-bake, covered, at 325°F for 30-45 minutes until hot and the sauce is bubbling.
-

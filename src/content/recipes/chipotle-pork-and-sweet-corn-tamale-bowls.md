@@ -46,4 +46,3 @@ This deconstructed tamale bowl captures traditional flavors without the labor of
 4.  **The Bloom:** Push meat to the side. Add garlic, oregano, and chipotles. Fry in the center for 45 seconds until fragrant.
 5.  **The Sauce:** Pour in the fire-roasted tomatoes. Scrape the fond. Simmer for 5 minutes until the sauce is thick and smoky.
 6.  **Assemble:** Scoop the sweet corn polenta into deep bowls. Top with a generous scoop of smoky pork. Crown with the avocado-lime mix, radishes, a dollop of yogurt, and crushed chips for "Snap."
-

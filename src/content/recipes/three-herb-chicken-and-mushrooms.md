@@ -38,4 +38,3 @@ This recipe uses a skillet-to-oven approach for perfectly cooked chicken. The se
 5.  **Emulsify:** Pour in the wine and broth. Whisk in the Dijon mustard. Simmer for 3 minutes until the sauce is thick and bubbly.
 6.  **Finish:** Stir in the remaining rosemary, thyme, and parsley for the mandatory aromatic **High Note**.
 7.  **Serve:** Spoon the three-herb sauce over the chicken and serve hot.
-

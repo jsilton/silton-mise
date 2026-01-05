@@ -40,4 +40,3 @@ The secret to a great Keema is **Deep Browning**. You must sear the ground lamb 
 4.  **Simmer:** Add a splash of water (about 1/4 cup) to keep it saucy. Stir in the frozen peas. Cover and simmer for 5 minutes.
 5.  **Finish:** Stir in the Garam Masala, lemon juice, and cilantro.
 6.  **Serve:** Serve with warm Naan or over rice.
-

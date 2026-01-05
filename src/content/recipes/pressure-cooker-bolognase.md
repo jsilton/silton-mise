@@ -41,4 +41,3 @@ Ragù alla Bolognese originated in Bologna in the late 18th century as a slow-co
 6.  **Reduce:** Perform a "Natural Release." Open the lid and set back to "Sauté." Simmer for 15-20 minutes until the sauce is thick and meaty.
 7.  **Finish:** Stir in the fresh basil and balsamic vinegar. Taste and adjust with salt and pepper.
 8.  **Serve:** Serve over [Fresh Egg Pasta](/mise/recipes/fresh-egg-pasta) with plenty of Parmesan.
-

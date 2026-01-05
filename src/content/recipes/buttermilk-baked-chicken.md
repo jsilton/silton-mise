@@ -38,4 +38,3 @@ This Southern-style baked chicken uses buttermilk's natural enzymes to tenderize
 4.  **Dredge:** Remove chicken from the marinade, letting excess drip off. Press firmly into the cornflake mixture until fully coated on all sides.
 5.  **Bake:** Arrange on the wire rack. Spray the tops of the chicken lightly with oil spray. Bake for 45 minutes until the crust is deep golden brown and the internal temp is 165°F.
 6.  **Rest:** Let rest for 5 minutes before serving to allow the juices to redistribute.
-

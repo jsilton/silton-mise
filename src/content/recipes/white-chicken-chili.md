@@ -37,4 +37,3 @@ This Tex-Mex white chili features nixtamalized hominy, which provides a distinct
 5.  **The Pull:** Using two forks, shred the chicken directly in the pot. Stir to incorporate the juices.
 6.  **Finish:** Stir in the sour cream until the sauce is creamy and pale.
 7.  **Serve:** Garnish with green onions and a massive amount of shredded Monterey Jack for the final savory **High Note**.
-

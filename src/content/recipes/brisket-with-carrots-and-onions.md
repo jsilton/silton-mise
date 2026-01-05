@@ -38,4 +38,3 @@ Brisket is the soul of Jewish-American holiday cooking, the centerpiece of Rosh 
 5.  **The Braise:** Bake for 3 1/2 hours until the meat is fork-tender.
 6.  **The Reduction:** Remove the meat to a cutting board and tent with foil to rest. Place the roasting pan across two burners on the stovetop. Boil the vegetables and sauce over medium-high heat for 20-30 minutes until the sauce is glossy and thick.
 7.  **Serve:** Slice the meat **across the grain** (essential for tenderness). Serve drenched in the reduced sauce and surrounded by the "melt-in-your-mouth" onions and carrots.
-

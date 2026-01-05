@@ -43,4 +43,3 @@ Fried rice is a Cantonese classic for using up leftover rice. The secret to sepa
 4.  **The Fry:** Increase heat to high. Add the rice. Stir-fry for 2-3 minutes, pressing the rice against the sides of the wok to "toast" it.
 5.  **Season:** Add soy sauce, oyster sauce, peas, and the remaining sesame oil. Toss vigorously for 2 minutes until everything is heated through and the rice is coated in a glossy glaze.
 6.  **Fold:** Gently fold the egg ribbons back into the rice. Serve immediately.
-

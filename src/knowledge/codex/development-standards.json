@@ -55,12 +55,7 @@
         "servings",
         "ingredients (array)"
       ],
-      "auto_generated": [
-        "cookingMethods",
-        "dietary",
-        "occasions",
-        "flavorProfile"
-      ]
+      "auto_generated": ["cookingMethods", "dietary", "occasions", "flavorProfile"]
     },
     {
       "category": "deployment",
@@ -92,11 +87,7 @@
           "Links work",
           "Breadcrumb navigation"
         ],
-        "responsive": [
-          "Mobile layout (375px)",
-          "Tablet layout (768px)",
-          "Desktop layout (1024px+)"
-        ]
+        "responsive": ["Mobile layout (375px)", "Tablet layout (768px)", "Desktop layout (1024px+)"]
       }
     },
     {

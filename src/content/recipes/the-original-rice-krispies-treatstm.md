@@ -36,4 +36,3 @@ The key to Rice Krispie treats that aren't rock-hard is melting the butter and m
 4.  **The Press:** Transfer to a greased 9x13-inch pan. Use a piece of wax paper to **press down very gently**—if you pack them too tight, you destroy the Texture air pockets.
 5.  **The Finish:** Let cool completely at room temperature for 30 minutes. **Do not refrigerate.**
 6.  **Cut:** Slice into 2-inch squares and serve the same day for the Kitchen Standard texture.
-

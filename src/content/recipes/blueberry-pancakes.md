@@ -37,4 +37,3 @@ Letting the batter rest for 5 minutes after mixing allows flour to hydrate and g
 5.  **Pour:** Use a 1/4 cup scoop to drop batter onto the hot griddle. Immediately sprinkle 1 tbsp of blueberries onto the wet surface of each pancake.
 6.  **Flip:** Cook for 2 minutes until bubbles form and pop on the surface and the bottom is golden. Flip and cook for another 2 minutes.
 7.  **Serve:** Serve immediately with salted butter and warm maple syrup.
-

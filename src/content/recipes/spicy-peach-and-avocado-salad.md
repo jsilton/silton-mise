@@ -40,4 +40,3 @@ Tossing firm peaches in the Fresno chile-lemon dressing for 15 minutes before ad
 3.  **Combine:** Gently fold in the avocado wedges and the fresh mint. Use your hands to ensure the avocado is coated without smashing it.
 4.  **The Crunch:** Transfer to a large platter. Sprinkle the roasted pistachios over the top.
 5.  **Finish:** Season with one final crack of black pepper and a drizzle of high-quality oil.
-

@@ -40,4 +40,3 @@ ingredients:
 4.  **The Crunch:** Wipe the skillet. Heat oil over high until just beginning to smoke. Season scallops with salt. Sear for exactly **1 minute per side** until a deep golden crust forms. Remove immediately.
 5.  **Assemble:** Mound the warm corn-avocado relish on 4 plates. Top each with 4 seared scallops.
 6.  **Finish:** Squeeze fresh lemon juice over the scallops and garnish with the remaining parsley for the final **High Note**.
-

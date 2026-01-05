@@ -40,4 +40,3 @@ This quick Thai-inspired vegan curry builds depth by sautéing onions and tomato
 4.  **Simmer:** Pour in the coconut milk and chickpeas. If you prefer a thicker sauce, stir in the coconut flour. Bring to a boil, then reduce heat to low. Simmer for 10-12 minutes to allow flavors to meld.
 5.  **Finish:** Remove from heat. Stir in the fresh lime juice and cilantro. Taste and adjust seasoning.
 6.  **Serve:** Serve hot over basmati rice with a side of naan.
-

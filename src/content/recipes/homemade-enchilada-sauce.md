@@ -39,4 +39,3 @@ This homemade enchilada sauce builds deeper flavor than store-bought versions by
 4.  **Simmer:** Increase heat to medium-high and bring to a boil. Reduce heat and simmer for 5-7 minutes until the sauce thickens and coats the back of a spoon.
 5.  **Finish:** Remove from heat. Whisk in the vinegar and black pepper. Taste and add more salt if needed.
 6.  **Store:** Use immediately or store in a glass jar in the fridge for up to 1 week.
-

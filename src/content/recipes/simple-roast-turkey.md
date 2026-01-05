@@ -37,4 +37,3 @@ This is the ultimate holiday centerpiece. The secret to a bird that is succulent
 5.  **Sear:** Roast breast-side up for 30 minutes. Cover the breast with foil to prevent over-browning.
 6.  **Bake:** Reduce heat to 350°F. Roast for 1.5 - 2 hours until the thigh reaches **165°F**.
 7.  **The Finish:** Transfer to a board and **let rest for 30 minutes** (mandatory for moisture).
-

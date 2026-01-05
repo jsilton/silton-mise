@@ -41,4 +41,3 @@ To keep lean meat meatloaf juicy, use a panade—breadcrumbs soaked in milk that
 5.  **Bake:** Bake at 400°F for 35-40 minutes until the internal temp hits 160°F.
 6.  **Glaze:** Spread ketchup over the top and bake for another 5 minutes until bubbly and caramelized.
 7.  **Rest:** Let rest for 10 minutes before slicing to ensure it holds its shape.
-

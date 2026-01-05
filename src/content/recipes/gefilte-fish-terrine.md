@@ -42,4 +42,3 @@ This baked salmon-carp terrine modernizes traditional Passover gefilte fish. Pul
 6.  **Bake:** Bake for 1 hour 15 minutes until the center is firm (160°F).
 7.  **Set:** Remove from the water bath and cool. **Chill for at least 4 hours** (ideally overnight) before inverting onto a platter.
 8.  **Finish:** Toss arugula, radishes, and horseradish with lemon juice. Serve the chilled slices topped with the fresh salad for the mandatory **Acid Balance**.
-

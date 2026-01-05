@@ -39,4 +39,3 @@ This is an easy homemade play-dough recipe. The secret to a resilient, professio
 4.  **The Pull:** The mixture will look like a liquid, then suddenly clump together. Continue stirring until the dough pulls away from the sides of the pan and forms a single, non-sticky ball.
 5.  **Knead:** Remove from heat and place on a clean surface. Once cool enough to touch, knead for 1 minute until perfectly smooth.
 6.  **Store:** Store in an airtight container for up to 6 months to maintain the "Bounce."
-

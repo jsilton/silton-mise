@@ -46,4 +46,3 @@ Peking duck from Beijing is famous for its crackling-crisp skin. The secret: pou
 7.  **Roast:** Lower heat to 350°F. Roast for another 60 minutes until the internal temp is 165°F and the skin is dark mahogany. Rest for 15 minutes.
 8.  **The Sauce:** Simmer sweet bean sauce, sugar, and a spoonful of rendered duck fat until bubbling.
 9.  **Serve:** Slice the skin and meat separately. Serve with thin pancakes, julienned scallions, and cucumber.
-

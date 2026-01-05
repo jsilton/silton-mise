@@ -43,4 +43,3 @@ This is a modern healthy fusion that became popular in the 2010s as avocados wen
 4.  **Combine:** Place the hot, drained pasta in a large bowl. Pour the green sauce over the top and toss vigorously until the noodles are glossy and fully coated.
 5.  **Adjust:** If the sauce is too thick, add a few more tablespoons of pasta water.
 6.  **Serve:** Top immediately with halved cherry tomatoes and Parmesan for color and contrast.
-

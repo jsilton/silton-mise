@@ -38,4 +38,3 @@ Sheet pan dinners became popular in the 2010s for their simplicity. The key is s
 3.  **The Glaze:** Whisk the teriyaki glaze with the grated ginger. Brush the glaze generously over all sides of the chicken drumsticks.
 4.  **Finish:** Return to the oven and roast for another 20-25 minutes until the broccoli is charred, potatoes are tender, and chicken reaches an internal temp of 165°F.
 5.  **Serve:** Serve immediately, drizzling any extra pan juices over the potatoes for a savory "Bounce."
-

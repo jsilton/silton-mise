@@ -40,4 +40,3 @@ Refrigerate dough for at least 24 hours before baking - this hydrates the flour 
 6.  **Portion:** Form the cold dough into balls larger than golf balls (about 3.5 oz each). Place only 5 balls per sheet, as they will spread significantly.
 7.  **Bake:** Bake for 18 minutes until the edges are set but the center still looks slightly soft.
 8.  **Cool:** Let cool on the sheet for 10 minutes to allow the internal structure to firm up.
-

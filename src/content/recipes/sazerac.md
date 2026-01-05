@@ -1,21 +1,21 @@
 ---
-title: "Sazerac"
-prepTime: "7 minutes"
-cookTime: "0 minutes"
-totalTime: "7 minutes"
-servings: "1 cocktail"
-difficulty: "intermediate"
-cuisines: ["American"]
+title: 'Sazerac'
+prepTime: '7 minutes'
+cookTime: '0 minutes'
+totalTime: '7 minutes'
+servings: '1 cocktail'
+difficulty: 'intermediate'
+cuisines: ['American']
 dietary: []
-occasions: ["entertaining", "date-night", "indulgent"]
-seasons: ["year-round", "fall", "winter"]
-flavorProfile: ["rich", "savory", "herbaceous"]
-nutritionalDensity: "light"
-leftovers: "poor"
-equipment: ["mixing-glass", "strainer"]
-cookingMethods: ["no-cook"]
+occasions: ['entertaining', 'date-night', 'indulgent']
+seasons: ['year-round', 'fall', 'winter']
+flavorProfile: ['rich', 'savory', 'herbaceous']
+nutritionalDensity: 'light'
+leftovers: 'poor'
+equipment: ['mixing-glass', 'strainer']
+cookingMethods: ['no-cook']
 advancePrep: []
-pairsWith: ["oysters", "cajun-food", "charcuterie-board"]
+pairsWith: ['oysters', 'cajun-food', 'charcuterie-board']
 ---
 
 The official cocktail of New Orleans, the Sazerac dates back to the 1830s and is one of America's oldest cocktails. This complex, spirit-forward drink features rye whiskey, absinthe, and Peychaud's bitters for a uniquely aromatic experience.

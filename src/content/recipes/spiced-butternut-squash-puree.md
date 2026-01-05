@@ -35,4 +35,3 @@ We have evolved this family tradition from boiling to roasting. Boiling the squa
 3.  **Mash:** Add the room-temperature butter and mash/process until smooth.
 4.  **Season:** Stir in the sugar, maple syrup, nutmeg, and black pepper.
 5.  **Finish:** If needed, transfer to a saucepan over low heat to serve piping hot. Taste and adjust salt or sweetness as desired.
-

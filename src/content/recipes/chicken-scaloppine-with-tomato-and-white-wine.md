@@ -43,4 +43,3 @@ Scaloppine refers to the Italian technique of pounding meat thin for quick cooki
 5.  **Deglaze:** Pour in the wine. Scrape up the fond. Add the chicken broth and return the chicken to the pan.
 6.  **Simmer:** Cook for 5 minutes until the sauce has thickened and the chicken is tender.
 7.  **The Mount:** Turn off the heat. Stir in the cold butter cubes and the spinach. Toss until the butter emulsifies into a silky glaze and the spinach is just wilted.
-

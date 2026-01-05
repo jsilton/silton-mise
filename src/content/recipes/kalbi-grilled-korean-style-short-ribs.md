@@ -40,4 +40,3 @@ Kalbi is Korean barbecue short ribs. The secret to tender meat with crisp edges 
 6.  **The Sear:** Light a charcoal grill to high heat. Place ribs directly over the hottest coals. Grill for 2 minutes per side until seared and charred.
 7.  **Finish:** Move to the cooler side of the grill for 5 minutes until the fat is rendered and "Snappy."
 8.  **Serve:** Use kitchen shears to cut the ribs into bite-sized pieces.
-

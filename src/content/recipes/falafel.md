@@ -39,4 +39,3 @@ The single most important rule of falafel: **NEVER USE CANNED CHICKPEAS.** Canne
 5.  **Shape:** Form into walnut-sized balls or flat discs.
 6.  **Fry:** Heat 2 inches of oil in a pot to 350°F. Fry in batches for 3-4 minutes until the outside is deep brown and the inside is steamed and green.
 7.  **Drain:** Transfer to a paper-towel-lined plate. Serve immediately.
-

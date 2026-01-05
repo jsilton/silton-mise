@@ -46,4 +46,3 @@ Beef chow fun is a classic Cantonese stir-fry from Guangzhou, famous for showcas
 5.  **The Noodles:** Add the noodles to the wok. Let them sit undisturbed for 1 minute to get some color.
 6.  **Toss:** Add the seared beef and the whisked sauce ingredients. Use a wide spatula to gently "fold" the noodles from the bottom up.
 7.  **Finish:** Add the bean sprouts. Toss for 30 seconds until just wilted. Serve immediately.
-

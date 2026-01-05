@@ -45,4 +45,3 @@ This is a more traditional char siu using pork butt (shoulder) instead of tender
 4.  **Glaze:** Reduce heat to 375°F. Roast for another 30-40 minutes, removing the pan every 10 minutes to brush the pork with the remaining marinade.
 5.  **Finish:** In the final 5 minutes, you can turn on the **BROILER** to get those charred "burned ends."
 6.  **Rest:** Let rest for 10 minutes before slicing into thin medallions.
-

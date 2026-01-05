@@ -50,4 +50,3 @@ Using the finest holes on your grater for the carrots allows them to melt into t
 5.  **Cool:** Let cool in the pan for 10 minutes, then transfer to a wire rack to cool **completely** before glazing.
 6.  **The Glaze:** Whisk softened cream cheese, powdered sugar, vanilla, and milk until smooth.
 7.  **Finish:** Dip each cooled muffin top into the glaze. Sprinkle with extra shredded coconut or walnuts for a textural "High Note."
-

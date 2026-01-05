@@ -1,21 +1,21 @@
 ---
-title: "Whiskey Sour"
-prepTime: "5 minutes"
-cookTime: "0 minutes"
-totalTime: "5 minutes"
-servings: "1 cocktail"
-difficulty: "easy"
-cuisines: ["American"]
+title: 'Whiskey Sour'
+prepTime: '5 minutes'
+cookTime: '0 minutes'
+totalTime: '5 minutes'
+servings: '1 cocktail'
+difficulty: 'easy'
+cuisines: ['American']
 dietary: []
-occasions: ["entertaining", "summer", "light-and-fresh"]
-seasons: ["year-round", "summer"]
-flavorProfile: ["sweet", "acidic", "rich"]
-nutritionalDensity: "light"
-leftovers: "poor"
-equipment: ["cocktail-shaker", "strainer"]
-cookingMethods: ["no-cook"]
+occasions: ['entertaining', 'summer', 'light-and-fresh']
+seasons: ['year-round', 'summer']
+flavorProfile: ['sweet', 'acidic', 'rich']
+nutritionalDensity: 'light'
+leftovers: 'poor'
+equipment: ['cocktail-shaker', 'strainer']
+cookingMethods: ['no-cook']
 advancePrep: []
-pairsWith: ["fried-chicken", "bbq", "grilled-fish"]
+pairsWith: ['fried-chicken', 'bbq', 'grilled-fish']
 ---
 
 The Whiskey Sour is a classic American cocktail from the 1860s that perfectly balances whiskey, citrus, and sweetness. The addition of egg white creates a silky texture and beautiful foam, elevating this simple drink to something special.

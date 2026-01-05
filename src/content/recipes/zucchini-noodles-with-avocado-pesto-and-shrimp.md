@@ -42,4 +42,3 @@ Zucchini noodles ("zoodles") became a low-carb pasta alternative in the 2000s. T
 5.  **Combine:** Remove from heat. Add the avocado pesto and the cooked shrimp.
 6.  **Toss:** Toss vigorously until every strand is coated in the green silk.
 7.  **Serve:** Serve immediately.
-

@@ -36,4 +36,3 @@ Using a strict 1:2 ratio of quinoa to liquid and cooking on High for a shorter d
 3.  **Emulsify:** Open the lid. Add the cream cheese cubes. Stir vigorously for 1 minute until the cream cheese has melted and emulsified with the grain.
 4.  **Bind:** Top with the Italian cheese blend. Cover and cook for another 15 minutes until molten.
 5.  **Finish:** Stir once more. Garnish with fresh green onions for the mandatory **High Note**.
-

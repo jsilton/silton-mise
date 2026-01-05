@@ -40,4 +40,3 @@ This is a classic recipe for satisfying lunch fuel. The technique is poaching th
 4.  **Combine:** Add the celery, grapes, and minced red onion to the chicken. Pour the dressing over the top.
 5.  **Fold:** Toss gently until every piece of chicken is coated in the creamy emulsion.
 6.  **Set:** Refrigerate for **at least 30 minutes** before serving. This allows the flavors to bloom and the texture to firm up.
-

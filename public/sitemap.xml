@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is a placeholder sitemap. -->
+  <!-- Run 'npm run build' to generate the full sitemap with all recipe URLs -->
+  <url>
+    <loc>https://jordansilton.com/mise/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

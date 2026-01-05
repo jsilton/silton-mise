@@ -39,4 +39,3 @@ This is the baseline for 15-minute quick cooking. The secret to avoiding dry, to
 4.  **Sear:** Heat oil in a large skillet over medium-high until shimmering. Place chicken in the pan (do not crowd).
 5.  **Cook:** Sear for 4-5 minutes per side until deep golden brown and the internal temp is 165°F. Flip only once to maintain the crust.
 6.  **Serve:** Let rest for 2 minutes before serving to preserve the juices.
-

@@ -43,4 +43,3 @@ This Cantonese quick stir-fry pairs tender shrimp with crisp spring snow peas in
 5.  **Bind:** Pour the cornstarch mixture around the perimeter of the wok. Bring to a boil.
 6.  **Finish:** Return the shrimp to the pan. Toss for 30 seconds until the sauce is thick and mirror-glossy.
 7.  **Serve:** Stir in the scallions and serve immediately over rice.
-

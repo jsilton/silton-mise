@@ -51,4 +51,3 @@ This is the ultimate home version of the world's most popular curry. It strikes 
 5.  **The Simmer:** Pour in the tomato passata and the white sugar. Simmer gently for 15 minutes. The sauce should thicken and darken slightly. For a professional, silky texture, you can blend the sauce now with an immersion blender, but it is not strictly necessary.
 6.  **The Finish:** Stir in the heavy cream and the broiled chicken (plus any juices from the tray). Simmer on low for 5–8 minutes to marry the flavors.
 7.  **The Magic:** Turn off the heat. Stir in the cold butter for a glossy finish. Crush the Kasuri Methi between your palms to release its oils and sprinkle it over the top along with the final teaspoon of Garam Masala.
-

@@ -43,4 +43,3 @@ This is a modern American sheet pan meal using Italian gnocchi, popularized in t
 4.  **Roast:** Bake for 24-26 minutes, stirring once halfway through, until the squash is tender and the gnocchi are golden.
 5.  **The Crunch:** The kale should be dark green and shatteringly crisp.
 6.  **Finish:** Sprinkle with Parmesan or nutritional yeast while still piping hot. Serve immediately.
-

@@ -46,4 +46,3 @@ Combining applesauce and Greek yogurt creates incredibly moist muffins without e
 4.  **Combine:** Pour the wet into the dry. Stir with a spatula until **just combined**. A few streaks of flour are the mandatory guard against a tough muffin.
 5.  **Bake:** Divide into a lined 12-cup tin. Sprinkle the turbinado sugar over the tops. Bake at 425°F for 13-16 minutes until golden and a toothpick comes out clean.
 6.  **Cool:** Let cool in the pan for 5 minutes before removing.
-

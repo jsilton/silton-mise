@@ -35,4 +35,3 @@ Blending oats directly with wet ingredients creates a smooth, cake-like texture 
 3.  **Topping:** Pour the batter into the prepared dish. Sprinkle chocolate chips on top.
 4.  **Bake:** Bake for 15-18 minutes until the center is set but still slightly soft (like a fudgy brownie).
 5.  **Finish:** Sprinkle with a pinch of flaky sea salt and serve warm.
-

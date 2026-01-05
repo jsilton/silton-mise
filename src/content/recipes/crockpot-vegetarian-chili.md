@@ -46,4 +46,3 @@ This Tex-Mex style slow-cooker chili builds body and richness without meat by us
 4.  **Cook:** Cover and cook on **HIGH for 4 hours** or **LOW for 8 hours** until the sweet potatoes are tender and the flavors have melded.
 5.  **The Finish:** 5 minutes before serving, stir in the **Apple Cider Vinegar**. Taste and adjust salt if needed.
 6.  **Serve:** Ladle into deep bowls. Top with Greek yogurt, avocado, and fresh cilantro.
-

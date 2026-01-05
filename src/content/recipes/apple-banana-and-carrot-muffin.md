@@ -1,9 +1,9 @@
 ---
 title: Apple Banana and Carrot Muffins
-audience: "kids"
+audience: 'kids'
 kb:
   disable:
-    - "kb.plating-suggestion"
+    - 'kb.plating-suggestion'
 difficulty: easy
 cookingMethods: [bake, simmer, boil]
 dietary: [vegetarian]
@@ -42,4 +42,3 @@ The common flaw in "Healthy" muffins is a gummy, dense texture. We solve this by
 5.  **Fold:** Gently fold the dry ingredients into the wet until **just combined**. Do not over-mix, or the muffins will be tough.
 6.  **Bake:** Portion into the tin. Bake for 20-25 minutes (standard) or 15 minutes (mini) until a tester comes out clean.
 7.  **Rest:** Cool on a wire rack.
-

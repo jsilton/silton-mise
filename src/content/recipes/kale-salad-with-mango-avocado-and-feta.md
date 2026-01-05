@@ -42,4 +42,3 @@ The secret to kale that isn't tough or bitter is the massage technique. You must
 3.  **Combine:** Add the mango, feta, red onion, and toasted pepitas to the kale.
 4.  **Toss:** Pour the dressing over the salad and toss gently to coat.
 5.  **Finish:** Gently fold in the avocado pieces just before serving for the mandatory **High Note** of creaminess.
-

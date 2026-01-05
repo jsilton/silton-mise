@@ -1,7 +1,7 @@
 ---
 title: Weeknight Tacos
 aliases:
-  - "weeknight-tacos-the-family-setup"
+  - 'weeknight-tacos-the-family-setup'
 difficulty: easy
 cookingMethods: [bake, simmer, no-cook]
 dietary: []
@@ -36,4 +36,3 @@ This Tex-Mex weeknight taco bar keeps lean ground turkey flavorful by simmering 
 1.  **Meat:** Brown the meat in a large skillet. Add the 1/2 cup water, taco seasoning, and the 1 tsp of Better Than Bouillon. Simmer for 5 minutes until the liquid is reduced and the meat is saucy.
 2.  **Shells:** Warm the hard shells in a 350°F oven for 5 minutes to crisp them. Warm tortillas in a dry pan.
 3.  **Assemble:** Set everything out in bowls and let everyone build their own.
-

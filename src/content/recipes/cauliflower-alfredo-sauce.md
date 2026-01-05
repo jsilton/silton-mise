@@ -39,4 +39,3 @@ This is a modern healthy alternative to traditional [Real Alfredo Sauce](/mise/r
 3.  **Blend:** Transfer the hot cauliflower and its cooking liquid to a blender. Add the garlic butter, Parmesan, salt, and nutmeg.
 4.  **Emulsify:** Blend on high for 1 minute until completely smooth and velvety.
 5.  **Serve:** Toss immediately with your favorite pasta or use as a base for roasted veg.
-

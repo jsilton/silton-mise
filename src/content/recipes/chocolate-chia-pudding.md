@@ -32,4 +32,3 @@ The secret to smooth chia pudding is the blender method. Many recipes leave the 
 2.  **Pulverize:** Start on low and gradually increase to high. Blend for 60 seconds until the mixture is completely smooth and the seeds have disappeared.
 3.  **The Finish:** Transfer the mixture to individual jars or a large bowl. Cover and refrigerate for **at least 3 hours** (or overnight) until thick and set.
 4.  **Serve:** Stir once before serving. Top with fresh berries and nuts for **Textural Balance**.
-

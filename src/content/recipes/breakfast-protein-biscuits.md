@@ -46,4 +46,3 @@ Greek yogurt replaces heavy cream as the primary liquid, creating high-protein b
 5.  **Shape:** Lightly flour your hands. Scoop about 1/3 cup of dough for each biscuit. Form into 1-inch thick disks and arrange on the baking sheet.
 6.  **The Temperature Method:** Sprinkle the remaining 1/2 cup of cheese on top. Bake at 400°F for 5 minutes (to kickstart the rise), then **lower the heat to 350°F** for the remaining 20 minutes.
 7.  **Finish:** They are done when the bottoms are golden brown and the cheese on top is bubbly and crisp.
-

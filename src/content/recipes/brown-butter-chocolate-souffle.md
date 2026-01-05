@@ -42,4 +42,3 @@ This French technique relies on properly whipped egg whites stabilized with crea
 5.  **The Fold:** Gently fold the chocolate mixture into the egg whites. Use a "cut and fold" motion to preserve the air bubbles.
 6.  **Bake:** Transfer to the prepared dish. Sprinkle 1 tbsp sugar on top. **Bake at 475°F** for 25-30 minutes until puffed and set with a slight wobble in the center.
 7.  **Serve:** Dust with powdered sugar and serve immediately with extra heavy cream.
-

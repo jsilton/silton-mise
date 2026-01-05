@@ -49,4 +49,3 @@ A great pot pie is defined by the velouté (the gravy) and the flaky crust. This
 6.  **The Wash:** Cut 4 steam vents in the top. Brush with a beaten egg.
 7.  **Bake:** Bake for 30-35 minutes until the pastry is deep golden brown and the filling is bubbling.
 8.  **Rest:** Let sit for 10 minutes before serving. This allows the gravy to set so it doesn't run.
-

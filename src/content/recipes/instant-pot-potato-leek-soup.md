@@ -41,4 +41,3 @@ This modern update to my Grandpa's recipe achieves silky texture by sautéing le
 6.  **The Emulsion:** Remove the bay leaf. Use an immersion blender to puree the soup directly in the pot until perfectly smooth.
 7.  **Finish:** Stir in the half-and-half. Taste and adjust salt if needed.
 8.  **Serve:** Garnish with a dollop of sour cream and fresh chives for **Textural Balance**.
-

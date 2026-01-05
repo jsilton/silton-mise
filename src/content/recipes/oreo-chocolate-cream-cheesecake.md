@@ -34,4 +34,3 @@ This is the ultimate holiday dessert. The secret to its incredible texture is ma
 5.  **Bake:** Pour the batter over the crust. Sprinkle remaining quartered cookies on top. Bake for 50-60 minutes until the edges are set but the center still has a slight wobble.
 6.  **The Finish:** Cool in the pan, then refrigerate for **at least 4 hours** (ideally 24).
 7.  **Serve:** Run a knife around the rim before releasing. Serve cold.
-

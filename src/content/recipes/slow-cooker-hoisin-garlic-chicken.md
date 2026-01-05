@@ -39,4 +39,3 @@ This slow-cooker hoisin chicken uses a simple reduction technique: after cooking
 3.  **The Glaze:** Pour all the liquid from the slow cooker into a small saucepan. Bring to a vigorous boil over high heat. Cook for 10-12 minutes until reduced by half and syrupy.
 4.  **Bind:** Pour the reduced glaze over the shredded chicken. Toss until every strand is lacquered.
 5.  **Serve:** Garnish with scallions and serve immediately over rice or in lettuce wraps.
-

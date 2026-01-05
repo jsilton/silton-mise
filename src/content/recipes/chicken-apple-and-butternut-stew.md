@@ -38,4 +38,3 @@ This is a New England autumn stew. To avoid the mushy veggie problem, sear the c
 4.  **Simmer:** Gradually whisk in the apple cider and stock. Return the chicken to the pot. Add the butternut squash.
 5.  **Cook:** Simmer over low heat, partially covered, for 25 minutes until the squash is tender.
 6.  **The Apple Finish:** Stir in the diced apples. Cook for only 5 more minutes—you want the apples to be warm but still hold their shape and tartness.
-

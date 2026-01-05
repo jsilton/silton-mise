@@ -36,4 +36,3 @@ This Vietnamese dish uses coarsely ground black pepper as the primary flavor, no
 3.  **The Glaze:** Pour in the fish sauce, sugar, vinegar, ginger, garlic, pepper, and chilies. Simmer for 2 minutes until the sauce bubbles and turns into a thick, dark syrup.
 4.  **Toss:** Return the chicken to the pan. Toss vigorously over high heat until the chicken is lacquered in the black pepper glaze.
 5.  **Serve:** Garnish with cilantro. Serve over rice.
-

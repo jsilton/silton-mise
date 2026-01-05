@@ -40,4 +40,3 @@ Simmering tomato passata on lowest heat for 30 minutes slowly evaporates water a
 4.  **Emulsion:** For the Kitchen Standard texture, use an immersion blender to puree the mixture until perfectly smooth and glossy.
 5.  **Set:** Let cool completely. Transfer to an airtight glass jar and refrigerate.
 6.  **Store:** Keeps in the fridge for up to 2 weeks.
-

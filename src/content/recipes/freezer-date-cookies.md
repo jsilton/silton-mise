@@ -44,4 +44,3 @@ These are nutritious cookies designed for long-term freezer storage. The key to 
 5.  **Shape:** Preheat oven to 350°F. Roll the dough into small balls (about 1 tbsp each). Place on a greased cookie sheet and **press down firmly** with your palm to create a 1/2-inch thick disk.
 6.  **Bake:** Bake for 12-15 minutes until the edges are lightly browned.
 7.  **The Freeze:** Let cool completely. Transfer to a freezer bag. These are at their Kitchen Standard when eaten straight from the freezer.
-

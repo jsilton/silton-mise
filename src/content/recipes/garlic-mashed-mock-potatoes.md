@@ -39,4 +39,3 @@ This low-carb cauliflower mash prevents wateriness by draining and pressing cook
 4.  **Pulverize:** Process until completely smooth and velvety (about 1 minute).
 5.  **Finish:** Stir in the butter. Garnish with fresh chives for the mandatory **High Note**.
 6.  **Serve:** Serve hot with an extra pat of butter on top.
-

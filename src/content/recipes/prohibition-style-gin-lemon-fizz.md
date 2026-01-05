@@ -39,4 +39,3 @@ This cocktail showcases complex aromatic layering. The combination of herbal gin
 4.  **Strain:** Double strain the mixture into the chilled highball glasses filled with fresh ice.
 5.  **Effervescence:** Top each glass with 4 oz of Spindrift Lemon. Stir once, very gently, to preserve the bubbles.
 6.  **The Finishing Touch:** Add 1 final dash of orange bitters to the surface of each drink. Garnish with a lemon peel twist (expressed over the rim).
-

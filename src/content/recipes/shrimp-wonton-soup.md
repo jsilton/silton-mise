@@ -43,4 +43,3 @@ Cantonese wontons rely on a filling that's sticky and cohesive, achieved by stir
 4.  **Boil:** Bring a pot of [Wonton Broth](/mise/recipes/cantonese-wonton-broth) to a boil. Add the wontons. Cook for 3-4 minutes until they float. During the final 1 minute, add the greens.
 5.  **Bind:** Ladle 1 cup of the boiling broth into each serving bowl to "wake up" the seasonings.
 6.  **Serve:** Transfer wontons and greens to the bowls. Garnish with fresh coriander and serve immediately.
-

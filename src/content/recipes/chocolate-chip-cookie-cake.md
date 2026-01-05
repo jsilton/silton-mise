@@ -38,4 +38,3 @@ The key to a cookie cake is using chocolate discs rather than standard chips. Th
 5.  **Shape:** Spread the dough evenly onto the prepared pan, leaving a 1/2-inch border for expansion. Sprinkle the remaining 3/4 cup M&Ms over the top, pressing them in lightly.
 6.  **Bake:** Bake for 20-25 minutes until the edges are deep golden brown and the center is set but still soft.
 7.  **Cool:** Let cool completely in the pan before slicing. This allows the internal structure to firm up.
-

@@ -5,7 +5,7 @@
   "severity": "hint",
   "description": "Flag recipes that don't mention seasoning guidance, tasting, or finishing salt, especially for dishes where seasoning timing matters.",
   "detection": [
-    {"type": "text_absence", "words": ["season","salt","taste","adjust"], "contextWindow": 200}
+    { "type": "text_absence", "words": ["season", "salt", "taste", "adjust"], "contextWindow": 200 }
   ],
   "suggestionTemplate": "Consider adding a step to taste and adjust seasoning (salt and acid) before serving.",
   "examples": []

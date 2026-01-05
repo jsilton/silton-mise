@@ -35,4 +35,3 @@ This Southern potluck favorite combines creamed corn for moisture with whole ker
 4.  **Fold:** Sprinkle the corn bread mix over the wet ingredients. Fold gently until **just combined**—do not over-mix.
 5.  **Bake:** Pour the batter into the prepared dish. If using cheese, sprinkle it over the top now.
 6.  **Finish:** Bake for 35-45 minutes until the center is set and the edges are golden brown. Let sit for 5 minutes before serving to allow the internal structure to firm up.
-

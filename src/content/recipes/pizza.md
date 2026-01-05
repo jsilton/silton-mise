@@ -41,4 +41,3 @@ Pizza as we know it originated in Naples in the late 18th century as street food
 5.  **Bake:** Slide the pizza (with the parchment) onto the hot stone. Bake for 8-10 minutes until the crust is charred and the cheese is bubbling.
 6.  **The Wilt:** During the final 2 minutes, scatter the fresh spinach over the top.
 7.  **Serve:** Remove from the oven. Let rest for 2 minutes (The Finish Cycle) before slicing.
-

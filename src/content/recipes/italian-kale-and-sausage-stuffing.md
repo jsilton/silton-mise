@@ -45,4 +45,3 @@ This is an Italian-American twist on traditional Thanksgiving stuffing, reflecti
 5.  **The Mix:** In a massive bowl, tear the soaked ciabatta into bite-sized pieces. Add the sausage-kale mixture, Parmesan, and all fresh herbs. Toss gently with your hands until perfectly integrated.
 6.  **Bake:** Preheat oven to 350°F. Transfer mixture to a greased 9x13 baking dish. Bake uncovered for 25-30 minutes until the top is deep golden and the center is 150°F.
 7.  **Rest:** Let sit for 5 minutes before serving.
-

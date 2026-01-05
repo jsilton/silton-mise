@@ -43,4 +43,3 @@ This is a modern Italian-American technique from the 2010s that revolutionized g
 4.  **Roast:** Bake for 18-20 minutes, stirring once halfway through, until the gnocchi are plump and golden brown and the peppers are tender and charred at the edges.
 5.  **Finish:** Remove from the oven. Immediately toss with the fresh basil and a generous amount of grated Parmesan.
 6.  **Serve:** Serve in deep bowls while the gnocchi is at its peak crispiness.
-

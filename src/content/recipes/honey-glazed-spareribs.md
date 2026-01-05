@@ -1,7 +1,7 @@
 ---
 title: Honey-Glazed Spareribs
 aliases:
-  - "honey-glazed-spareribs-the-bbq-shortcut"
+  - 'honey-glazed-spareribs-the-bbq-shortcut'
 difficulty: easy
 cookingMethods: [boil, blend]
 dietary: []
@@ -44,4 +44,3 @@ Honey-glazed spareribs are a Chinese-American restaurant staple. This version us
 5.  **The Lacquer:** Brush the ribs generously with the reduced sauce and the remaining 1/4 cup honey.
 6.  **Char:** Broil 6 inches from the heat for 3-5 minutes until the glaze is bubbling and charred at the edges.
 7.  **Serve:** Sliced into individual ribs with extra sauce on the side.
-

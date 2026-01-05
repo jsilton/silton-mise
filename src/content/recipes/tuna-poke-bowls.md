@@ -42,4 +42,3 @@ The quality of a poke bowl lives and dies by the **Tuna sourcing**. Always look 
 3.  **Components:** Prepare your avocado, edamame, and scallions. Ensure your [Korean Pickled Cucumbers](/mise/recipes/korean-pickled-cucumbers) are drained and cold.
 4.  **Assemble:** Place a mound of rice in each bowl. Arrange the tuna, avocado, cucumbers, and edamame in sections on top.
 5.  **Finish:** Top with nori strips, scallions, and sesame seeds. Serve with extra soy sauce or spicy mayo on the side.
-

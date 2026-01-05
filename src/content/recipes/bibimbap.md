@@ -41,4 +41,3 @@ Bibimbap has roots in Korean royal court cuisine but became a peasant dish in th
 4.  **The Crown:** Place the fried egg in the center.
 5.  **Sauce:** Drizzle the mixed Gochujang sauce over the egg.
 6.  **Serve:** Mix vigorously before eating.
-

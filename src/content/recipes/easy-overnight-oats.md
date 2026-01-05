@@ -40,4 +40,3 @@ While 2 hours works in a pinch, an 8-hour soak allows oats' beta-glucans to full
 4.  **The Long Set:** Refrigerate for **at least 8 hours** (overnight is best).
 5.  **The Crunch:** In the morning, give it one final stir. Top with fresh berries, nuts, or granola just before serving.
 6.  **Store:** These will keep in the fridge for up to 5 days—perfect for Batch Cooking.
-

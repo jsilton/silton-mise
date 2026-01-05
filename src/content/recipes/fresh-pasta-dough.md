@@ -36,4 +36,3 @@ Traditional pasta dough from Northern Italy uses just flour and eggs—the simpl
 3.  **The Knead:** Continue on speed 2 for 8-10 minutes. The dough should transform from lumpy to completely smooth, elastic, and slightly tacky.
 4.  **The Rest:** Remove from the bowl. Wrap tightly in plastic wrap. **Let rest for at least 30 minutes** (up to 24 hours in the fridge) before rolling.
 5.  **Shape:** Cut, roll, and shape as desired. See [Fresh Egg Pasta](/mise/recipes/fresh-egg-pasta) for rolling settings.
-

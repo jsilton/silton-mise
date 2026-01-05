@@ -39,4 +39,3 @@ Roasting butternut squash at 400°F until tender and charred before folding it i
 5.  **Combine:** Fold the pasta and roasted squash into the cheese sauce. Transfer to a greased 2-quart dish.
 6.  **The Crunch:** Toss panko with 2 tbsp melted butter and Parmesan. Sprinkle over the top.
 7.  **Bake:** Bake at 350°F for 30 minutes until bubbling and mahogany gold.
-

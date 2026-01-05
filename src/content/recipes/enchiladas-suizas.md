@@ -38,4 +38,3 @@ Enchiladas Suizas (Swiss-style) refers to the generous use of cream and cheese, 
 4.  **Assemble:** Dip a tortilla in the green sauce, fill with shredded chicken and a sprinkle of cheese, and roll tightly. Place in a baking dish.
 5.  **Bake:** Pour the remaining sauce over the top and cover with the rest of the cheese. Bake at 375°F for 15-20 minutes until the cheese is bubbling.
 6.  **Finish:** Top with pickled red onions and fresh cilantro.
-

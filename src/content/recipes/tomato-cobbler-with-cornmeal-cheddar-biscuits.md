@@ -39,4 +39,3 @@ This is all about contrasting textures. The secret is deeply caramelizing the on
 6.  **Bake:** Preheat oven to 375°F. Bake for 55-60 minutes until the tomatoes are bubbling and the biscuits are deep golden.
 7.  **The Crunch:** During the final 10 minutes, sprinkle the remaining cheese over the biscuits.
 8.  **Set:** Let rest for 15 minutes (mandatory) before serving.
-

@@ -41,4 +41,3 @@ Turkey meatballs can turn dry, but folding in a full cup of chopped spinach crea
 4.  **The Sauce:** While meatballs cook, whisk yogurt, squeezed-dry cucumber, lemon juice, dill, and garlic powder in a small bowl. Season with salt.
 5.  **Assemble:** Warm the flatbreads in the microwave or on the skillet. Place 3 meatballs in the center of each.
 6.  **Finish:** Top with raw red onion, tomatoes, and cucumber. Drizzle generously with the tzatziki for the mandatory **High Note**.
-

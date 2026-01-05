@@ -39,4 +39,3 @@ This dish builds textural contrast through staged roasting. Roasting chickpeas a
 4.  **The Orzo:** Boil orzo until al dente. Drain and toss with 1 tbsp oil, the roasted chickpeas, tomatoes, feta, and fresh herbs. Season with salt and pepper.
 5.  **Assemble:** Place a generous portion of herbed orzo on each plate. Top with a salmon fillet.
 6.  **Finish:** Drizzle the lemon-herb emulsion generously over the salmon and greens for the mandatory **Acid Balance**.
-

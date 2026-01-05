@@ -40,4 +40,3 @@ Roasting the chicken and broccoli at 425°F before adding the cheese sauce preve
 3.  **Combine:** Transfer the roasted chicken and broccoli to a small baking dish. Pour the cheese sauce over the top.
 4.  **the crunch:** Toss panko with a little oil and sprinkle over the sauce.
 5.  **Finish:** Bake for 10 minutes (or broil for 2 mins) until the top is bubbling and brown.
-

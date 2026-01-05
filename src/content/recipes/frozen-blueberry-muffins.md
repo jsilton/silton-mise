@@ -43,4 +43,3 @@ Keep blueberries frozen when folding into batter - thawed berries bleed juice th
 5.  **The Topping:** In a small bowl, whisk the remaining 2 tbsp sugar with the nutmeg.
 6.  **Bake:** Divide the batter among the cups (about 2/3 full). Sprinkle the nutmeg sugar over the tops. Bake for 20-25 minutes until a toothpick comes out clean.
 7.  **Cool:** Let sit in the pan for 10 minutes to allow the fruit structure to set before removing to a wire rack.
-

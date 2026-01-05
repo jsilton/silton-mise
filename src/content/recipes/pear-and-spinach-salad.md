@@ -39,4 +39,3 @@ This is a quick side salad with bright flavors. The secret is soaking the red on
 3.  **Assemble:** Place the baby spinach and sliced pears in a large bowl. Add the dry red onions.
 4.  **Bind:** Drizzle 3 tbsp of the dressing over the salad. Toss gently with your hands until every leaf is lightly glossy.
 5.  **Serve:** Season with an extra crack of black pepper. Serve immediately to maintain **Textural Balance**.
-

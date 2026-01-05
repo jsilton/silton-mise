@@ -36,4 +36,3 @@ Enchiladas Suizas (Swiss-style enchiladas) originated in Mexico City in the 1950
 4.  **Bake:** Pour the remaining sauce over the top. Cover with cheese.
 5.  **Crisp:** Bake at 375°F for 20-25 minutes until the sauce is bubbling and the cheese is golden.
 6.  **Finish:** Top with fresh cilantro and [quick Pickled Red Onions](/mise/recipes/pickled-red-onions).
-

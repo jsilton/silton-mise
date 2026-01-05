@@ -43,4 +43,3 @@ This one-pot meal showcases lap cheong, sweet Cantonese sausages made with pork,
 4.  **Deglaze:** Pour in the dry sherry and simmer for 1 minute to reduce. Add 3 cups water, soy sauce, and oyster sauce. Bring to a boil.
 5.  **Bind:** Whisk the cornstarch slurry and stir into the wok. Simmer for 5 minutes until the sauce is thick and glossy. Fold the broccoli back in.
 6.  **Serve:** Remove sausage from the rice and slice into 1/4-inch coins. Serve the chicken over the fragrant rice with the sausage slices on the side.
-

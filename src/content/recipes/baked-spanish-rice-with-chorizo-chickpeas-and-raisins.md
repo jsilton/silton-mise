@@ -41,4 +41,3 @@ This is a one-pot masterpiece that utilizes **Flavor Layering**. We start by ren
 6.  **Simmer:** Add the broth, chickpeas, raisins, and the reserved chorizo. Bring to a boil.
 7.  **Bake:** Cover tightly and transfer to a 400°F oven. Bake for 20-25 minutes until the liquid is absorbed and the rice is tender.
 8.  **Rest:** Remove from oven and let sit, covered, for 10 minutes. This is the secret to fluffy, distinct grains.
-

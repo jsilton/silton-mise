@@ -36,4 +36,3 @@ This Spanish-inspired rice dish draws from paella technique. Frying dry rice in 
 4.  **The Finish:** Reduce heat to **low**. Cover tightly. Simmer for 20-22 minutes until the liquid is absorbed.
 5.  **The Steam Cycle:** Remove from heat. **Do not open the lid.** Let sit for 6 minutes (mandatory for structure).
 6.  **Finish:** Fluff with a fork. If adding shrimp, nestle them into the rice during the final 5 minutes of simmering. If adding spinach, stir it in during the steam cycle.
-

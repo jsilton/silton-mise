@@ -37,4 +37,3 @@ While serious chocolatiers prefer the stovetop, the slow cooker is an excellent 
 4.  **Slow Cook:** Cover and cook on **LOW** for 2 hours. Whisk vigorously every 30-45 minutes to ensure the chocolate emulsifies with the dairy.
 5.  **Finish:** Just before serving, stir in the liqueur (if using).
 6.  **Serve:** Ladle into mugs. Top with fresh marshmallows and shaved chocolate.
-

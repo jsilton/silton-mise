@@ -36,4 +36,3 @@ Par-boil carrots in minimal water, then drain and return to the hot pan. Melt bu
 3.  **The Emulsion:** In the same warm saucepan, melt the butter over low heat. Whisk in the brown sugar, salt, and white pepper until the sugar is completely dissolved and the mixture is bubbling.
 4.  **Glaze:** Return the carrots to the pan. Toss vigorously over medium heat for 2-3 minutes until the carrots are perfectly coated in a glossy, thick glaze.
 5.  **Finish:** Stir in fresh thyme if using. Serve immediately.
-

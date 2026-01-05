@@ -43,4 +43,3 @@ This spring pasta variation adds peas, which come into season in Italy in April 
 5.  **Emulsify:** Add the hot pasta and the reserved pasta water to the skillet. Pour in the lemon juice.
 6.  **Toss:** Toss vigorously over medium-low heat for 1 minute. Add the Parmesan one handful at a time, stirring until the sauce is glossy and thick.
 7.  **Serve:** Garnish with extra mint and plenty of black pepper.
-

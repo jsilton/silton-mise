@@ -13,6 +13,7 @@ const { title } = Astro.props;
     <meta name="description" content="The Recipe Collection" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+    <link rel="stylesheet" href={`${import.meta.env.BASE_URL}styles/print.css`} media="print" />
     <title>{title}</title>
   </head>
   <body class="h-full flex flex-col font-sans text-slate-900">

@@ -37,4 +37,3 @@ This slow-cooker version resembles Korean bulgogi and galbi, where soy-based mar
 3.  **The Bind:** In a small jar, whisk cornstarch and 1/4 cup water. Stir into the pot.
 4.  **Set:** Increase heat to **High**. Cook uncovered for 30 minutes until the sauce is thick and mirror-glossy.
 5.  **Serve:** Garnish with fresh scallions and sesame seeds. Serve over steamed jasmine rice.
-

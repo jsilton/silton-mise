@@ -38,4 +38,3 @@ The key to these 25-minute potatoes is roasting the rounds at high heat (400°F)
 3.  **Toss:** Add the sweet potato rounds to the bowl and toss until every slice is fully coated in the glaze.
 4.  **Arrange:** Place the slices in a **single layer** on the baking sheet (do not overlap, or they will steam instead of roast). Season with salt and black pepper.
 5.  **Roast:** Bake for 20-25 minutes until tender and the edges are slightly caramelized. Serve hot.
-

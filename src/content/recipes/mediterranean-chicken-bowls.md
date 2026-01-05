@@ -39,4 +39,3 @@ This modular grain bowl treats each component as an independent element. Marinat
 4.  **Assemble:** In four deep bowls, spread a generous base of hummus. Top with a scoop of warm rice or quinoa.
 5.  **Layer:** Arrange the sliced chicken, cucumbers, and tomatoes in distinct "stacks" around the bowl.
 6.  **Finish:** Top with crumbled feta and a massive pile of [Pickled Red Onions](/mise/recipes/pickled-red-onions). Serve with a lemon wedge for the final **High Note**.
-

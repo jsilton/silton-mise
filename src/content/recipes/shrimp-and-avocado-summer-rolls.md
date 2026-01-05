@@ -38,4 +38,3 @@ Summer rolls require careful attention to texture. The secret is the ice-water b
 5.  **Layer:** In the center, place a small pile of noodles, 3 shrimp halves (pink side down), a slice of avocado, and a generous amount of herbs.
 6.  **The Roll:** Fold the bottom of the wrapper over the filling, tuck in the sides, and roll tightly into a cylinder.
 7.  **Serve:** Serve immediately with the dipping sauce.
-

@@ -41,4 +41,3 @@ Slap the thyme sprig sharply in your palm before garnishing - this ruptures oil 
 4.  **Strain:** Double strain into the chilled glass to ensure a silky mouthfeel.
 5.  **The Crown:** Top with the chilled Prosecco. Do not stir—let the bubbles naturally integrate the layers.
 6.  **The Slap:** Take the thyme sprig, slap it between your palms, and place it in the glass. Express the lemon peel over the rim and drop it in for the mandatory **High Note**.
-

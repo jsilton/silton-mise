@@ -31,4 +31,3 @@ This is an update to a beloved Passover tradition. Replacing the traditional mar
 3.  **Fill:** Spoon the batter into a well-greased muffin tin, filling each cup about 3/4 full.
 4.  **Bake:** Bake at 400°F for 20 minutes until the tops are deep golden brown and the muffins feel light when lifted.
 5.  **Serve:** Best served warm with plenty of salted butter.
-

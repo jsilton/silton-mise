@@ -42,4 +42,3 @@ Lobster sauce is a Chinese-American invention from the mid-20th century, origina
 5.  **Bind:** Stir in the cornstarch slurry. Simmer for 1 minute until the sauce is thick and glossy.
 6.  **The Ribbon:** Turn off the heat. Drizzle the egg in a thin stream, stirring once or twice. Let stand for 30 seconds to set the "Bounce."
 7.  **Serve:** Garnish with green onions. Serve immediately over white rice.
-

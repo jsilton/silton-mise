@@ -37,4 +37,3 @@ The secret to banana bread that isn't dense or dry is precision with measurement
 5.  **Combine:** Gently fold the dry ingredients into the wet until **just combined**. Do not over-mix. Fold in the nuts/seeds.
 6.  **Bake:** Pour into the pan. Bake for 55-60 minutes until the top is split and a tester comes out clean.
 7.  **Rest:** Let cool in the pan for 10 minutes before transferring to a wire rack.
-

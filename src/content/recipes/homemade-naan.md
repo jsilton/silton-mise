@@ -39,4 +39,3 @@ Great Naan requires **Yogurt and High Heat**. The yogurt provides the fermentati
 5.  **Sear:** Heat a cast-iron skillet over high heat. Do not add oil. Place one dough oval in the dry pan.
 6.  **Bubble:** Cook for 1-2 minutes until large bubbles form on the top. Flip and cook for 1 minute until charred on the other side.
 7.  **Finish:** Brush immediately with garlic-butter and sprinkle with cilantro. Keep warm in a clean kitchen towel.
-

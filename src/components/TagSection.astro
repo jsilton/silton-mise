@@ -7,30 +7,32 @@ import TagBadge from './TagBadge.astro';
 interface Props {
   title: string;
   tags: string[];
-  category: 'cooking-method' | 'cuisine' | 'dietary' | 'occasion' | 'flavor' | 'difficulty' | 'role' | 'vibe';
+  category:
+    | 'cooking-method'
+    | 'cuisine'
+    | 'dietary'
+    | 'occasion'
+    | 'flavor'
+    | 'difficulty'
+    | 'role'
+    | 'vibe';
   size?: 'sm' | 'md' | 'lg';
   baseUrl?: string;
 }
 
-const { 
-  title, 
-  tags = [], 
-  category,
-  size = 'sm',
-  baseUrl = import.meta.env.BASE_URL
-} = Astro.props;
+const { title, tags = [], category, size = 'sm', baseUrl = import.meta.env.BASE_URL } = Astro.props;
 
 // Generate filter parameter based on category
 const getFilterParam = (cat: string) => {
   const paramMap: Record<string, string> = {
     'cooking-method': 'method',
-    'cuisine': 'cuisine',
-    'dietary': 'dietary',
-    'occasion': 'occasion',
-    'flavor': 'flavor',
-    'difficulty': 'difficulty',
-    'role': 'role',
-    'vibe': 'vibe',
+    cuisine: 'cuisine',
+    dietary: 'dietary',
+    occasion: 'occasion',
+    flavor: 'flavor',
+    difficulty: 'difficulty',
+    role: 'role',
+    vibe: 'vibe',
   };
   return paramMap[cat] || cat;
 };
@@ -41,20 +43,20 @@ if (!tags || tags.length === 0) {
 }
 ---
 
-{tags && tags.length > 0 && (
-  <div class="mb-4">
-    <h4 class="text-xs uppercase tracking-wide text-slate-500 font-semibold mb-2">
-      {title}
-    </h4>
-    <div class="flex flex-wrap gap-2">
-      {tags.map((tag) => (
-        <TagBadge 
-          {tag} 
-          {category} 
-          {size} 
-          href={`${baseUrl}?${getFilterParam(category)}=${encodeURIComponent(tag)}`} 
-        />
-      ))}
+{
+  tags && tags.length > 0 && (
+    <div class="mb-4">
+      <h4 class="text-xs uppercase tracking-wide text-slate-500 font-semibold mb-2">{title}</h4>
+      <div class="flex flex-wrap gap-2">
+        {tags.map((tag) => (
+          <TagBadge
+            {tag}
+            {category}
+            {size}
+            href={`${baseUrl}?${getFilterParam(category)}=${encodeURIComponent(tag)}`}
+          />
+        ))}
+      </div>
     </div>
-  </div>
-)}
+  )
+}

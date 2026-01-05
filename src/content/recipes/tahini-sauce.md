@@ -31,4 +31,3 @@ Tahini is an oil-rich paste that can behave unexpectedly. When you add lemon jui
 2.  **The Emulsion:** Whisk in the ice-cold water, one tablespoon at a time. Continue whisking until the sauce turns pale and reaches the consistency of heavy cream.
 3.  **Balance:** Taste and adjust for salt or acid. If it's too thick, add another splash of water.
 4.  **Serve:** Serve as a dip or a drizzle.
-

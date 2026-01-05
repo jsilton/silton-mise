@@ -42,4 +42,3 @@ Sliced strawberries macerated in lemon juice and sugar for several hours draw ou
 5.  **Chill:** Remove vanilla pod. Let cool for 30 minutes, then refrigerate for **at least 4 hours** until ice-cold.
 6.  **Churn:** Stir the macerated strawberries (including all juice) into the custard. Pour into ice cream maker and process for 25-35 minutes.
 7.  **Set:** Freeze for 2 hours to harden into the Kitchen Standard texture.
-

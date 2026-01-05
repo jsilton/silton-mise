@@ -7,11 +7,13 @@ All 474 recipes now have complete AI meal planning metadata.
 ## Breakdown by Category
 
 ### Major Cuisines (297 recipes)
+
 - **Chinese**: 58 recipes ✅
-- **Italian**: 60 recipes ✅  
+- **Italian**: 60 recipes ✅
 - **American**: 179 recipes ✅
 
 ### By Role (474 total)
+
 - **Mains**: ~350 recipes
 - **Sides**: ~70 recipes
 - **Desserts**: ~59 recipes
@@ -19,6 +21,7 @@ All 474 recipes now have complete AI meal planning metadata.
 - **Drinks**: ~5 recipes
 
 ### Other Cuisines Tagged
+
 - Greek, Thai, Korean, Mexican, Indian
 - Vietnamese, Japanese, Middle Eastern
 - And more...
@@ -28,6 +31,7 @@ All 474 recipes now have complete AI meal planning metadata.
 Every recipe now includes:
 
 ### Planning Metadata
+
 - **occasions**: 16 possible tags (weeknight, date-night, entertaining, holiday, kids-approved, meal-prep, post-workout, comfort-food, quick-lunch, potluck, weekend-project, light-and-fresh, indulgent, summer, spring, fall)
 - **seasons**: spring, summer, fall, winter, year-round
 - **nutritionalDensity**: light, moderate, hearty
@@ -39,28 +43,33 @@ Every recipe now includes:
 ## Key Patterns Established
 
 ### Chinese Recipes
+
 - Stir-fries: weeknight, quick-lunch | year-round | hearty | excellent leftovers | wok/large-skillet
 - Dumplings/Wontons: weekend-project, entertaining | fall/winter | hearty | freeze-ahead
 - Noodles: weeknight, kids-approved | year-round | hearty | good leftovers
 
 ### Italian Recipes
+
 - Pasta: weeknight, comfort-food | year-round | hearty | excellent leftovers
 - Risotto: date-night, entertaining | seasonal | hearty | poor leftovers (doesn't reheat well)
 - Seafood pasta: spring/summer | moderate | poor leftovers (seafood doesn't reheat)
 - Baked dishes: weekend-project, entertaining | make-ahead | excellent leftovers
 
 ### American Recipes
+
 - Desserts: holiday, entertaining, indulgent | hearty | excellent leftovers | make-ahead
 - Breakfast items: meal-prep, kids-approved, post-workout | moderate | excellent (baked) or poor (pancakes)
 - Comfort foods: weeknight, kids-approved | fall/winter | hearty | excellent leftovers
 - Grilled items: summer, entertaining | summer only | moderate | good leftovers
 
 ### Sides
+
 - Green salads: light-and-fresh | spring/summer | light | poor leftovers
 - Roasted vegetables: weeknight, entertaining | seasonal | light-moderate | sheet-pan
 - Starches: weeknight, holiday | year-round | moderate | good-excellent leftovers
 
 ### Desserts
+
 - Cakes/Pies: holiday, entertaining, weekend-project | hearty | excellent | make-ahead
 - Cookies/Brownies: kids-approved, comfort-food | year-round | moderate | excellent
 - Frozen desserts: summer, indulgent | summer | hearty | excellent (frozen)
@@ -76,7 +85,7 @@ Every recipe now includes:
 ## Commit History
 
 - Batch 1: Chinese recipes (58) - 3 commits
-- Batch 2-4: Italian recipes (60) - 4 commits  
+- Batch 2-4: Italian recipes (60) - 4 commits
 - Batch 5-10+: American recipes (179) - ~10 commits
 - Final batches: Sides, desserts, other cuisines (177) - ~8 commits
 

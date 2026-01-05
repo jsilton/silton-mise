@@ -44,4 +44,3 @@ This Tex-Mex style chili uses sweet potatoes for natural sweetness and body—as
 6.  **Low & Slow:** Cover and simmer for 30–40 minutes. The sweet potatoes should be very tender, and some should have started to "melt" into the sauce.
 7.  **The Finish:** Stir in the apple cider vinegar (or lime juice). Taste and add salt or pepper as needed.
 8.  **Serve:** Ladle into bowls and let everyone customize with their favorite toppings.
-

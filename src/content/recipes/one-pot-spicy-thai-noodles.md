@@ -42,4 +42,3 @@ This Thai-inspired one-pot noodle dish builds the sauce directly in the pasta po
 5.  **Bind:** Turn heat to low. Return the pasta and eggs to the pot. Pour the sauce over everything.
 6.  **Toss:** Toss vigorously for 1 minute until the noodles are glossy and the sauce has thickened.
 7.  **Serve:** Remove from heat. Stir in the green onions, cilantro, and crushed peanuts. Serve hot or cold for the Kitchen Standard experience.
-

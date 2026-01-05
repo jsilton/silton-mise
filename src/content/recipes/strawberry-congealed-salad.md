@@ -39,4 +39,3 @@ This is an improved take on the definitive family gathering side. The secret is 
 5.  **Stage 2:** Carefully pour the remaining Jello mixture over the sour cream.
 6.  **Set:** Return to the fridge for **at least 2 more hours** (ideally 4) until completely congealed.
 7.  **Serve:** Slice into squares and serve cold.
-

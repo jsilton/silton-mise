@@ -39,4 +39,3 @@ Chill rolled truffle balls for at least 30 minutes before dipping in melted choc
 6.  **Dip:** Using a fork or dipping tool, submerge each cold ball into the chocolate. Tap off the excess.
 7.  **Garnish:** Immediately sprinkle with the crushed reserved cookies (and a pinch of sea salt for the **Acid/Salt Finish**) while the chocolate is still wet.
 8.  **Finish:** Refrigerate for 1 hour to set the shell. Store in the fridge.
-

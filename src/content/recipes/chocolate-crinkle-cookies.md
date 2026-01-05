@@ -42,4 +42,3 @@ The crinkle cookie is all about the crackly, snowy crust. The secret is the doub
 7.  **The Double Roll:** Scoop 1-tbsp portions of dough. Roll into a ball. Roll in granulated sugar, then immediately in powdered sugar.
 8.  **Bake:** Arrange 2 inches apart. Bake for 10-12 minutes until the tops are cracked and the edges feel firm.
 9.  **Cool:** Let cool on the pan for 5 minutes before transferring to a rack.
-

@@ -39,4 +39,3 @@ This Mexican-inspired salmon dish features a lime-honey glaze that caramelizes d
 4.  **The Salad:** To the onion skillet, add the corn and bell peppers. Sauté for 1 minute. Add chicken broth and simmer for 2 minutes. Stir in the black beans until heated through.
 5.  **Finish:** Remove from heat. Add the second lime's juice, cilantro, and spinach. Toss until the spinach just collapses.
 6.  **Serve:** Mound the warm bean salad in bowls and top with the glazed salmon.
-

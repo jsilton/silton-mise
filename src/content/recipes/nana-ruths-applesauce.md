@@ -35,4 +35,3 @@ This traditional applesauce appears on Jewish holiday tables for Rosh Hashanah, 
 5.  **Simmer:** Cook for 20-25 minutes, stirring occasionally. The apples should be very soft and falling apart.
 6.  **The Crush:** Use a potato masher or the side of a heavy spoon to crush the apples against the side of the pot into a chunky, uniform sauce.
 7.  **Serve:** Best served warm with a dusting of extra cinnamon.
-

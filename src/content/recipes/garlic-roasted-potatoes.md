@@ -37,4 +37,3 @@ Roast potatoes at 400°F, cut-side down for maximum crust. Add minced garlic onl
 4.  **Roast:** Bake for 45-50 minutes. Flip with a spatula twice during cooking to ensure even browning.
 5.  **The Garlic Finish:** 5 minutes before the end of roasting, sprinkle the minced garlic over the potatoes and toss.
 6.  **Garnish:** Remove from the oven. Toss immediately with fresh parsley while the oil is still sizzling to release the herb's oils.
-

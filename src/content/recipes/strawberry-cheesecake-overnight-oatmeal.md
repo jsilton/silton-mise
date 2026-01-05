@@ -41,4 +41,3 @@ The key to "cheesecake" oats that aren't a dense brick is whisking the cream che
 4.  **Fold:** Gently stir in the chopped strawberries and lemon zest.
 5.  **The Finish:** Transfer to a wide-mouth glass jar. Cover and **refrigerate for at least 4 hours** (overnight is best) to allow the chia and oats to hydrate.
 6.  **Serve:** Stir once more. Garnish with a fresh strawberry and a "High Note" crack of black pepper (trust me).
-

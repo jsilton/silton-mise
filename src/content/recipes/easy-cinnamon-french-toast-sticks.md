@@ -40,4 +40,3 @@ Slightly stale bread acts like a sponge for custard without falling apart - fres
 4.  **The Sear:** Heat a large skillet over medium. Add 2 tbsp butter. Once foaming, add the sticks in a single layer (do not crowd).
 5.  **Rotate:** Cook for 2 minutes per side, rotating until all four sides are deep golden brown and slightly crispy.
 6.  **Serve:** Serve hot with a side of warm maple syrup for dipping and fresh berries.
-

@@ -46,4 +46,3 @@ Steamed whole fish is a cornerstone of Cantonese cuisine, showcasing the fish's 
 6.  **The Sizzle:** Heat 2 tbsp oil in a small pan until it is smoking. Carefully pour the hot oil directly over the scallions and ginger. You should hear a loud sizzle.
 7.  **Season:** Pour the seasoning sauce into the same hot oil pan, let it bubble for 5 seconds, then pour it over the fish.
 8.  **Serve:** Garnish with cilantro and serve immediately with white rice.
-

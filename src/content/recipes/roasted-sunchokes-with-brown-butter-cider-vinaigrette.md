@@ -39,4 +39,3 @@ Sunchokes (Jerusalem artichokes) require a long roast at 375°F—about 60 minut
 3.  **Brown Butter:** In the same pan, melt butter over medium heat. Cook for 3 minutes until foamy and dark brown. Whisk immediately into the vinegar mixture.
 4.  **Bind:** Toss the hot sunchokes with the fresh spinach—the heat will wilt the leaves perfectly.
 5.  **Finish:** Drizzle with the brown butter vinaigrette and top with chives for the mandatory **High Note**.
-

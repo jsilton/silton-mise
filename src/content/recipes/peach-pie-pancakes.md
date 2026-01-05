@@ -42,4 +42,3 @@ The secret to peach pie pancakes that aren't heavy is using Greek yogurt as the 
 6.  **Pour:** Drop 2-tbsp portions onto the skillet. Cook for 2-3 minutes until bubbles form and the edges look set.
 7.  **Flip:** Flip gently and cook for 1-2 more minutes until golden brown.
 8.  **Serve:** Serve with warm maple syrup and a few extra fresh peach slices.
-

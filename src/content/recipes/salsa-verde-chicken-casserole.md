@@ -36,4 +36,3 @@ This Tex-Mex casserole is a quick weeknight meal that layers chicken, tortillas,
 5.  **Bake:** Preheat oven to 375°F. Bake for 25-30 minutes until the cheese is bubbling and the edges are golden brown.
 6.  **Finish:** Remove from heat. Top with the chopped tomatoes and sliced avocado for the final **High Note**.
 7.  **Serve:** Serve hot with a side of [Cilantro Lime Rice](/mise/recipes/cilantro-lime-rice).
-

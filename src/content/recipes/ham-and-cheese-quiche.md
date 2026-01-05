@@ -39,4 +39,3 @@ Pre-baking the crust for 5 minutes creates a moisture barrier that prevents sogg
 4.  **Assemble:** Scatter the ham mixture, spinach, and both cheeses into the pre-baked crust. Pour the egg custard slowly over the fillings.
 5.  **Bake:** Reduce oven to 375°F. Bake for 25-35 minutes until the top is deep golden brown and a knife inserted in the center comes out clean.
 6.  **Rest:** Let the quiche rest for 10 minutes before slicing. This allows the custard to fully set.
-

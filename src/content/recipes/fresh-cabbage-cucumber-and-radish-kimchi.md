@@ -44,4 +44,3 @@ This is fresh kimchi ready to eat immediately. The key to crisp, non-watery kimc
 4.  **The Bind:** In one massive bowl, toss all the vegetables with the kimchi paste until every piece is uniformly coated in the deep red glaze.
 5.  **The Finish:** Transfer to glass jars. Cover and refrigerate for **at least 4 hours** (ideally 24) to allow the flavors to meld and the fermentation to begin.
 6.  **Serve:** This fresh kimchi (Geotjeori style) is at its best within the first week.
-

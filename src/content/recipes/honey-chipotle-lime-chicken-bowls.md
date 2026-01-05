@@ -38,4 +38,3 @@ This Mexican-inspired chicken bowl features a marinade that balances lime juice'
 4.  **Rest:** Transfer to a board and let rest for 5-10 minutes.
 5.  **Assemble:** Layer your bowls with [Cilantro Lime Rice](/mise/recipes/cilantro-lime-rice), fresh greens, tomatoes, and avocado.
 6.  **Finish:** Slice the chicken into strips and place on top. Serve with extra lime wedges for the mandatory **High Note**.
-

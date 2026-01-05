@@ -40,4 +40,3 @@ This soup showcases deep flavor development. The secret is the low-slow sauté: 
 5.  **Toast:** Heat the remaining 2 tbsp butter in a small pan. Add chopped chestnuts and cook until the butter is nutty brown and the nuts are fragrant.
 6.  **The Crown:** Whisk the crème fraîche and maple syrup together.
 7.  **Serve:** Ladle soup into bowls. Top with a swirl of maple crème fraîche and the brown-butter chestnuts.
-

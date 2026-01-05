@@ -42,4 +42,3 @@ This quick Chinese-American style dinner uses frozen meatballs glazed in hoisin 
 3.  **The Glaze:** Add ginger and garlic to the meatballs; sauté for 30 seconds. Pour in the hoisin, duck sauce, and vinegar. Simmer for 5 minutes until the sauce is a thick, mirror-glossy lacquer.
 4.  **The Veg:** In a second skillet, sauté carrots for 2 minutes. Add kale and garlic. Toss for 3 minutes until bright green. Finish with lemon juice and black pepper.
 5.  **Serve:** Mound coconut rice in bowls. Top with 5 meatballs and a pile of "Acid" kale.
-

@@ -41,4 +41,3 @@ Piccata comes from the Italian word 'piccato,' meaning 'larded' or 'pounded thin
 4.  **Deglaze:** Pour in chicken broth and lemon juice. Scrape the bottom of the pan to release the fond. Simmer for 3 minutes to reduce by a third.
 5.  **The Magic:** Turn off the heat. Add the cold butter cubes and whisk vigorously until melted into a silky, opaque glaze.
 6.  **Finish:** Return chicken to the pan to coat. Garnish with plenty of fresh parsley.
-

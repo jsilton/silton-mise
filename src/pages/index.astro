@@ -26,9 +26,7 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
 
   <!-- Recipe Grid -->
   <div id="recipeGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-    {recipes.map((recipe) => (
-      <RecipeCard {recipe} />
-    ))}
+    {recipes.map((recipe) => <RecipeCard {recipe} />)}
   </div>
 
   <!-- No Results State -->
@@ -40,7 +38,7 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
           stroke-linejoin="round"
           stroke-width="2"
           d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-        />
+        ></path>
       </svg>
     </div>
     <h3 class="text-lg font-medium text-slate-900">No recipes found</h3>
@@ -54,7 +52,22 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
   </div>
 </Layout>
 
-<script define:vars={{ recipes: JSON.stringify(recipes.map(r => ({ difficulty: r.data.difficulty, cuisines: r.data.cuisines, dietary: r.data.dietary, cookingMethods: r.data.cookingMethods, occasions: r.data.occasions, flavorProfile: r.data.flavorProfile, prepTime: r.data.prepTime, title: r.data.title }))) }}>
+<script
+  define:vars={{
+    recipes: JSON.stringify(
+      recipes.map((r) => ({
+        difficulty: r.data.difficulty,
+        cuisines: r.data.cuisines,
+        dietary: r.data.dietary,
+        cookingMethods: r.data.cookingMethods,
+        occasions: r.data.occasions,
+        flavorProfile: r.data.flavorProfile,
+        prepTime: r.data.prepTime,
+        title: r.data.title,
+      }))
+    ),
+  }}
+>
   // Page filtering and sorting logic - works with FilterPanel and search
   const searchInput = document.getElementById('searchInput');
   const recipeCards = document.querySelectorAll('.recipe-card');
@@ -62,20 +75,20 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
   const clearSearchBtn = document.getElementById('clearSearch');
 
   // Main filtering function - applies all active filters and sort
-  window.applyFiltersAndSort = function() {
+  window.applyFiltersAndSort = function () {
     const query = searchInput?.value?.toLowerCase() || '';
     const state = window.filterState || {};
-    
+
     let visibleCards = [];
 
     recipeCards.forEach((card) => {
       const searchData = card.querySelector('.search-data')?.textContent?.toLowerCase() || '';
       const cardDifficulty = card.dataset.difficulty;
-      const cardCuisines = card.dataset.cuisines?.split(',').filter(c => c) || [];
-      const cardDietary = card.dataset.dietary?.split(',').filter(d => d) || [];
-      const cardMethods = card.dataset.cookingMethods?.split(',').filter(m => m) || [];
-      const cardOccasions = card.dataset.occasions?.split(',').filter(o => o) || [];
-      const cardFlavors = card.dataset.flavorProfile?.split(',').filter(f => f) || [];
+      const cardCuisines = card.dataset.cuisines?.split(',').filter((c) => c) || [];
+      const cardDietary = card.dataset.dietary?.split(',').filter((d) => d) || [];
+      const cardMethods = card.dataset.cookingMethods?.split(',').filter((m) => m) || [];
+      const cardOccasions = card.dataset.occasions?.split(',').filter((o) => o) || [];
+      const cardFlavors = card.dataset.flavorProfile?.split(',').filter((f) => f) || [];
 
       // Apply all active filters
       const matchesSearch = !query || searchData.includes(query);
@@ -86,7 +99,14 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
       const matchesOccasion = !state.occasion || cardOccasions.includes(state.occasion);
       const matchesFlavor = !state.flavor || cardFlavors.includes(state.flavor);
 
-      const isVisible = matchesSearch && matchesDifficulty && matchesCuisine && matchesDietary && matchesMethod && matchesOccasion && matchesFlavor;
+      const isVisible =
+        matchesSearch &&
+        matchesDifficulty &&
+        matchesCuisine &&
+        matchesDietary &&
+        matchesMethod &&
+        matchesOccasion &&
+        matchesFlavor;
 
       if (isVisible) {
         card.style.display = 'flex';
@@ -100,7 +120,7 @@ recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
     if (state.sortMode === 'prepTime') {
       visibleCards.sort((a, b) => parseInt(a.prepTime || '0') - parseInt(b.prepTime || '0'));
     } else if (state.sortMode === 'difficulty') {
-      const diffOrder = { 'easy': 0, 'intermediate': 1, 'advanced': 2 };
+      const diffOrder = { easy: 0, intermediate: 1, advanced: 2 };
       visibleCards.sort((a, b) => diffOrder[a.difficulty] - diffOrder[b.difficulty]);
     }
 

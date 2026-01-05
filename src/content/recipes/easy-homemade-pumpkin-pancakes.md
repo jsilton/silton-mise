@@ -39,4 +39,3 @@ Pumpkin puree adds weight and moisture that can make pancakes rubbery. Mix dry i
 6.  **Pour:** Use a 1/4 cup scoop to drop batter onto the skillet.
 7.  **Flip:** Cook for about 2 minutes until bubbles form on the surface and the edges look matte and dry. Flip and cook for 1-2 more minutes until golden brown.
 8.  **Serve:** Serve with salted butter and warm maple syrup.
-

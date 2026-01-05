@@ -37,4 +37,3 @@ This is an improved take on a classic summer crisp. The secret to its depth is b
 3.  **The Mix:** In a large bowl, whisk flour, brown sugar, and salt. Drizzle the brown butter over the mix. Stir with a fork until large, crispy clumps form.
 4.  **Bake:** Sprinkle the crumble generously over the fruit. Bake at 350°F for 30 minutes until the fruit is bubbling and the topping is a deep mahogany.
 5.  **Serve:** Let cool for 10 minutes to allow the syrup to set. Serve warm with a scoop of [Vanilla Ice Cream](/mise/recipes/old-fashioned-vanilla-ice-cream).
-

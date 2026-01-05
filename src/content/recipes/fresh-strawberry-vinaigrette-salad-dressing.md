@@ -36,4 +36,3 @@ This is a fresh dressing for summer salads. The key is letting the strawberries 
 3.  **Blend:** Add the olive oil, salt, and pepper. Pulse until completely smooth and vibrant red.
 4.  **Adjust:** Taste and add a tiny splash more vinegar if you need a higher "High Note."
 5.  **Serve:** Use immediately or refrigerate for up to 3 days. Shake vigorously before each use to restore the emulsion.
-

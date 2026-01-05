@@ -44,4 +44,3 @@ This is an Italian-American cream sauce pasta with shrimp, popular in red sauce 
 5.  **Bind:** Add the hot pasta and Parmesan to the skillet. Pour in the reserved pasta water.
 6.  **Toss:** Toss vigorously over medium-low heat for 1-2 minutes until the cheese is melted and the sauce is glossy.
 7.  **Serve:** Garnish with fresh parsley and plenty of black pepper.
-

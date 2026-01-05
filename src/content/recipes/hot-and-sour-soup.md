@@ -51,4 +51,3 @@ Hot and sour soup is a Sichuan/Hunan classic. The name is literal: "hot" from wh
 6.  **Bind:** Stir the cornstarch slurry and slowly pour into the soup. Simmer for 2 minutes until the soup is thick and clear.
 7.  **The Current:** Remove from heat. Stir the soup vigorously in one direction to create a current. Stop stirring and slowly stream in the beaten egg.
 8.  **Serve:** Ladle into bowls and garnish with sesame oil and fresh scallions for the final **High Note**.
-

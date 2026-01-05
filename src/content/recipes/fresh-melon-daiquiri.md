@@ -32,4 +32,3 @@ This is a sophisticated frozen drink that avoids the cloying artificiality of mo
 3.  **Process:** Pulse on low, then increase to high until perfectly smooth. Add a handful of ice only if needed to reach a "thick-shake" consistency.
 4.  **Skew:** Thread 3 cantaloupe cubes onto each sugar cane skewer.
 5.  **Serve:** Pour into chilled coupes or martini glasses. Garnish with the skewers and serve immediately for the maximum "Bounce."
-

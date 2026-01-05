@@ -36,4 +36,3 @@ Asparagus is 90% water. Steaming it or cooking at low heat turns it gray and mus
 2.  **Toss:** On a large baking sheet, toss the stalks with olive oil, salt, and pepper. Arrange in a **single layer** (do not crowd, or they will steam).
 3.  **Roast:** Bake for 8-12 minutes depending on the thickness of the stalks. They are done when they are tender-crisp and the tips are starting to brown.
 4.  **Finish:** Squeeze fresh lemon juice over the hot stalks. Sprinkle with Parmesan or zest if using.
-

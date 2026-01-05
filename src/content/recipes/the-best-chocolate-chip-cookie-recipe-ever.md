@@ -41,4 +41,3 @@ This is a quick chocolate chip cookie recipe. The key is removing the cookies fr
 4.  **Shape:** Preheat oven to 375°F. Line sheets with parchment. Roll 2-tbsp balls of dough and place 2 inches apart.
 5.  **Bake:** Bake for 8-10 minutes. **Pull them early**—the Kitchen Standard is a pale, soft center.
 6.  **The Finish:** Let rest on the hot pan for exactly 2 minutes before transferring to a wire rack.
-

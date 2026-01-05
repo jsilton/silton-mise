@@ -34,4 +34,3 @@ This whole-wheat version keeps pasta starch by not draining completely dry - com
 3.  **Bind:** Turn the heat to low. Add the Cheddar and Parmesan one handful at a time, stirring constantly until the cheese has melted into a silky, thick sauce.
 4.  **Finish:** Stir in the final tablespoon of cream, salt, plenty of black pepper, and the pinch of nutmeg.
 5.  **Serve:** Serve immediately while the sauce is at its glossiest.
-

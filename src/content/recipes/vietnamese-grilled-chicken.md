@@ -37,4 +37,3 @@ To achieve the **Lemongrass Char** of a Vietnamese street stall, you must treat 
 4.  **Sear:** Grill chicken for 4-5 minutes per side until deeply charred and internal temp hits 160°F.
 5.  **Rest:** Let the chicken rest for 5 minutes before slicing. The carryover heat will take it to 165°F.
 6.  **Garnish:** Top with fresh cilantro and green onions.
-

@@ -39,4 +39,3 @@ This is a quick microwave mug cake. The secret to a mug cake that isn't a rubber
 4.  **Cook:** Microwave on **High for 70 seconds**. (The cake will riseVertical and then sink slightly—this is the Texture setting).
 5.  **The Finish:** Let stand for 1 minute before eating. This allows the crumb to set and the center to become molten.
 6.  **Serve:** Dust with a tiny bit of powdered sugar if feeling fancy.
-

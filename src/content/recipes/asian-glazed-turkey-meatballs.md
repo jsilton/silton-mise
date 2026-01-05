@@ -47,4 +47,3 @@ Ground turkey breast is notoriously dry since it's so lean. The trick is making 
 5.  **The Glaze:** While meatballs bake, whisk the glaze ingredients in a large skillet. Bring to a simmer over medium heat, stirring constantly until the sauce is thick and glossy.
 6.  **Toss:** Add the hot meatballs to the skillet. Toss until every meatball is lacquered in the sauce.
 7.  **Finish:** Garnish with sesame seeds and extra scallion greens.
-

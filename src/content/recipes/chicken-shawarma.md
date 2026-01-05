@@ -36,4 +36,3 @@ Real Shawarma is roasted on a vertical spit (Doner) for hours. At home, we achie
 3.  **The Char:** Remove from oven and slice into thin strips. Heat a heavy skillet over high heat with 1 tsp oil.
 4.  **Sear:** Add the chicken strips to the skillet. Cook undisturbed for 2 minutes until the edges are crispy and blackened.
 5.  **Serve:** Pile the meat onto a platter. Top with [Tahini Sauce](/mise/recipes/tahini-sauce).
-

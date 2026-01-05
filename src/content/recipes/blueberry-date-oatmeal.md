@@ -38,4 +38,3 @@ Frozen riced cauliflower adds volume and fiber without affecting flavor. Stir fr
 3.  **Cook (Microwave):** Heat on high for 3 minutes, stir, then heat for another 2-3 minutes until thickened.
 4.  **The Berry Finish:** Remove from heat. Gently fold in the frozen blueberries. Let sit for 1 minute—the residual heat will thaw the berries while keeping them whole.
 5.  **Serve:** Top with a pinch of sea salt and cinnamon.
-

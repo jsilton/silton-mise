@@ -36,4 +36,3 @@ A classic Martini is built on technique and temperature. We stir, never shake, t
 3.  **The Stir:** Add the gin and vermouth. Using a bar spoon, stir **rapidly in a circular motion** for 50 rotations. The outside of the glass should be frosted.
 4.  **Strain:** Double strain using a Hawthorne strainer into your chilled Nick and Nora or Martini glass.
 5.  **The Express:** Use a serrated knife or peeler to remove a 1-inch strip of lemon peel (aim for just the yellow zest, minimal white pith). Twist the peel over the glass to express the oils, rub the rim with the peel, and drop it in.
-

@@ -38,4 +38,3 @@ Patate al forno are classic Italian oven-roasted potatoes—a Sunday staple in R
 4.  **Spread:** Spread the potatoes in a **single layer** on the pan. If they are crowded, they will steam instead of crisp.
 5.  **Roast:** Bake for 35-40 minutes. Flip with a metal spatula halfway through. They are done when they are deep mahogany gold and "pop" when bitten.
 6.  **Serve:** Sprinkle with a final pinch of sea salt and serve immediately.
-

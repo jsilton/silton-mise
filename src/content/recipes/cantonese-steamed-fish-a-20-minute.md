@@ -40,4 +40,3 @@ Cantonese steamed fish is a classic from Guangdong province, prized for its deli
 4.  **The Sauce:** Whisk the soy sauce and sugar. Pour it around the base of the fish.
 5.  **The Sizzle:** In a small saucepan, heat the oil until it is literally smoking.
 6.  **Finish:** Carefully pour the hot oil directly over the herbs and ginger. It should sizzle loudly. Serve immediately.
-

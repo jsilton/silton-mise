@@ -41,4 +41,3 @@ Firmly pressing the mixture into the pan and then refrigerating for at least one
 6.  **The Finish:** Allow to cool in the pan at room temperature, then transfer to the fridge for at least 1 hour (mandatory) to firm up.
 7.  **Glaze:** Whisk together the yogurt and orange juice. Drizzle over the chilled bars.
 8.  **Slice:** Cut into 8 bars and serve cold or at room temperature.
-

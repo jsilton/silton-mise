@@ -32,4 +32,3 @@ This is the essential "acid crunch" for Banh Mi and Vietnamese bowls. The secret
 2.  **Rinse:** Rinse the vegetables under cold water and squeeze them bone-dry.
 3.  **Pickle:** Place the vegetables in a jar. Pour the rice vinegar and water over them.
 4.  **Rest:** Let sit for at least 30 minutes (or up to a week in the fridge).
-

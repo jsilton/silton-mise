@@ -43,4 +43,3 @@ This lighter pasta became popular in Italian-American cooking during the 1990s h
 5.  **Emulsify:** Whisk in the sour cream and Parmesan until a thick, creamy sauce forms.
 6.  **Bind:** Return the spaghetti and spinach to the pot. Toss for 1 minute over low heat until the sauce is completely absorbed.
 7.  **Serve:** Season with plenty of black pepper and serve hot.
-

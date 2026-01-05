@@ -39,4 +39,3 @@ This is a classic Korean side dish. The key to crisp sprouts is blanching them f
 4.  **The Squeeze:** Squeeze the cold sprouts with your hands until **no more liquid drips out**. They should feel like a dense, dry mass.
 5.  **Toss:** In a large bowl, whisk the scallion, garlic, salt, and sesame oil. Separate the sprouts and toss vigorously with the dressing and sesame seeds.
 6.  **Serve:** Best served chilled or at room temperature.
-

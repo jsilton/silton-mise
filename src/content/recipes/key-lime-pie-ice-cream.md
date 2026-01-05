@@ -38,4 +38,3 @@ This frozen dessert mimics the exact flavor profile of our [Key Lime Pie](/mise/
 3.  **The Crunch:** During the last 2 minutes of churning, add 1/3 cup of the coarsely crushed graham crackers.
 4.  **The Finish:** Transfer the soft-serve consistency ice cream to a chilled, freezer-safe container. Cover and freeze for **at least 4 hours** (ideally overnight) to firm up.
 5.  **Serve:** Scoop into bowls. Top with the remaining reserved graham cracker crumbs and a fresh lime wedge for the mandatory **Acid Balance**.
-

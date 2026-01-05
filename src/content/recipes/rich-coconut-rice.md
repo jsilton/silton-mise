@@ -32,4 +32,3 @@ Great coconut rice should be rich, fragrant, and slightly sticky. We use a **50/
 3.  **Simmer:** Stir in the rice. Cover tightly with a lid and reduce heat to the lowest setting. Simmer for 18-20 minutes until the liquid is absorbed.
 4.  **Steam:** **Turn off the heat.** Keep the lid on and let the rice steam for 10-15 minutes.
 5.  **Serve:** Fluff gently with a fork and serve hot.
-

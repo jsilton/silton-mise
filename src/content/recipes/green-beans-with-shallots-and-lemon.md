@@ -38,4 +38,3 @@ Blanching green beans for exactly 3 minutes, then shocking them in ice water loc
 5.  **Glaze:** Add the honey and lemon juice. Stir for 1 minute until bubbling.
 6.  **Toss:** Add the dry green beans and lemon zest to the pan. Toss vigorously for 2 minutes until the beans are warmed through and coated in a glossy, sweet-acidic film.
 7.  **Serve:** Season with salt and black pepper. Serve immediately.
-

@@ -37,4 +37,3 @@ This Spanish-style mussel dish builds flavor by cooking chorizo, garlic, and che
 5.  **Refine:** Discard any mussels that did not open.
 6.  **Serve:** Ladle mussels and the thick chorizo broth into deep bowls. Garnish with fresh tarragon for the mandatory aromatic **High Note**.
 7.  **Toast:** Serve with heavily oiled, charred country bread.
-

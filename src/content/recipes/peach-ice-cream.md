@@ -41,4 +41,3 @@ The secret to this heritage-style peach ice cream is keeping the skins on when y
 6.  **Churn:** Drain the peaches. Stir the accumulated peach syrup into the custard base. Pour into your ice cream maker.
 7.  **Finish:** Add the chopped peaches during the final minute of churning to maintain the fruit's texture.
 8.  **Set:** Freeze for 2 hours before serving.
-

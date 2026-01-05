@@ -41,4 +41,3 @@ This is a modern Italian-French fusion that combines Italian sausage and fresh b
 4.  **Bind:** Stir in the heavy cream, grainy mustard, and red pepper flakes. Simmer for 2 minutes until the sauce is thick and glossy.
 5.  **Toss:** Add the hot pasta and fresh basil to the skillet. Toss for 1 minute until every noodle is coated.
 6.  **Serve:** Grate fresh Parmesan over the top and serve immediately.
-

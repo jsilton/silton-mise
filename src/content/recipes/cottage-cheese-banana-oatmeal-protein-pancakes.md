@@ -40,4 +40,3 @@ Blending cottage cheese and oats creates a high-protein batter that mimics tradi
 4.  **Flip:** Cook until bubbles appear on the surface and the edges look set (about 2-3 mins). Flip gently and cook for another 2 minutes until golden brown.
 5.  **Finish:** Wipe the skillet clean between batches to prevent the residual sugars from burning.
 6.  **Serve:** Serve immediately with a dollop of Greek yogurt or a drizzle of peanut butter.
-

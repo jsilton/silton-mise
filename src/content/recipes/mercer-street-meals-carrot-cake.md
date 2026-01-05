@@ -1,7 +1,7 @@
 ---
 title: Carrot Cake
 aliases:
-  - "mercer-street-carrot-cake-the-brown-butter-upgrade"
+  - 'mercer-street-carrot-cake-the-brown-butter-upgrade'
 difficulty: intermediate
 cookingMethods: [bake, boil, no-cook]
 dietary: [vegetarian]
@@ -53,4 +53,3 @@ This Mercer Street classic is elevated using Stella Parks' (Bravetart) brown but
 3.  **The Syrup:** Boil the apple, sugar, and water for 5 minutes. Strain and discard solids. **Brush the warm syrup** over the warm cake layers immediately after removing them from the pans.
 4.  **Frosting:** Beat the cream cheese and butter until smooth. Add powdered sugar and vanilla.
 5.  **Assemble:** Layer the cakes with a thick spread of frosting between them. Frost the top and sides generously.
-

@@ -1,7 +1,7 @@
 ---
 title: Lemon Ricotta Pasta
 aliases:
-  - "lemon-ricotta-pasta-the-15-minute-brightness"
+  - 'lemon-ricotta-pasta-the-15-minute-brightness'
 difficulty: easy
 cookingMethods: [roast, boil]
 dietary: []
@@ -42,4 +42,3 @@ This is a simple spring pasta from the Roman/Lazio tradition, similar to cacio e
 4.  **Bind:** Add 1/4 cup of the hot pasta water to the ricotta mixture and whisk until it looks like a thick cream.
 5.  **Toss:** Add the hot pasta to the bowl. Toss vigorously, adding more pasta water a tablespoon at a time until the sauce is glossy and coats every noodle.
 6.  **Finish:** Stir in the basil and lots of black pepper. Serve immediately with a final drizzle of oil.
-

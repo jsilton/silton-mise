@@ -40,4 +40,3 @@ This cocktail showcases sophisticated flavor layering. The secret is the herbal 
 4.  **Assemble:** Pour the cider mixture into each glass, filling 3/4 full.
 5.  **Effervescence:** Top each glass with a splash of club soda for the mandatory "Bounce."
 6.  **Garnish:** Garnish with a fresh thyme sprig and a lime slice for the final aromatic **High Note**.
-

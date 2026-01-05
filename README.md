@@ -9,6 +9,7 @@ The version-controlled culinary standard for the Master Kitchen.
 ### What is Mise?
 
 A searchable, filterable recipe repository with 474+ family recipes organized by:
+
 - **Cuisine** (Italian, Thai, Chinese, American, Mediterranean, etc.)
 - **Difficulty** (Easy, Intermediate, Advanced)
 - **Cooking Methods** (Bake, Roast, Fry, Steam, Slow-Cook, etc.)
@@ -28,6 +29,7 @@ Every recipe adheres to the Kitchen Standard:
 ## Features
 
 ### For Cooks
+
 - 🔍 **Search** by recipe name or ingredients
 - 🏷️ **Filter** by difficulty, cuisine, dietary, cooking method, occasion
 - 📊 **Sort** by alphabetical, prep time, or difficulty
@@ -35,6 +37,7 @@ Every recipe adheres to the Kitchen Standard:
 - 📝 **Detailed** recipes with ingredients, chef's notes, directions
 
 ### For Developers
+
 - ⚡ **Blazing Fast** - Static site generation for instant loads
 - 🏗️ **Component-Driven** - Reusable, maintainable Astro components
 - 🧪 **Validated** - Automated recipe validation and quality checks
@@ -61,14 +64,20 @@ npm install
 npm run dev
 # Opens: http://localhost:4321/mise/
 
-# Build production site
-npm run build
+# Run linting
+npm run lint
+
+# Format code
+npm run format
 
 # Validate all recipes
 npm run validate-recipes
 
 # Run QA tests (before deployment)
 npm run qa
+
+# Build production site
+npm run build
 ```
 
 ### Project Structure
@@ -98,6 +107,13 @@ scripts/
 ```
 
 ### Key Documentation
+
+- **[CODE_PRACTICES.md](CODE_PRACTICES.md)** - Development standards and architecture
+- **[DEPLOYMENT.md](DEPLOYMENT.md)** - Deployment workflow and checklist
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute recipes
+- **[KNOWLEDGE_PRESERVATION.md](KNOWLEDGE_PRESERVATION.md)** - Guide for future contributors
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and changes
+- **[LICENSE](LICENSE)** - MIT License for code, usage terms for recipes
 
 - **[CODE_PRACTICES.md](./CODE_PRACTICES.md)** - Development standards, component architecture, testing guidelines
 - **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Deployment workflow, pre-deployment checklist, rollback procedures
@@ -155,5 +171,3 @@ The key to this dish is **Culinary Technique** through **The [Method Name]**.
 
 - [Everyday Arugula Salad](/mise/recipes/everyday-arugula-salad)
 ```
-
-

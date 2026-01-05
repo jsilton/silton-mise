@@ -48,4 +48,3 @@ Har gow are Cantonese shrimp dumplings with translucent, pleated wrappers—a di
 5.  **Assemble:** Place 1 tbsp filling in the center. Fold and pleat carefully (aim for 7-10 pleats) to create the signature "bonnet" shape.
 6.  **Steam:** Place in a bamboo steamer on parchment. Steam over boiling water for exactly 6 minutes on high heat.
 7.  **Serve:** Serve immediately with chili oil and soy sauce for the mandatory **High Note**.
-

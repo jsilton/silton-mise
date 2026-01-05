@@ -1,21 +1,21 @@
 ---
 title: "Shruff's End"
-prepTime: "5 minutes"
-cookTime: "0 minutes"
-totalTime: "5 minutes"
-servings: "1 cocktail"
-difficulty: "easy"
-cuisines: ["American"]
+prepTime: '5 minutes'
+cookTime: '0 minutes'
+totalTime: '5 minutes'
+servings: '1 cocktail'
+difficulty: 'easy'
+cuisines: ['American']
 dietary: []
-occasions: ["entertaining", "date-night", "indulgent"]
-seasons: ["year-round", "fall", "winter"]
-flavorProfile: ["smoky", "rich", "sweet"]
-nutritionalDensity: "light"
-leftovers: "poor"
-equipment: ["mixing-glass", "cocktail-shaker", "strainer"]
-cookingMethods: ["no-cook"]
+occasions: ['entertaining', 'date-night', 'indulgent']
+seasons: ['year-round', 'fall', 'winter']
+flavorProfile: ['smoky', 'rich', 'sweet']
+nutritionalDensity: 'light'
+leftovers: 'poor'
+equipment: ['mixing-glass', 'cocktail-shaker', 'strainer']
+cookingMethods: ['no-cook']
 advancePrep: []
-pairsWith: ["charcuterie-board", "aged-cheese", "dark-chocolate"]
+pairsWith: ['charcuterie-board', 'aged-cheese', 'dark-chocolate']
 ---
 
 A sophisticated spirit-forward cocktail that beautifully balances the peaty smoke of Islay Scotch with the apple sweetness of brandy, rounded out with herbal complexity from Bénédictine and a touch of anise from Peychaud's bitters.

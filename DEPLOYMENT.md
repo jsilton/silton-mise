@@ -9,6 +9,7 @@ This document outlines the deployment process for the Mise recipe codex, includi
 ## Deployment Overview
 
 ### Current Setup
+
 - **Hosting:** Static site (Astro)
 - **Build Output:** `/dist/` directory
 - **Trigger:** Manual (run `npm run deploy` when ready)
@@ -45,6 +46,7 @@ npm run qa
 ```
 
 This runs:
+
 - ✅ Build verification (all 475 pages compile)
 - ✅ Recipe validation (all frontmatter correct)
 - ✅ File structure checks (components exist)
@@ -61,6 +63,7 @@ If any test fails, fix it before continuing.
 Test these primary features on `http://localhost:4321/mise/` (dev server):
 
 #### Homepage Search & Filters
+
 ```bash
 # Start dev server if not running
 npm run dev
@@ -69,6 +72,7 @@ npm run dev
 ```
 
 **Test cases:**
+
 - [ ] Search "chicken" → returns ~20 recipes
 - [ ] Search "vegetarian" → filters results
 - [ ] Difficulty = Easy → shows only easy recipes
@@ -80,6 +84,7 @@ npm run dev
 - [ ] No results message → appears when no matches
 
 #### Recipe Detail Page
+
 ```
 Test any recipe, e.g. /recipes/apple-pie/
 ```
@@ -100,6 +105,7 @@ Test any recipe, e.g. /recipes/apple-pie/
 - [ ] Mobile: layout responsive on small screens
 
 #### Cross-Site Navigation
+
 - [ ] Click recipe from homepage → detail page loads
 - [ ] Click breadcrumb "Codex" → back to homepage
 - [ ] Mobile layout: stacks properly at 375px width
@@ -120,6 +126,7 @@ More details about what changed and why."
 ```
 
 **Commit types:**
+
 - `feat:` - new feature
 - `fix:` - bug fix
 - `refactor:` - code reorganization
@@ -183,6 +190,7 @@ npm run deploy
 ### Immediate Checks (First 5 minutes)
 
 1. **Site Loads**
+
    ```
    Open https://your-domain.com
    Should load in < 2 seconds
@@ -279,12 +287,15 @@ npm run build
 ## Deployment Schedule
 
 ### Current Approach
+
 - **Manual deployment after each major feature**
 - Deploy after: new components, major refactors, new recipe collections
 - Always test before deploying
 
 ### Future: Continuous Deployment
+
 When ready, configure CI/CD pipeline:
+
 1. Push to main
 2. GitHub Actions runs: `npm run qa` && `npm run build`
 3. If tests pass, automatically deploys to production
@@ -296,10 +307,10 @@ When ready, configure CI/CD pipeline:
 
 ### What Was Deployed
 
-| Date | Change | Deployed By | Commit |
-|------|--------|-------------|--------|
-| Jan 4, 2026 | Frontend componentization | Jordan | abc123d |
-| Jan 3, 2026 | Comprehensive tagging system | Jordan | def456e |
+| Date        | Change                       | Deployed By | Commit  |
+| ----------- | ---------------------------- | ----------- | ------- |
+| Jan 4, 2026 | Frontend componentization    | Jordan      | abc123d |
+| Jan 3, 2026 | Comprehensive tagging system | Jordan      | def456e |
 
 ---
 
@@ -308,6 +319,7 @@ When ready, configure CI/CD pipeline:
 ### Issue: Build Fails After Changes
 
 **Solution:**
+
 ```bash
 # Clear cache and rebuild
 rm -rf node_modules .astro
@@ -318,6 +330,7 @@ npm run build
 ### Issue: Recipes Don't Appear
 
 **Solution:**
+
 ```bash
 # Validate recipes
 npm run validate-recipes
@@ -329,6 +342,7 @@ npm run validate-recipes
 ### Issue: Search/Filters Not Working
 
 **Solution:**
+
 1. Verify FilterPanel component loads: dev tools > Network
 2. Check if JavaScript errors in console
 3. Rebuild: `npm run build`
@@ -337,6 +351,7 @@ npm run validate-recipes
 ### Issue: Tags Not Displaying
 
 **Solution:**
+
 1. Verify recipe has tagging fields in frontmatter
 2. Check TagSection component renders in RecipeHeader
 3. Run validator: `npm run validate-recipes`
@@ -353,6 +368,7 @@ npm run validate-recipes
 ---
 
 **Next deployment?** Run:
+
 ```bash
 npm run qa        # verify everything
 npm run build     # compile

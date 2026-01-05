@@ -56,4 +56,3 @@ The tangzhong method - pre-cooking flour and water into a paste - is an Asian br
 8.  **Bake:** Bake for 30-35 minutes until the tops are just starting to turn golden brown.
 9.  **The Frosting:** Whip the cream cheese and butter until smooth. Mix in powdered sugar, vanilla, and cream until fluffy.
 10. **Finish:** Let the rolls cool for 15 minutes, then spread the frosting generously while they are still warm to allow some of it to seep into the spirals.
-

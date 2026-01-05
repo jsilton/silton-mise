@@ -39,4 +39,3 @@ This is a quick take on the hand pie. The key is brushing the biscuits with butt
 5.  **The Sizzle:** In a small pan, melt 3 tbsp butter until it crackles and turns nutty brown. Brush each "bomb" generously with the brown butter.
 6.  **Bake:** Bake for 12-15 minutes until the tops are deep golden brown and the biscuit has a flaky "Bounce."
 7.  **Serve:** Brush once more with the remaining brown butter. Serve warm while the Brie is molten.
-

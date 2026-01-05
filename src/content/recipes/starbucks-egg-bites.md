@@ -39,4 +39,3 @@ Starbucks popularized sous-vide egg bites with their distinctive velvety texture
 5.  **Bake:** Bake for 20-25 minutes until the centers are set but not brown.
 6.  **The Finish:** Let rest in the pan for 10 minutes (mandatory). Gently pop them out with a knife.
 7.  **Serve:** Serve immediately or refrigerate for up to 5 days.
-

@@ -50,4 +50,3 @@ Chinese eggplant with garlic sauce (yu xiang qiezi) is a Sichuan restaurant clas
 5.  **The Glaze:** Add eggplant back to the wok. Give the sauce a final stir and pour it in.
 6.  **Simmer:** Simmer for 1-2 minutes until the sauce is thick enough to coat a spoon and the eggplant is glossy.
 7.  **Finish:** Stir in scallions and serve immediately with steamed rice.
-

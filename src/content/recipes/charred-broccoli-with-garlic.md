@@ -37,4 +37,3 @@ Charred broccoli with garlic is a staple in Chinese-American restaurants. The ke
 4.  **Aromatics:** Add the garlic and red pepper flakes. Cook for 1 minute until the garlic is golden.
 5.  **Glaze:** Stir in the soy sauce. It will bubble and evaporate instantly, seasoning the broccoli.
 6.  **Finish:** Turn off the heat. Squeeze fresh lemon juice over the top.
-

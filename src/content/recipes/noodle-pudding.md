@@ -39,4 +39,3 @@ This Jewish comfort classic (kugel) achieves rich yet structurally sound texture
 5.  **The Crunch:** In a small bowl, toss the crushed corn flakes with brown sugar and the remaining melted butter. Spread evenly over the top of the pudding.
 6.  **Bake:** Bake at 350°F for 1 hour until the center is set and the top is a deep, crunchy golden brown.
 7.  **Serve:** Let rest for 15 minutes before slicing. This allows the custard to set into a firm "Bounce."
-

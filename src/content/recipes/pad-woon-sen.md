@@ -43,4 +43,3 @@ Pad woon sen is a Thai glass noodle stir-fry that's lighter than pad thai. Mung 
 6.  **Bind:** Add the drained noodles and the sauce. Toss vigorously over medium-high for 3 minutes until the noodles are glossy and have absorbed the liquid.
 7.  **Finish:** Return the eggs and charred veg to the wok. Stir in the Thai chile and scallions for the mandatory **High Note**.
 8.  **Serve:** Serve hot or at room temperature for the Kitchen Standard fuel profile.
-

@@ -1,21 +1,21 @@
 ---
-title: "Old Fashioned"
-prepTime: "5 minutes"
-cookTime: "0 minutes"
-totalTime: "5 minutes"
-servings: "1 cocktail"
-difficulty: "easy"
-cuisines: ["American"]
+title: 'Old Fashioned'
+prepTime: '5 minutes'
+cookTime: '0 minutes'
+totalTime: '5 minutes'
+servings: '1 cocktail'
+difficulty: 'easy'
+cuisines: ['American']
 dietary: []
-occasions: ["entertaining", "date-night", "indulgent"]
-seasons: ["year-round"]
-flavorProfile: ["rich", "sweet", "savory"]
-nutritionalDensity: "light"
-leftovers: "poor"
-equipment: ["mixing-glass", "muddler"]
-cookingMethods: ["no-cook"]
+occasions: ['entertaining', 'date-night', 'indulgent']
+seasons: ['year-round']
+flavorProfile: ['rich', 'sweet', 'savory']
+nutritionalDensity: 'light'
+leftovers: 'poor'
+equipment: ['mixing-glass', 'muddler']
+cookingMethods: ['no-cook']
 advancePrep: []
-pairsWith: ["steak", "bbq-ribs", "dark-chocolate"]
+pairsWith: ['steak', 'bbq-ribs', 'dark-chocolate']
 ---
 
 The Old Fashioned is arguably the original cocktail, dating back to the early 1800s. This timeless drink showcases quality whiskey enhanced with just a touch of sugar and bitters, built directly in the glass over ice.

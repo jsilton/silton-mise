@@ -38,4 +38,3 @@ The secret to sweet potato fries that aren't limp and oily is proper spacing. Sw
 5.  **Bake:** Roast for 15 minutes. Flip the fries with a metal spatula.
 6.  **The Crunch:** Roast for another 10-12 minutes until the edges are dark brown and crispy.
 7.  **Serve:** Serve immediately while hot. (Note: do not cover them, or the steam will destroy the snap).
-

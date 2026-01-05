@@ -39,4 +39,3 @@ Soba noodles are made from buckwheat, making them more delicate than wheat pasta
 5.  **The Crunch:** Add 1 tbsp oil. Sauté shiitakes and scallions for 2 minutes. Add the blanched broccoli.
 6.  **Bind:** Add the noodles, tofu, and the stock mixture. Toss vigorously over high heat for 2 minutes until the liquid has emulsified into a glossy glaze.
 7.  **Serve:** Stir in the cilantro and sesame oil. Serve immediately.
-

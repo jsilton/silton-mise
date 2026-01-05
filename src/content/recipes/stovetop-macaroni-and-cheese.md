@@ -39,4 +39,3 @@ Whisking flour into cold milk before heating creates a light, stable base that w
 5.  **Season:** Stir in the salt, mustard powder, and butter.
 6.  **Bind:** Return the hot pasta to the saucepan. Toss vigorously until every noodle is saturated in the cheese silk.
 7.  **Serve:** Serve immediately while hot. (Note: if baking, top with breadcrumbs and broil for 2 minutes).
-

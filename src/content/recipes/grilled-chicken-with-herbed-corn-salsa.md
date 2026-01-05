@@ -35,4 +35,3 @@ This Mexican-inspired grilled chicken showcases summer corn charred directly on 
 3.  **The Salsa:** While grilling, place basil, mint, Parmesan, and garlic in a food processor. Pulse until finely chopped. Drizzle in the lemon juice and olive oil and pulse once more until a chunky emulsion forms.
 4.  **Combine:** Shear the charred kernels off the cobs. In a small bowl, toss the kernels with the herb sauce.
 5.  **Serve:** Place grilled chicken on a platter and top generously with the herbed corn salsa. Serve immediately.
-

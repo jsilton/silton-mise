@@ -44,4 +44,3 @@ This is ideal for meal-prep breakfasts. Blending standard rolled oats transforms
 4.  **The Cap:** Drizzle the melted dark chocolate over the top of each jar to create a Crunch layer.
 5.  **The Finish:** Seal the jars and refrigerate for at least 90 minutes (or ideally overnight). The mixture will firm up significantly as the oats and chia seeds absorb the liquid.
 6.  **Serve:** These keep for up to 5 days. Eat cold straight from the jar.
-

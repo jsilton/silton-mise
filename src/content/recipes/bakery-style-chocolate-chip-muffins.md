@@ -43,4 +43,3 @@ To achieve the **"Bakery High-Dome"**, we use two professional techniques: **The
 5.  **The Rise:** Bake at 425°F for **5 minutes**.
 6.  **The Finish:** Without opening the oven door, reduce heat to 375°F. Bake for another 12-15 minutes.
 7.  **Cool:** Let cool for 10 minutes before removing from the tin.
-

@@ -43,4 +43,3 @@ This is a modern American creation that takes Tuscan flavors (bacon, cream, toma
 5.  **Emulsify:** Pour in the heavy cream and Parmesan. Simmer for 2 minutes until the sauce is thick and bubbly.
 6.  **Bind:** Add the spaghetti squash and spinach to the skillet. Toss vigorously for 1 minute until the spinach has collapsed.
 7.  **Serve:** Top with the crispy bacon and fresh basil for the final aromatic **High Note**.
-

@@ -40,4 +40,3 @@ Challah is traditional Jewish bread for Shabbat and holidays. Using five eggs cr
 8.  **Second Rise:** Brush with beaten egg. Let rise for another 45-60 minutes.
 9.  **Bake:** Preheat oven to 375°F. Brush once more with egg and sprinkle with seeds. Bake for 35-40 minutes until deep mahogany brown.
 10. **Cool:** Let cool completely on a rack before slicing.
-

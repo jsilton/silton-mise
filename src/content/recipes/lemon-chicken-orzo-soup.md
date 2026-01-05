@@ -41,4 +41,3 @@ The key to orzo soup is sautéing the vegetables and then stirring in a small am
 4.  **The Orzo:** Reduce heat to medium-low. Add the dry orzo. Simmer for 10-12 minutes, stirring occasionally (orzo loves to stick to the bottom), until the pasta is al dente and the chicken is cooked through (165°F).
 5.  **Finish:** Remove from heat. Stir in the fresh parsley and lemon juice.
 6.  **Serve:** Season generously with salt and pepper. Serve immediately. Note: orzo will continue to absorb liquid as it sits; add a splash of broth when reheating.
-

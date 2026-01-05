@@ -36,4 +36,3 @@ This recipe is designed for a baby's first birthday. It contains no refined suga
 3.  **Frosting:** Whisk the softened cream cheese with the apple juice concentrate and vanilla until pale and fluffy.
 4.  **Assemble:** Stack the mini rounds with a layer of frosting between them. "Frost" the entire outside.
 5.  **Smash:** Serve to the birthday guest of honor.
-

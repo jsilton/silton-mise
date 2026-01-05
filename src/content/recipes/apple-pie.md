@@ -48,4 +48,3 @@ A restaurant-quality apple pie requires **Physics**. We use the **Vodka Hack**: 
 6.  **Wash:** Brush with beaten egg and sprinkle with sugar.
 7.  **Bake:** Bake at 375°F for 50 minutes on the **lowest rack** (to ensure the bottom crust gets direct heat).
 8.  **Cool:** Let cool for at least 2 hours before slicing.
-

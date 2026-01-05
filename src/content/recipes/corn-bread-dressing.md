@@ -39,4 +39,3 @@ The secret to this family classic is getting the right texture. Most dressings a
 5.  **Combine:** In a large bowl, toss the dried cornbread with the mushroom mixture.
 6.  **Moisten:** Gradually pour in the chicken stock, tossing gently, until the bread is moist but not swimming in liquid. Season with salt and pepper.
 7.  **Bake:** Transfer to a buttered baking dish. Bake at 350°F for 30 minutes until the top is crispy and golden.
-

@@ -1,7 +1,7 @@
 ---
 title: Anadama Bread
 aliases:
-  - "anadama-bread-the-new-england-classic"
+  - 'anadama-bread-the-new-england-classic'
 difficulty: easy
 cookingMethods: [bake, roast, boil]
 dietary: []
@@ -46,4 +46,3 @@ Anadama is a quintessential New England bread, supposedly named after a fisherma
 7.  **Shape:** Deflate the dough. Shape into a loaf and place in a greased 9x5 pan.
 8.  **Rise 2:** Cover and let rise again until doubled (about 45 minutes).
 9.  **Bake:** Bake at 375°F for 30 minutes until the top is dark golden brown and the bottom sounds hollow when tapped.
-

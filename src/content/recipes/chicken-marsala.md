@@ -30,12 +30,14 @@ leftovers: good
 equipment: [large-skillet]
 pairsWith: [mashed-potatoes, pasta, green-beans]
 ---
+
 dietary: []
 occasions: [comfort-food]
 flavorProfile: [sweet, savory, rich, herbaceous]
 cuisines: [Italian]
 role: main
 vibe: comfort
+
 ---
 
 ## Chef's Note
@@ -51,4 +53,3 @@ Despite its Italian name and Sicilian wine, Chicken Marsala is purely Italian-Am
 5.  **Simmer:** Add the chicken stock and simmer for 3 minutes to thicken the sauce slightly.
 6.  **The Butter Mount:** Turn off the heat. Add the cold butter cubes and whisk or swirl the pan constantly until the butter is melted and the sauce looks glossy and thick.
 7.  **Finish:** Return the chicken to the pan for 1 minute just to warm through. Garnish with fresh parsley and serve immediately.
-

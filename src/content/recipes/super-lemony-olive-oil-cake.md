@@ -42,4 +42,3 @@ This is a Mediterranean-style olive oil cake with intense lemon flavor. The secr
 6.  **Bake:** Pour into the prepared pan. Sprinkle 1 tbsp sugar over the surface for a crystalline "Snap." Bake for 50 minutes until golden brown.
 7.  **Set:** Let cool completely in the pan before unmolding.
 8.  **Finish:** Dust with powdered sugar and extra lemon zest just before serving.
-

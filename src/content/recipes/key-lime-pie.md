@@ -37,4 +37,3 @@ This is classic Key lime pie for the holiday table. The key to its texture is wh
 5.  **The Finish:** Cool completely on a rack, then refrigerate for **at least 8 hours** (mandatory).
 6.  **The Crown:** Just before serving, whip the heavy cream and powdered sugar until stiff peaks form.
 7.  **Serve:** Mound the cream over the pie. Garnish with lime zest for the final aromatic **High Note**.
-

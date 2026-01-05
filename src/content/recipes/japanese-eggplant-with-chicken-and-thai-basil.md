@@ -43,4 +43,3 @@ This Thai-style stir-fry uses velveting - massaging water and cornstarch into ch
 5.  **Bind:** Return chicken and eggplant to the wok. Splash in the Shaoxing wine. Add the fish sauce, soy sauces, sugar, and white pepper.
 6.  **Glaze:** Pour the hot stock around the perimeter of the wok to deglaze. Toss vigorously until the liquid is absorbed into a glossy glaze.
 7.  **Serve:** Serve immediately over steamed jasmine rice.
-

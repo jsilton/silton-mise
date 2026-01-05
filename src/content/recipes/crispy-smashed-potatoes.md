@@ -33,4 +33,3 @@ Boiling potatoes until tender, then smashing them flat creates jagged edges and 
 4.  **Season:** Drizzle generously with oil. Sprinkle with garlic powder, herbs, salt, and pepper.
 5.  **Roast:** Bake for 25-30 minutes, flipping once halfway through, until the potatoes are deep golden brown and the edges are "glass-crisp."
 6.  **Finish:** Sprinkle with flaky sea salt. Serve hot.
-

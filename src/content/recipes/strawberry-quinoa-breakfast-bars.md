@@ -40,4 +40,3 @@ These are breakfast bars for busy mornings. The key to their texture is using pr
 4.  **Shape:** Transfer the mixture to the prepared dish. Press down firmly with a spatula to create a flat, uniform surface.
 5.  **Bake:** Bake for 20-25 minutes until the center is firm to the touch and the edges are golden brown.
 6.  **Set:** Let cool **completely** in the pan (mandatory for structure). Slice into 9 squares.
-

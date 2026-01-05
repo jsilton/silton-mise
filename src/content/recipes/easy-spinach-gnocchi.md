@@ -40,4 +40,3 @@ These are properly called "gnudi" - Italian for "naked" - because they're essent
 4.  **Cut:** Slice logs into 1-inch chunks. Toss lightly with flour.
 5.  **Boil:** Bring a large pot of salted water to a boil. Drop gnocchi in. They are done when they float to the surface (3-5 mins).
 6.  **Serve:** Drain gently. Serve immediately with a high-quality tomato sauce or brown butter and sage.
-

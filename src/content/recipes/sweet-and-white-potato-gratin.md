@@ -1,7 +1,7 @@
 ---
 title: Sweet and White Potato Gratin
 aliases:
-  - "sweet-and-white-potato-gratin-the-thanksgiving-splurge"
+  - 'sweet-and-white-potato-gratin-the-thanksgiving-splurge'
 difficulty: easy
 cookingMethods: [bake, roast, simmer, boil]
 dietary: [vegetarian]
@@ -44,4 +44,3 @@ This is a rich, colorful holiday centerpiece. The secret to a perfect gratin is 
 6.  **Bake:** Cover with foil. Bake at 425°F for 15 minutes.
 7.  **Crisp:** Remove foil. Reduce heat to 400°F. Bake for another 45 minutes until the top is deep golden brown and the potatoes are soft when pierced with a knife.
 8.  **Rest:** Let rest for 10 minutes before serving so the layers set.
-

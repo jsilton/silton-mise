@@ -38,4 +38,3 @@ Baking whole fish Chinese-style creates a restaurant-quality presentation. Cutti
 5.  **Garnish Prep:** Carefully transfer the fish to a warm platter. Reserve the juices from the pan. Pile the scallions and the remaining ginger on top of the fish.
 6.  **The Sizzle:** Heat peanut oil in a small saucepan until just smoking. Carefully pour it over the scallion/ginger pile—it should sizzle loudly.
 7.  **Finish:** Pour the reserved pan juices over the fish. Garnish with cilantro and serve immediately.
-

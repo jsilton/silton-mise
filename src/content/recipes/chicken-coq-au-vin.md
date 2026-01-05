@@ -41,4 +41,3 @@ We have upgraded this from the "soup mix" version to the **Authentic French Stan
 6.  **The Magic:** Remove chicken to a plate. Turn heat to high and boil the sauce for 5 minutes until thick enough to coat a spoon.
 7.  **The Mount:** Turn off the heat. Whisk in the cold butter cubes until the sauce is glossy and rich.
 8.  **Serve:** Return chicken to the sauce. Serve over mashed potatoes or rice.
-

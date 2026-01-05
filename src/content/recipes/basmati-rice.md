@@ -31,4 +31,3 @@ Perfect Basmati rice is an exercise in **Surface Area Management**. The secret i
 3.  **Cook:** Set rice cooker to "White Rice" or simmer on low for 15-18 minutes if using a pot.
 4.  **The Rest (Critical):** Once cooked, **do not open the lid.** Let the rice steam for 10 minutes. This allows the moisture to redistribute into the center of each grain.
 5.  **Fluff:** Gently fluff with a fork and serve.
-

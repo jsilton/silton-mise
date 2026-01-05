@@ -46,4 +46,3 @@ Vegetarian "meatballs" have been made with nuts and grains for centuries, though
 5.  **Shape:** Form into 1.5-inch balls. Arrange on an oiled baking sheet.
 6.  **Bake:** Bake at 350°F for 20-30 minutes, flipping once, until the exterior is deep brown and "Snappy."
 7.  **Serve:** Add the meatballs to your favorite [Roasted Tomato Sauce](/mise/recipes/roasted-tomato-basil-soup) and serve over [Fresh Egg Pasta](/mise/recipes/fresh-egg-pasta).
-

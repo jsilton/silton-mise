@@ -46,4 +46,3 @@ Stuffed shells (conchiglioni ripieni) are a classic Italian-American "pasta al f
 5.  **Fill:** Stuff each shell with a rounded tablespoon of the ricotta mix. Arrange in a single layer.
 6.  **Bake:** Top with remaining sauce and cover tightly with foil. Bake at 350°F for 30 minutes.
 7.  **The Crunch:** Remove foil. Sprinkle with remaining Parmesan. Broil for 2 minutes until the edges are crispy and golden.
-

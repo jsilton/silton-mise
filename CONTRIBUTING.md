@@ -45,11 +45,13 @@ Every recipe in this library must be a "Keeper." We prioritize flavor layering, 
 Recipes are components, not just isolated instructions. Our metadata enables intelligent meal planning and constraint-based selection.
 
 **Core Identity Fields:**
+
 - **Role:** Every dish must have a role (`main`, `side`, `base`, `dessert`, `drink`, `condiment`).
 - **Vibe:** Every dish must have a context (`quick`, `nutritious`, `comfort`, `technical`, `holiday`).
 - **Difficulty:** Skill level required (`easy`, `intermediate`, `medium`, `hard`).
 
 **Planning Metadata:**
+
 - **Occasions:** Multiple tags allowed for time-based, social, seasonal, and nutritional contexts.
 - **Seasons:** When the dish is best (`spring`, `summer`, `fall`, `winter`, `year-round`).
 - **Nutritional Density:** How heavy the meal feels (`light`, `moderate`, `hearty`).
@@ -59,26 +61,30 @@ Recipes are components, not just isolated instructions. Our metadata enables int
 
 **Occasion Tags Architecture:**
 
-*Time-Based Constraints:*
+_Time-Based Constraints:_
+
 - `weeknight` - 45 min or less, minimal cleanup, reliable
 - `weekend-project` - leisurely cooking, multiple steps, learning experience
 - `quick-lunch` - 30 min or less, often single-pot
 - `meal-prep` - makes ahead, scales well, reheats excellently
 
-*Social Context:*
+_Social Context:_
+
 - `entertaining` - impressive for guests, plating matters
 - `date-night` - special but not overwhelming, romantic
 - `kids-approved` - family-friendly, not too adventurous
 - `potluck` - travels well, serves a crowd, room temperature okay
 
-*Seasonal/Calendar:*
+_Seasonal/Calendar:_
+
 - `holiday` - Thanksgiving, Christmas, Passover, etc.
 - `summer` - uses summer produce, grilling, refreshing
 - `winter` - hearty, warming, root vegetables
 - `spring` - light, fresh, bright flavors
 - `fall` - comfort, squash, apples, cinnamon
 
-*Nutritional Intent:*
+_Nutritional Intent:_
+
 - `comfort-food` - indulgent, soul-satisfying, rich
 - `light-and-fresh` - lighter proteins, lots of vegetables, bright
 - `post-workout` - protein-forward, nutrient-dense
@@ -89,6 +95,7 @@ Recipes are components, not just isolated instructions. Our metadata enables int
 Cuisine tags identify the cultural origin of a recipe. Follow these rules for consistency:
 
 **Core Principles:**
+
 - Use the actual cuisine name, not hybrid descriptors
 - Never create compound tags (no "Chinese-American", "Italian-American", "German-American")
 - Never use "Fusion" as a tag - instead tag with both source cuisines
@@ -96,6 +103,7 @@ Cuisine tags identify the cultural origin of a recipe. Follow these rules for co
 - Use consistent capitalization and spacing
 
 **Valid Cuisine Tags:**
+
 - `American`, `Southern`
 - `Chinese`, `Japanese`, `Korean`, `Thai`, `Vietnamese`, `Indian`
 - `Italian`, `French`, `Spanish`, `Greek`, `Swiss`, `Belgian`
@@ -106,6 +114,7 @@ Cuisine tags identify the cultural origin of a recipe. Follow these rules for co
 - `Hawaiian`, `Brazilian`, `German`, `British`
 
 **Examples:**
+
 - General Tso's Chicken → `Chinese` (it's Chinese-American food, but tag as Chinese)
 - Chicken Tikka Masala → `Indian, British` (two tags showing fusion)
 - Spaghetti and Meatballs → `Italian, American` (Italian dish with American adaptation)
@@ -116,6 +125,7 @@ Cuisine tags identify the cultural origin of a recipe. Follow these rules for co
 - Chicken Shawarma → `Middle Eastern` or `Lebanese` (can be specific or broad)
 
 **What NOT to do:**
+
 - ❌ `Chinese-American` → Use `Chinese` or `Chinese, American`
 - ❌ `Asian-Fusion` → Use specific cuisines like `Thai, Chinese`
 - ❌ `Middle-Eastern` (hyphenated) → Use `Middle Eastern` (two words)
@@ -157,6 +167,7 @@ We maintain a small, human-editable knowledge base of culinary rules and heurist
 - **Changelog:** Document notable KB changes in `src/knowledge/kb-CHANGELOG.md` so reviewers can track rule evolution.
 
 ### Audience & KB overrides
+
 - **Audience frontmatter:** Add `audience: "kids"` or `audience: ["kids","family"]` to indicate the intended eater(s). Rules can opt-out for specific audiences (e.g., plating suggestions for children's food).
 - **Suppress a rule for a specific recipe:** Add `kb: { disable: ["kb.plating-suggestion"] }` in frontmatter to silence a KB rule when you intentionally deviate.
 - **When in doubt:** Prefer adding a short rationale in the recipe `## Chef's Note` explaining special context (e.g., "made for toddlers; keep toppings simple and nut-free").
@@ -202,6 +213,7 @@ totalTime: 40 min
 - **Lean on `vibe`:** For quick context, `vibe` captures tone (quick, comfort, technical, etc.); tags provide granular filtering.
 
 ## AI-assisted suggestions (scaffolding)
+
 We generate **AI context files** for recipes under `public/recipes/ai-context/` and placeholder AI output under `public/recipes/ai-suggest/`.
 
 - **Purpose:** These files capture recipe metadata, ingredient tokens, detected methods/audiences, and KB suggestions so an AI can make informed, contextual recommendations without the KB auto-applying edits.

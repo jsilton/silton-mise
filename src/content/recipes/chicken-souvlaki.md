@@ -34,4 +34,3 @@ Great Souvlaki is about **Acid and Aroma**. We marinate the chicken in a heavy d
 4.  **Cook:** Grill for 3-4 minutes per side until charred and the internal temp is 160°F.
 5.  **Rest:** Let rest for 5 minutes. The juices will redistribute and carryover heat will finish the cook.
 6.  **Finish:** Squeeze a final hit of fresh lemon over the hot skewers.
-

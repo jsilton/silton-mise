@@ -37,4 +37,3 @@ Kongnamul namul (seasoned soybean sprouts) is a staple banchan (side dish) in Ko
 4.  **Season:** In a large bowl, whisk together sesame oil, garlic, salt, and green onion.
 5.  **Bind:** Add the warm sprouts. Toss vigorously with your hands or tongs until every strand is coated.
 6.  **Serve:** Garnish with sesame seeds. Serve chilled or at room temperature.
-

@@ -38,4 +38,3 @@ These are essentially "Pancakes in a Pan." The secret to their fluffy, rich text
 3.  **Top:** Press 4-5 blueberries into the top of each muffin.
 4.  **Bake:** Bake at 350°F for 25-30 minutes until they are puffed and golden.
 5.  **Cool:** Let sit for 5 minutes before removing.
-

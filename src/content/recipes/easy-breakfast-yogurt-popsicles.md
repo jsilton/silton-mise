@@ -38,4 +38,3 @@ Prep these up to 5 days ahead for quick summer breakfasts. Microwaving honey for
 4.  **The Crunch:** Microwave the remaining 1 tsp honey for 10 seconds. Toss with the granola until coated. Press the granola mixture into the top of each popsicle mold to create a crunchy "base."
 5.  **Set:** Place a wooden stick into each mold. Freeze for **at least 4 hours** (overnight is best).
 6.  **Unmold:** Run the outside of the mold under warm water for 5-10 seconds to release. Serve immediately.
-

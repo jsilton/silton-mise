@@ -39,4 +39,3 @@ The key to successful yogurt pops is simmering the strawberries and rhubarb with
 5.  **Assemble:** Stir the reserved fruit pieces back into the puree (for texture). Divide the mixture among 10 popsicle molds.
 6.  **Set:** Freeze for 1 hour. Insert sticks. Freeze for **at least 3 more hours** until rock-solid.
 7.  **Serve:** Run molds under warm water for 10 seconds to release. Serve immediately.
-

@@ -40,4 +40,3 @@ Stir chia seeds into milk, wait 5 minutes, then stir again before refrigerating.
 4.  **Chill:** Cover and refrigerate for **at least 2 hours** (ideally overnight).
 5.  **Adjust:** If the pudding is too thick, stir in a splash more milk. If too thin, add 1 tbsp more seeds and wait 30 minutes.
 6.  **Serve:** Top with fresh fruit and granola for a crunchy Crunch contrast.
-

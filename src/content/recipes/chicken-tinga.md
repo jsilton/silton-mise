@@ -36,4 +36,3 @@ Tinga is a Pueblan dish of shredded meat in smoky chipotle-tomato sauce. The key
 4.  **Simmer:** Pour the blended sauce into the pan. Stir in broth, oregano, and salt. Bring to a simmer for 5 minutes to thicken.
 5.  **Toss:** Add the shredded chicken to the sauce. Cook for 5 minutes until the chicken has absorbed the smoky flavors.
 6.  **Finish:** Add a squeeze of lime at the end for the **Acid Balance**.
-

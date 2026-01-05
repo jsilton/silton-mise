@@ -38,4 +38,3 @@ Muddling the basil before adding liquids releases its chlorophyll and essential 
 4.  **Effervescence:** Top with the tonic water or seltzer. Do not stir again—let the bubbles carry the basil essence to the top.
 5.  **The Finishing Touch:** Add 3 dashes of bitters directly onto the surface.
 6.  **The Slap:** Take the basil sprig, slap it between your palms to release the scent, and tuck it into the ice as a garnish.
-

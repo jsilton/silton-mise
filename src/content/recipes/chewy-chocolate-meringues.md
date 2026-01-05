@@ -33,4 +33,3 @@ The secret to a meringue that is "Chewy" rather than just "Crispy" is the **Suga
 5.  **Portion:** Use a large spoon or cookie scoop to place clouds of batter onto the sheets. They will not spread, so you can place them 1 inch apart.
 6.  **Bake:** Bake for 45-50 minutes. The cookies are done when the outside is firm but the center still feels slightly soft.
 7.  **Cool:** Let cool completely on the baking sheet to allow the shell to set.
-

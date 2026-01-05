@@ -31,4 +31,3 @@ Roasting green beans at 425°F evaporates their moisture and caramelizes the tip
 3.  **Toss:** On a large baking sheet, toss green beans with oil, garlic powder, and salt. Spread in a **single layer**.
 4.  **Roast:** Bake for 10-12 minutes until the skins are shriveled and the tips are dark brown and crispy.
 5.  **Finish:** Sprinkle with Parmesan or panko if using and toss. Serve immediately while hot.
-

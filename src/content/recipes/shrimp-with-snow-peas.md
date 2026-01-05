@@ -51,4 +51,3 @@ This classic Cantonese stir-fry showcases delicate proteins and spring vegetable
 6.  **Aromatics:** Add the ginger, garlic, and green onions. Toss with the shrimp for 30 seconds until fragrant.
 7.  **Finish:** Stir the sauce one last time and pour it into the pan. Toss everything together for 30-60 seconds until the sauce bubbles and turns into a clear, glossy glaze.
 8.  **Serve:** Serve immediately over [Jasmine Rice](/mise/recipes/homemade-rice-pilaf).
-

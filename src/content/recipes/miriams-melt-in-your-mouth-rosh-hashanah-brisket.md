@@ -36,4 +36,3 @@ This is a "Traditional Recipe." The recipe utilizes a classic Jewish technique: 
 5.  **Low & Slow:** Lower the oven temperature to 250°F. Return the brisket to the oven and cook for 4 more hours until fork-tender.
 6.  **The Chill (Optional but Recommended):** Let the meat cool in its juices, then refrigerate overnight. This allows the fat to be easily removed and the meat to be sliced perfectly thin.
 7.  **Serve:** Slice against the grain. Return to the sauce and reheat gently before serving.
-

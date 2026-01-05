@@ -38,4 +38,3 @@ The French Dip is all about the **Jus** (the juice). Most home versions are wate
 6.  **Assemble:** Split the rolls. Pile the beef onto each roll and top with a slice of provolone.
 7.  **Toast:** Place the sandwiches under the **BROILER** for 1-2 minutes until the cheese is bubbly and the bread is toasted.
 8.  **Serve:** Serve immediately with the hot Jus on the side for dipping.
-

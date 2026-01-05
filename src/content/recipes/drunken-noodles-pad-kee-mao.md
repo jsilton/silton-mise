@@ -48,4 +48,3 @@ Pad kee mao ('drunken noodles') is a Thai stir-fry known for its bold, spicy fla
 6.  **Toss:** Add the noodles. Use a "scooping" motion to mix for 1 minute until warmed through.
 7.  **Bind:** Pour in the sauce. Stir-fry at **MAXIMUM HEAT** for 1 minute, scraping the bottom of the pan to prevent sticking, until noodles are uniform in color.
 8.  **Finish:** Return chicken to the wok. Toss for 1 more minute until glossy. Serve immediately.
-

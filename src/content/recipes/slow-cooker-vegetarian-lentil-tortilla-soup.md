@@ -37,4 +37,3 @@ This Tex-Mex vegetarian tortilla soup uses red lentils that dissolve completely 
 3.  **The Emulsion:** Stir in the optional heavy cream. For a smoother texture, use an immersion blender to pulse the soup 3-4 times—this keeps it chunky but increases the silkiness.
 4.  **Finish:** Stir in the fresh lime juice. Season with salt and pepper.
 5.  **Serve:** Ladle into bowls. Pile on the "Texture Stacks": crushed tortilla chips, diced avocado, and fresh cilantro.
-

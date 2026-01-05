@@ -42,4 +42,3 @@ This one-pot meal brings together protein, whole grains, and vegetables in a sin
 5.  **Cook:** Reduce heat to low and simmer for 15-20 minutes until the liquid is fully absorbed and the chicken is cooked through.
 6.  **Wilt:** Remove from heat. Gently stir in the fresh spinach—it will collapse in the residual heat.
 7.  **Serve:** Fluff the quinoa with a fork and serve immediately.
-

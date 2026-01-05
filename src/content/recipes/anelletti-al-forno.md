@@ -1,7 +1,7 @@
 ---
 title: Anelletti Al Forno
 aliases:
-  - "anelletti-al-forno-the-sicilian-pasta-bake"
+  - 'anelletti-al-forno-the-sicilian-pasta-bake'
 difficulty: easy
 cookingMethods: [bake, fry, sauté, simmer, boil]
 dietary: []

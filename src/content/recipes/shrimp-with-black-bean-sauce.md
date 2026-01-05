@@ -44,4 +44,3 @@ This Cantonese dish builds flavor from fermented black beans (douchi), which pro
 5.  **Bind:** Stir in the cornstarch slurry until the sauce is thick and mirror-glossy.
 6.  **The Ribbon:** Turn heat to low. Pour the egg across the surface. Let sit for 10 seconds, then fold once.
 7.  **Serve:** Garnish with scallions and serve immediately over steamed jasmine rice.
-

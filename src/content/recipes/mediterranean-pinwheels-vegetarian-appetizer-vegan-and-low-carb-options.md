@@ -36,4 +36,3 @@ These quick appetizers or lunch components require proper technique to avoid fal
 4.  **The Roll:** Starting from the edge parallel to the basil, roll the tortilla **very tightly**, squeezing gently as you go to ensure the "Emulsion" binds the layers.
 5.  **The Finish:** Wrap each log tightly in plastic wrap and **refrigerate for at least 30 minutes** (mandatory for clean slicing).
 6.  **Cut:** Using a sharp serrated knife, slice into 1-inch pinwheels.
-

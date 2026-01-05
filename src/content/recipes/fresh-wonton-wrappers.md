@@ -38,4 +38,3 @@ Homemade wonton wrappers have a delicate, silky texture that's hard to match wit
 4.  **Roll:** Divide dough into 4 pieces. Use a pasta machine (recommended) or a heavy rolling pin. Roll until the dough is thin enough to see your hand through it (Setting 6 or 7 on most pasta machines).
 5.  **Cut:** Dust generously with cornstarch. Cut into 3.5-inch squares.
 6.  **Store:** Stack with plenty of cornstarch between layers. Wrap tightly in plastic. (Can be refrigerated for 2 days or frozen for 3 months).
-

@@ -38,4 +38,3 @@ Pad krapow gai (Thai basil chicken) is a popular Thai stir-fry dish characterize
 5.  **Bind:** Return the chicken to the wok. Add the fish sauce, soy sauce, sugar, and 1/4 cup water.
 6.  **Finish:** Cover and steam for 2 minutes. Uncover, stir in the basil leaves, and toss for 30 seconds until just wilted.
 7.  **Serve:** Serve immediately over steamed jasmine rice.
-

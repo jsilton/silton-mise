@@ -42,4 +42,3 @@ Asian-inspired grain bowls with glazed proteins became hugely popular in the 201
 4.  **The Glaze:** Pour the reserved marinade into the hot pan. Let it bubble and reduce for 1-2 minutes until thick and syrupy. Toss the salmon back in to coat.
 5.  **Assemble:** Build bowls with a base of [Jasmine Rice](/mise/recipes/homemade-rice-pilaf). Top with salmon, avocado, edamame, and cucumber salad.
 6.  **Finish:** Drizzle with sriracha mayo and sprinkle with sesame seeds.
-

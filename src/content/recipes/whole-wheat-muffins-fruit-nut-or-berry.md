@@ -41,4 +41,3 @@ These are whole-wheat breakfast muffins. The key to a muffin that isn't heavy is
 5.  **The Crunch:** Sprinkle your choice of fruit (blueberries, diced pears, etc.) onto the top of each raw muffin. Stir gently with a toothpick to submerge.
 6.  **Bake:** Preheat oven to 400°F (high heat for Crunch vertical rise). Bake for 10-15 minutes until a toothpick comes out clean.
 7.  **Serve:** Best served warm with salted butter.
-

@@ -42,4 +42,3 @@ Lean turkey needs moisture - finely minced carrots release liquid as they bake, 
 4.  **Shape:** Form the mixture into 2-tablespoon-sized balls (about the size of a golf ball). Arrange on the prepared baking sheet.
 5.  **Bake:** Bake for 25-30 minutes until the internal temperature reaches 165°F and there is no pink in the center.
 6.  **Serve:** Serve hot with your favorite tomato sauce or over spaghetti squash.
-

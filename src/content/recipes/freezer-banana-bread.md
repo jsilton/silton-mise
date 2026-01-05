@@ -42,4 +42,3 @@ This banana bread is designed for freezer storage. The key to a perfect slice ev
 4.  **Bake:** Pour into a greased loaf pan. Bake for 50-55 minutes until a toothpick inserted into the center comes out clean.
 5.  **Cool:** Let cool in the pan for 15 minutes before slicing.
 6.  **The Freeze:** To store, slice the loaf into 1/2-inch rounds. Place parchment between slices and freeze in a zip-top bag. Reheat individual slices in the toaster for a Crunch finish.
-

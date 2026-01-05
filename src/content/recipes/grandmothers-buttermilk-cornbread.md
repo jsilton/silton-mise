@@ -37,4 +37,3 @@ The difference between average cornbread and exceptional cornbread is the skille
 6.  **Combine:** Gradually add the dry ingredients to the wet. Stir until **just combined** (a few lumps are mandatory for texture).
 7.  **Bake:** Pour the batter into the hot, buttered skillet. Bake for 25-30 minutes until a toothpick inserted in the center comes out clean and the edges are pulled away from the pan.
 8.  **Serve:** Serve warm directly from the skillet with honey and extra butter.
-

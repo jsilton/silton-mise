@@ -38,4 +38,3 @@ In Thai cooking, curry paste is traditionally "bloomed" or fried in coconut crea
 4.  **The Crunch:** Add the thin beef slices. Cook for only 2-3 minutes, stirring occasionally, until just browned.
 5.  **Finish:** Remove from heat. Stir in the fresh basil and lime juice for the mandatory **Acid Balance**.
 6.  **Serve:** Serve immediately over [Basmati Rice](/mise/recipes/basmati-rice) with lime wedges.
-

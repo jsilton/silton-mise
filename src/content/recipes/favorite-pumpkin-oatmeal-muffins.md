@@ -43,4 +43,3 @@ These are nutritious breakfast muffins. We blend the rolled oats into a smooth, 
 5.  **Bake:** Bake for 20-22 minutes until firm to the touch and the edges are lightly golden.
 6.  **Cool:** Let cool in the pan for 10 minutes to allow the oat structure to set.
 7.  **Store:** These keep in the fridge for 5 days or the freezer for 3 months.
-

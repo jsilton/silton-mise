@@ -37,4 +37,3 @@ Panang is the richest and sweetest of the Thai curries, defined by its thick, nu
 5.  **Infuse:** Stir in the torn kaffir lime leaves.
 6.  **Finish:** Turn off the heat. Stir in the Thai basil.
 7.  **Serve:** Serve over [Jasmine Rice](/mise/recipes/homemade-rice-pilaf). Top with crushed seeds for texture.
-

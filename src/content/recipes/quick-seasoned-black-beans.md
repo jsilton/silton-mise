@@ -36,4 +36,3 @@ This Mexican-style quick black bean side transforms canned beans by blooming cum
 2.  **Simmer:** Pour in the beans (including their liquid). Add the oregano.
 3.  **Mash:** Simmer gently for 8-10 minutes. Use the back of a spoon to mash about 10% of the beans against the side of the pot—this thickens the liquid into a rich gravy.
 4.  **Finish:** Stir in the lime juice. Season with salt and pepper.
-

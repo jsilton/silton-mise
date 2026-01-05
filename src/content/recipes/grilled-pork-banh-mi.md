@@ -40,4 +40,3 @@ A great Banh Mi is an exercise in **Structural Contrast**. You need the "Shure" 
 3.  **Grill:** Thread pork onto skewers or use a grill basket. Grill over high heat for 3-4 minutes per side until charred and just cooked through.
 4.  **Assemble:** Split the baguettes. Spread a generous layer of mayo. Drizzle with a few drops of Maggi or Soy.
 5.  **Fill:** Layer the grilled pork, cucumber spears, [quick Pickled Carrots and Daikon](/mise/recipes/quick-pickled-carrots-and-daikon), and fresh cilantro. Top with jalapeños for heat.
-

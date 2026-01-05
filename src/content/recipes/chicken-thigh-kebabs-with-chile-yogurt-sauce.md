@@ -35,4 +35,3 @@ This is a high-protein meal that relies on proper marinating for tenderness. By 
 3.  **Skewer:** Thread 3 chicken pieces onto each of 8 skewers. Season the outside of the kebabs with salt and pepper.
 4.  **Grill:** Preheat grill to medium-high. Oil the grates. Grill kebabs for 10-12 minutes, turning occasionally, until the skin is crispy and the internal temp is 165°F.
 5.  **Serve:** Transfer to a platter. Serve immediately with the chilled yogurt sauce and lemon wedges.
-

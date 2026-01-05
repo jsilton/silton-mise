@@ -42,4 +42,3 @@ Press the mixture firmly when scooping to ensure eggs and cheese properly bind t
 4.  **Compress:** Using a small cookie scoop or tablespoon, scoop the mixture and **press it firmly** against the side of the bowl to compact it. Place on the baking sheet.
 5.  **Bake:** Bake for 20-25 minutes until the edges are golden brown and the bites feel firm to the touch.
 6.  **The Rest:** Let the bites rest on the pan for 5 minutes before moving—this allows the cheese to "set," ensuring they hold their shape.
-

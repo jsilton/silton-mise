@@ -47,4 +47,3 @@ This traditional recipe was a wedding gift from Pat Miller and Sean Kilpatrick, 
 ## Notes
 
 _This recipe was a wedding gift from Pat Miller and Sean Kilpatrick, passed down from Jeri, a Broadway dancer turned nutritionist. It is designed to sustain you through long rehearsals and busy weeks._
-

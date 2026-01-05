@@ -39,4 +39,3 @@ This is an energizing breakfast that uses a smart infusion technique. By steepin
 4.  **The Finish:** Divide into two half-pint mason jars. Cover and **refrigerate for at least 6 hours** (ideally 12).
 5.  **Adjust:** Open the jar. If the oats are too thick, stir in a splash of fresh milk to reach a velvety "Bounce."
 6.  **Serve:** Top with a crumbled Stroopwafel or wafer for the mandatory **High Note**.
-

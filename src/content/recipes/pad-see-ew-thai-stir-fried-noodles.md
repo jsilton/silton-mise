@@ -41,4 +41,3 @@ Pad see ew is a Thai stir-fried noodle dish characterized by its dark color and 
 6.  **Bind:** Pour the sauce over the noodles. Toss vigorously for 1 minute until the noodles are dark and glossy.
 7.  **Finish:** Return the chicken, veg, and egg to the wok. Toss for 30 seconds to integrate.
 8.  **Serve:** Serve immediately with extra white pepper.
-

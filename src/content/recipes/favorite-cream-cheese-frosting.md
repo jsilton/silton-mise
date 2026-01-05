@@ -9,7 +9,8 @@ nutritionalDensity: hearty
 leftovers: excellent
 equipment: [stand-mixer]
 advancePrep: [make-ahead]
-pairsWith: [bas-best-carrot-cake, breakfast-carrot-cake, funfetti-cake-from-scratch-and-an-unbirthday]
+pairsWith:
+  [bas-best-carrot-cake, breakfast-carrot-cake, funfetti-cake-from-scratch-and-an-unbirthday]
 flavorProfile: [sweet, rich]
 cuisines: [American]
 role: condiment
@@ -37,4 +38,3 @@ This is our go-to cream cheese frosting for all cakes. The secret to frosting th
 3.  **Aeration:** Once the sugar is mostly mixed in, switch to high speed and beat for 2-3 minutes. The frosting should be light, fluffy, and hold a stiff peak.
 4.  **Adjust:** If you prefer a thicker consistency for piping, add the additional 1/4 cup of sugar.
 5.  **Store:** Use immediately or refrigerate for up to 5 days. If chilled, let sit at room temp for 30 minutes and beat briefly before using to restore the "Bounce."
-

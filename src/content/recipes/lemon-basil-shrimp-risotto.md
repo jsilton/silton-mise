@@ -46,4 +46,3 @@ Risotto originated in Northern Italy (Milan and the Veneto) where short-grain ri
 6.  **The Texture:** Once the rice is al dente, stir in the heavy cream, Parmesan, lemon juice, and zest.
 7.  **Combine:** Fold the seared shrimp and fresh basil into the risotto. Toss for 1 minute until the shrimp are warmed through.
 8.  **Serve:** Garnish with extra basil and a "High Note" crack of black pepper.
-

@@ -1,6 +1,7 @@
 # Recipe Classification & Tagging Guide
 
 ## Overview
+
 All recipes are now tagged with standardized metadata to enable discovery, filtering, and contextual suggestions. Tags are organized into six categories:
 
 ---
@@ -8,6 +9,7 @@ All recipes are now tagged with standardized metadata to enable discovery, filte
 ## Tag Categories & Values
 
 ### 1. **cookingMethods** (Array)
+
 Techniques used in the recipe. Helps users find recipes by cooking method.
 
 - `bake` — oven baking
@@ -33,6 +35,7 @@ Example: `cookingMethods: [bake, fry]`
 ---
 
 ### 2. **cuisines** (Array)
+
 Cultural/regional origin(s). Supports multiple if fusion.
 
 - `Italian` — Italian cuisine
@@ -63,6 +66,7 @@ Example: `cuisines: [Italian, French]` for a fusion dish
 ---
 
 ### 3. **dietary** (Array)
+
 Dietary attributes & restrictions.
 
 - `vegetarian` — no meat/fish
@@ -85,6 +89,7 @@ Example: `dietary: [vegetarian, gluten-free]`
 ---
 
 ### 4. **occasions** (Array)
+
 When/why you'd make this recipe.
 
 - `weeknight` — quick, no-fuss, family-friendly (under 60 min total)
@@ -105,6 +110,7 @@ Example: `occasions: [weeknight, comfort-food]`
 ---
 
 ### 5. **flavorProfile** (Array)
+
 Primary taste/sensory characteristics.
 
 - `spicy` — heat/peppers
@@ -127,6 +133,7 @@ Example: `flavorProfile: [spicy, savory, umami]`
 ---
 
 ### 6. **difficulty** (Single Value)
+
 Skill level & time commitment.
 
 - `easy` — straightforward, 5-10 steps, beginner-friendly

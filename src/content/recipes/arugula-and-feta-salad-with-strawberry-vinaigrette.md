@@ -39,4 +39,3 @@ Peppery arugula cuts through sweet strawberries and tangy feta, with sunflower s
 2.  **Prep:** Place arugula in a large bowl. Toss with half the dressing until lightly glossy.
 3.  **Layer:** Add the sliced strawberries, feta, and sunflower seeds.
 4.  **Finish:** Drizzle the remaining dressing over the top. Serve immediately.
-

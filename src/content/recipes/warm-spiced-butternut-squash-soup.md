@@ -37,4 +37,3 @@ This is a wonderful holiday soup with deep flavor. The secret is making a scrap 
 4.  **The Emulsion:** Transfer to a blender. Remove the center cap to allow steam to escape. Puree until perfectly smooth.
 5.  **Finish:** Stir in the cider vinegar and red pepper flakes for the mandatory **Acid Balance**.
 6.  **Serve:** Ladle into bowls. Top with pomegranate arils and fresh cilantro for the final **High Note**.
-

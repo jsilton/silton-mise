@@ -38,4 +38,3 @@ This classic custard-based vanilla ice cream forms the foundation for countless 
 4.  **The Chill:** Transfer to a container and refrigerate for **at least 4 hours** (overnight is best) until cold.
 5.  **Churn:** Stir in the heavy cream and vanilla bean paste. Pour into your ice cream maker.
 6.  **Set:** Churn according to instructions (usually 20 mins). Transfer to a freezer-safe container and freeze for 2 hours before serving.
-

@@ -48,4 +48,3 @@ Red velvet originated in the South during the Victorian era when "velvet cakes" 
 6.  **Bake:** Divide into a lined 12-cup tin (filling 2/3 full). Bake at 350°F for 20-21 minutes until the tops spring back.
 7.  **Cool:** Let cool **completely** before frosting.
 8.  **Finish:** Top with a massive dollop of [Cream Cheese Frosting](/mise/recipes/favorite-cream-cheese-frosting).
-

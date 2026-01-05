@@ -37,4 +37,3 @@ The secret to restaurant-quality French toast is the bread choice. We exclusivel
 4.  **Dip:** Working in batches, dip a slice of bread into the custard for exactly **2 seconds per side**. Let the excess drip off.
 5.  **Cook:** Immediately place in the skillet. Fry for 2-3 minutes per side until deep golden brown and slightly crisped at the edges.
 6.  **Serve:** Serve immediately with warm maple syrup and fresh berries for the mandatory **Acid/Sweet Finish**.
-

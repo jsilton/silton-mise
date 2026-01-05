@@ -42,4 +42,3 @@ This salad showcases contrasting textures and temperatures. Roast golden beets a
 4.  **Macerate:** Toss the sliced peaches with the remaining 1 tbsp lemon juice.
 5.  **Assemble:** Mound the peach slices in the center of the platter.
 6.  **Finish:** Drizzle the honey-shallot glaze over everything. Garnish with crumbled goat cheese, fresh mint, and thyme for aromatic freshness.
-

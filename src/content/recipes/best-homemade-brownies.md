@@ -37,4 +37,3 @@ Extra-virgin olive oil adds fruity depth that pairs beautifully with dark chocol
 4.  **Combine:** Sprinkle the dry ingredients over the wet. Fold gently with a spatula until **just combined**. The batter will be very thick.
 5.  **Bake:** Spread evenly in the prepared pan. Bake for 40-45 minutes until a toothpick comes out with a few moist crumbs.
 6.  **The Finish:** Allow to cool completely in the pan for at least 2 hours before slicing. This is mandatory for the structure to set.
-

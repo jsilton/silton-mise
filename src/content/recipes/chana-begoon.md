@@ -40,4 +40,3 @@ This Indian chickpea and eggplant curry keeps the eggplant from turning mushy by
 4.  **Chickpeas:** Stir in the chickpeas and a splash of water. Simmer for 5 minutes.
 5.  **Fold:** Gently fold the roasted eggplant into the gravy. Let it sit for 2 minutes to absorb the spices (do not over-stir).
 6.  **Finish:** Stir in the cilantro and lemon juice.
-

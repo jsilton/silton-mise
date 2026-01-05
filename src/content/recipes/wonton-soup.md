@@ -44,4 +44,3 @@ Cantonese wonton soup features delicate pork wontons in clear, aromatic broth. S
 4.  **Boil:** In a large pot of water, boil wontons for 3-4 minutes until they float. During the final 20 seconds, add the bok choy.
 5.  **Bind:** Heat the [Wonton Broth](/mise/recipes/cantonese-wonton-broth) to boiling. Ladle the hot broth into the serving bowls.
 6.  **Serve:** Transfer the wontons and bok choy to the bowls. Garnish with scallions and chili oil for the final **High Note**.
-

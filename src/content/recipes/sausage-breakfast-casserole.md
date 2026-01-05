@@ -38,4 +38,3 @@ This breakfast casserole is ideal for holiday mornings because it feeds a crowd 
 5.  **Stage 1:** Cover with foil. Bake at 350°F for 50 minutes.
 6.  **Stage 2:** Remove foil. Top with the remaining 1/2 cup cheese. **Increase oven to 400°F**. Bake for 10-15 minutes until the top is deep golden and the center is firm.
 7.  **Serve:** Let rest for 10 minutes. Garnish with scallion greens and serve.
-

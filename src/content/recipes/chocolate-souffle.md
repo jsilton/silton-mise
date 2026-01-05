@@ -39,4 +39,3 @@ This classic dessert requires careful technique. The secret to a tall, even rise
 6.  **The Thumb-Run:** Spoon the batter into the dish. **Run your thumb** around the inside edge of the dish to create a shallow groove.
 7.  **Bake:** Bake in the middle of the oven for 24-26 minutes until puffed and crusted on top but still having a slight "jiggle" in the center.
 8.  **Serve:** Dust with powdered sugar and serve immediately with lightly sweetened whipped cream.
-

@@ -38,4 +38,3 @@ This Southern classic requires a proper cooked custard rather than instant puddi
 5.  **Layer:** In a glass bowl, layer: Wafers -> Sliced Bananas -> Warm Custard. Repeat until all ingredients are used.
 6.  **Chill:** Cover with plastic wrap (press it directly onto the custard surface to prevent a skin). Refrigerate for at least 4 hours.
 7.  **Serve:** Top with fresh whipped cream and crushed wafers just before serving.
-

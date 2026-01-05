@@ -41,4 +41,3 @@ Fettuccine Alfredo was created in 1908 by Alfredo di Lelio in Rome for his pregn
 4.  **Bind:** Add the reserved pasta water and whisk vigorously. This is the "glue" that holds it all together.
 5.  **Season:** Stir in salt, pepper, and a tiny pinch of nutmeg if using.
 6.  **Toss:** Add your hot, cooked pasta directly to the skillet and toss until every strand is coated.
-

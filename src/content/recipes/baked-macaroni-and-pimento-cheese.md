@@ -39,4 +39,3 @@ This Southern staple combines pimento cheese with a classic French Mornay sauce 
 5.  **Bake:** Pour the mixture into a greased 9x13 baking dish.
 6.  **Topping:** Mix panko and Parmesan in a small bowl. Sprinkle evenly over the top.
 7.  **Finish:** Bake for 15-20 minutes until the edges are bubbling and the topping is golden brown.
-

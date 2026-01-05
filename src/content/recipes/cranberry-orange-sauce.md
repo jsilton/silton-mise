@@ -1,7 +1,7 @@
 ---
 title: Cranberry Orange Sauce
 aliases:
-  - "cranberry-orange-sauce-the-bright-finish"
+  - 'cranberry-orange-sauce-the-bright-finish'
 difficulty: intermediate
 cookingMethods: [roast, simmer, boil]
 dietary: [vegetarian]
@@ -33,4 +33,3 @@ This tangy sauce balances the richness of Thanksgiving turkey and creamy sides. 
 3.  **Simmer:** Reduce heat to low and simmer for 10-15 minutes. You will hear the cranberries "pop"—this is the pectin releasing to thicken the sauce.
 4.  **Cool:** Remove from heat. The sauce will continue to thicken significantly as it cools.
 5.  **Serve:** Serve at room temperature or chilled.
-

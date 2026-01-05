@@ -41,4 +41,3 @@ For fruit ice cream without icy chunks, macerate peaches in lemon juice and suga
 5.  **Chill:** Strain into a bowl. Whisk in the peach syrup. Refrigerate for **at least 4 hours** until stone-cold.
 6.  **Churn:** Pour into ice cream maker. Churn until soft-serve consistency. Fold in the mashed peaches during the last 30 seconds.
 7.  **Set:** Freeze for 4-6 hours to ripen the texture.
-

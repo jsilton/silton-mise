@@ -39,4 +39,3 @@ This is a fast, impressive dessert that combines the best of cobblers and biscui
 4.  **Cook:** Cover the skillet. Simmer over **very low** heat for 15 minutes until the biscuits are springy and cooked through.
 5.  **The Crunch:** Remove lid. Sprinkle biscuits with sugar. Place the entire skillet under the **broiler** for 5 minutes until the tops are charred and crispy.
 6.  **Serve:** Serve warm from the skillet with a massive dollop of whipped cream for the final **High Note**.
-

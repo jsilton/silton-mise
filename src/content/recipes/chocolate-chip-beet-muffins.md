@@ -44,4 +44,3 @@ This is a nutritious twist on the classic chocolate muffin. We use beet puree as
 5.  **Fill:** Divide the batter evenly among the muffin cups (about 3/4 full). Sprinkle a few extra chips on top for the "High Note" look.
 6.  **Bake:** Bake for 18-22 minutes until a toothpick inserted into the center comes out clean.
 7.  **Cool:** Let cool in the pan for 5 minutes before transferring to a rack.
-

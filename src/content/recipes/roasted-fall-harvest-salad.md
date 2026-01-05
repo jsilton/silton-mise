@@ -42,4 +42,3 @@ Massaging kale with olive oil and salt for 2 minutes breaks down tough cellulose
 4.  **Dress:** Whisk tahini, lemon juice, cider, and syrup until creamy.
 5.  **Assemble:** Toss kale with quinoa and half the dressing.
 6.  **Finish:** Top with the roasted chickpeas, squash, pepitas, and raisins. Drizzle with remaining dressing for the mandatory **High Note**.
-

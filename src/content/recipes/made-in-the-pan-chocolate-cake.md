@@ -41,4 +41,3 @@ This is an updated take on "Wacky Cake" or "Depression Cake." The key is mixing 
 4.  **Bake:** Sprinkle the chocolate chips over the top. Wipe the edges of the dish with a damp towel for a clean "Kitchen Standard" look.
 5.  **Cook:** Bake for 28-33 minutes until a toothpick comes out with just a few moist crumbs.
 6.  **Finish:** Dust with confectioners' sugar once cool for the mandatory **High Note** visual.
-

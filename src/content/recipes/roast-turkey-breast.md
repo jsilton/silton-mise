@@ -34,4 +34,3 @@ Most recipes overcook turkey to 165°F, producing dry meat. Pulling the turkey a
 5.  **The Pull:** Use an instant-read thermometer. Remove the turkey when it hits **155°F** in the thickest part.
 6.  **Rest:** Transfer to a carving board. Cover loosely with foil and **let rest for 20 minutes** (mandatory for moisture).
 7.  **Serve:** Carve into 1/2-inch slices and serve with the pan drippings.
-

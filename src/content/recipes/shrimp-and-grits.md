@@ -39,4 +39,3 @@ The secret to great shrimp and grits is the contrast between crispy protein and 
 5.  **Bind:** Add the garlic, scallions, parsley, and lemon juice to the skillet. Toss for 1 minute to create a light, smoky glaze.
 6.  **Assemble:** Spoon a generous mound of cheesy grits into 4 bowls. Top with the shrimp and bacon mixture.
 7.  **Finish:** Garnish with extra scallions and a "High Note" crack of black pepper.
-

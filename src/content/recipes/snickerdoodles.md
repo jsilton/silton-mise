@@ -1,7 +1,7 @@
 ---
 title: Snickerdoodles
 aliases:
-  - "snickerdoodles-the-tangy-classic"
+  - 'snickerdoodles-the-tangy-classic'
 difficulty: easy
 cookingMethods: [bake]
 dietary: [vegetarian]
@@ -38,4 +38,3 @@ What separates a Snickerdoodle from a standard sugar cookie is **Chemistry**. Th
 4.  **Chill:** Refrigerate the dough for 30 minutes. This makes it easier to roll and prevents excessive spreading.
 5.  **Roll:** Shape dough into walnut-sized balls. Roll each ball in the cinnamon-sugar mixture until fully coated.
 6.  **Bake:** Place on a baking sheet 2 inches apart. Bake at 400°F for 8-10 minutes. The cookies should be set at the edges but still appear soft in the center.
-

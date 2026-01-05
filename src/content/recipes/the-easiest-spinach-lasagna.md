@@ -46,4 +46,3 @@ Lasagna originated in Naples and is one of Italy's oldest pasta dishes, with rec
 6.  **Bake:** Bake at 375°F for 30 minutes.
 7.  **Crisp:** Remove the foil and bake for another 20-25 minutes until the cheese is bubbly and the noodles are tender.
 8.  **Rest:** Let the lasagna rest for 10 minutes before slicing. This is critical for the layers to set.
-

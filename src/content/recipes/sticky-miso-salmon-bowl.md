@@ -38,4 +38,3 @@ This Japanese-inspired bowl uses grapefruit juice instead of traditional lemon i
 5.  **Broil:** Place under a high broiler for 5-7 minutes until the surface is charred and bubbling.
 6.  **Assemble:** Mound the scallion rice in 4 bowls. Top with a salmon fillet.
 7.  **Finish:** Layer with cucumber, avocado, kimchi, and a dollop of chile crisp for the mandatory **High Note**.
-

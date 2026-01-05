@@ -35,4 +35,3 @@ This is a refreshing Thai-inspired garden cocktail. The technique is cold infusi
 4.  **The Bruise:** Place 1 fresh basil leaf in each chilled glass. Use a spoon to gently press (bruise) the leaf against the glass.
 5.  **Assemble:** To each glass, add 2 tbsp of the chilled syrup, 1/2 cup Prosecco, and a lime wedge.
 6.  **Finish:** Stir once very gently to maintain the Texture of the bubbles. Serve immediately.
-

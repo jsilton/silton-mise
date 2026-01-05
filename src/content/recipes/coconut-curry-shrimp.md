@@ -39,4 +39,3 @@ This Thai-inspired coconut curry sears shrimp in butter first, then removes them
 4.  **Veg:** Add the zucchini slices. Simmer for 3 minutes until just tender but still bright.
 5.  **Combine:** Return the shrimp and any plate juices to the pan. Toss to coat and simmer for 1 minute.
 6.  **Finish:** Stir in the fresh basil. Taste and adjust with salt or extra honey. Serve immediately over rice.
-

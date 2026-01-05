@@ -47,4 +47,3 @@ This Sichuan-inspired dish showcases crispy textures with spicy-sour flavors. Dr
 5.  **Bind:** Simmer for 2 minutes until the sauce thickens into a glossy syrup.
 6.  **Toss:** Add the crispy eggplant and tofu back to the pan. Toss vigorously for 30 seconds until every cube is coated. Stir in sesame oil.
 7.  **Serve:** Garnish with fresh cilantro and serve immediately over steamed rice.
-

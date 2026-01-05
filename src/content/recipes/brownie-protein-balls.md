@@ -42,4 +42,3 @@ These no-bake bites prep in bulk for lunchboxes, pre-workout snacks, or yogurt t
 4.  **Roll:** Scoop out 1-tbsp portions and roll between your palms into balls.
 5.  **Set:** Place on a plate and chill in the refrigerator for at least 20 minutes before eating.
 6.  **Store:** Keep in an airtight container in the fridge for up to a week.
-

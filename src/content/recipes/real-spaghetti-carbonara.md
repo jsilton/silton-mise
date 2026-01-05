@@ -40,4 +40,3 @@ Carbonara is a Roman dish that dates to the 1940s, with debates about whether it
 5.  **Toss:** Add the hot pasta to the skillet with the rendered fat. Pour the warm egg/cheese mixture over the pasta.
 6.  **Emulsify:** Add 1/4 cup of pasta water. Toss vigorously and constantly. The heat from the pasta will finish cooking the eggs into a silky, glossy sauce. Add more water if it looks too thick.
 7.  **Serve:** Serve immediately with extra Pecorino and pepper.
-

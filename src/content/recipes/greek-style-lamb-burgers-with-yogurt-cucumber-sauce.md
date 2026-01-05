@@ -44,4 +44,3 @@ Because lamb is naturally fatty, shaping patties into ovals rather than rounds m
 5.  **Toast:** During the last minute, place the pitas on the grill until warm and pliable.
 6.  **Assemble:** Place a burger on each pita. Top with a massive dollop of the yogurt sauce, feta, tomatoes, and greens.
 7.  **Serve:** Fold and serve immediately while the lamb juices are still hot.
-

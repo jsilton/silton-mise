@@ -37,4 +37,3 @@ These are quick fuel for children and busy adults. The key is blending the raw s
 3.  **Combine:** Pour the green emulsion into the dry ingredients. Stir with a spatula until **just combined**. Do not over-mix, or the muffins will be tough.
 4.  **Bake:** Preheat oven to 350°F. Line two muffin tins (18 cups). Fill each 3/4 full. Bake for 18-22 minutes until the tops spring back when touched.
 5.  **Cool:** Let cool completely in the pan to allow the moisture to set into a "Bounce."
-

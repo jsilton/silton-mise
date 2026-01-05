@@ -40,4 +40,3 @@ Egg roll in a bowl is a deconstructed version of the classic takeout item—all 
 3.  **the crunch:** Add the entire bag of coleslaw mix. Pour in the soy sauce and sesame oil.
 4.  **Toss:** Stir-fry vigorously for 2-3 minutes. **Stop immediately** when the cabbage starts to collapse but still feels firm.
 5.  **Finish:** Remove from heat. Top with green onions, sesame seeds, and a generous drizzle of chili crisp.
-

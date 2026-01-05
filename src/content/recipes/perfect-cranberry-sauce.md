@@ -33,4 +33,3 @@ This is classic cranberry sauce for the holiday table. The technique is to cook 
 5.  **Texture:** Remove from heat. Immediately stir in the **Reserved Whole Cranberries**.
 6.  **Set:** Season with a pinch of salt. Let cool completely to room temperature—the sauce will continue to thicken into a Texture as it cools.
 7.  **Store:** Keeps in the fridge for up to 2 weeks.
-

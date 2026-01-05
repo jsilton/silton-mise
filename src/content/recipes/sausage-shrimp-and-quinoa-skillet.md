@@ -38,4 +38,3 @@ This 20-minute skillet uses pre-cooked quinoa (frozen or leftover) to speed up d
 4.  **The Crunch:** Add the shrimp. Cook for 2-3 minutes, tossing constantly, until the shrimp are pink and just opaque.
 5.  **Finish:** Remove from heat. Season with a pinch of salt and pepper.
 6.  **Serve:** Garnish with fresh parsley. Serve immediately.
-

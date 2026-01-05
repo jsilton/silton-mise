@@ -9,20 +9,25 @@ This document defines the coding standards, architectural patterns, and best pra
 ## 1. Component Architecture
 
 ### Principle
+
 **Keep it simple, don't over-engineer.** Create components only when they're:
+
 - Reusable across multiple pages/contexts
 - Self-contained with clear input/output contracts
 - Reducing code duplication
 - Improving maintainability
 
 ### When to Create a Component
+
 ✅ **DO create** if:
+
 - Used in 2+ locations
 - Encapsulates significant logic or styling
 - Has distinct responsibility (SearchBar, RecipeCard, FilterPanel)
 - Helps readers understand code structure
 
 ❌ **DON'T create** if:
+
 - Single-use markup
 - Would create unnecessary hierarchy
 - Just wraps one or two HTML elements
@@ -33,6 +38,7 @@ This document defines the coding standards, architectural patterns, and best pra
 **Location:** `/src/components/`
 
 **Types:**
+
 1. **Reusable UI Components** (Pure, stateless, props-driven)
    - `SearchBar.astro` - Search input with icon
    - `FilterSelect.astro` - Single filter dropdown
@@ -63,11 +69,11 @@ interface Props {
 const { prop1, prop2 = 10, items = [] } = Astro.props;
 ---
 
-<!-- Template -->
-<!-- Self-contained, no external dependencies for styling -->
+<!-- Template --><!-- Self-contained, no external dependencies for styling -->
 ```
 
 ### Naming Conventions
+
 - **File names:** PascalCase (e.g., `RecipeCard.astro`)
 - **Props:** camelCase
 - **CSS classes:** kebab-case, Tailwind only
@@ -78,11 +84,13 @@ const { prop1, prop2 = 10, items = [] } = Astro.props;
 ## 2. Styling Standards
 
 ### Technology
+
 - **Framework:** Tailwind CSS only (no additional CSS files)
 - **Philosophy:** Utility-first, inline in components
 - **Color Palette:** Slate, indigo, blue, purple, green, amber, rose
 
 ### Color Categories (for tags)
+
 ```
 - cooking-method: blue-50 / blue-700 / blue-200
 - cuisine: purple-50 / purple-700 / purple-200
@@ -95,26 +103,32 @@ const { prop1, prop2 = 10, items = [] } = Astro.props;
 ### Class Patterns (Reused Across Components)
 
 **Text Labels:**
+
 ```html
-<span class="text-xs uppercase tracking-wide text-slate-400 font-semibold">
-  Label
-</span>
+<span class="text-xs uppercase tracking-wide text-slate-400 font-semibold"> Label </span>
 ```
 
 **Form Controls:**
+
 ```html
-<select class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
+<select
+  class="text-xs bg-white border border-slate-300 rounded px-2 py-1.5 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+></select>
 ```
 
 **Cards:**
+
 ```html
-<div class="bg-white rounded-lg border border-slate-200 hover:border-indigo-300 hover:shadow-md hover:shadow-indigo-500/10 transition-all duration-200">
+<div
+  class="bg-white rounded-lg border border-slate-200 hover:border-indigo-300 hover:shadow-md hover:shadow-indigo-500/10 transition-all duration-200"
+></div>
 ```
 
 **Responsive Grid:**
+
 ```html
 <!-- Cards: 1 col mobile, 2 sm, 3 lg, 4 xl -->
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
 ```
 
 ---
@@ -126,20 +140,20 @@ const { prop1, prop2 = 10, items = [] } = Astro.props;
 Every recipe MUST have complete frontmatter:
 
 ```yaml
-title: Recipe Name                          # clean, traditional name (no adjectives)
-origin: CountryName                         # single country of origin
-cuisines:                                   # array of cuisine styles
+title: Recipe Name # clean, traditional name (no adjectives)
+origin: CountryName # single country of origin
+cuisines: # array of cuisine styles
   - Italian
   - Mediterranean
-difficulty: easy|intermediate|advanced     # single value
-role: main|side|dessert|beverage           # course category
-vibe: comfort-food|date-night|weeknight    # occasion/mood
+difficulty: easy|intermediate|advanced # single value
+role: main|side|dessert|beverage # course category
+vibe: comfort-food|date-night|weeknight # occasion/mood
 
 # Metadata
-prepTime: "15 mins"
-cookTime: "30 mins"
-totalTime: "45 mins"
-servings: "4"
+prepTime: '15 mins'
+cookTime: '30 mins'
+totalTime: '45 mins'
+servings: '4'
 
 # Tags (auto-generated but verify)
 cookingMethods:
@@ -158,22 +172,23 @@ flavorProfile:
 
 # Content
 ingredients:
-  - "1 cup flour"
-  - "2 eggs"
+  - '1 cup flour'
+  - '2 eggs'
 
 # Optional
-aliases:                                    # traditional names for search
+aliases: # traditional names for search
   - Historic Name
   - Translation Name
-audience:                                   # who should make this
+audience: # who should make this
   - families
   - beginners
-image: recipe-image.png                    # optional image
+image: recipe-image.png # optional image
 kb:
-  disable: false                            # disable KB suggestions for this recipe
+  disable: false # disable KB suggestions for this recipe
 ```
 
 ### Naming Convention
+
 - **File:** `kebab-case.md` (e.g., `apple-pie.md`)
 - **Title:** Lead with primary/traditional name, remove adjectives and cooking methods
 - **Origin:** Single country (NOT "Italian/Mediterranean", NOT "Europe")
@@ -185,11 +200,13 @@ kb:
 ### Page Templates
 
 **Homepage** (`src/pages/index.astro`)
+
 - Component-driven: SearchBar → FilterPanel → RecipeGrid
 - Minimal logic: just data fetch + coordination
 - Search + Filter + Sort all managed together
 
 **Recipe Detail** (`src/pages/recipes/[slug].astro`)
+
 - Component structure: RecipeHeader → ContentGrid
 - RecipeHeader contains all metadata/tags
 - ContentGrid: ingredients (left) + markdown content (right)
@@ -198,6 +215,7 @@ kb:
 ### Script Organization
 
 **In-Component Scripts (for UI-specific logic):**
+
 ```astro
 <script define:vars={{ data }}>
   // Filter initialization, event listeners
@@ -206,10 +224,12 @@ kb:
 ```
 
 **Cross-Component State:**
+
 - Use `window.filterState` and `window.updateFilterState()` for coordination
 - Minimal - only for essential shared state
 
 **Future: Extract to `.ts` files when:**
+
 - Script exceeds 50 lines
 - Used across multiple pages
 - Contains complex business logic
@@ -258,6 +278,7 @@ Script reads data-* to filter/sort
    - Check mobile responsiveness
 
 ### Deployment Command (when available)
+
 ```bash
 npm run deploy  # builds + deploys to production
 ```
@@ -269,12 +290,14 @@ npm run deploy  # builds + deploys to production
 ### Automated Tests
 
 **Build Verification** (Always run)
+
 ```bash
 npm run build
 # Verifies: Astro compilation, no TypeScript errors, all 475 pages generate
 ```
 
 **Recipe Validation** (Always run)
+
 ```bash
 npm run validate-recipes
 # Verifies: frontmatter correctness, required fields, KB suggestions
@@ -285,6 +308,7 @@ npm run validate-recipes
 **Before any deployment, test these primary features:**
 
 #### Homepage (`/`)
+
 - [ ] Search works (try: "chicken", "vegetarian")
 - [ ] Filter by difficulty (easy/intermediate/advanced)
 - [ ] Filter by cuisine (Italian, Thai, Chinese, etc.)
@@ -298,6 +322,7 @@ npm run validate-recipes
 - [ ] Cards show correct time metadata
 
 #### Recipe Detail Page (any recipe, e.g., `/recipes/apple-pie/`)
+
 - [ ] Title displays correctly
 - [ ] Breadcrumb navigation works
 - [ ] Time metadata displays (prep/cook/total/servings)
@@ -314,6 +339,7 @@ npm run validate-recipes
 - [ ] Mobile layout works (check responsiveness)
 
 #### Cross-Site
+
 - [ ] Links between pages work (homepage → recipe → back)
 - [ ] Mobile layout (test on phone or DevTools 375px width)
 - [ ] Performance: page loads in <2 seconds
@@ -321,18 +347,19 @@ npm run validate-recipes
 
 ### Regression Testing Matrix
 
-| Feature | Test Case | Expected Result |
-|---------|-----------|-----------------|
-| Search | "chicken" | Shows ~20 recipes |
-| Filter | difficulty=easy | Shows only easy recipes |
-| Filter + Search | diet=vegan + "pasta" | Shows vegan pasta recipes |
-| Sort | prepTime | Orders by ascending time |
-| Tags | Recipe detail | 6 tag sections visible |
-| Cards | Homepage | Tags show on each card |
-| Links | Click recipe from homepage | Detail page loads |
-| Responsive | 375px width | Stacks properly |
+| Feature         | Test Case                  | Expected Result           |
+| --------------- | -------------------------- | ------------------------- |
+| Search          | "chicken"                  | Shows ~20 recipes         |
+| Filter          | difficulty=easy            | Shows only easy recipes   |
+| Filter + Search | diet=vegan + "pasta"       | Shows vegan pasta recipes |
+| Sort            | prepTime                   | Orders by ascending time  |
+| Tags            | Recipe detail              | 6 tag sections visible    |
+| Cards           | Homepage                   | Tags show on each card    |
+| Links           | Click recipe from homepage | Detail page loads         |
+| Responsive      | 375px width                | Stacks properly           |
 
 ### When to Add Tests
+
 - After bug fixes (add test to prevent regression)
 - Before deploying major changes
 - When changing shared components
@@ -347,15 +374,18 @@ npm run validate-recipes
 All recipes checked via `/scripts/validate-recipes.mjs`:
 
 **Required Fields:**
+
 - title, origin, cuisines, difficulty, role, vibe
 - prepTime, cookTime, totalTime, servings
 - ingredients (array)
 - directions/content
 
 **Auto-Generated:**
+
 - cookingMethods, dietary, occasions, flavorProfile
 
 **Constraints:**
+
 - origin: exactly 1 value (no arrays)
 - difficulty: one of [easy, intermediate, advanced]
 - cuisines: array of known cuisines
@@ -364,6 +394,7 @@ All recipes checked via `/scripts/validate-recipes.mjs`:
 ### KB Rules (Suggestions for Recipe Authors)
 
 See `/src/knowledge/TAGGING_GUIDE.md` for:
+
 - Cuisine detection and best practices
 - Cooking method categorization
 - Dietary tag guidelines
@@ -376,6 +407,7 @@ See `/src/knowledge/TAGGING_GUIDE.md` for:
 ## 8. Git & Version Control Practices
 
 ### Commit Message Format
+
 ```
 type: brief description
 
@@ -387,11 +419,13 @@ Body (optional, for why):
 **Types:** `feat:`, `fix:`, `refactor:`, `docs:`, `test:`, `chore:`
 
 ### Branch Strategy
+
 - `main` - production-ready code only
 - `develop` - integration branch for features
 - Feature branches as needed
 
 ### Before Merging
+
 - Code compiles: `npm run build`
 - Tests pass: `npm run validate-recipes`
 - Manual QA done (see Testing section)
@@ -402,12 +436,14 @@ Body (optional, for why):
 ## 9. Future Architecture Considerations
 
 ### Scalability Path (If Needed)
+
 1. **Current:** Static Astro site, 474 recipes, ~500KB total
 2. **Phase 2:** Add user-generated collections/favorites (needs backend)
 3. **Phase 3:** Add search analytics, recommendations (needs database)
 4. **Phase 4:** API for third-party integrations (Node.js backend)
 
 ### Code Improvements Pipeline
+
 - Extract page scripts to `.ts` files (when needed)
 - Create shared Tailwind class helpers (if repetition grows)
 - Add end-to-end tests with Playwright (if content scales)
@@ -434,9 +470,9 @@ Before committing code:
 
 ## Version History
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | Jan 4, 2026 | Initial standards: components, styling, data schema, testing, deployment |
+| Version | Date        | Changes                                                                  |
+| ------- | ----------- | ------------------------------------------------------------------------ |
+| 1.0     | Jan 4, 2026 | Initial standards: components, styling, data schema, testing, deployment |
 
 ---
 

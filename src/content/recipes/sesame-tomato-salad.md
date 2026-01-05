@@ -39,4 +39,3 @@ Whisking toasted sesame oil into a traditional vinaigrette introduces nutty, roa
 3.  **Bind:** Drizzle half of the dressing over the tomatoes. Let stand for 5 minutes—this allows the tomatoes to release their juices and mix with the emulsion.
 4.  **Finish:** Top with fresh basil, flaky sea salt, and a crack of black pepper.
 5.  **Serve:** Serve the remaining dressing on the side for the mandatory **High Note** of freshness.
-

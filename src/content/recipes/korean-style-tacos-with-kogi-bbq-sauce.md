@@ -41,4 +41,3 @@ These Korean-Mexican fusion tacos were popularized by LA's Kogi BBQ truck in 200
 4.  **Toast:** Warm the tortillas over an open flame or in a dry pan until charred in spots.
 5.  **Assemble:** Place a generous scoop of the glazed meat into each tortilla.
 6.  **Finish:** Top with a pile of the chilled cucumber pickles and extra scallions. Serve immediately.
-

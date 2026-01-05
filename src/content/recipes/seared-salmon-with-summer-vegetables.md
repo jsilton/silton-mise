@@ -41,4 +41,3 @@ Reducing balsamic vinegar and tomatoes into a syrup, then mounting with cold but
 5.  **The Sear:** Season salmon. In a clean skillet, heat 1 tbsp oil until smoking. Sear salmon strips for 3 minutes per side until a crust forms.
 6.  **Serve:** Divide spinach among plates. Top with corn, shiitakes, and a salmon strip.
 7.  **Finish:** Drizzle the balsamic emulsion over the fish. Garnish with chives for the mandatory **High Note**.
-

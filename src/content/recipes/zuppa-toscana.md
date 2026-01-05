@@ -41,4 +41,3 @@ Zuppa Toscana ("Tuscan soup") became famous in America through Olive Garden in t
 4.  **Emulsify:** Pour in the coconut milk and return the sausage to the pot. Stir for 5 minutes to allow the flavors to bridge.
 5.  **Wilt:** Stir in the fresh kale. Cook for exactly 1 minute until just collapsed.
 6.  **Serve:** Ladle into deep bowls. Top with a final crack of black pepper and a drizzle of olive oil for the mandatory **High Note**.
-

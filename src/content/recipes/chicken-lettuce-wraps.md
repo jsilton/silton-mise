@@ -43,4 +43,3 @@ Chicken lettuce wraps became popular through restaurants like P.F. Chang's in th
 3.  **Glaze:** Stir in the hoisin, soy sauce, rice vinegar, and sesame oil. Toss vigorously for 1 minute until the chicken is evenly coated and the sauce is bubbling.
 4.  **Finish:** Stir in the green onions. Remove from heat.
 5.  **Serve:** Spoon the mixture into cold lettuce cups. Top with chili crisp or crispy noodles if using.
-

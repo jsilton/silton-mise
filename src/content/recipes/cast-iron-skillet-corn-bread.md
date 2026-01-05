@@ -40,4 +40,3 @@ The secret to restaurant-quality cornbread is the **Preheated Skillet**. By gett
 5.  **The Sear:** Carefully remove the hot skillet. Add the remaining 1 tbsp of butter—it should sizzle and melt instantly. Swirl to coat the sides.
 6.  **Bake:** Pour the batter into the hot skillet (it should crackle!). Reduce oven to 375°F. Bake for 20-22 minutes until the center is firm and the edges are deep brown.
 7.  **Serve:** Slice directly in the skillet and serve with honey butter.
-

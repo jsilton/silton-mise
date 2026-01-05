@@ -44,4 +44,3 @@ Folding whole-milk ricotta into ground chicken creates a fat-moisture barrier th
 5.  **The Emulsion:** In a food processor, blend the yogurt, basil, jalapeño, honey, and lemon juice until vibrant green and smooth.
 6.  **Assemble:** Divide the kale among four bowls. Top with the roasted chickpeas, sweet potatoes, and meatballs.
 7.  **Finish:** Drizzle generously with the dressing for the mandatory **Acid Balance**.
-

@@ -38,4 +38,3 @@ Vegan Caesar dressings became mainstream in the 2010s, using cashews or tofu to 
 3.  **Combine:** Add the romaine, cherry tomatoes, and the remaining dressing. Toss gently with your hands.
 4.  **The Crunch:** Fold in the roasted chickpeas and the avocado slices just before serving.
 5.  **Serve:** Season generously with black pepper and sea salt. Serve chilled or at room temperature.
-

@@ -37,4 +37,3 @@ The key to restaurant-quality spareribs is baking the ribs tightly sealed in hea
 5.  **The Crunch:** Preheat a grill to high. Remove ribs from foil and cut into 4-rib sections.
 6.  **Glaze:** Brush with remaining sauce. Grill for 2-3 minutes per side until charred and the lacquer is bubbling.
 7.  **Serve:** Transfer to a platter. Serve with extra lime wedges for the mandatory **Acid Balance**.
-

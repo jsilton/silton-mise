@@ -41,4 +41,3 @@ This is a creative fusion dish that applies risotto technique to steel-cut oats,
 4.  **Cook:** Cook for 20 minutes, stirring occasionally, until the oats are "squeaky" to the bite (al dente).
 5.  **The Emulsion:** Fold in the mashed banana. Cook for 2 more minutes until the banana has melted into the oats, creating a creamy "Bounce."
 6.  **Serve:** Divide into bowls. Top with the vinegar-soaked raisins and a few generous shavings of Parmesan cheese for the final savory **High Note**.
-

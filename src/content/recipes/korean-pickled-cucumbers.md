@@ -41,4 +41,3 @@ These are quick Korean pickles. To get the crisp texture, you must salt the cucu
 3.  **Mix:** In a large bowl, whisk together the gochugaru, vinegar, soy sauce, sugar, sesame oil, garlic, and green onions.
 4.  **Toss:** Add the squeezed cucumbers to the bowl and toss to coat thoroughly.
 5.  **Finish:** Sprinkle with sesame seeds. Let marinate for at least 10 minutes before serving.
-

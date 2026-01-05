@@ -44,4 +44,3 @@ The secret to a golden, aromatic Chicken Pho is the **Char**. You must roast the
 6.  **Finish:** Strain the broth through a fine-mesh sieve. Discard solids. Stir in the fish sauce, sugar, and salt. Adjust to your palate.
 7.  **Noodles:** Soak rice sticks in warm water for 20 minutes, then flash-boil for 1 minute just before serving.
 8.  **Assemble:** Place noodles in deep bowls. Top with shredded chicken and hot broth. Serve with a plate of fresh herbs, sprouts, and lime.
-

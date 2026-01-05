@@ -47,4 +47,3 @@ This recipe is inspired by Doc Chey's, an Atlanta noodle house favorite. The sec
 5.  **The Reduction:** Pour the Cantonese sauce into the wok. Add the cooked noodles and edamame.
 6.  **Bind:** Return the chicken to the wok. Toss vigorously over high heat for 3 minutes until the sauce has reduced by half and is clinging to the noodles in a glossy film.
 7.  **Serve:** Divide into bowls and garnish with scallions for the mandatory **High Note**.
-

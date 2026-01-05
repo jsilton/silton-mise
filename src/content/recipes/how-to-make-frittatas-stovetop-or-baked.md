@@ -40,4 +40,3 @@ Frittatas are Italian open-faced omelets perfect for using up vegetables and lef
 4.  **The Rise:** Sprinkle the remaining cheese on top. Transfer the skillet to a **425°F oven**.
 5.  **Bake:** Bake for 7-10 minutes until the frittata is puffed and the center has a very slight wobble when shaken. **Do not over-bake.**
 6.  **Finish:** Garnish with fresh herbs. Slice into wedges and serve immediately or at room temperature for the Kitchen Standard experience.
-

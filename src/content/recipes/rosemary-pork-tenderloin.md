@@ -41,4 +41,3 @@ Wrapping lean pork tenderloins in maple bacon prevents them from drying out—th
 4.  **Roast:** Bake for 25-30 minutes until an instant-read thermometer hits **145°F**.
 5.  **Rest:** Transfer to a board and **let rest for 10 minutes** (mandatory).
 6.  **Serve:** Remove twine, slice into 1-inch rounds, and garnish with the roasted rosemary.
-

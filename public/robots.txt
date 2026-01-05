@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://jordansilton.com/mise/sitemap.xml
+
+# Crawl delay (be nice to servers)
+Crawl-delay: 1
+
+# Disallow search and filter parameters
+Disallow: /*?*=

@@ -46,4 +46,3 @@ Shumai (also spelled siu mai) are open-topped Cantonese dumplings, a dim sum sta
 4.  **Garnish:** Press a tiny amount of diced carrot into the center of each top.
 5.  **Steam:** Place in a bamboo steamer lined with parchment. Steam over boiling water for 8-10 minutes until the internal temp is 165°F.
 6.  **Serve:** Serve immediately with hot chili oil.
-

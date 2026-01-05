@@ -36,4 +36,3 @@ Wild rice needs 45-50 minutes of simmering to fully bloom - the grains split sli
 3.  **Poach Chicken:** Add the diced chicken to the pot. Season with salt, pepper, and herbs. Continue simmering for 15-20 minutes until the chicken is cooked through and the rice is tender.
 4.  **Finish:** Stir in the fresh parsley and lemon juice.
 5.  **Adjust:** If the soup is too thick (wild rice absorbs a lot of liquid), add a splash more broth.
-

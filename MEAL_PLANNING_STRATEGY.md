@@ -3,6 +3,7 @@
 ## Vision
 
 Build an AI-powered culinary decision support system that:
+
 1. Maintains 474 restaurant-quality recipes with rich metadata
 2. Suggests weekly menus based on time, season, variety, nutrition, and preference
 3. Generates shopping lists and manages pantry creativity
@@ -12,12 +13,14 @@ Build an AI-powered culinary decision support system that:
 ## Current State (January 2026)
 
 ### What We Have ✅
+
 - 474 recipes with frontmatter metadata
 - Rich classification: role, vibe, difficulty, cuisine, cooking methods, dietary, flavor profile
 - Time data: prepTime, cookTime, totalTime
 - Basic occasion tagging (99 comfort-food, 32 holiday, 7 kids-approved)
 
 ### What We're Adding 🚧
+
 - **Extended Schema Fields:**
   - `seasons` - ingredient availability and dish appropriateness
   - `nutritionalDensity` - light/moderate/hearty for meal balance
@@ -36,6 +39,7 @@ Build an AI-powered culinary decision support system that:
 ### What We Need 📋
 
 #### Recipe Distribution Analysis
+
 1. **By Role:**
    - Mains: ? recipes
    - Sides: ? recipes
@@ -66,6 +70,7 @@ Build an AI-powered culinary decision support system that:
 #### Gaps to Address
 
 **Missing Essential Categories:**
+
 - Not enough salads (need 20-30 versatile salads)
 - Insufficient vegetable sides (need 30-40 different preparations)
 - Limited grain/starch bases (need more rice, quinoa, couscous, polenta options)
@@ -73,6 +78,7 @@ Build an AI-powered culinary decision support system that:
 - Limited "clean" protein preparations (simply grilled/pan-seared)
 
 **Cuisine Depth Needed:**
+
 - Chinese: need more Cantonese, Sichuan depth
 - Japanese: need basics (teriyaki, katsu, donburi)
 - Indian: need regional variety (North vs South)
@@ -80,6 +86,7 @@ Build an AI-powered culinary decision support system that:
 - Mediterranean: need Greek, Turkish, Lebanese classics
 
 **Time Distribution Gaps:**
+
 - Need more 15-20 min emergency meals
 - Need more meal-prep friendly options
 - Need more slow-cooker/instant-pot set-and-forget
@@ -87,7 +94,9 @@ Build an AI-powered culinary decision support system that:
 ## Phase 1: Complete Metadata (In Progress)
 
 ### Step 1: Update All 474 Recipes ⏳
+
 For each recipe, add:
+
 - `occasions` - appropriate contexts
 - `seasons` - when ingredients are best
 - `nutritionalDensity` - meal weight
@@ -96,7 +105,9 @@ For each recipe, add:
 - `pairsWith` - complementary dishes
 
 ### Step 2: Statistical Analysis
+
 Run queries to determine:
+
 - Distribution by all metadata fields
 - Time clustering (quick/weeknight/weekend/project)
 - Cuisine diversity scores
@@ -104,7 +115,9 @@ Run queries to determine:
 - Seasonal coverage
 
 ### Step 3: Gap Identification
+
 Generate "needed recipes" list:
+
 - 20-30 essential salads
 - 30-40 vegetable sides
 - Missing cultural classics
@@ -114,6 +127,7 @@ Generate "needed recipes" list:
 ## Phase 2: Recipe Quality Audit
 
 ### Quality Scoring Rubric
+
 For each recipe, evaluate:
 
 1. **Culinary Technique Adherence** (1-5)
@@ -142,12 +156,14 @@ For each recipe, evaluate:
    - Worth the effort?
 
 **Scoring:**
+
 - 20-25: "Keeper" - Core rotation recipe
 - 15-19: "Good" - Occasional use, maybe refine
 - 10-14: "Replace" - Find better version
 - <10: "Remove" - Not worth keeping
 
 ### Action Items from Audit
+
 - Flag top 50-100 "keeper" recipes
 - Identify 20-30 to replace with better versions
 - Remove 10-20 that never get made
@@ -158,12 +174,14 @@ For each recipe, evaluate:
 ### Complete Meal Templates
 
 **Template 1: Balanced Dinner Plate**
+
 - Protein (4-6 oz)
 - Starch/Grain (1 cup)
 - Vegetable (1-2 cups)
 - Optional: Salad, Sauce
 
 **Template 2: Bowl**
+
 - Base (rice, grain, noodles)
 - Protein
 - Vegetables (2-3 types)
@@ -171,12 +189,14 @@ For each recipe, evaluate:
 - Toppings/Texture
 
 **Template 3: Pasta Night**
+
 - Pasta
 - Sauce (red, white, oil-based)
 - Protein or vegetables
 - Salad
 
 **Template 4: Soup + Side**
+
 - Hearty soup (protein, veg, starch)
 - Bread or salad
 - Optional: Cheese
@@ -184,49 +204,58 @@ For each recipe, evaluate:
 ### Day-of-Week Profiles
 
 **Monday:** "Recovery Day"
+
 - Time: 30-40 min max
 - Density: Light-moderate
 - Cuisine: Comfort but not heavy
 - Examples: Stir-fry, pasta, grain bowls
 
 **Tuesday:** "Variety Day"
+
 - Time: 40-50 min
 - Density: Moderate
 - Cuisine: Try something different from Monday
 - Examples: Curry, tacos, Mediterranean
 
 **Wednesday:** "Hump Day"
+
 - Time: 30-45 min
 - Density: Moderate-hearty
 - Cuisine: Crowd-pleaser
 - Examples: Roasted chicken, meatballs, casserole
 
 **Thursday:** "Pre-Weekend"
+
 - Time: 45-60 min
 - Density: Hearty
 - Cuisine: More adventurous okay
 - Examples: Braised dishes, complex stir-fries
 
 **Friday:** "Easy Street"
+
 - Time: 20-30 min or takeout
 - Density: Light-moderate
 - Cuisine: Simple or special order
 - Examples: Pizza, sandwiches, simple seafood
 
 **Saturday:** "Project Day"
+
 - Time: 60-120 min
 - Density: Any
 - Cuisine: Learning opportunity
 - Examples: Dumplings, bread, slow-roasted
 
 **Sunday:** "Prep + Feast"
+
 - Time: Split (30 min cook + meal prep)
 - Density: Moderate-hearty
 - Cuisine: Family favorites
 - Examples: Roasts, big batches for week
 
 ### Pairing Database
+
 Build relationships:
+
 - Grilled chicken → pairs with: garlic roasted potatoes, green beans, arugula salad
 - Pasta marinara → pairs with: garlic bread, caesar salad
 - Thai curry → pairs with: jasmine rice, cucumber salad
@@ -237,6 +266,7 @@ Build relationships:
 ### Constraint Solver Inputs
 
 **User Context:**
+
 - Family size: ?
 - Dietary restrictions: ?
 - Disliked ingredients: ?
@@ -244,6 +274,7 @@ Build relationships:
 - Equipment available: ?
 
 **Weekly Constraints:**
+
 - Time available each night
 - Special events (entertaining, kids' activities)
 - Previous week's meals (avoid repetition)
@@ -271,18 +302,21 @@ For each week:
 ### Integration Points
 
 **Paprika Integration:**
+
 - Import recipes from Paprika format
 - Export validated recipes back
 - Sync ingredient lists
 - Maintain native iOS experience
 
 **Google Calendar Integration:**
+
 - Create meal events with recipe links
 - Include prep time in calendar blocks
 - Attach shopping lists to weekend
 - Set reminders for advance prep
 
 **Future: Pantry Management:**
+
 - Track what's on hand
 - Suggest recipes using existing ingredients
 - Alert for expiring items
@@ -291,18 +325,21 @@ For each week:
 ## Success Metrics
 
 **Meal Planning:**
+
 - 80%+ of planned meals actually cooked
 - <30 min average planning time per week
 - 20%+ reduction in food waste
 - 90%+ family satisfaction
 
 **Recipe Library:**
+
 - All 474 recipes have complete metadata
 - Top 100 "keepers" identified
 - Zero recipes unused for 6+ months
 - 30+ new recipes added per year
 
 **Variety:**
+
 - 10+ different cuisines per month
 - 25+ unique recipes per month
 - No recipe repeated within 30 days

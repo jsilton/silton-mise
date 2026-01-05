@@ -36,4 +36,3 @@ This Korean side dish (sigeumchi namul) blanches spinach for 30 seconds, then sh
 3.  **The Squeeze:** Gather the cold spinach into a ball. Squeeze with both hands until **no more water drips out**. The spinach should look like a dense, dry mass.
 4.  **Toss:** In a small bowl, whisk the garlic, sesame oil, and salt. Separate the spinach clumps and toss with the dressing and sesame seeds.
 5.  **Serve:** Best served at room temperature or chilled.
-

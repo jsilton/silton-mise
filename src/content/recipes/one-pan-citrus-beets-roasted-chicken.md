@@ -42,4 +42,3 @@ This one-pan roast builds flavor by placing butter-topped chicken directly onto 
 5.  **Finish:** Squeeze the orange juice over the entire pan. Season generously with salt and pepper.
 6.  **Bake:** Bake for 60 minutes until the chicken skin is deep golden and crispy and the beets are fork-tender.
 7.  **Serve:** Serve the chicken on a bed of the citrus-glazed vegetables.
-

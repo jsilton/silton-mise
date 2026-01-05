@@ -37,4 +37,3 @@ Arroz rojo (red rice) is a Mexican staple where long-grain rice is toasted in oi
 5.  **Simmer:** Place the cilantro sprig on top. Cover tightly, reduce heat to the lowest setting, and simmer for 15-18 minutes until the liquid is absorbed.
 6.  **Rest:** Turn off the heat. **Keep the lid on** for 10 minutes.
 7.  **Serve:** Remove cilantro, fluff with a fork, and serve.
-

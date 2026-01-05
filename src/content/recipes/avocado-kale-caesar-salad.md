@@ -46,4 +46,3 @@ This isn't your average kale salad. The secret to making kale restaurant-quality
 4.  **Texture:** Add the toasted pepitas and half of the Parmesan. Toss again.
 5.  **Assemble:** Top with the remaining half of the avocado (diced), the rest of the Parmesan, and the toasted panko (if using).
 6.  **Rest:** Let the salad sit for 5 minutes before serving—kale is sturdy and actually improves as it absorbs the dressing.
-

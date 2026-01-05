@@ -42,4 +42,3 @@ This cake creates striking visual swirls. The key to the interior pattern is alt
 7.  **Bake:** Bake for 35 minutes until a toothpick comes out clean. Cool in the pans for 5 minutes, then transfer to racks.
 8.  **The Ganache:** Heat cream until just boiling. Pour over chopped chocolate. Let sit for 5 minutes, then whisk until glossy. Let cool until thickened to a spreading consistency.
 9.  **Assemble:** Level the cooled cakes. Layer with ganache and frost the top and sides. Refrigerate for 1 hour to set the Texture before slicing.
-

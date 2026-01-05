@@ -36,4 +36,3 @@ This is the **Solomonov Method** for the smoothest hummus on earth. The secret i
 4.  **The Emulsion:** Add the tahini to the lemon juice. Process until it thickens and turns pale. With the motor running, add 1/4 cup ice-cold water and **2 ice cubes**. Process until it looks like whipped cream.
 5.  **The Combine:** Drain the **hot** chickpeas. Add them to the food processor with the cumin. Process for at least 4-5 minutes. If it's too thick, add a tablespoon of the chickpea cooking liquid.
 6.  **Serve:** Spread in a shallow bowl. Make a well in the center. Drizzle with plenty of olive oil and a sprinkle of paprika or za'atar.
-

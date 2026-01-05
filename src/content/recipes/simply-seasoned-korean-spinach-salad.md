@@ -38,4 +38,3 @@ The secret to authentic Korean spinach (sigeumchi namul) is precise blanching. S
 5.  **Cut:** Cut the dry spinach ball into 2-inch sections.
 6.  **Bind:** In a large bowl, whisk sesame oil, garlic, salt, and scallions. Add the spinach and toss vigorously with your hands to separate the leaves.
 7.  **Finish:** Garnish with sesame seeds. Serve chilled or at room temperature.
-

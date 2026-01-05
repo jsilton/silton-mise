@@ -38,4 +38,3 @@ Reducing soy-mirin-vinegar until it becomes heavy syrup, then brushing it onto t
 5.  **Stage 2:** Broil for 3 minutes, brushing twice more with the lacquer, until the trout is cooked through and the surface is mirror-glossy.
 6.  **Assemble:** Mound rice in shallow bowls. Top with the glazed trout, nori, and the poached vegetables.
 7.  **Serve:** Carefully pour the hot dashi around the perimeter of the bowl. Serve immediately.
-

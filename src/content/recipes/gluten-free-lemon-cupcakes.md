@@ -47,4 +47,3 @@ Beat oil and sugar for a full minute before adding eggs - this creates a stable 
 5.  **Cool:** Let cool **completely** before frosting. GF cakes are structurally fragile while warm.
 6.  **The Frosting:** Beat butter until creamy. Add lemon juice and 1 cup of sugar. Beat until smooth. Gradually add remaining sugar and milk until the frosting holds a stiff peak.
 7.  **Finish:** Frost generously. Store in an airtight container for up to 4 days.
-

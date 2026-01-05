@@ -44,4 +44,3 @@ This is an American combination of Italian fettuccine Alfredo with seafood, popu
     - If using **Jarred Sauce**: Pour into the skillet and heat until bubbling.
 5.  **Combine:** Toss the hot pasta and the seared shrimp into the sauce. If it's too thick, add a splash of the reserved pasta water to loosen it up.
 6.  **Garnish:** Top with fresh parsley and serve immediately.
-

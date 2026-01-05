@@ -1,21 +1,21 @@
 ---
-title: "Classic Manhattan"
-prepTime: "5 minutes"
-cookTime: "0 minutes"
-totalTime: "5 minutes"
-servings: "1 cocktail"
-difficulty: "easy"
-cuisines: ["American"]
+title: 'Classic Manhattan'
+prepTime: '5 minutes'
+cookTime: '0 minutes'
+totalTime: '5 minutes'
+servings: '1 cocktail'
+difficulty: 'easy'
+cuisines: ['American']
 dietary: []
-occasions: ["entertaining", "date-night", "indulgent"]
-seasons: ["year-round"]
-flavorProfile: ["rich", "sweet", "savory"]
-nutritionalDensity: "light"
-leftovers: "poor"
-equipment: ["mixing-glass", "strainer"]
-cookingMethods: ["no-cook"]
+occasions: ['entertaining', 'date-night', 'indulgent']
+seasons: ['year-round']
+flavorProfile: ['rich', 'sweet', 'savory']
+nutritionalDensity: 'light'
+leftovers: 'poor'
+equipment: ['mixing-glass', 'strainer']
+cookingMethods: ['no-cook']
 advancePrep: []
-pairsWith: ["steak", "charcuterie-board", "aged-cheese"]
+pairsWith: ['steak', 'charcuterie-board', 'aged-cheese']
 ---
 
 The Manhattan, created in the 1870s, is one of the most iconic American cocktails. This spirit-forward classic combines whiskey, sweet vermouth, and bitters for a perfectly balanced, sophisticated drink.

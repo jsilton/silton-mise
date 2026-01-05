@@ -1,7 +1,7 @@
 ---
 title: Turkey Burgers
 aliases:
-  - "juicy-turkey-burgers-the-family-favorite"
+  - 'juicy-turkey-burgers-the-family-favorite'
 difficulty: easy
 cookingMethods: [roast, grill, no-cook]
 dietary: []
@@ -43,4 +43,3 @@ The challenge with turkey burgers is preventing them from turning into dry, flav
 4.  **Sear:** Heat a grill or heavy skillet over medium-high heat. Lightly oil the surface.
 5.  **Cook:** Grill or sear the patties for 4-5 minutes per side. If using cheese, add it in the last 60 seconds and cover the pan to melt.
 6.  **Assemble:** Build the burgers on toasted buns with spinach, sliced avocado, and red onion.
-

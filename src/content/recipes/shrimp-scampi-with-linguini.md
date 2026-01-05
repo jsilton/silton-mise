@@ -44,4 +44,3 @@ Scampi is actually Italian for langoustine (a small lobster), but Italian-Americ
 5.  **Emulsify:** Reduce heat to low. Whisk in the butter and remaining 2 tbsp oil until the sauce is thick and glossy.
 6.  **Bind:** Return the shrimp and any juices to the pan. Add the hot pasta and parsley. Toss for 1 minute until every strand is coated.
 7.  **Serve:** Season with salt and plenty of black pepper. Top with Parmesan and serve immediately.
-

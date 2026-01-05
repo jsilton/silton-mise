@@ -1,21 +1,21 @@
 ---
-title: "Boulevardier"
-prepTime: "5 minutes"
-cookTime: "0 minutes"
-totalTime: "5 minutes"
-servings: "1 cocktail"
-difficulty: "easy"
-cuisines: ["American"]
+title: 'Boulevardier'
+prepTime: '5 minutes'
+cookTime: '0 minutes'
+totalTime: '5 minutes'
+servings: '1 cocktail'
+difficulty: 'easy'
+cuisines: ['American']
 dietary: []
-occasions: ["entertaining", "date-night", "indulgent"]
-seasons: ["year-round", "fall", "winter"]
-flavorProfile: ["rich", "savory", "acidic"]
-nutritionalDensity: "light"
-leftovers: "poor"
-equipment: ["mixing-glass", "strainer"]
-cookingMethods: ["no-cook"]
+occasions: ['entertaining', 'date-night', 'indulgent']
+seasons: ['year-round', 'fall', 'winter']
+flavorProfile: ['rich', 'savory', 'acidic']
+nutritionalDensity: 'light'
+leftovers: 'poor'
+equipment: ['mixing-glass', 'strainer']
+cookingMethods: ['no-cook']
 advancePrep: []
-pairsWith: ["steak", "charcuterie-board", "pasta"]
+pairsWith: ['steak', 'charcuterie-board', 'pasta']
 ---
 
 Created in 1920s Paris by American expat Erskine Gwynne, the Boulevardier is essentially a whiskey Negroni. This sophisticated cocktail combines bourbon with Campari and sweet vermouth for a bold, bittersweet drink perfect for whiskey lovers.

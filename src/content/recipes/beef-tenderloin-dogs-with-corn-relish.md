@@ -42,4 +42,3 @@ This is a high-end take on a cookout classic. The beef tenderloin is incredibly 
 3.  **The Sear:** Heat a cast-iron skillet or grill to high. Sear the beef "dogs" for 2-3 minutes per side until charred on the outside and 125°F in the center. Let rest for 5 minutes.
 4.  **The Bread:** Toast the baguette or brioche buns until golden.
 5.  **Assemble:** Place a beef strip in each bun. Top generously with the corn relish.
-

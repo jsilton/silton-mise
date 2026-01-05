@@ -42,4 +42,3 @@ These are ideal for breakfast meal prep. The secret to avoiding the rubbery, wat
 4.  **Assemble:** Pour the egg mixture into the cups, filling each about 3/4 full. Sprinkle the cheese over the tops.
 5.  **Bake:** Bake for 20-25 minutes until the centers are firm and the tops are slightly golden and puffed.
 6.  **Store:** Let cool for 5 minutes before removing. These can be frozen for up to 3 months and reheated in 45 seconds.
-

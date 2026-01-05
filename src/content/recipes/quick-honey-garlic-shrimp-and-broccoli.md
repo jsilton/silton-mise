@@ -39,4 +39,3 @@ This 15-minute meal uses smart shortcuts. Microwave the broccoli for 2 minutes w
 4.  **The Sear:** Heat oil in a heavy skillet or wok on **high**. Add shrimp in two batches. Sear for 1 minute per side until pink and charred. remove.
 5.  **Bind:** Add the steamed broccoli and the remaining sauce to the pan. Toss for 1 minute over high heat until the honey bubbles and thickens into a glossy glaze.
 6.  **Serve:** Return shrimp to the pan. Toss for 30 seconds. Serve immediately over steamed rice.
-

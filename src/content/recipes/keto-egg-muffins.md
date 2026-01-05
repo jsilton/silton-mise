@@ -40,4 +40,3 @@ These are ideal for high-protein, low-carb meal prep. The secret to avoiding the
 5.  **Fill:** Pour the egg mixture into the muffin cups, filling each about 3/4 full. Sprinkle the remaining cheese over the tops for a golden "Bounce."
 6.  **Bake:** Bake for 15-20 minutes until the centers are set and the tops are slightly golden.
 7.  **Serve:** Let cool for 5 minutes before popping them out with a knife.
-

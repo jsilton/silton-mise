@@ -40,4 +40,3 @@ This quick shrimp dish uses a Chinese restaurant technique: toss shrimp with bak
 3.  **The Sear:** Add garlic for 30 seconds (don't burn!). Add shrimp in a single layer. Sear for 2 minutes until pink.
 4.  **The Glaze:** Add honey, lime juice, salt, and cayenne. Stir constantly for 1-2 minutes until the sauce bubbles and thickens into a sticky glaze that coats the shrimp.
 5.  **Finish:** Garnish with parsley or cilantro and an extra squeeze of lime.
-

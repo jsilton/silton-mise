@@ -36,4 +36,3 @@ These are classic mashed potatoes. To ensure the best texture, after draining th
 3.  **The Emulsion:** Mound the potatoes to one side. Add the butter, cream cheese, and warmed half-and-half to the empty side. Let the butter melt into the liquid.
 4.  **Beat:** Remove from heat. Using a handheld electric mixer, beat on medium speed for 30-60 seconds. **Stop immediately** once the mixture is smooth and billowy.
 5.  **Serve:** Stir in the salt and plenty of black pepper. Serve immediately with a "High Note" pat of butter.
-

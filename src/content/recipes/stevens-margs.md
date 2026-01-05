@@ -33,4 +33,3 @@ This modern margarita uses a 1:1:1 ratio of reposado tequila, Cointreau, and fre
 4.  **Aeration:** Shake vigorously for 15-20 seconds until the shaker is ice-cold and frosted.
 5.  **Strain:** Double strain into the prepared rocks glass over fresh ice.
 6.  **Garnish:** Express a lime wedge over the surface and drop it in for the final aromatic **High Note**.
-

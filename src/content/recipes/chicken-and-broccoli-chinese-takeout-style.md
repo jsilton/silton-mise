@@ -47,4 +47,3 @@ Chicken and broccoli became a Chinese-American takeout staple in the mid-20th ce
 5.  **Aromatics:** Push chicken to the side. Add garlic and ginger. Sauté for 30 seconds until fragrant.
 6.  **The Glaze:** Return broccoli to the pan. Whisk the sauce again (cornstarch settles!) and pour it in.
 7.  **Finish:** Toss vigorously for 1 minute until the sauce thickens into a glossy glaze. Serve immediately.
-

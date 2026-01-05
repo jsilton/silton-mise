@@ -34,4 +34,3 @@ This is a traditional seasonal wellness syrup. The technique is reduction: we si
 5.  **Stabilize:** Let the liquid cool until it is lukewarm (below 110°F). Stir in the raw honey until completely dissolved and integrated.
 6.  **Store:** Seal the jar and store in the refrigerator for up to 2 months.
 7.  **Dose:** Standard Recommended dose is 1 tsp daily for kids, 1 tbsp for adults.
-

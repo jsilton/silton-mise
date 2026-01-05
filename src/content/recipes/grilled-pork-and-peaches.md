@@ -39,4 +39,3 @@ Pounding pork butt to uniform 3/4-inch thickness breaks down tough connective ti
 5.  **Flip:** Turn the pork over and cook for another 5-7 minutes until the internal temp reaches 145°F (for a perfect blush pink).
 6.  **Rest:** Remove meat to a carving board and **rest for 5 minutes** (mandatory for structure).
 7.  **Serve:** Slice the pork and serve immediately with the buttery, charred peaches and any pan juices.
-

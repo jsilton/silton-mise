@@ -41,4 +41,3 @@ Full-fat Greek yogurt's lactic acid gently breaks down chicken's muscle fibers, 
 5.  **Cook:** Grill kabobs for 12-15 minutes, turning occasionally. The yogurt will create a charred, crispy crust. The internal temp should reach 165°F.
 6.  **Rest:** Transfer to a platter and **rest for 5 minutes** before serving.
 7.  **Serve:** Garnish with fresh parsley and extra lemon wedges.
-

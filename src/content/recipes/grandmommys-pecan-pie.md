@@ -35,4 +35,3 @@ This is a family holiday tradition with a modern update. Replacing the tradition
 4.  **Layer:** Divide the pecans evenly between the two pie shells. Pour the syrup mixture over the pecans—they will naturally float to the top to create the Crunch layer.
 5.  **Bake:** Bake for 40-45 minutes until the edges are set and the center has a slight, stable wobble (the Texture).
 6.  **Cool:** Let cool completely (at least 2 hours) before slicing. This is mandatory for the structure to set.
-

@@ -37,4 +37,3 @@ Slow cookers excel at tenderness but fail at texture. We solve this with the **B
 5.  **The Bark:** Toss the shredded pork with the reserved liquid and 1/2 cup of your favorite BBQ sauce.
 6.  **Crisp:** Spread on a baking sheet. **BROIL** for 5-7 minutes until the edges are dark and crispy.
 7.  **Serve:** Pile onto brioche buns.
-

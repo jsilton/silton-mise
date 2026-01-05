@@ -38,4 +38,3 @@ This Mediterranean-inspired 25-minute dish sears chicken cutlets first to develo
 6.  **Wilt:** Fold in the spinach. Stir for 30 seconds until it just begins to collapse.
 7.  **Finish:** Return the chicken breasts to the skillet. Transfer the pan to a 400°F oven for 10-12 minutes until the chicken reaches an internal temp of 165°F.
 8.  **Serve:** Serve the chicken drenched in the lemon-yogurt sauce over rice or greens.
-

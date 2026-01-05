@@ -41,4 +41,3 @@ This Southern-style cornbread pairs perfectly with chili. For the crispiest crus
 4.  **The Sizzle:** If using a skillet, pour the hot butter from the pan into the batter, stir once, and pour the batter back into the hot skillet. If using a pan, grease and flour it first.
 5.  **Bake:** Bake for 20 minutes until the top is deep golden brown and the edges are crispy.
 6.  **Cool:** Let cool for 5 minutes before slicing into squares.
-

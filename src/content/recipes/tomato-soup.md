@@ -38,4 +38,3 @@ This is classic restorative tomato soup. The key to its velvety texture is using
 5.  **The Emulsion:** Stir in the half-and-half. Remove from heat.
 6.  **Puree:** Use a high-speed blender to puree the soup until completely smooth and mirror-glossy.
 7.  **Serve:** Return to low heat just to warm through. Serve hot.
-

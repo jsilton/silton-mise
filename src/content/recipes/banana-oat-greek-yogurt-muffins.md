@@ -40,4 +40,3 @@ Blending rolled oats into flour creates smooth muffins without grittiness. Greek
 3.  **Portion:** Pour into a greased or lined 12-cup muffin tin, filling 3/4 full.
 4.  **Bake:** Bake at 400°F for 15-18 minutes until the tops are golden and springy to the touch.
 5.  **Cool:** Let cool in the pan for 10 minutes.
-

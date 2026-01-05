@@ -34,4 +34,3 @@ Royal icing is the traditional coating for decorated sugar cookies, gingerbread 
 4.  **Dye:** Divide into small bowls. Stir in gel food coloring (The Finishing Touch).
 5.  **Consistency:** For flooding, add water 1/2 tsp at a time until a ribbon of icing disappears back into the bowl in exactly 15 seconds.
 6.  **Store:** Keep bowls tightly covered with plastic wrap—this icing sets instantly when exposed to air.
-

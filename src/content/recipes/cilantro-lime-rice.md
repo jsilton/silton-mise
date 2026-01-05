@@ -32,4 +32,3 @@ This Mexican-style rice is a staple for tacos, burrito bowls, and grain bowls. T
 2.  **Boil:** Combine rice, water/broth, and salt in a pot. Bring to a boil, then reduce to low, cover, and simmer for 15 minutes.
 3.  **Steam:** Turn off the heat. **Keep the lid on** and let the rice steam for 10 minutes.
 4.  **Fold:** Remove the lid. Add the butter, lime juice, lime zest, and cilantro. Gently fluff and fold with a fork until well combined.
-

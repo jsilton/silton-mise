@@ -3,7 +3,7 @@
 /**
  * QA & Regression Testing Suite
  * Runs comprehensive tests before deployment
- * 
+ *
  * Usage: node scripts/qa-test.mjs
  */
 
@@ -61,10 +61,10 @@ section('1. BUILD VERIFICATION');
 try {
   log('Running: npm run build', 'blue');
   const output = execSync('npm run build 2>&1', { cwd: process.cwd(), encoding: 'utf-8' });
-  
+
   const passed = output.includes('[build] Complete!') && output.includes('475 page(s) built');
   recordTest(testResult('Astro build succeeds', passed));
-  
+
   if (passed) {
     testResult('Generated dist/ directory', fs.existsSync('./dist'));
     testResult('All 475 pages compiled', output.includes('475 page(s) built'));
@@ -84,25 +84,31 @@ section('2. RECIPE VALIDATION');
 
 try {
   log('Running: npm run validate-recipes', 'blue');
-  const output = execSync('node scripts/validate-recipes.mjs 2>&1', { cwd: process.cwd(), encoding: 'utf-8' });
-  
+  const output = execSync('node scripts/validate-recipes.mjs 2>&1', {
+    cwd: process.cwd(),
+    encoding: 'utf-8',
+  });
+
   const passed = !output.includes('ERROR') && !output.includes('error');
   recordTest(testResult('Recipe validation passes', passed));
-  
+
   // Count recipes
   const recipeFiles = fs.readdirSync(path.join(process.cwd(), 'src/content/recipes'));
   testResult(`All ${recipeFiles.length} recipes present`, recipeFiles.length > 450);
-  
+
   // Check for valid frontmatter
   const recipesWithIssues = [];
-  recipeFiles.slice(0, 10).forEach(file => {
+  recipeFiles.slice(0, 10).forEach((file) => {
     const content = fs.readFileSync(path.join(process.cwd(), 'src/content/recipes', file), 'utf-8');
-    const hasRequiredFields = content.includes('title:') && 
-                             content.includes('difficulty:') && 
-                             content.includes('cuisines:');
+    const hasRequiredFields =
+      content.includes('title:') &&
+      content.includes('difficulty:') &&
+      content.includes('cuisines:');
     if (!hasRequiredFields) recipesWithIssues.push(file);
   });
-  recordTest(testResult('Sample recipes have required frontmatter', recipesWithIssues.length === 0));
+  recordTest(
+    testResult('Sample recipes have required frontmatter', recipesWithIssues.length === 0)
+  );
 } catch (error) {
   recordTest(testResult('Recipe validation runs', false, error.message));
 }
@@ -127,7 +133,7 @@ const checks = [
   { path: 'CODE_PRACTICES.md', name: 'Code practices guide exists' },
 ];
 
-checks.forEach(check => {
+checks.forEach((check) => {
   const exists = fs.existsSync(path.join(process.cwd(), check.path));
   recordTest(testResult(check.name, exists));
 });
@@ -141,7 +147,7 @@ section('4. COMPONENT INTEGRITY');
 function checkComponentImports(filePath, requiredImports = []) {
   try {
     const content = fs.readFileSync(filePath, 'utf-8');
-    return requiredImports.every(imp => content.includes(imp));
+    return requiredImports.every((imp) => content.includes(imp));
   } catch {
     return false;
   }
@@ -154,11 +160,17 @@ recordTest(testResult('Homepage imports FilterPanel', homeContent.includes('Filt
 recordTest(testResult('Homepage imports RecipeCard', homeContent.includes('RecipeCard')));
 
 // Check recipe detail imports components
-const recipeContent = fs.readFileSync(path.join(process.cwd(), 'src/pages/recipes/[slug].astro'), 'utf-8');
+const recipeContent = fs.readFileSync(
+  path.join(process.cwd(), 'src/pages/recipes/[slug].astro'),
+  'utf-8'
+);
 recordTest(testResult('Recipe page imports RecipeHeader', recipeContent.includes('RecipeHeader')));
 
 // Check components have proper structure
-const tagBadgeContent = fs.readFileSync(path.join(process.cwd(), 'src/components/TagBadge.astro'), 'utf-8');
+const tagBadgeContent = fs.readFileSync(
+  path.join(process.cwd(), 'src/components/TagBadge.astro'),
+  'utf-8'
+);
 recordTest(testResult('TagBadge has category mapping', tagBadgeContent.includes('categoryColors')));
 
 // ============================================================================
@@ -170,25 +182,25 @@ section('5. CONTENT QUALITY CHECKS');
 const sampleRecipes = fs.readdirSync(path.join(process.cwd(), 'src/content/recipes')).slice(0, 5);
 let qualityIssues = 0;
 
-sampleRecipes.forEach(file => {
+sampleRecipes.forEach((file) => {
   try {
     const content = fs.readFileSync(path.join(process.cwd(), 'src/content/recipes', file), 'utf-8');
-    
+
     // Extract frontmatter
     const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
     if (!fmMatch) {
       qualityIssues++;
       return;
     }
-    
+
     const frontmatter = fmMatch[1];
-    
+
     // Check for required fields
     const hasTitle = frontmatter.includes('title:');
     const hasDifficulty = frontmatter.includes('difficulty:');
     const hasCuisines = frontmatter.includes('cuisines:');
     const hasOrigin = frontmatter.includes('origin:');
-    
+
     if (!hasTitle || !hasDifficulty || !hasCuisines || !hasOrigin) {
       qualityIssues++;
     }
@@ -197,8 +209,13 @@ sampleRecipes.forEach(file => {
   }
 });
 
-recordTest(testResult(`Sample recipes have complete metadata`, qualityIssues === 0, 
-  qualityIssues > 0 ? `${qualityIssues} recipes missing fields` : ''));
+recordTest(
+  testResult(
+    `Sample recipes have complete metadata`,
+    qualityIssues === 0,
+    qualityIssues > 0 ? `${qualityIssues} recipes missing fields` : ''
+  )
+);
 
 // ============================================================================
 // DOCUMENTATION CHECKS
@@ -212,7 +229,7 @@ const docChecks = [
   { path: 'CODE_PRACTICES.md', key: 'Component Architecture', name: 'Code practices documented' },
 ];
 
-docChecks.forEach(doc => {
+docChecks.forEach((doc) => {
   try {
     const content = fs.readFileSync(path.join(process.cwd(), doc.path), 'utf-8');
     const hasContent = content.includes(doc.key);
@@ -282,8 +299,10 @@ log(`
 section('TEST SUMMARY');
 
 const percentage = totalTests > 0 ? Math.round((passedTests / totalTests) * 100) : 0;
-log(`Tests Passed: ${passedTests}/${totalTests} (${percentage}%)`, 
-    percentage === 100 ? 'green' : percentage >= 80 ? 'yellow' : 'red');
+log(
+  `Tests Passed: ${passedTests}/${totalTests} (${percentage}%)`,
+  percentage === 100 ? 'green' : percentage >= 80 ? 'yellow' : 'red'
+);
 
 if (percentage === 100) {
   log(`\n✓ All automated checks passed!`, 'green');

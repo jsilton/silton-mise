@@ -3,15 +3,15 @@ import path from 'path';
 import matter from 'gray-matter';
 
 const RECIPES_DIR = path.resolve('src/content/recipes');
-const allowedRoles = new Set(['main','side','dessert','base','drink','condiment']);
-const allowedVibes = new Set(['nutritious','comfort','technical','holiday','quick']);
+const allowedRoles = new Set(['main', 'side', 'dessert', 'base', 'drink', 'condiment']);
+const allowedVibes = new Set(['nutritious', 'comfort', 'technical', 'holiday', 'quick']);
 
 async function listMdFiles(dir) {
   const entries = await fs.readdir(dir, { withFileTypes: true });
   const files = [];
   for (const entry of entries) {
     const res = path.join(dir, entry.name);
-    if (entry.isDirectory()) files.push(...await listMdFiles(res));
+    if (entry.isDirectory()) files.push(...(await listMdFiles(res)));
     else if (entry.isFile() && res.endsWith('.md')) files.push(res);
   }
   return files;
@@ -32,25 +32,36 @@ function normalizeKey(str) {
     .replace(/[^\w\s-]/g, '')
     .trim()
     .replace(/\s+/g, '-');
-} 
+}
 
-(async function main(){
+(async function main() {
   const files = await listMdFiles(RECIPES_DIR);
   const report = {
     total: files.length,
     missing: {
-      title: [], role: [], vibe: [], ingredients: [], prepTime: [], cookTime: [], totalTime: [], servings: [], image: [], chefNote: [], directions: [], directionsFormatting: []
+      title: [],
+      role: [],
+      vibe: [],
+      ingredients: [],
+      prepTime: [],
+      cookTime: [],
+      totalTime: [],
+      servings: [],
+      image: [],
+      chefNote: [],
+      directions: [],
+      directionsFormatting: [],
     },
     invalidValues: { role: [], vibe: [] },
     brokenInternalLinks: [],
     brokenWikiLinks: [],
     // suggestions: map of slug -> [{ruleId, title, severity, suggestion}]
-    suggestions: {}
+    suggestions: {},
   };
 
   // Load KB rules (small JSON files in src/knowledge/codex)
-  const KB_DIR = path.resolve('src','knowledge','codex');
-  let kbRules = [];
+  const KB_DIR = path.resolve('src', 'knowledge', 'codex');
+  const kbRules = [];
   async function loadKb() {
     try {
       const entries = await fs.readdir(KB_DIR, { withFileTypes: true });
@@ -83,7 +94,7 @@ function normalizeKey(str) {
 
     // Collect meta
     const title = data.title || slug;
-    const aliases = Array.isArray(data.aliases) ? data.aliases : (data.aliases ? [data.aliases] : []);
+    const aliases = Array.isArray(data.aliases) ? data.aliases : data.aliases ? [data.aliases] : [];
     slugToMeta.set(slug, { title, aliases, file });
 
     // keys
@@ -105,107 +116,131 @@ function normalizeKey(str) {
   }
 
   // Helpers for KB checks
-function extractIngredientTokens(data, content) {
-  const tokens = new Set();
-  if (Array.isArray(data.ingredients)) {
-    for (const it of data.ingredients) {
-      const s = String(it || '').toLowerCase();
-      s.replace(/[^a-z0-9\s\-]/g,' ').split(/\s+/).forEach(t => t && tokens.add(t));
+  function extractIngredientTokens(data, content) {
+    const tokens = new Set();
+    if (Array.isArray(data.ingredients)) {
+      for (const it of data.ingredients) {
+        const s = String(it || '').toLowerCase();
+        s.replace(/[^a-z0-9\s\-]/g, ' ')
+          .split(/\s+/)
+          .forEach((t) => t && tokens.add(t));
+      }
+    } else if (typeof data.ingredients === 'string') {
+      const s = data.ingredients.toLowerCase();
+      s.replace(/[^a-z0-9\s\-]/g, ' ')
+        .split(/\s+/)
+        .forEach((t) => t && tokens.add(t));
     }
-  } else if (typeof data.ingredients === 'string') {
-    const s = data.ingredients.toLowerCase();
-    s.replace(/[^a-z0-9\s\-]/g,' ').split(/\s+/).forEach(t => t && tokens.add(t));
-  }
-  // scan content as fallback
-  const c = (content||'').toLowerCase().replace(/[^a-z0-9\s\-]/g,' ');
-  c.split(/\s+/).forEach(t => t && tokens.add(t));
-  return tokens;
-}
-
-function runKbChecks(slug, data, content) {
-  const suggestions = [];
-  if (!kbRules || !kbRules.length) return suggestions;
-  const ingredientTokens = extractIngredientTokens(data, content);
-  const lowerContent = (content || '').toLowerCase();
-
-  // detect audience hints from frontmatter or content (simple heuristics)
-  function detectAudiences(data, content) {
-    const audiences = new Set();
-    const source = (`${(data.audience||'')} ${(data.tags||'')} ${(data.description||'')} ${content || ''}`).toLowerCase();
-    const map = {
-      kids: ['kid','kids','child','children','baby','toddler','smash cake','toddler']
-    };
-    for (const [key, tokens] of Object.entries(map)) {
-      for (const t of tokens) if (source.includes(t)) { audiences.add(key); break; }
-    }
-    // honor explicit frontmatter audience field if present
-    if (data.audience) {
-      if (Array.isArray(data.audience)) data.audience.forEach(a => audiences.add(String(a).toLowerCase()));
-      else audiences.add(String(data.audience).toLowerCase());
-    }
-    return [...audiences];
+    // scan content as fallback
+    const c = (content || '').toLowerCase().replace(/[^a-z0-9\s\-]/g, ' ');
+    c.split(/\s+/).forEach((t) => t && tokens.add(t));
+    return tokens;
   }
 
-  const recipeAudiences = detectAudiences(data, content);
-  const recipeDisabledRules = (data.kb && Array.isArray(data.kb.disable)) ? data.kb.disable : [];
-  const recipeTags = new Set((data.tags || '').toString().toLowerCase().split(/[\s,]+/).filter(Boolean));
+  function runKbChecks(slug, data, content) {
+    const suggestions = [];
+    if (!kbRules || !kbRules.length) return suggestions;
+    const ingredientTokens = extractIngredientTokens(data, content);
+    const lowerContent = (content || '').toLowerCase();
 
-  for (const rule of kbRules) {
-    // skip if the recipe explicitly disables this rule
-    if (recipeDisabledRules.includes(rule.id)) continue;
-
-    // skip if rule declares audiences to exclude
-    if (rule.excludeIf && Array.isArray(rule.excludeIf.audiences)) {
-      if (rule.excludeIf.audiences.some(a => recipeAudiences.includes(String(a).toLowerCase()))) continue;
+    // detect audience hints from frontmatter or content (simple heuristics)
+    function detectAudiences(data, content) {
+      const audiences = new Set();
+      const source =
+        `${data.audience || ''} ${data.tags || ''} ${data.description || ''} ${content || ''}`.toLowerCase();
+      const map = {
+        kids: ['kid', 'kids', 'child', 'children', 'baby', 'toddler', 'smash cake', 'toddler'],
+      };
+      for (const [key, tokens] of Object.entries(map)) {
+        for (const t of tokens)
+          if (source.includes(t)) {
+            audiences.add(key);
+            break;
+          }
+      }
+      // honor explicit frontmatter audience field if present
+      if (data.audience) {
+        if (Array.isArray(data.audience))
+          data.audience.forEach((a) => audiences.add(String(a).toLowerCase()));
+        else audiences.add(String(data.audience).toLowerCase());
+      }
+      return [...audiences];
     }
 
-    // if rule defines appliesToTags, require at least one matching tag
-    if (Array.isArray(rule.appliesToTags) && rule.appliesToTags.length>0) {
-      const matched = rule.appliesToTags.some(t => recipeTags.has(String(t).toLowerCase()));
-      if (!matched) continue;
-    }
+    const recipeAudiences = detectAudiences(data, content);
+    const recipeDisabledRules = data.kb && Array.isArray(data.kb.disable) ? data.kb.disable : [];
+    const recipeTags = new Set(
+      (data.tags || '')
+        .toString()
+        .toLowerCase()
+        .split(/[\s,]+/)
+        .filter(Boolean)
+    );
 
-    let ruleMatched = true;
+    for (const rule of kbRules) {
+      // skip if the recipe explicitly disables this rule
+      if (recipeDisabledRules.includes(rule.id)) continue;
 
-    for (const clause of rule.detection || []) {
-      const type = clause.type;
-      const words = clause.words || [];
-      const optional = clause.optional || false;
-
-      let clauseMatched = false;
-      if (type === 'ingredient_absence') {
-        clauseMatched = words.every(w => {
-          const token = String(w || '').toLowerCase();
-          return ![...ingredientTokens].some(t => t === token || t.includes(token) || token.includes(t));
-        });
-      } else if (type === 'ingredient_presence') {
-        clauseMatched = words.some(w => {
-          const token = String(w || '').toLowerCase();
-          return [...ingredientTokens].some(t => t === token || t.includes(token));
-        });
-      } else if (type === 'method_presence') {
-        clauseMatched = words.some(w => lowerContent.includes(String(w||'').toLowerCase()));
-      } else if (type === 'text_presence') {
-        clauseMatched = words.some(w => lowerContent.includes(String(w||'').toLowerCase()));
-      } else if (type === 'text_absence') {
-        clauseMatched = words.every(w => !lowerContent.includes(String(w||'').toLowerCase()));
+      // skip if rule declares audiences to exclude
+      if (rule.excludeIf && Array.isArray(rule.excludeIf.audiences)) {
+        if (rule.excludeIf.audiences.some((a) => recipeAudiences.includes(String(a).toLowerCase())))
+          continue;
       }
 
-      if (!clauseMatched && !optional) {
-        ruleMatched = false;
-        break;
+      // if rule defines appliesToTags, require at least one matching tag
+      if (Array.isArray(rule.appliesToTags) && rule.appliesToTags.length > 0) {
+        const matched = rule.appliesToTags.some((t) => recipeTags.has(String(t).toLowerCase()));
+        if (!matched) continue;
+      }
+
+      let ruleMatched = true;
+
+      for (const clause of rule.detection || []) {
+        const type = clause.type;
+        const words = clause.words || [];
+        const optional = clause.optional || false;
+
+        let clauseMatched = false;
+        if (type === 'ingredient_absence') {
+          clauseMatched = words.every((w) => {
+            const token = String(w || '').toLowerCase();
+            return ![...ingredientTokens].some(
+              (t) => t === token || t.includes(token) || token.includes(t)
+            );
+          });
+        } else if (type === 'ingredient_presence') {
+          clauseMatched = words.some((w) => {
+            const token = String(w || '').toLowerCase();
+            return [...ingredientTokens].some((t) => t === token || t.includes(token));
+          });
+        } else if (type === 'method_presence') {
+          clauseMatched = words.some((w) => lowerContent.includes(String(w || '').toLowerCase()));
+        } else if (type === 'text_presence') {
+          clauseMatched = words.some((w) => lowerContent.includes(String(w || '').toLowerCase()));
+        } else if (type === 'text_absence') {
+          clauseMatched = words.every((w) => !lowerContent.includes(String(w || '').toLowerCase()));
+        }
+
+        if (!clauseMatched && !optional) {
+          ruleMatched = false;
+          break;
+        }
+      }
+
+      if (ruleMatched) {
+        suggestions.push({
+          ruleId: rule.id,
+          title: rule.title,
+          severity: rule.severity,
+          suggestion: rule.suggestionTemplate,
+        });
       }
     }
 
-    if (ruleMatched) {
-      suggestions.push({ ruleId: rule.id, title: rule.title, severity: rule.severity, suggestion: rule.suggestionTemplate });
-    }
+    return suggestions;
   }
 
-  return suggestions;
-}
-
-// Now validate each file contents
+  // Now validate each file contents
   for (const file of files) {
     const raw = await fs.readFile(file, 'utf8');
     const { data, content } = matter(raw);
@@ -223,8 +258,10 @@ function runKbChecks(slug, data, content) {
     if (!data.image) report.missing.image.push(slug);
 
     // value checks
-    if (data.role && !allowedRoles.has(String(data.role))) report.invalidValues.role.push({slug, value: data.role});
-    if (data.vibe && !allowedVibes.has(String(data.vibe))) report.invalidValues.vibe.push({slug, value: data.vibe});
+    if (data.role && !allowedRoles.has(String(data.role)))
+      report.invalidValues.role.push({ slug, value: data.role });
+    if (data.vibe && !allowedVibes.has(String(data.vibe)))
+      report.invalidValues.vibe.push({ slug, value: data.vibe });
 
     // sections
     if (!/##\s*Chef's Note/i.test(content)) report.missing.chefNote.push(slug);
@@ -233,7 +270,9 @@ function runKbChecks(slug, data, content) {
     // directions formatting (numbered steps with bold header)
     const directionsMatch = content.match(/##\s*Directions[\s\S]*?(?=^##\s|\z)/im);
     if (directionsMatch) {
-      if (!/\d+\.\s+\*\*/.test(directionsMatch[0])) report.missing.directionsFormatting = report.missing.directionsFormatting || [], report.missing.directionsFormatting && report.missing.directionsFormatting.push(slug);
+      if (!/\d+\.\s+\*\*/.test(directionsMatch[0]))
+        ((report.missing.directionsFormatting = report.missing.directionsFormatting || []),
+          report.missing.directionsFormatting && report.missing.directionsFormatting.push(slug));
     } else {
       report.missing.directionsFormatting = report.missing.directionsFormatting || [];
       report.missing.directionsFormatting.push(slug);
@@ -243,7 +282,7 @@ function runKbChecks(slug, data, content) {
     const links = extractInternalLinks(content);
     for (const link of links) {
       if (!linkTargetMap.has(link)) {
-        report.brokenInternalLinks.push({from: slug, to: link});
+        report.brokenInternalLinks.push({ from: slug, to: link });
       }
     }
 
@@ -253,7 +292,7 @@ function runKbChecks(slug, data, content) {
     while ((m = wikiRe.exec(content)) !== null) {
       const token = m[1].trim();
       const resolved = resolveLinkToken(token);
-      if (!resolved) report.brokenWikiLinks.push({from: slug, token});
+      if (!resolved) report.brokenWikiLinks.push({ from: slug, token });
     }
 
     // KB-based suggestions (non-blocking unless rule is 'fail')
@@ -268,20 +307,28 @@ function runKbChecks(slug, data, content) {
   }
 
   // Reduce large arrays to samples
-  const sample = (arr, n=20) => arr.slice(0,n);
+  const sample = (arr, n = 20) => arr.slice(0, n);
   // write a small index file to public/recipes/index.json for optional client or tooling use
   const indexArray = [];
   for (const [slug, meta] of slugToMeta.entries()) {
     indexArray.push({ slug, title: meta.title, aliases: meta.aliases || [] });
   }
-  await fs.mkdir(path.resolve('public','recipes'), { recursive: true }).catch(()=>{});
-  await fs.writeFile(path.resolve('public','recipes','index.json'), JSON.stringify(indexArray, null, 2));
+  await fs.mkdir(path.resolve('public', 'recipes'), { recursive: true }).catch(() => {});
+  await fs.writeFile(
+    path.resolve('public', 'recipes', 'index.json'),
+    JSON.stringify(indexArray, null, 2)
+  );
 
   // Build output and include KB suggestions summary
   const output = {
     totalRecipes: report.total,
-    missingCounts: Object.fromEntries(Object.entries(report.missing).map(([k,v])=>[k, v.length])),
-    invalidValuesCount: {role: report.invalidValues.role.length, vibe: report.invalidValues.vibe.length},
+    missingCounts: Object.fromEntries(
+      Object.entries(report.missing).map(([k, v]) => [k, v.length])
+    ),
+    invalidValuesCount: {
+      role: report.invalidValues.role.length,
+      vibe: report.invalidValues.vibe.length,
+    },
     samples: {
       missingTitle: sample(report.missing.title),
       missingChefNote: sample(report.missing.chefNote),
@@ -291,8 +338,8 @@ function runKbChecks(slug, data, content) {
       invalidRoles: sample(report.invalidValues.role),
       invalidVibes: sample(report.invalidValues.vibe),
       brokenInternalLinks: sample(report.brokenInternalLinks, 50),
-      brokenWikiLinks: sample(report.brokenWikiLinks || [], 50)
-    }
+      brokenWikiLinks: sample(report.brokenWikiLinks || [], 50),
+    },
   };
 
   // suggestions summary
@@ -301,33 +348,41 @@ function runKbChecks(slug, data, content) {
   for (const [s, arr] of Object.entries(report.suggestions)) {
     totalSuggestions += arr.length;
     for (const a of arr) {
-      suggestionsSample.push(Object.assign({slug: s}, a));
+      suggestionsSample.push(Object.assign({ slug: s }, a));
     }
   }
   output.suggestionsCount = totalSuggestions;
   output.sampleSuggestions = sample(suggestionsSample, 50);
 
   // write report JSON for CI consumers
-  const reportPath = path.resolve('public','recipes','validation-report.json');
+  const reportPath = path.resolve('public', 'recipes', 'validation-report.json');
   await fs.writeFile(reportPath, JSON.stringify(output, null, 2));
   console.log(JSON.stringify(output, null, 2));
 
   // generate AI scaffolding: per-recipe context files for opt-in AI workflows
-  const aiDir = path.resolve('public','recipes','ai-context');
-  const aiSuggestDir = path.resolve('public','recipes','ai-suggest');
-  await fs.mkdir(aiDir, { recursive: true }).catch(()=>{});
-  await fs.mkdir(aiSuggestDir, { recursive: true }).catch(()=>{});
+  const aiDir = path.resolve('public', 'recipes', 'ai-context');
+  const aiSuggestDir = path.resolve('public', 'recipes', 'ai-suggest');
+  await fs.mkdir(aiDir, { recursive: true }).catch(() => {});
+  await fs.mkdir(aiSuggestDir, { recursive: true }).catch(() => {});
 
   // build a simple features extractor for AI
   function detectAudiencesFromData(data, content) {
     const audiences = new Set();
-    const source = (`${(data.audience||'')} ${(data.tags||'')} ${(data.description||'')} ${content || ''}`).toLowerCase();
-    const map = { kids: ['kid','kids','child','children','baby','toddler','smash cake','toddler'] };
+    const source =
+      `${data.audience || ''} ${data.tags || ''} ${data.description || ''} ${content || ''}`.toLowerCase();
+    const map = {
+      kids: ['kid', 'kids', 'child', 'children', 'baby', 'toddler', 'smash cake', 'toddler'],
+    };
     for (const [key, tokens] of Object.entries(map)) {
-      for (const t of tokens) if (source.includes(t)) { audiences.add(key); break; }
+      for (const t of tokens)
+        if (source.includes(t)) {
+          audiences.add(key);
+          break;
+        }
     }
     if (data.audience) {
-      if (Array.isArray(data.audience)) data.audience.forEach(a => audiences.add(String(a).toLowerCase()));
+      if (Array.isArray(data.audience))
+        data.audience.forEach((a) => audiences.add(String(a).toLowerCase()));
       else audiences.add(String(data.audience).toLowerCase());
     }
     return [...audiences];
@@ -343,12 +398,29 @@ function runKbChecks(slug, data, content) {
       const audiences = detectAudiencesFromData(data, content);
       const ingredientTokens = [...extractIngredientTokens(data, content)];
       const methods = [];
-      const methodWords = ['sear','roast','bake','fry','braise','sous-vide','steam','grill','pan-fry','pan sear'];
-      const lowerContent = (content||'').toLowerCase();
+      const methodWords = [
+        'sear',
+        'roast',
+        'bake',
+        'fry',
+        'braise',
+        'sous-vide',
+        'steam',
+        'grill',
+        'pan-fry',
+        'pan sear',
+      ];
+      const lowerContent = (content || '').toLowerCase();
       for (const m of methodWords) if (lowerContent.includes(m)) methods.push(m);
 
-      const kbSuggestions = report.suggestions && report.suggestions[slug] ? report.suggestions[slug] : [];
-      const considered = kbSuggestions.map(s => ({ ruleId: s.ruleId, title: s.title, severity: s.severity, suggestion: s.suggestion }));
+      const kbSuggestions =
+        report.suggestions && report.suggestions[slug] ? report.suggestions[slug] : [];
+      const considered = kbSuggestions.map((s) => ({
+        ruleId: s.ruleId,
+        title: s.title,
+        severity: s.severity,
+        suggestion: s.suggestion,
+      }));
 
       const aiContext = {
         slug,
@@ -358,7 +430,8 @@ function runKbChecks(slug, data, content) {
         ingredientTokens,
         methods,
         kbSuggestions: considered,
-        notes: 'Generated AI context: use this to provide reviewed, human-verified suggestions. Do not auto-apply changes without human approval.'
+        notes:
+          'Generated AI context: use this to provide reviewed, human-verified suggestions. Do not auto-apply changes without human approval.',
       };
 
       const ctxPath = path.join(aiDir, `${slug}.json`);
@@ -367,26 +440,48 @@ function runKbChecks(slug, data, content) {
       const aiSuggestPath = path.join(aiSuggestDir, `${slug}.ai-suggest.json`);
       // placeholder structure for future LLM outputs
       const placeholder = { slug, suggestions: [], generatedAt: null, generatedBy: null };
-      if (!await fs.stat(aiSuggestPath).then(()=>true).catch(()=>false)) {
+      if (
+        !(await fs
+          .stat(aiSuggestPath)
+          .then(() => true)
+          .catch(() => false))
+      ) {
         await fs.writeFile(aiSuggestPath, JSON.stringify(placeholder, null, 2));
       }
     }
 
     // write a batch summary file
     const batchPath = path.join(aiDir, 'ai-batch-summary.json');
-    const batch = { generatedAt: new Date().toISOString(), totalRecipes: files.length, totalKbSuggestions: output.suggestionsCount };
+    const batch = {
+      generatedAt: new Date().toISOString(),
+      totalRecipes: files.length,
+      totalKbSuggestions: output.suggestionsCount,
+    };
     await fs.writeFile(batchPath, JSON.stringify(batch, null, 2));
   }
 
   await writeAiFiles();
 
   // exit non-zero only on critical failures: missing Chef's Note, missing Directions formatting, invalid enums, or broken links
-  const criticalMissing = (report.missing.chefNote && report.missing.chefNote.length>0) || (report.missing.directions && report.missing.directions.length>0) || (report.missing.directionsFormatting && report.missing.directionsFormatting.length>0);
-  const failSuggestionsCount = Object.values(report.suggestions || {}).flat().filter(s=>s.severity === 'fail').length;
-  const issuesFound = criticalMissing || output.invalidValuesCount.role>0 || output.invalidValuesCount.vibe>0 || output.samples.brokenInternalLinks.length>0 || output.samples.brokenWikiLinks.length>0 || failSuggestionsCount>0;
+  const criticalMissing =
+    (report.missing.chefNote && report.missing.chefNote.length > 0) ||
+    (report.missing.directions && report.missing.directions.length > 0) ||
+    (report.missing.directionsFormatting && report.missing.directionsFormatting.length > 0);
+  const failSuggestionsCount = Object.values(report.suggestions || {})
+    .flat()
+    .filter((s) => s.severity === 'fail').length;
+  const issuesFound =
+    criticalMissing ||
+    output.invalidValuesCount.role > 0 ||
+    output.invalidValuesCount.vibe > 0 ||
+    output.samples.brokenInternalLinks.length > 0 ||
+    output.samples.brokenWikiLinks.length > 0 ||
+    failSuggestionsCount > 0;
 
   if (output.missingCounts.image > 0) {
-    console.warn(`Warning: ${output.missingCounts.image} recipes missing an 'image' frontmatter. This is recommended for social sharing, but not critical.`);
+    console.warn(
+      `Warning: ${output.missingCounts.image} recipes missing an 'image' frontmatter. This is recommended for social sharing, but not critical.`
+    );
   }
 
   process.exit(issuesFound ? 2 : 0);

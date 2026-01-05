@@ -36,4 +36,3 @@ Using whole chicken legs instead of boneless chicken extracts collagen and fat d
 4.  **Emulsify:** Return the chicken and shiitakes to the pot. Taste and whisk in an extra spoonful of miso if you want a saltier "Snap."
 5.  **Assemble:** Boil ramen noodles separately for 2 minutes. Divide noodles among bowls.
 6.  **Serve:** Ladle the hot miso broth and chicken over the noodles. Top with a soft-boiled egg, nori, and sesame seeds.
-

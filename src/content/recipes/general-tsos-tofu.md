@@ -50,4 +50,3 @@ General Tso's tofu brings the classic Chinese-American sauce to plant-based prot
 5.  **The Glaze:** Immediately add the soy sauces, vinegar, sugar, and sesame oil. Stir in the cornstarch slurry.
 6.  **Bind:** Simmer for 1 minute until the sauce is thick and mirror-glossy.
 7.  **Toss:** Add the crispy tofu back to the wok. Toss vigorously for 30 seconds until perfectly coated. Serve immediately over rice.
-

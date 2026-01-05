@@ -47,4 +47,3 @@ This is a nutritious take on carrot cake, reimagined as a high-fiber breakfast. 
 5.  **Fold:** Add the grated carrots and chopped nuts. Fold until just combined—do not overmix, or the whole wheat flour will become tough.
 6.  **Bake:** Pour into the prepared pan and tap lightly to remove air bubbles. Bake for 25-30 minutes until a toothpick comes out clean.
 7.  **Cool:** Let cool in the pan for 10 minutes, then transfer to a wire rack. This cake is even better the next day once the spices have "bloomed."
-

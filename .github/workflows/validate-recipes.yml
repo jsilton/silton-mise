@@ -31,7 +31,7 @@ jobs:
 
       - name: Run recipe validator
         id: run-validator
-        run: npm run validate:recipes
+        run: npm run validate-recipes
         env:
           # Increase memory if a very large repo would need it
           NODE_OPTIONS: '--max-old-space-size=1024'

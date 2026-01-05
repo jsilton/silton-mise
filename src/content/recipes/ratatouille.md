@@ -38,4 +38,3 @@ Ratatouille comes from Nice in Provence, France, where it's been made since the 
 4.  **Combine:** Carefully fold the roasted eggplant, peppers, and squash into the tomato sauce. Simmer for 5 minutes to let the flavors meld.
 5.  **Finish:** Remove from heat. Stir in the fresh basil, red pepper flakes, and a squeeze of lemon for the mandatory **Acid Balance**.
 6.  **Serve:** Serve hot or at room temperature with a final drizzle of high-quality olive oil.
-

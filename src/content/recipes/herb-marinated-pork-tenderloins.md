@@ -40,4 +40,3 @@ Most recipes overcook pork to 160°F, producing dry meat. Searing to develop a c
 3.  **Roast:** Transfer the skillet directly to the oven. Roast for 10-15 minutes until the internal temperature reaches **137°F** at the thickest part.
 4.  **The Finish:** Remove to a platter and cover tightly with foil. **Rest for 10 minutes**—this is mandatory for the juices to redistribute.
 5.  **Serve:** Carve into 1/2-inch thick diagonal slices. Serve warm with the accumulated juices from the platter.
-

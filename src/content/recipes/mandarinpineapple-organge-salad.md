@@ -38,4 +38,3 @@ This is an updated take on a classic family "congealed salad." The key is whiski
 4.  **The Finish:** Pour the mixture into a glass bowl or a decorative mold.
 5.  **Chill:** Refrigerate for **at least 4 hours** (ideally overnight) until perfectly congealed and firm.
 6.  **Serve:** Serve chilled as a bright side dish or a light dessert.
-

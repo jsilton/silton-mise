@@ -43,4 +43,3 @@ The chocolate chip cookie was invented by accident in 1938 when Ruth Wakefield, 
 4.  **The Rest (Critical):** Wrap the dough and refrigerate for at least **24 hours**. This is the secret to the best cookies.
 5.  **Bake:** Scoop onto a parchment-lined sheet. Bake at 350°F for 10-12 minutes until the edges are golden but the centers are still soft.
 6.  **Finish:** Sprinkle with a tiny pinch of flaky sea salt immediately.
-

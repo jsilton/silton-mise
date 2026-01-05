@@ -31,4 +31,3 @@ Quick-pickled red onions are a staple Mexican condiment that adds brightness, co
 3.  **Pour:** Pour the liquid over the onions. Ensure they are completely submerged (press down with a spoon if needed).
 4.  **Pickle:** Let sit at room temperature for 30-60 minutes.
 5.  **Store:** Store in the fridge for up to 2 weeks.
-

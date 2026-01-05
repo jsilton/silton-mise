@@ -37,4 +37,3 @@ Buttermilk's acidity reacts with baking soda for extra lift and tang. Rest the b
 5.  **Cook:** Preheat your waffle iron and grease lightly. Pour about 1/3 to 1/2 cup of batter (depending on your iron size).
 6.  **Finish:** Cook until the steam stops rising from the iron and the waffles are deep golden brown.
 7.  **Serve:** Serve immediately with salted butter, maple syrup, and fresh berries.
-

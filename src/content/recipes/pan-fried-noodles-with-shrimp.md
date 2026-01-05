@@ -47,4 +47,3 @@ Pan-fried noodles (gon chow min) are a Cantonese restaurant specialty. The techn
 5.  **The Sear:** In a hot wok or skillet, sear the shrimp for 1 minute per side. Add ginger and garlic for 30 seconds. Splash in the Shaoxing wine.
 6.  **The Gravy:** Pour in the sauce mixture (stock, oyster sauce, soy, pepper). Bring to a boil. Stir in the cornstarch slurry and cook until thickened and clear.
 7.  **Serve:** Pour the hot shrimp gravy directly over the center of the crispy noodle cake. Serve immediately.
-

@@ -47,4 +47,3 @@ Galettes are rustic free-form tarts from France, though Italians have embraced t
 6.  **The Fold:** Gently fold the edges of the dough over the tomatoes, pleating as you go. Brush the crust edges with olive oil and sprinkle with the shredded cheese.
 7.  **Bake:** Bake for 25-30 minutes until the crust is deep golden brown and the tomatoes are concentrated.
 8.  **Serve:** Garnish with flaky salt, chili flakes, and fresh herbs for the mandatory **High Note**.
-

@@ -1,7 +1,7 @@
 ---
 title: Macaroni and Pimento Cheese
 aliases:
-  - "baked-macaroni-and-pimento-cheese-the-comfort-classic"
+  - 'baked-macaroni-and-pimento-cheese-the-comfort-classic'
 prepTime: 15 min
 cookTime: 25 min
 totalTime: 40 min
@@ -42,4 +42,3 @@ This is a Southern-style **Custard Mac and Cheese** with a pimento-infused twist
 5.  **Bake:** Transfer the mixture to a greased 9x13 baking dish. Sprinkle the remaining cheese over the top.
 6.  **Crisp:** Bake for 25-30 minutes until the top is golden brown and the edges are bubbling. For an extra-crispy top, broil for the final 60 seconds.
 7.  **Rest:** Let the dish stand for 5 minutes before serving. This allows the custard to set.
-

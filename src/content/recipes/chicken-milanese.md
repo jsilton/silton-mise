@@ -1,7 +1,7 @@
 ---
 title: Chicken Milanese
 aliases:
-  - "chicken-milanese-the-north-end-special"
+  - 'chicken-milanese-the-north-end-special'
 difficulty: easy
 cookingMethods: [roast, fry, no-cook]
 dietary: []
@@ -48,4 +48,3 @@ Milanese-style breaded cutlets originated in Milan and traditionally use veal, t
 4.  **Fry:** Heat 1/4 inch of oil in a large skillet over medium-high heat. Once shimmering, add the chicken. Fry for 3-4 minutes per side until deep golden brown and crispy.
 5.  **Drain:** Transfer to a wire rack or paper-towel-lined plate. Season with a tiny pinch of flaky salt immediately.
 6.  **Assemble:** Place the hot chicken on a plate. Pile a generous handful of the [Everyday Arugula Salad](/mise/recipes/everyday-arugula-salad) on top. Squeeze a fresh lemon wedge over everything.
-

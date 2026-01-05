@@ -41,4 +41,3 @@ Spicy garlic eggplant is a Sichuan favorite. The trick to avoiding mushy eggplan
 3.  **Aromatics:** Wipe out the pan. Add 1 tbsp oil. Sauté the garlic, ginger, and the white parts of the scallions for 30 seconds. Stir in the chili paste.
 4.  **Finish:** Return the eggplant to the pan. Pour in the [All-Purpose Chinese Garlic Sauce](/mise/recipes/chinese-garlic-sauce-base). Toss vigorously for 1 minute until the sauce bubbles and turns into a thick, clear glaze.
 5.  **Serve:** Garnish with the green parts of the scallions.
-

@@ -5,8 +5,12 @@
   "severity": "hint",
   "description": "If a recipe sears or roasts a large piece of meat and doesn't mention resting, recommend a rest to allow juices to redistribute.",
   "detection": [
-    {"type": "method_presence", "words": ["sear","roast","grill"]},
-    {"type": "text_absence", "words": ["rest","resting","let rest","carryover"], "contextWindow": 200}
+    { "type": "method_presence", "words": ["sear", "roast", "grill"] },
+    {
+      "type": "text_absence",
+      "words": ["rest", "resting", "let rest", "carryover"],
+      "contextWindow": 200
+    }
   ],
   "suggestionTemplate": "After searing/roasting, consider resting the meat for a few minutes (or longer for roasts) so juices redistribute and slices stay juicy.",
   "examples": []
