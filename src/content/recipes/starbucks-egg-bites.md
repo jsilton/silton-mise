@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to the iconic "Velvet" texture of professional egg bites is **Culinary Technique** through **The Blender Emulsion**. By blending the eggs with full-fat cottage cheese, we introduce a massive amount of protein-rich moisture that creates a custardy Texture standard egg muffins lack. We maintain **Textural Balance** through **The Bacon Press**: we top each bite with crispy bacon _before_ baking, ensuring a savory Crunch on the surface. For the ultimate Kitchen Standard result, place a tray of water on the bottom rack of the oven to create a "Steam Bath" during baking.
+Starbucks popularized sous-vide egg bites with their distinctive velvety texture. Blending eggs with full-fat cottage cheese introduces protein-rich moisture that creates custardy texture standard egg muffins lack. Topping each bite with crispy bacon before baking ensures savory crunch on the surface. Placing a tray of water on the bottom oven rack creates a steam bath that keeps the egg bites moist during baking.
 
 ## Directions
 

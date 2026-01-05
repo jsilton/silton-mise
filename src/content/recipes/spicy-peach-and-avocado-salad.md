@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This salad is a study in **Textural Balance** through **The Maceration Method**. The secret to its Success is tossing the firm peaches in the Fresno-lemon emulsion for 15 minutes _before_ adding the avocado. This allows the acid to soften the peaches slightly while infusing them with chili heat. We maintain the Texture by adding the avocado and pistachios only at the moment of serving—this ensures you have a spectrum of creamy, crunchy, and crispy textures in every bite.
+Tossing firm peaches in the Fresno chile-lemon dressing for 15 minutes before adding avocado allows acid to soften the peaches slightly while infusing them with chili heat—a technique called maceration. Adding creamy avocado and crunchy pistachios only at serving time ensures a spectrum of textures in every bite, preventing the avocado from oxidizing and the nuts from becoming soggy.
 
 ## Directions
 

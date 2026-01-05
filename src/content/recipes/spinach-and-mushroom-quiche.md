@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" quiche is **Textural Balance** through **The Triple-Sauté Method**. You must sear the mushrooms until they are browned and dry, then sauté the onions until tender, and finally wilt the spinach _separately_ from the eggs. This ensures the custard remains creamy and "Bouncy" rather than watery. We use **Dijon Mustard** as a structural binder: whisking it into the eggs provides a subtle **Acid Balance** that bridges the gap between the earthy mushrooms and rich Gruyère.
+Quiche is a savory French tart from the Lorraine region, traditionally made with eggs, cream, and bacon. Searing mushrooms until browned and dry, sautéing onions until tender, and wilting spinach separately before mixing into the custard prevents excess moisture that would make the quiche watery. Whisking Dijon mustard into the eggs adds subtle tang that bridges earthy mushrooms and rich Gruyère cheese.
 
 ## Directions
 

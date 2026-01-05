@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to slow-cooker quinoa that isn't a soggy porridge is **Culinary Technique** through **The Absorption Method**. We use a strict 1:2 ratio of grain to liquid and cook on "High" for a shorter duration; this ensures each grain of quinoa maintains its Crunch and distinct curly tail. The addition of **Cream Cheese** at the very end provides the mandatory "Bounce," creating a risotto-like silkiness that standard shredded cheese cannot achieve.
+Using a strict 1:2 ratio of quinoa to liquid and cooking on High for a shorter duration (2-3 hours instead of 4-5) ensures each grain maintains its texture and distinct curly tail rather than turning to porridge. Adding cream cheese cubes at the very end creates risotto-like silkiness that standard shredded cheese cannot achieve—the residual heat melts it into a smooth, creamy sauce.
 
 ## Directions
 

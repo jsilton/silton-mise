@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for all high-performance nutritious bowls. The secret to its Success is **The Infusion Method**: while the broccoli steams, we warm the olive oil and garlic in a small pan for exactly 1 minute. This "blooms" the garlic, removing its harsh sulfurous bite while creating a nutty, aromatic dressing that provides a savory Texture to the greens. We maintain **Textural Balance** by steaming for exactly 4 minutes to ensure a bright green "Snap."
+Warming olive oil and minced garlic in a small pan for exactly 1 minute "blooms" the garlic, removing its harsh sulfurous bite and creating a nutty, aromatic dressing for the steamed broccoli. Steaming for exactly 4 minutes ensures bright green color and tender-crisp texture—overcooking turns broccoli gray and mushy.
 
 ## Directions
 

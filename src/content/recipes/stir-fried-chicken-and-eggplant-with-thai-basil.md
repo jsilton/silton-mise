@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this nutritious stir-fry is **Textural Balance** through **The Eggplant Sweat Method**. You must salt the diced eggplant and let it stand in a colander for 20 minutes; this draws out the bitter moisture and ensures the eggplant develops a crispy charred exterior rather than turning into a sponge. We use **The Mortar-and-Pestle Method**: mashing the garlic and chiles into a paste ensures the heat is evenly emulsified throughout the **Fish Sauce Glaze**, providing a balanced Texture in every bite.
+Pad krapow gai (Thai basil chicken) is a popular Thai stir-fry dish characterized by spicy, savory flavors and aromatic holy basil. Salting diced eggplant and letting it stand in a colander for 20 minutes draws out bitter moisture, ensuring it develops a crispy charred exterior rather than absorbing oil like a sponge. Mashing garlic and chiles into a paste distributes heat evenly throughout the stir-fry.
 
 ## Directions
 

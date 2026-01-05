@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance nutritious meal that relies on **Culinary Technique** through **The Hydration Method**. You must soak the basmati rice for 45 minutes; this ensures each grain is long, distinct, and has a resilient Crunch rather than turning into a sticky paste. We use **The Coconut-Towel Method**: covering the pot with a kitchen towel under the lid ensures that excess steam is absorbed, resulting in a "risotto-style" creaminess from the coconut milk with individual grain integrity.
+Soaking basmati rice for 45 minutes hydrates the grains before cooking, ensuring they elongate properly and stay separate rather than clumping into a sticky mass. Covering the pot with a kitchen towel under the lid absorbs excess steam, creating creamy rice from the coconut milk while maintaining individual grain integrity—a technique used in Persian and Indian rice cooking.
 
 ## Directions
 

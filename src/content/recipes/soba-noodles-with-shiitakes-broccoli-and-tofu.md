@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to perfect Soba is **Textural Balance** through **The Buckwheat Shock Method**. Soba noodles are more delicate than wheat pasta; you must rinse them under cold running water for 1 minute immediately after boiling to remove the surface starch and ensure a clean, crispy bite. We use **The Wok Sear**: flash-frying the tofu and shiitakes on the highest possible heat ensures they develop a charred exterior that provides a smoky Crunch against the earthy, nutty Texture of the noodles.
+Soba noodles are made from buckwheat, making them more delicate than wheat pasta. Rinsing them under cold running water for 1 minute immediately after boiling removes surface starch and prevents them from becoming gummy. Flash-frying tofu and shiitakes on the highest possible heat develops charred exteriors that add smoky flavor against the earthy, nutty buckwheat noodles.
 
 ## Directions
 

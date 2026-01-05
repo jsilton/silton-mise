@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for technical comfort food. The secret to its Success is **The Late-Noodle Method**. You must never cook the pasta for the full duration; we add the noodles only during the final 40 minutes of the slow-cook cycle. This ensures the pasta has a resilient Texture and doesn't dissolve into the broth. The fresh lemon juice added at the very end is the mandatory **Acid Balance** that transforms a heavy stew into a bright, restorative "High Note" soup.
+Adding pasta during the final 40 minutes of the slow-cook cycle prevents it from dissolving into the broth—a common problem when noodles cook for hours. Fresh lemon juice stirred in at the end transforms a heavy stew into a bright, restorative soup by cutting through the rich chicken and vegetables with tangy acidity.
 
 ## Directions
 

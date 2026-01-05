@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Kitchen Standard" oatmeal is **Culinary Technique** through **The Toasting Method**. You must fry the dry oats in butter for 2 minutes _before_ adding the water; this creates a protective nutty shell that ensures each grain maintains a resilient Crunch rather than turning into a gluey mash. We use **Buttermilk** as the mandatory **Acid Balance**; stirring it in at the very end provides a sophisticated tang that balances the sweet brown sugar and gives the porridge a rich, custardy "Bounce."
+Steel-cut oats (also called Irish or Scottish oats) are whole oat groats cut into pieces rather than rolled flat, giving them a chewy texture and nutty flavor. Toasting dry oats in butter for 2 minutes before adding water creates a protective nutty shell that prevents them from becoming gluey. Stirring buttermilk in at the end provides sophisticated tang that balances sweet brown sugar while adding creamy richness.
 
 ## Directions
 

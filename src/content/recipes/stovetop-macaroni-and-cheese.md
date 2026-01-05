@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Kitchen Standard" stovetop mac is **Culinary Technique** through **The Steam-Whisk Method**. Instead of making a traditional butter roux, we whisk the flour into **cold milk** and then heat it; this creates a light, stable base that has a velvety Texture and won't separate when the cheese is added. We maintain **Textural Balance** by boiling the pasta for exactly 8 minutes (very al dente) to ensure it holds its shape against the heavy cheese. The mustard powder provides the mandatory savory **High Note**.
+Whisking flour into cold milk before heating creates a light, stable base that won't separate when cheese is added—an easier technique than making a traditional butter roux. Boiling pasta for exactly 8 minutes (very al dente) ensures it holds its shape against the heavy cheese sauce instead of turning mushy. Mustard powder adds savory depth that enhances the sharp cheddar without tasting overtly mustardy.
 
 ## Directions
 

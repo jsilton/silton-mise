@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-Korma is traditionally a thick, rich braise rather than a watery curry. The secret to the Kitchen Standard is **Culinary Technique** through **The Almond Meal Bind Method**: by whisking almond meal into the coconut milk, we introduce a nutty starch that provides a velvety Texture and keeps the sauce from separating during the long slow-cook. We maintain **Textural Balance** by using large cauliflower florets; this ensures they have a distinct Crunch even after 5 hours in the crockpot.
+Korma is traditionally a thick, rich braise rather than a watery curry. Whisking almond meal into coconut milk introduces nutty starch that thickens the sauce and prevents it from separating during long slow-cooking. Using large cauliflower florets ensures they stay tender with some bite even after 5 hours in the crockpot, rather than dissolving into mush.
 
 ## Directions
 

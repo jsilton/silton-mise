@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to authentic Korean beef in a slow cooker is **Culinary Technique** through **The Collagen Breakdown Method**. By using beef chuck roast and cooking it for a full 8 hours on low, we transform the tough connective tissue into a succulent, melt-in-your-mouth "Bounce." We maintain **Textural Balance** through **The 30-Minute Bind**: we whisk in a cornstarch slurry at the very end and increase the heat to "High"; this creates a thick, mahogany lacquer that clings to the beef cubes. The sriracha provides the final spicy **High Note**.
+This slow-cooker version resembles Korean bulgogi and galbi, where soy-based marinades tenderize meat. Using beef chuck roast and cooking for 8 hours on low transforms tough connective tissue into succulent, melt-in-your-mouth beef. Whisking in a cornstarch slurry at the very end and increasing heat to High creates a thick, glossy glaze that clings to the beef cubes. Sriracha adds final heat that balances the sweet brown sugar.
 
 ## Directions
 

@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Modularity**. The secret to the Kitchen Standard is **The Miso-Grapefruit Lacquer Method**: we use grapefruit juice instead of the traditional lemon to provide a more sophisticated, floral **Acid Balance**. We maintain **Textural Balance** through **The 5-Minute Broil**: by spreading the thick lacquer over the salmon and placing it 5 inches from the broiler, we create a mahogany Crunch on the surface while keeping the center a succulent medium-rare "Bounce." The 10-minute **Steam Cycle** for the rice is mandatory for structure.
+This Japanese-inspired bowl uses grapefruit juice instead of traditional lemon in the miso glaze for more sophisticated, floral acidity. Spreading thick miso-honey-grapefruit lacquer over salmon and broiling 5-7 minutes creates a charred, caramelized surface while keeping the center medium-rare and tender. Letting sushi rice rest covered for 10 minutes after cooking allows steam to finish cooking and ensures fluffy, separate grains.
 
 ## Directions
 

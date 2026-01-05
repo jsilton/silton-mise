@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 20-minute quick main dishes. The secret to its Success is **The Coconut Cream Bloom Method**: you must spoon the thick layer of cream from the top of the can into the skillet first and fry the curry paste in it until the oil separates. This "blooms" the aromatics and creates a professional depth usually only found in slow-simmered curries. We maintain **Textural Balance** through **The 3-Minute Sear**: we flash-fry the thin beef slices at the very end to ensure a succulent Texture rather than a chewy texture.
+In Thai cooking, curry paste is traditionally "bloomed" or fried in coconut cream to release its aromatics. Spooning the thick cream layer from the top of the can and frying curry paste in it until fragrant develops flavor quickly, mimicking the depth of slow-simmered curries. Adding paper-thin beef slices at the very end and cooking just 2-3 minutes keeps them tender rather than tough.
 
 ## Directions
 

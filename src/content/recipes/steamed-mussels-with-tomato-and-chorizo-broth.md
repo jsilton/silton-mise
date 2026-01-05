@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Kitchen Standard" mussels is **Culinary Technique** through **The Reduction Method**. We cook the chorizo, garlic, and cherry tomatoes until the tomatoes burst and the wine reduces by half _before_ adding the mussels. This creates a thick, savory Texture to the broth that a standard boil lacks. We maintain **Textural Balance** through **The Fennel Pulse**: crushed fennel seeds provide an herbal Crunch that echoes the oceanic sweetness of the mussels. Always serve with charred bread to soak up the mandatory **Acid Balance**.
+This Spanish-style mussel dish builds flavor by cooking chorizo, garlic, and cherry tomatoes until the tomatoes burst and the wine reduces by half before adding mussels. This creates a thick, concentrated broth rather than a thin, watery one. Crushed fennel seeds add herbal notes that echo the oceanic sweetness of mussels. Serve with charred bread to soak up the flavorful broth.
 
 ## Directions
 

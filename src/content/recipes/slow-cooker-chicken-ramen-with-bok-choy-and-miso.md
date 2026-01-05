@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to restaurant-quality slow-cooker ramen is **Culinary Technique** through **The Bone-In Simmer Method**. By using whole chicken legs, we extract collagen and deep gelatinous fat that provides the mandatory Texture to the broth. We use **The Miso Tempering Method**: we stir the miso in at the start to infuse the meat, but whisk in a secondary pulse at the end to maintain its raw, probiotic "High Note." The bok choy is added only during the final 10 minutes to ensure **Textural Balance**.
+Using whole chicken legs instead of boneless chicken extracts collagen and fat during slow-cooking, creating a rich, gelatinous broth similar to restaurant ramen. Stirring miso paste in at the start infuses the meat, while whisking in an extra spoonful at the end maintains its fresh, funky flavor—prolonged heat destroys miso's probiotic qualities and mutes its taste. Adding bok choy only during the final 10 minutes keeps it tender-crisp.
 
 ## Directions
 

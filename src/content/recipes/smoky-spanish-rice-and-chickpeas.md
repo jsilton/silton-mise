@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modularity** component inspired by Spanish Paella. The secret to rice that has a distinct, individual Crunch is **The Sizzle Method**: you must fry the dry rice in the onion-garlic oil for 3 minutes _before_ adding the liquid. This toasts the starch and ensures a resilient "Bounce." We use **Smoked Paprika** as the mandatory savory **High Note**—it introduces a wood-fired depth that elevates simple canned chickpeas into a high-performance fuel main.
+This Spanish-inspired rice dish draws from paella technique. Frying dry rice in onion-garlic oil for 3 minutes before adding liquid toasts the starch, creating distinct, individual grains rather than sticky clumps—a technique called socarrat in traditional paella. Smoked paprika (pimentón) introduces wood-fired depth that elevates simple canned chickpeas, adding complexity without additional ingredients.
 
 ## Directions
 
