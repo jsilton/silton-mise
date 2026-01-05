@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This soup is a masterclass in **Textural Balance** through our **Gingersnap Thickener Method**. Instead of a flour roux, we use crushed gingersnap cookies; the spices in the cookies complement the curry, while their starch provides a velvety body. The secret to the Kitchen Standard here is the **Acid Balance**: the combination of tart Granny Smith apple and apple cider vinegar provides the mandatory "High Note" that brightens the earthy carrots and rich cream.
+Gingersnap cookies replace flour as a thickener - their spices complement the curry while their starch creates velvety body. Tart Granny Smith apple and apple cider vinegar brighten the earthy carrots and rich sour cream. Top with toasted pumpkin seeds for textural contrast.
 
 ## Directions
 

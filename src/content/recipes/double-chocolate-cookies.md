@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate test of **Culinary Technique** in baking. The secret to the Kitchen Standard is the **24-Hour Chill Method**: you must refrigerate the dough for at least 24 hours before baking. This allows the flour to fully hydrate and the sugars to begin breaking down, resulting in a cookie with a deep, toffee-like complexity and a superior Crunch on the edges. We use **Dutch-process Cocoa** for its darker, smoother profile and mandatory **Chocolate Discs** to create wide "pools" of chocolate rather than small nuggets.
+Refrigerate dough for at least 24 hours before baking - this hydrates the flour fully and allows sugars to break down, creating deep toffee-like flavor complexity. Dutch-process cocoa provides darker, smoother chocolate flavor. Chocolate discs create wide pools of melted chocolate rather than small chip dots.
 
 ## Directions
 

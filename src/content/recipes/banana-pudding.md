@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-We have moved away from the "Instant" box. Real banana pudding relies on a **Cooked Custard Base**. The secret is **Tempering the Eggs**: by slowly adding hot milk to the yolks, you ensure a silky, egg-free texture that instant pudding cannot replicate. The salt and butter at the end create a rich "High Note" finish that cuts through the sugar.
+This Southern classic requires a proper cooked custard rather than instant pudding. Tempering the egg yolks - slowly whisking hot milk into them - prevents scrambling and creates silky texture. The butter and salt added at the end enrich the custard and balance its sweetness.
 
 ## Directions
 

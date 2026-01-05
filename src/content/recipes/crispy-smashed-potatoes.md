@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is an exercise in **Maximizing Surface Area**. By boiling the potatoes until tender and then smashing them flat, we create dozens of jagged edges and crannies. When roasted at high heat, these edges become shatteringly crisp while the interior remains fluffy. This is the **Kitchen Standard** for roasted potatoes.
+Boiling potatoes until tender, then smashing them flat creates jagged edges and crannies. Roasting at 425°F crisps these edges beautifully while the interior stays fluffy. Let smashed potatoes sit for 5 minutes before oiling so surface moisture evaporates.
 
 ## Directions
 

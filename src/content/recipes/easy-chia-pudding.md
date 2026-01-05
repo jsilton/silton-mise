@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for high-performance "Fuel." The secret to a consistent Texture is the **Hydration Cycle Method**. You must stir the seeds into the milk, let sit for 5 minutes, and then stir **again** before refrigerating. This second stir breaks up the clumps that form as the seeds' outer mucilaginous layer begins to gel, ensuring a uniform, pudding-like texture throughout. For a "Kitchen Standard" silky version, see our [Chocolate Chia Pudding](/silton-mise/recipes/chocolate-chia-pudding) Blender Method.
+Stir chia seeds into milk, wait 5 minutes, then stir again before refrigerating. This second stir breaks up clumps that form as the seeds' outer layer begins to gel, creating uniform pudding texture. For silkier texture, see [Chocolate Chia Pudding](/silton-mise/recipes/chocolate-chia-pudding).
 
 ## Directions
 

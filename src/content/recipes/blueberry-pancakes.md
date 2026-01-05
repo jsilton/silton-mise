@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a fluffy restaurant-quality pancake is **Textural Balance** through the **Batter Rest**. After mixing, you must let the batter sit for 5 minutes; this allows the flour to fully hydrate and the gluten to relax. We also use **Honey** instead of granulated sugar to create a deeper, more caramelized Crunch on the edges. Always sprinkle the blueberries on top of the pancake while it's on the griddle rather than mixing them in—this prevents the juice from bleeding and turning your pancakes purple.
+Letting the batter rest for 5 minutes after mixing allows flour to hydrate and gluten to relax, creating fluffier pancakes. Honey instead of granulated sugar produces deeper caramelization on the edges. Sprinkle blueberries onto each pancake after pouring it on the griddle rather than mixing them into batter - this prevents purple streaking from berry juice.
 
 ## Directions
 

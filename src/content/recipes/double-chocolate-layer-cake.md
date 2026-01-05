@@ -39,7 +39,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" of chocolate cakes. The secret to its intense depth is **The Coffee Bloom Method**: we melt the raw chocolate directly into hot coffee, which "blooms" the cocoa solids and releases aromatic compounds that water cannot. We maintain **Textural Balance** in the frosting by using the **Corn Syrup Gloss Hack**—a tiny amount of corn syrup ensures the ganache stays mirror-shiny and pliable for days. This cake is intentionally low-heat (300°F) to ensure an even, flat-topped rise without a dome.
+Melting chocolate directly into hot coffee "blooms" cocoa solids and releases aromatic compounds that water can't extract. A small amount of corn syrup in the ganache keeps it mirror-shiny and pliable for days. Baking at low temperature (300°F) produces an even, flat-topped rise without doming.
 
 ## Directions
 

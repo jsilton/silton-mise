@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The tragedy of eggplant curry is the "mush." We solve this with the **Executive Texture Method**: we **Roast** the eggplant cubes at high heat (425°F) separately until they are browned and meaty, adding them to the chickpea gravy only at the very end. This ensures the eggplant holds its shape and provides a satisfying "bite" that rivals meat. Always finish with a squeeze of lemon to provide the **Acid Balance**.
+This Indian chickpea and eggplant curry keeps the eggplant from turning mushy by roasting it separately at 425°F until browned and tender, then folding it into the gravy at the end. Chinese eggplant works especially well because it's less watery than globe eggplant. Lemon juice stirred in at the finish brightens the spiced tomato gravy.
 
 ## Directions
 

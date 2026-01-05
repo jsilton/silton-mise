@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-Turkey meatballs often suffer from being dry and rubbery. We solve this with **Textural Balance** through the **Moisture Guard Method**. The secret is the **Finely Minced Carrots**: as the meatballs bake, the carrots release moisture internally, creating a juicy Texture that lean turkey lacks on its own. We use **The 2-Tbsp Portion Method** to ensure they cook quickly at high-heat (350°F) without drying out the exterior.
+Lean turkey needs moisture - finely minced carrots release liquid as they bake, keeping meatballs juicy from within. Mince carrots almost to a paste so they integrate seamlessly. Two-tablespoon portions cook quickly at 350°F without drying out.
 
 ## Directions
 

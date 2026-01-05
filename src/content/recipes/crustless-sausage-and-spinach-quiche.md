@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" crustless quiche is **Textural Balance** through **The Dry Wilt Method**. Most quiches become watery because of the spinach; we sauté the sausage first, then wilt the spinach in the rendered fat and **drain it bone-dry** before adding to the eggs. We use **The Nutmeg Bridge**: a tiny pinch of nutmeg doesn't make the dish taste like dessert—it provides the mandatory "High Note" that connects the salty sausage to the rich, creamy custard.
+This French-inspired crustless quiche prevents wateriness by draining spinach thoroughly after wilting it in sausage fat. Press the mixture firmly in a sieve to remove all excess liquid. A pinch of nutmeg enhances savory custard without making it sweet - a classic French technique.
 
 ## Directions
 

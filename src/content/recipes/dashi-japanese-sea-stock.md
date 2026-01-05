@@ -21,7 +21,7 @@ ingredients:
 
 ## Chef's Note
 
-Dashi is the foundation of Japanese cuisine and a masterclass in **Culinary Technique**. The secret to the Kitchen Standard is the **Umami Extraction Method**: you must remove the kombu just before the water hits a boil. If boiled, the kombu releases bitter, slimy compounds that ruin the clarity of the stock. This "First Dashi" (Ichiban Dashi) provides the clean, ocean-fresh **High Note** essential for professional-grade miso soups and noodle dishes.
+Dashi is the foundation of Japanese cuisine. Remove kombu just before water boils - boiling releases bitter, slimy compounds that cloud the stock. This "First Dashi" (Ichiban Dashi) creates clean, ocean-fresh umami essential for miso soup and noodle broths.
 
 ## Directions
 

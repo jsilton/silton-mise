@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to French toast that isn't soggy is **Textural Balance** through the **Day-Old Bread Method**. You must use bread that is slightly stale or dried out; this allows it to act like a sponge for the custard without losing its structure. We use **The High-Heat Crisp**: by cooking in foaming butter over medium heat, we create a caramelized Crunch on all four sides of the stick, ensuring a Texture in the center.
+Slightly stale bread acts like a sponge for custard without falling apart - fresh bread becomes too soggy. Cook in foaming butter over medium heat, rotating to caramelize all four sides of each stick. Don't over-soak the bread.
 
 ## Directions
 

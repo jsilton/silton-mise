@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to restaurant-quality pumpkin pancakes is **Culinary Technique** through **The Lump Method**. Pumpkin puree adds significant weight and moisture; to prevent the pancakes from becoming rubbery, you must whisk the dry ingredients into the wet until **just combined**. If you whisk until smooth, you overwork the gluten and destroy the "Bounce." A few small lumps of flour are the mandatory guard against toughness.
+Pumpkin puree adds weight and moisture that can make pancakes rubbery. Mix dry into wet ingredients until just combined - a few small lumps are fine and actually prevent tough, overworked gluten. Whisking until completely smooth destroys the fluffy texture.
 
 ## Directions
 

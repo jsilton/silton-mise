@@ -38,7 +38,7 @@ ingredients:
 
 ## Chef's Note
 
-This pie is a masterclass in **Updated Classic**. We take the soul of a classic custard pie and infuse it with a massive "High Note" by reducing two full cups of apple cider down to a concentrated syrup. The **Apple Cider Vinegar** in the crust isn't just for flavor—it’s a structural hack that inhibits gluten development, ensuring the flakiest possible bite to contrast the velvety custard.
+This pie concentrates two cups of unfiltered apple cider down to 1/2 cup syrup, intensifying its flavor tenfold. The apple cider vinegar in the crust inhibits gluten development, creating a tender, flaky pastry that contrasts beautifully with the rich custard filling. Cool completely before slicing - the custard needs several hours to set properly.
 
 ## Directions
 

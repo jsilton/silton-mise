@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-Mastering the soufflé is about **Culinary Technique**, not luck. We use the **Aeration Method**: we whip egg whites with cream of tartar to stabilize the protein bubbles, then gently fold in a rich brown-butter chocolate base. The secret to the height is the **Nutty Butter Coating**: we brush the dish with chilled brown butter and sugar, creating a "ladder" that allows the batter to climb the walls of the dish as it rises. Serve immediately—minimal deflation is the goal, but the flavor remains elite regardless.
+This French technique relies on properly whipped egg whites stabilized with cream of tartar, then carefully folded into chocolate ganache to preserve air bubbles. Brushing the chilled dish with brown butter and sugar creates a textured coating that helps batter climb the walls as it rises. Serve immediately - some deflation is natural, but flavor remains excellent.
 
 ## Directions
 

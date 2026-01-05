@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate **Modularity** component for hot summer mornings. We treat these as a "Base" because they can be prepped 5 days in advance. The secret to **Textural Balance** is the **Honey Glide Method**: we microwave the honey for 10 seconds before mixing it with the granola—this ensures a thin, even coating that maintains its Crunch even when frozen in yogurt. Always run the mold under hot water for 5 seconds to ensure a clean Texture from the mold.
+Prep these up to 5 days ahead for quick summer breakfasts. Microwaving honey for 10 seconds before tossing with granola creates a thin coating that stays crunchy even when frozen. Run molds under hot water for 5 seconds for clean release.
 
 ## Directions
 

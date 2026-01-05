@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-The common mistake with baked oatmeal is a mushy, uniform texture. We apply the **Executive Texture Method**: we layer the berries at the bottom and use **Toasted Seeds** on top to provide a satisfying "pop" and "crunch" that contrasts with the creamy oats. Always pat down the dry oats into the milk to ensure even hydration.
+Layering berries at the bottom prevents a mushy, uniform texture - they stay whole and jammy. Toasted sunflower or pumpkin seeds on top add crunch that contrasts with creamy oats below. Press the dry oats down into the milk mixture before baking to ensure even hydration.
 
 ## Directions
 

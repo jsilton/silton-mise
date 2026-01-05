@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-The difference between a soggy waffle and a Kitchen Standard waffle is **Culinary Technique**. We use two critical patterns: **Chemical Leavening** (the reaction between buttermilk and baking soda for maximum lift) and **The Hydration Rest**. You must let the batter sit for at least 10 minutes before cooking; this allows the flour to fully absorb the buttermilk, resulting in a waffle that is perfectly crispy on the outside and airy on the inside.
+Buttermilk's acidity reacts with baking soda for extra lift and tang. Rest the batter for 10-15 minutes before cooking so flour fully absorbs the liquid - this produces waffles that are crispy outside and airy inside. The batter should become slightly bubbly during the rest.
 
 ## Directions
 

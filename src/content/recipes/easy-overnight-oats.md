@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-Overnight oats are the foundation of **Modularity** in our kitchen. The secret to the Kitchen Standard is the **8-Hour Hydration Method**: while 2 hours will work in a pinch, a full 8-hour soak allows the beta-glucans in the oats to fully emulsify with the yogurt and milk, creating a Texture that is creamy rather than chalky. We use **The Greek Yogurt Hack** to provide sustained nutritious and a thick, pudding-like consistency. Always add your Crunch ingredients (nuts, fresh fruit) just before eating to maintain **Textural Balance**.
+While 2 hours works in a pinch, an 8-hour soak allows oats' beta-glucans to fully emulsify with yogurt and milk, creating creamy rather than chalky texture. Greek yogurt adds protein and thick, pudding-like consistency. Add crunchy toppings (nuts, fresh fruit, granola) just before eating. These keep refrigerated for up to 5 days.
 
 ## Directions
 

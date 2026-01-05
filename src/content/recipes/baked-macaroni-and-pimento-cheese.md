@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to a Southern staple. By combining the sharp tang of pimentos with a classic Mornay sauce (the roux + cheese), we get a dish that is far more sophisticated than standard mac and cheese. The secret to the Kitchen Standard here is using **Freshly Shredded Cheddar**—pre-shredded cheese is coated in cellulose which prevents a perfectly smooth melt. The panko-parmesan topping provides the necessary Crunch to contrast the creamy pasta.
+This Southern staple combines pimento cheese with a classic French Mornay sauce (roux plus cheese). Shred cheddar fresh from the block - pre-shredded cheese contains cellulose that prevents smooth melting. The panko-parmesan topping adds textural contrast to the creamy pasta.
 
 ## Directions
 

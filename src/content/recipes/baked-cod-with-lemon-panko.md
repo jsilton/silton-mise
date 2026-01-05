@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this 25-minute meal is **Textural Balance** through our "Double Fat" layering technique. By drizzling a lemon-garlic butter directly onto the fish, we ensure it poaches gently from the bottom, staying succulent. Meanwhile, the second layer of buttered panko provides the Crunch on top. Always pat the fish **bone-dry** before starting—moisture is the enemy of a golden crust.
+This Mediterranean-style preparation uses two butter applications: one mixed with lemon and garlic pools beneath the fish to keep it moist, while butter-tossed panko on top creates a golden crust. Pat the cod completely dry before starting - any surface moisture prevents proper browning.
 
 ## Directions
 

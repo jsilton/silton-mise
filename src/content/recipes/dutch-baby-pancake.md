@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-The Dutch Baby is a masterclass in **Culinary Technique**. The secret to the massive, billowing rise is the **Thermal Jump Method**: you must place the cold batter (mixed in a blender for maximum aeration) into a preheated, screaming-hot cast-iron skillet filled with sizzling butter. This sudden temperature shock causes the steam to expand rapidly, creating the signature high-walled Texture that defines the dish. Always use **The Blender Method** to ensure the flour is fully hydrated and the eggs are perfectly aerated.
+This German-American pancake gets its dramatic rise from temperature contrast: cold blended batter poured into a screaming-hot cast-iron skillet with sizzling butter. The sudden heat causes steam to expand rapidly, creating signature high walls. Blending aerates eggs and fully hydrates flour for the fluffiest texture. Fresh lemon juice adds brightness.
 
 ## Directions
 

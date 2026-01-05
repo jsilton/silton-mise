@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a modern riff on Fettuccine Alfredo, the Roman dish created by Alfredo di Lelio in 1908 for his pregnant wife who couldn't keep food down. The original was simply butter and Parmesan tossed with hot pasta - no cream. American versions added heavy cream in the 1960s, and this butternut squash variation is a 21st-century attempt to lighten it while maintaining richness. Roast the squash until deeply caramelized rather than boiling it - this concentrates the sugars and prevents a watery sauce.
+This modern variation on Roman fettuccine Alfredo adds roasted butternut squash to the traditional butter-and-Parmesan sauce. Roasting the squash at 425°F until deeply caramelized concentrates its natural sugars and prevents a watery sauce - boiling produces inferior results. The original 1908 dish created by Alfredo di Lelio used only butter and cheese; American versions added cream in the 1960s.
 
 ## Directions
 

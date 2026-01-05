@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate high-speed "Kitchen Standard" dessert. The secret to a professional finish is **Culinary Technique** through **The Cold Set Method**. You must chill the rolled balls for at least 30 minutes _before_ dipping them in the hot chocolate; this creates an immediate Crunch as the chocolate hits the cold surface, preventing the truffle from melting into the coating. We reserve a few cookies for the "High Note" garnish to provide a textural "Pop" against the silky chocolate.
+Chill rolled truffle balls for at least 30 minutes before dipping in melted chocolate - the temperature contrast creates an immediate shell that prevents the truffle from melting into the coating. Reserve a few cookies for garnish to add textural contrast against smooth chocolate.
 
 ## Directions
 

@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to a classic family crisp. We have replaced the legacy margarine with **Unsalted Butter** to provide a richer, more nuanced Crunch to the oat topping. The secret to the Kitchen Standard here is **The Acid Balance**: the combination of tart Granny Smith apples and fresh whole cranberries provides a natural "High Note" that cuts through the buttery topping. Always bake until the fruit juices are bubbling up around the edges—this indicates the sugar has fully emulsified with the fruit pectin.
+This family crisp uses butter instead of margarine for a richer oat topping. Tart Granny Smith apples and fresh cranberries cut through the buttery sweetness naturally. Bake until fruit juices bubble around the edges - this indicates the sugar has emulsified with the fruit's natural pectin.
 
 ## Directions
 

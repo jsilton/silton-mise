@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-The tragedy of the standard "Chicken and Broccoli Bake" is the mushy, gray broccoli and the canned soup base. We apply the **Executive Texture Method**: we **Sear** the chicken and **Roast** the broccoli at high heat to get charred edges _before_ adding our scratch-made cheese sauce. This ensures every component maintains its integrity rather than turning into a uniform paste.
+Roasting the chicken and broccoli at 425°F before adding the cheese sauce prevents mushiness - the high heat caramelizes the broccoli edges and browns the chicken while each component stays distinct. The from-scratch roux-based cheddar sauce is lighter than canned soup but just as comforting.
 
 ## Directions
 

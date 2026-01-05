@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a nutritious staple that relies on **Emulsion**. By processing the oats into a fine flour in a blender, we avoid the gritty texture of whole oats. The Greek yogurt provides the moisture and protein that allows us to reduce the added fat. This is the **Kitchen Standard** for healthy, kid-friendly snacks.
+Blending rolled oats into flour creates smooth muffins without grittiness. Greek yogurt provides moisture and protein while reducing the need for added fat. These muffins freeze well for up to 3 months and reheat beautifully for quick breakfasts.
 
 ## Directions
 

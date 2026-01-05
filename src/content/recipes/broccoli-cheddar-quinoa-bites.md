@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the perfect nutritious snacks for on-the-go. The secret to **Textural Balance** here is the **Compression Method**: when scooping the mixture, you must press it firmly into the spoon or scoop. This ensures the egg and cheese can bind the quinoa and broccoli into a dense, "bouncy" bite that doesn't crumble. We use finely chopped fresh broccoli rather than frozen to maintain a slight Crunch even after baking.
+Press the mixture firmly when scooping to ensure eggs and cheese properly bind the quinoa and broccoli - loose scoops crumble apart. Fresh broccoli chopped finely maintains better texture than frozen, staying slightly crisp even after baking. Let bites rest 5 minutes on the pan after baking so cheese can set.
 
 ## Directions
 

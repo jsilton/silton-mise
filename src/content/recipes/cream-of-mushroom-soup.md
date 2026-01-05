@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" mushroom soup is **Textural Balance** through the **Reserved Sear Method**. Most recipes boil the mushrooms into a gray mush; we dry-sear them in butter first until they are deep golden, then reserve a portion to add back at the end for "Snap." We use **Dry Sherry** as the mandatory **High Note**—its acidity and nuttiness bridge the gap between the earthy shiitakes and the rich heavy cream.
+Sear mushrooms in butter until golden rather than boiling them to gray mush. Reserve a cup of seared mushrooms to stir in at the end for textural contrast against the smooth, pureed soup. Dry sherry's acidity and nuttiness bridges earthy shiitakes and rich cream beautifully.
 
 ## Directions
 

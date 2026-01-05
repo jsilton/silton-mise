@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to the Kitchen Standard brownie is **Textural Balance**. By using **Extra-Virgin Olive Oil** instead of butter or canola, we achieve a fruitier depth that perfectly pairs with dark chocolate. The addition of **Powdered Sugar** in the dry mix is a structural hack—it creates that iconic "shackle" or paper-thin, crackly crust on top while keeping the middle fudgy and dense. Never over-mix once the dry ingredients are added; you want to preserve the "snap."
+Extra-virgin olive oil adds fruity depth that pairs beautifully with dark chocolate. Powdered sugar in the dry mix creates the signature crackly, paper-thin crust on top while the center stays fudgy. Avoid over-mixing once dry ingredients are added - minimal stirring preserves the dense, fudgy texture.
 
 ## Directions
 

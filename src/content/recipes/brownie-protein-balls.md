@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate **Modularity** component. We treat these as a "Base" because they can be prepped in bulk and added to lunchboxes, pre-workout stacks, or crumbled over yogurt. The secret to the Kitchen Standard is the **Hydration Balance**: protein powder absorbs liquid at different rates, so we add the milk one teaspoon at a time until the dough has the Texture of a fresh brownie. Chilling is mandatory to set the healthy fats from the almond butter, ensuring they hold their shape.
+These no-bake bites prep in bulk for lunchboxes, pre-workout snacks, or yogurt toppings. Different protein powders absorb liquid at varying rates, so add milk one teaspoon at a time until dough reaches fresh brownie consistency. Chilling sets the almond butter's healthy fats so balls hold their shape.
 
 ## Directions
 

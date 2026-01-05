@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-protein nutritious breakfast that relies on **The Blender Method**. By pulverizing the cottage cheese and oats together, we create a batter that is rich in protein but tastes exactly like a traditional flour-based pancake. The secret to the **Textural Balance** is the **Low and Slow Cook**: because of the sugar in the banana and the proteins in the cheese, these pancakes will brown quickly. Cook them over medium-low heat to ensure the middle sets into a Texture before the outside burns.
+Blending cottage cheese and oats creates a high-protein batter that mimics traditional flour pancakes. Cook over medium-low heat - the natural sugars in banana and proteins in cheese brown quickly, so lower temperature ensures the center cooks through before the outside burns.
 
 ## Directions
 

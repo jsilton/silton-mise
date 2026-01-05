@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This salad is a masterclass in the **Acid Balance**. The sweetness of the strawberries and the richness of the feta need the peppery bite of arugula and the sharp acid of the vinaigrette to balance the plate. We use a **Pureed Base** for the dressing to ensure every leaf is coated in fruit flavor rather than just oil.
+Peppery arugula cuts through sweet strawberries and tangy feta, with sunflower seeds adding crunch. Pureeing fresh strawberries into the vinaigrette ensures every leaf gets coated with fruit flavor instead of just oil. This Mediterranean-inspired combination works best with peak-season berries.
 
 ## Directions
 

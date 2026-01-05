@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is about **Flavor Layering and Caramelization**. We use black pepper as a primary flavor driver, not just a seasoning. The secret is the **Hard Sear**: you want the chicken chunks to be browned and crispy before the sugar and fish sauce hit the pan. The fish sauce provides the umami depth, while the vinegar gives it the essential **Acid Balance**.
+This Vietnamese dish uses coarsely ground black pepper as the primary flavor, not just a background seasoning. Sear chicken pieces until deeply browned before adding the glaze - this creates caramelized crust that stands up to the sweet-savory sauce. Fish sauce provides umami depth while rice vinegar adds brightness.
 
 ## Directions
 

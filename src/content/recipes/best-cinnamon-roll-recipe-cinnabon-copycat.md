@@ -42,7 +42,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Culinary Technique** of a perfect roll. We use the **Tangzhong method**—pre-cooking a portion of the flour and water into a paste. This pre-gelatinizes the starches, allowing the dough to hold more moisture without becoming sticky. The result is a roll that stays delicate for days, rather than drying out in hours. We also use **European Butter** for its higher fat content, which provides a richer Texture to the crumb.
+The tangzhong method - pre-cooking flour and water into a paste - is an Asian bread technique that keeps these rolls soft for days. It pre-gelatinizes starches so the dough holds more moisture without becoming sticky. European-style butter's higher fat content (82% versus 80% in American butter) creates an especially tender crumb.
 
 ## Directions
 

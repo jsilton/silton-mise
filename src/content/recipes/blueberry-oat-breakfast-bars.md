@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The challenge with oat bars is preventing them from crumbling into granola. The secret is **Textural Balance** through the **Cold Set**. By firmly pressing the mixture into the pan and refrigerating it for at least an hour (or overnight) after baking, the coconut oil and nut butter solidify to act as a natural "glue." This allows you to cut clean, portable bars that hold their "Bounce."
+Firmly pressing the mixture into the pan and then refrigerating for at least one hour after baking prevents crumbling. As the coconut oil and nut butter chill and solidify, they bind the oats into clean, portable bars that hold together beautifully. Overnight chilling works even better.
 
 ## Directions
 

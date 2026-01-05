@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is our **Updated Classic** version of the blue-box classic, re-engineered for nutritious performance with whole-wheat pasta. The secret to the Kitchen Standard is **The Starch Bind Method**: we don't drain the pasta bone-dry; instead, we combine the hot noodles directly with butter and cream to create a natural emulsion. By using **Freshly Grated Cheddar**, we avoid the stabilizers in pre-shredded bags, resulting in a Texture that is far superior to any processed version. A pinch of **Nutmeg** provides the mandatory "High Note" that bridges the earthy wheat and rich cream.
+This whole-wheat version keeps pasta starch by not draining completely dry - combining hot noodles directly with butter and cream creates a natural, creamy emulsion. Freshly grated cheddar melts more smoothly than pre-shredded cheese, which contains anti-caking agents. A pinch of nutmeg complements the earthy wheat and rich cream.
 
 ## Directions
 

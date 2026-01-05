@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed nutritious meal that relies on **Updated Classic** techniques to elevate simple ingredients. The secret to the deep flavor is **Onion Blackening**: we sauté the onions on high heat until the edges are charred and sweet, providing a smokiness that balances the earthy spinach. We use **The Greek Yogurt Hack** instead of heavy cream to ensure a firm, high-protein Texture that never turns watery. Always use **Gruyère**—its nuttiness provides the "High Note" that standard Swiss lacks.
+This French-style quiche sautés onions over high heat until edges char and caramelize, adding smokiness that balances earthy spinach. Greek yogurt replaces heavy cream for a firmer, protein-rich custard that doesn't turn watery. Gruyère's nutty flavor is more complex than standard Swiss cheese.
 
 ## Directions
 

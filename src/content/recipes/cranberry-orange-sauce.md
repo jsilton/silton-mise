@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Acid Balance** for your Thanksgiving plate. The heavy fat of the turkey and the creaminess of the gratin need the sharp, citrusy lift of this sauce to reset the palate. By using fresh zest and juice rather than just water, we ensure the sauce is bright and aromatic rather than just sweet.
+This tangy sauce balances the richness of Thanksgiving turkey and creamy sides. Fresh orange zest and juice create bright, aromatic flavor instead of just sweetness. You'll hear the cranberries pop as their natural pectin releases to thicken the sauce.
 
 ## Directions
 

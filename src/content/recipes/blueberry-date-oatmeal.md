@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-performance nutritious breakfast. We use the **Volume Hack**: adding riced cauliflower increases the fiber and portion size without altering the flavor of the oats. To maintain **Textural Balance**, we stir the frozen blueberries in at the very end—this prevents the entire bowl from turning a muddy gray and preserves the "Pop" of the fruit. The dates provide a natural, caramel-like sweetness that eliminates the need for refined sugar.
+Frozen riced cauliflower adds volume and fiber without affecting flavor. Stir frozen blueberries in at the end rather than cooking them - this prevents the oatmeal from turning gray while keeping berries whole and bright. Medjool dates provide natural caramel-like sweetness without refined sugar.
 
 ## Directions
 

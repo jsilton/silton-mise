@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate nutritious prep for a busy week. The secret to avoiding the rubbery texture of many egg muffins is **Textural Balance**. We use a **Chiffonade** (thin ribbons) for the spinach, which ensures it wilts perfectly into the egg without creating large, wet clumps. Using a fresh, crisp bell pepper provides a necessary "Pop" that offsets the richness of the yolk and cheddar.
+Slicing spinach into thin ribbons (chiffonade) prevents large, wet clumps in the finished muffins - the leaves wilt evenly into the egg. Fresh bell pepper adds crisp texture that contrasts with rich egg and melted cheddar. These keep refrigerated for 4 days and reheat in 30 seconds.
 
 ## Directions
 

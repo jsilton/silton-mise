@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** masterpiece that replaces the greasy deep-fry with a superior high-heat bake. We use two specific Culinary Methods: **Enzyme Tenderization** (the buttermilk soak) to break down proteins for maximum juiciness, and the **Wire Rack Hack**. By elevating the chicken on a rack, we allow hot air to circulate 360 degrees, ensuring the **Cornflake Crust** stays shatteringly crisp on the bottom. Never skip the Parmesan in the breading—it provides the "Salty Snap" that defines this dish.
+This Southern-style baked chicken uses buttermilk's natural enzymes to tenderize the meat during the soak. Baking on a wire rack allows air to circulate underneath, keeping the cornflake crust crisp on all sides instead of steaming on the pan. Parmesan mixed into the breading adds salty, savory depth.
 
 ## Directions
 

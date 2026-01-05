@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-A great wild rice soup should be nutty and aromatic, not thin and watery. The secret is **Long-Simmered Rice**: wild rice takes 45-50 minutes to fully "bloom"—you want the grains to split slightly to release their starch, which naturally thickens the soup. We use a mix of breast and thigh meat to ensure every spoonful has both lean protein and juicy flavor. The final hit of **Lemon Juice** is the mandatory high note.
+Wild rice needs 45-50 minutes of simmering to fully bloom - the grains split slightly and release starch that naturally thickens the soup. Using both breast and thigh meat provides textural variety in every spoonful. Lemon juice stirred in at the end brightens the earthy, nutty flavors.
 
 ## Directions
 

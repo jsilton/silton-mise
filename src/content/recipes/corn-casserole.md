@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to a classic potluck staple. To ensure **Textural Balance**, we use the **Double Corn Method**: combining creamed corn for moisture with whole kernels for "Snap." The secret to the Kitchen Standard is the **Butter Emulsion**: we whisk the melted butter into the sour cream and eggs before adding the dry mix, resulting in a rich, pudding-like Texture that never turns dry or cakey.
+This Southern potluck favorite combines creamed corn for moisture with whole kernels for texture. Whisking melted butter into sour cream and eggs before adding the dry mix creates a rich, pudding-like consistency that stays moist. Optional green chiles add a subtle kick.
 
 ## Directions
 

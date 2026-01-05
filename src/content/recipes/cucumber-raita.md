@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-Raita is the essential cooling side for spicy Indian dishes. To achieve the **Kitchen Standard** for texture, you must **Grate and Squeeze** the cucumber. Skipping this step results in a watery sauce that dilutes the flavor of your curry. By removing the excess water, the yogurt stays thick and luscious.
+Raita is the essential cooling side for spicy Indian dishes. Grating and squeezing cucumber removes excess water that would otherwise make the yogurt watery and dilute curry flavors. Toasted cumin seeds add warm, earthy depth to the cool yogurt base.
 
 ## Directions
 

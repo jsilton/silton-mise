@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute quick masterpiece that relies on **Staged Cooking**. Most creamy chicken dishes suffer from rubbery meat and mushy greens. We solve this by **Searing** the chicken cutlets first to develop a crust, then removing them while we emulsify the sauce. We add the spinach at the very end to ensure **Textural Balance**—it should be just wilted and vibrant green, not cooked into a dark clump. The **Lemon Zest** is the mandatory "High Note" finish.
+This Mediterranean-inspired 25-minute dish sears chicken cutlets first to develop a golden crust, then removes them while building the lemon-yogurt sauce. Add spinach at the very end so it just wilts and stays vibrant green rather than overcooking into a dark clump. Fresh lemon zest brightens the creamy sauce.
 
 ## Directions
 

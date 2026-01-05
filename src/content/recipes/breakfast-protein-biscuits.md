@@ -35,7 +35,7 @@ ingredients:
 
 ## Chef's Note
 
-These biscuits are a masterclass in **Culinary Technique**. By using **Greek Yogurt** as the primary hydrator instead of heavy cream or butter, we achieve a high-protein nutritious profile while maintaining a tender, moist crumb. The secret is the **Folding Technique**: we fold the spinach and ham in at the very end to ensure **Textural Balance**—you want distinct pops of salt and green in every bite, not a uniform gray mass.
+Greek yogurt replaces heavy cream as the primary liquid, creating high-protein biscuits with a tender crumb. Fold spinach and ham in at the end rather than mixing them thoroughly - this ensures distinct pockets of filling in every bite instead of a uniform gray dough.
 
 ## Directions
 
