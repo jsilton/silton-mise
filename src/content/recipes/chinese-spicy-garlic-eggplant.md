@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-The tragedy of home-cooked eggplant is "The Mush." We solve this with the **Executive Texture Method**: we coat the eggplant in cornstarch and sear it at high heat _before_ adding the sauce. This creates a protective crust that stays meaty while the inside turns creamy. We use our modular [Chinese Garlic Sauce](/silton-mise/recipes/chinese-garlic-sauce-base) to finish the dish with a professional, glossy glaze.
+Spicy garlic eggplant is a Sichuan favorite. The trick to avoiding mushy eggplant: coat the batons in cornstarch before searing. This creates a protective crust that stays meaty and slightly crispy while the inside turns creamy. Chinese eggplants (the long, thin ones) work best since they have fewer seeds and less moisture. The all-purpose Chinese garlic sauce creates a professional glossy glaze in seconds.
 
 ## Directions
 

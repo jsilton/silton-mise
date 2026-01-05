@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This recipe is a tribute to **Updated Classic**. We take a classic stir-fry and elevate it with **The Sausage Hack**: steaming the Chinese sausage directly on top of the rice. This infuses the rice with the sweet, smoky fat of the sausage while keeping the stir-fry clean. We prioritize **Textural Balance** by searing the broccoli separately first—this ensures it maintains its Crunch and bright green color while the chicken develops a deep, sherry-infused "Bounce."
+This one-pot meal showcases lap cheong, sweet Cantonese sausages made with pork, sugar, and rose wine. The clever technique: steam the sausages directly on top of the rice as it cooks. The fat renders into the rice while keeping your stir-fry clean. Searing the broccoli separately first ensures it stays bright green and crisp. The sherry-soy sauce thickened with cornstarch creates a restaurant-style glossy glaze.
 
 ## Directions
 

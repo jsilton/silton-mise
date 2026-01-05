@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Mother Sauce" of the Chinese-American kitchen. It balances the five essential flavors and has enough starch to create a glossy, restaurant-quality glaze instantly. Use it for eggplant, broccoli, or any "Garlic Sauce" stir-fry.
+This is the foundation sauce for countless Chinese-American stir-fries. It balances sweet, salty, sour, and umami while the cornstarch creates that restaurant-quality glossy coating. Mix it ahead and pour it into your hot wok at the end of cooking—stir constantly for 30-60 seconds until it bubbles and turns from cloudy to clear. Use it for any "garlic sauce" dish with eggplant, broccoli, green beans, or protein.
 
 ## Directions
 

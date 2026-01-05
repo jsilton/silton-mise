@@ -39,7 +39,7 @@ ingredients:
 
 ## Chef's Note
 
-The challenge with eggplant is preventing it from becoming an oil-soaked sponge. We use **Textural Balance** through the **Perimeter Sear Method**: instead of deep-frying, we sear the eggplant in a lightly oiled wok over medium heat until the skin is purple-gold and the flesh is translucent but holds its shape. We use the **Angle Cut** (triangular chunks) to maximize the surface area for the **Garlic Sauce** to cling to. The hit of rice vinegar at the end provides the mandatory **High Note**.
+Chinese eggplant with garlic sauce (yu xiang qiezi) is a Sichuan restaurant classic. The challenge is preventing eggplant from absorbing too much oil. Instead of deep-frying, sear it in a lightly oiled wok over medium heat until the skin is golden and the flesh is translucent but holds its shape. Cutting on an angle into triangular chunks maximizes surface area for the sauce to cling. Rice vinegar at the end brightens the rich, savory flavors.
 
 ## Directions
 

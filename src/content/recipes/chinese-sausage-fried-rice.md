@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Grain Separation" in fried rice is **Textural Balance**. You must use **Day-Old Rice** that has been refrigerated; fresh rice is too moist and will turn into mush in the wok. We use the **Egg Ribbon Method**: cooking the eggs into a thin omelet first, slicing them, and folding them back in at the end. This ensures the eggs maintain their Texture and bright yellow color rather than coating the rice in a gray film.
+Fried rice is a Cantonese classic for using up leftover rice. The secret to separated grains instead of mushy clumps: use day-old refrigerated rice—fresh rice is too moist and sticky. Lap cheong (Chinese sausage) adds sweet-savory flavor. Cook the eggs into thin omelets first, then slice and fold them back in at the end—this keeps them bright yellow and distinct instead of coating the rice in a gray film.
 
 ## Directions
 

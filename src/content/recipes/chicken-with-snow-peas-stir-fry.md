@@ -35,7 +35,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this 25-minute quick meal is the **Culinary Technique** of **Velveting** and **High-Heat Folding**. By marinating the chicken in a cornstarch-oil-soy mixture, we create a barrier that keeps the breast meat juicy in the wok. We maintain **Textural Balance** by using a "bottom-to-top" folding motion—this ensures the snow peas stay bright green and perfectly crispy rather than steaming into a limp yellow mess.
+Chicken with snow peas is a classic Cantonese stir-fry showcasing fresh spring vegetables. Marinating the chicken in cornstarch, soy, and oil ("velveting") keeps the lean breast meat tender over high heat. The key is using quick, high-heat cooking and minimal stirring so the snow peas stay bright green and crisp instead of becoming limp and yellowed. The light sauce should be glossy and barely coat the ingredients.
 
 ## Directions
 
