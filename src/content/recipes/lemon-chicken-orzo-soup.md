@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" orzo soup is **Culinary Technique** through **The Starch Roux Method**. We sauté the vegetables and then stir in a small amount of flour _before_ the broth; this creates a light body that holds the ingredients in suspension without being heavy. We maintain **Textural Balance** by simmering the orzo directly in the broth only until al dente—overcooking will turn the soup into a thick porridge. The fresh lemon juice is the mandatory **High Note** that bridges the earthy herbs and savory chicken.
+The key to orzo soup is sautéing the vegetables and then stirring in a small amount of flour before the broth. This creates a light body that holds the ingredients in suspension without being heavy. Simmer the orzo directly in the broth only until al dente—overcooking will turn the soup into a thick porridge. The fresh lemon juice bridges the earthy herbs and savory chicken.
 
 ## Directions
 

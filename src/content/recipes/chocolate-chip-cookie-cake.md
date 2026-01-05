@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a professional-grade cookie cake is **Textural Balance** through the **Disc Method**. Using chocolate discs rather than standard chips creates larger "pools" of molten chocolate that integrate into the dough. We use **M&Ms** to provide a necessary "Salty Snap" and color. The Kitchen Standard for this dish is **High-Heat Edge Crisp**: we bake at 375°F to ensure the outer rim is shatteringly crisp while the center remains "Soft and Chewy."
+The key to a cookie cake is using chocolate discs rather than standard chips. This creates larger pools of molten chocolate that integrate into the dough. We use M&Ms to provide a salty element and color. We bake at 375°F to ensure the outer rim is crisp while the center remains soft and chewy.
 
 ## Directions
 

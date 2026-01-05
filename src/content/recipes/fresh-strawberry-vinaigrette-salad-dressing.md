@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modularity** component for summer salads. The secret to the Kitchen Standard is **The Maceration Method**: you must let the strawberries sit in the vinegar and honey for 30 minutes before blending. This draws out the natural juices (osmosis) and creates a syrup that emulsifies perfectly with the olive oil. The result is a dressing with a bright **Acid Balance** that has the Texture of fresh fruit rather than the flat flavor of a bottled version.
+This is a fresh dressing for summer salads. The key is letting the strawberries sit in the vinegar and honey for 30 minutes before blending. This draws out the natural juices through osmosis and creates a syrup that emulsifies perfectly with the olive oil. The result is a dressing with bright acidity that tastes like fresh fruit rather than a bottled version.
 
 ## Directions
 

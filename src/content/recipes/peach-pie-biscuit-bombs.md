@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed **Updated Classic** update to the hand pie. The secret to its elite flavor is **The Beurre Noisette Method**: we brush the biscuits with butter that has been cooked until nutty and brown _before_ baking. This creates a toasted, savory Crunch that balances the creamy Brie and sweet peaches. We maintain **Textural Balance** by using Brie; the cheese acts as a thermal guard, preventing the peach juices from turning the biscuit base into mush.
+This is a quick take on the hand pie. The key is brushing the biscuits with butter that has been cooked until nutty and brown before baking. This creates a toasted, savory flavor that balances the creamy Brie and sweet peaches. Using Brie prevents the peach juices from turning the biscuit base into mush.
 
 ## Directions
 

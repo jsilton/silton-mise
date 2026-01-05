@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive quick dessert for the Kitchen Standard. The secret to Success is **The Under-Bake Method**: you must remove the cookies from the oven when the edges are barely golden but the centers still look "wet" and underdone. The residual heat on the baking pan (The 2-Minute Set) will finish the cook, resulting in a cookie with a permanent Texture and soft, gooey center. We maintain **Textural Balance** by using a full 3 cups of flour to provide the structural Crunch needed to hold the massive amount of chocolate.
+This is a quick chocolate chip cookie recipe. The key is removing the cookies from the oven when the edges are barely golden but the centers still look wet and underdone. The residual heat on the baking pan will finish the cooking in about 2 minutes, resulting in a cookie with a crisp edge and soft, gooey center. We use a full 3 cups of flour to provide the structure needed to hold the massive amount of chocolate.
 
 ## Directions
 

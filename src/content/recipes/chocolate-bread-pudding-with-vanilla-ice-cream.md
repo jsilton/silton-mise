@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** take on the ultimate comfort dessert. By using **Brioche** instead of standard white bread, we ensure a rich, buttery Texture that absorbs the custard without falling apart. The secret to the Kitchen Standard here is the **Double Chocolate Method**: we use both bittersweet and white chocolate to create pockets of intense dark cocoa and creamy sweetness. Let the bread soak for the full 15 minutes—this is mandatory for **Textural Balance**.
+This is an elevated take on the comfort dessert. By using brioche instead of standard white bread, we ensure a rich, buttery texture that absorbs the custard without falling apart. The key is using both bittersweet and white chocolate to create pockets of intense dark cocoa and creamy sweetness. Let the bread soak for the full 15 minutes for the best texture.
 
 ## Directions
 

@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for Passover and gluten-free celebrations. The secret to its elite texture is **Culinary Technique** through **The Ganache Emulsion Method**. By melting high-quality chocolate directly into hot cream off the heat, we create a mirror-shiny glaze that provides a necessary creamy Crunch to contrast the dense, fudgy cake. We use **Espresso Powder** as the complex flavor—it doesn't make the cake taste like coffee; instead, it amplifies the natural fruitiness of the cocoa.
+This is the classic flourless chocolate cake for Passover and gluten-free celebrations. The key to its texture is melting high-quality chocolate directly into hot cream off the heat to create a mirror-shiny glaze that provides a contrast to the dense, fudgy cake. We use espresso powder for complexity—it doesn't make the cake taste like coffee; instead, it amplifies the natural fruitiness of the cocoa.
 
 ## Directions
 

@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-end take on a cookout classic. The beef tenderloin is incredibly tender, so we treat it with **High-Heat Minimalist Cooking**: a hard sear to get a crust while keeping the center medium-rare. The **Corn Relish** provides the essential Executive "Acid Crunch" that makes this dish feel light and balanced rather than heavy.
+This is a high-end take on a cookout classic. The beef tenderloin is incredibly tender, so we use high-heat cooking: a hard sear to get a crust while keeping the center medium-rare. The corn relish provides the essential acidity and crunch that makes this dish feel light and balanced rather than heavy.
 
 ## Directions
 

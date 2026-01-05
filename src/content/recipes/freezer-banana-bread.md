@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the Kitchen Standard for **Modularity**. The secret to a perfect slice every morning is **The Freezer-Slice Method**: we use **Greek Yogurt** instead of butter to create a dense, high-moisture Texture that specifically survives the freezing process without becoming crumbly. We use **The Blender Method** to pulverize the bananas and wet ingredients into a silky emulsion before folding in the flour—this ensures an even distribution of sweetness and prevents "mushy pockets."
+This banana bread is designed for freezer storage. The key to a perfect slice every morning is using Greek yogurt instead of butter to create a dense, moist texture that survives the freezing process without becoming crumbly. We blend the bananas and wet ingredients in a blender to create a smooth mixture before folding in the flour—this ensures even distribution of sweetness and prevents mushy pockets.
 
 ## Directions
 

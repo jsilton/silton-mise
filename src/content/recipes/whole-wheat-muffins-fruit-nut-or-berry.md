@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the definitive Executive **Modularity** components for breakfast. The secret to a whole-wheat muffin with a Texture is **The Fruit Juice Hydration Method**. By using apple or orange juice as the primary liquid, we provide natural fructose and an **Acid Balance** that ensures the whole-wheat starch fully hydrates without becoming leaden. We maintain **Textural Balance** through **The Top-Mix Method**: instead of folding the fruit into the batter, we sprinkle it over the raw muffins in the pan—this prevents the berries from bleeding and ensures a crispy golden top.
+These are whole-wheat breakfast muffins. The key to a muffin that isn't heavy is using apple or orange juice as the primary liquid. This provides natural sweetness and acidity that ensures the whole-wheat flour fully hydrates without becoming dense. Instead of folding the fruit into the batter, sprinkle it over the raw muffins in the pan—this prevents the berries from bleeding and ensures a crispy golden top.
 
 ## Directions
 

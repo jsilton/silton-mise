@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive Executive technical dish dessert. The secret to its Success is **Culinary Technique** through **The Cold Fat Method**: we cut cold butter into the flour until pea-sized, ensuring a flaky, vertical rise. We use **Pink Peppercorns** as the mandatory savory-sweet **High Note**—their floral heat bridges the gap between the tart rhubarb and the creamy mascarpone. We maintain **Textural Balance** by **Roasting the Fruit**: baking the strawberries and rhubarb at 350°F concentrates their juices into a thick, mahogany syrup that won't turn the shortcake soggy.
+This is strawberry-rhubarb shortcake for special occasions. The key is cutting cold butter into the flour until pea-sized to ensure a flaky, vertical rise. We use pink peppercorns for their floral heat, which bridges the gap between the tart rhubarb and the creamy mascarpone. Roast the fruit: baking the strawberries and rhubarb at 350°F concentrates their juices into a thick syrup that won't turn the shortcake soggy.
 
 ## Directions
 

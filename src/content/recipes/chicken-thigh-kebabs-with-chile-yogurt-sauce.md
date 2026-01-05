@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-protein nutritious meal that relies on **Culinary Technique** for its tenderness. By using **Greek Yogurt** in the sauce and lemon juice as an **Enzyme Tenderizer**, we break down the chicken's muscle fibers before they hit the high heat of the grill. The paprika-oil marinade provides the Crunch and deep color. Always use **Skin-on** thighs if possible—the rendered fat provides the "High Note" of flavor that skinless meat lacks.
+This is a high-protein meal that relies on proper marinating for tenderness. By using Greek yogurt in the sauce and lemon juice as a tenderizer, we break down the chicken's muscle fibers before they hit the high heat of the grill. The paprika-oil marinade provides color and a slight char. Always use skin-on thighs if possible—the rendered fat provides flavor that skinless meat lacks.
 
 ## Directions
 

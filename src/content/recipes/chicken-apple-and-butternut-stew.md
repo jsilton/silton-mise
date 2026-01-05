@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a New England autumn masterpiece. To avoid the "mushy veggie" problem, we use **Textural Balance**: we sear the chicken and parsnips first to get a crust, and only add the apples in the final 5 minutes of simmering. The **Apple Cider** provides the natural acid and sweetness that elevates this from a standard chicken stew to a sophisticated holiday-vibe meal.
+This is a New England autumn stew. To avoid the mushy veggie problem, sear the chicken and parsnips first to get a crust, and only add the apples in the final 5 minutes of simmering. The apple cider provides natural acid and sweetness that elevates this from a standard chicken stew to a sophisticated meal.
 
 ## Directions
 

@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to the "Wacky Cake" or "Depression Cake." The secret to its Success is **The Pan Emulsion Method**: we mix the entire cake directly in the baking dish, eliminating the need for bowls. The "Magic Moment" is the addition of **Apple Cider Vinegar** to the baking soda; this creates a chemical reaction that provides the mandatory Texture and lift in a cake that has no eggs or butter. It results in a crumb that is surprisingly dark, moist, and "Snappy."
+This is an updated take on "Wacky Cake" or "Depression Cake." The key is mixing the entire cake directly in the baking dish, eliminating the need for bowls. The magic moment is adding apple cider vinegar to the baking soda; this creates a chemical reaction that provides lift in a cake that has no eggs or butter. It results in a crumb that is surprisingly dark, moist, and tender.
 
 ## Directions
 
