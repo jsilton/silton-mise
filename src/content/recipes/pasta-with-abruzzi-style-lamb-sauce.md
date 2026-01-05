@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a soulful, rustic ragu from the Abruzzo region of Italy. Unlike a beef bolognese, lamb ragu relies on the **Rendering of Fat**: we start by rendering the pancetta fat to provide a smoky base for the lamb. Dicing the lamb finely instead of using generic "ground meat" provides a superior, meaty texture. The white wine and rosemary provide a forest-like aroma that cuts the richness of the lamb.
+This ragù comes from Abruzzo, the mountainous region in central Italy where sheep farming has been a way of life for centuries. Abruzzese cuisine is rustic and hearty, designed to sustain shepherds in the mountains. Traditional lamb ragù starts with pancetta to render fat and add smokiness, then builds with white wine (not red) and rosemary, which grows wild in the Apennine mountains. Hand-crushing the tomatoes gives a chunkier, more rustic texture than smooth tomato sauce. Pecorino Romano (sheep's milk cheese) is the traditional finishing cheese in this region - it's sharper and saltier than Parmigiano-Reggiano. Dice the lamb yourself rather than buying pre-ground for better texture.
 
 ## Directions
 

@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute quick hero that relies on **The Emulsion Method**. The secret to the Kitchen Standard is combining the **Smoked Bacon Render** with starchy pasta water and crème fraîche. This creates a thick, velvet-like sauce that finds its way inside every mini-shell. We maintain **Textural Balance** by adding the peas at the very end—they should stay bright green and "Snappy." The fresh mint and lemon juice provide the mandatory **Acid/Aromatic Finish** to cut through the heavy bacon fat.
+This is a spring variation on Roman pasta alla carbonara, adding peas which come into season in Italy in April and May. The traditional Roman combination of cured pork (usually guanciale or pancetta) with pasta water creates a creamy emulsion without needing cream. Mini-shells are perfect here because the sauce gets trapped inside each shell. Fresh mint with peas is a classic Italian combination - you'll find it in dishes like "pasta e piselli" (pasta and peas). Render the bacon fat slowly so it becomes your cooking fat, then use it with pasta water and cheese to create the sauce. The lemon juice cuts through the richness.
 
 ## Directions
 

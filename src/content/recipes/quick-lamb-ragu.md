@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a 45-minute ragù that tastes like a 4-hour braise is **Culinary Technique** through **The Anchovy Pulse Method**. By melting two anchovy fillets into the onion base, we introduce a deep, savory foundation that amplifies the earthiness of the lamb. We maintain **Textural Balance** by frying the lamb until it "sizzles in its own fat"—this ensures a Crunch to the meat rather than a boiled texture. The balsamic vinegar provides the mandatory **Acid Balance** to cut through the rich lamb fat.
+Lamb ragù is popular in Central and Southern Italy, especially in regions like Abruzzo, Molise, and Lazio where sheep farming is traditional. Unlike beef or pork ragù, lamb has a distinctive gamey richness that pairs beautifully with tomatoes and aromatic herbs like oregano and rosemary. The anchovy trick is genius - it "melts" into the oil and adds umami depth without making the dish taste fishy. This is a common Italian technique (see: puttanesca, bagna cauda). Balsamic vinegar at the end brightens the sauce and cuts through the lamb's fat. Brown the meat well to develop flavor - you want crispy bits, not boiled gray meat.
 
 ## Directions
 

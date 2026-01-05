@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate "High Note" meal. The secret to a creamy ricotta sauce without heavy cream is **Emulsion**. We use the starchy pasta water to bind the ricotta and olive oil into a silky glaze that coats the noodles perfectly. The fresh lemon zest provides the brightness, while the Pecorino adds the salty, savory backbone.
+This is a simple spring pasta from the Roman/Lazio tradition, similar to cacio e pepe but made with ricotta instead of pecorino alone. Fresh sheep's milk ricotta is traditional in Rome, where it's been made for centuries. The secret is using starchy pasta water to emulsify the ricotta and olive oil into a creamy sauce that coats the noodles - the pasta water acts as a binding agent. Lemon zest (not just juice) is critical for brightness without adding too much liquid that would thin the sauce. Pecorino Romano adds the salty, sheep's milk tang that's essential to Roman pasta dishes.
 
 ## Directions
 

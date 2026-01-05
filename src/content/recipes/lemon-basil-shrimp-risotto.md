@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-Risotto is the ultimate test of **Culinary Technique**. The secret to a restaurant-quality texture is **The Starch-Bind Emulsion Method**: we add the hot broth one ladle at a time, stirring constantly to "bruise" the rice grains; this releases amylopectin starch, which creates a natural, velvety creaminess without needing massive amounts of fat. We maintain **Textural Balance** through **The Shrimp Snap Method**: we sear the shrimp first and remove them _before_ starting the rice, adding them back only in the final minute. This ensures the shrimp stay crispy rather than overcooking into rubbery curls. The lemon juice provides the mandatory **Acid Balance**.
+Risotto originated in Northern Italy (Milan and the Veneto) where short-grain rice has been grown since the 15th century. The technique requires patience - adding hot broth one ladle at a time and stirring constantly releases the rice's starch (amylopectin), which creates the signature creamy texture without needing excessive butter or cream. This is called "mantecatura" in Italian. Arborio is the most common variety, though Carnaroli is preferred by Italian chefs for its firmer texture. Sear the shrimp first and add them back at the end so they don't overcook and become rubbery. The lemon cuts through the richness.
 
 ## Directions
 

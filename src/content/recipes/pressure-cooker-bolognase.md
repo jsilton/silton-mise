@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive "Kitchen Standard" for a weekday ragù. The secret to its elite depth is **Culinary Technique** through **The Maillard Extraction Method**: we sear the meat and sausage separately first to develop a heavy fond, then use the red wine to deglaze the pot. The pressure cooker accelerates the **Collagen Breakdown**, giving the sauce a rich Texture usually only found in 6-hour simmered versions. We finish with **Balsamic Vinegar**—the mandatory **Acid Balance** that cuts through the rich pork fat.
+Ragù alla Bolognese originated in Bologna in the late 18th century as a slow-cooked meat sauce. The official recipe registered with the Bologna Chamber of Commerce in 1982 specifies a soffritto base (onion, celery, carrot), ground beef, pancetta, tomato paste, wine, and milk or cream - simmered for hours until thick and meaty. This pressure cooker version shortcuts the time while maintaining depth by developing a dark fond (browned bits) when searing the meat, then deglazing with red wine to extract those flavors. Use San Marzano tomatoes if possible - they're less acidic and sweeter than regular canned tomatoes. The balsamic vinegar at the end is not traditional but adds complexity.
 
 ## Directions
 
