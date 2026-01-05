@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 25-minute high-performance "Fuel." The secret to zucchini noodles that aren't watery is **Textural Balance** through **The Salt-Squeeze Method**. You must toss the spiralized strands with salt and let them drain for 15 minutes _before_ sautéing; this ensures they maintain a resilient Texture and don't turn the **Avocado Pesto** into a thin soup. We use **Old Bay** as the mandatory savory-salt **High Note** to introduce a Maryland Crunch to the sweet shrimp.
+Zucchini noodles ("zoodles") became a low-carb pasta alternative in the 2000s. The critical step: salt the spiralized zucchini and let it drain for 15 minutes, then squeeze out the excess water. This prevents the noodles from turning the avocado pesto into a watery mess. Avocado and pistachios make a creamy, vibrant green pesto without cheese. Old Bay seasoning adds a savory, slightly spicy note that complements the sweet shrimp beautifully.
 
 ## Directions
 

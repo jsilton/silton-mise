@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this restaurant-quality pasta is **Textural Balance** through **The Panko Snap Method**. We fry the panko in garlic-infused butter until deep golden _before_ starting the pasta; this provides a shatteringly crisp contrast to the soft, chewy strozzapreti. We use **Preserved Lemon** as the mandatory savory-salt **High Note**—its fermented depth creates a Texture that standard citrus cannot replicate. The brown butter provides the rich, nutty foundation that ties the earthy spinach together.
+Strozzapreti ("priest stranglers") is a hand-rolled pasta shape from Emilia-Romagna and other Italian regions. Browning panko breadcrumbs in garlic butter before starting the pasta gives you a crispy topping that contrasts beautifully with the soft, chewy noodles. Preserved lemon adds a fermented, salty complexity that fresh citrus can't match—it's become popular in modern Italian cooking though it originally comes from North African cuisine. Brown butter ties the earthy spinach and bright lemon together.
 
 ## Directions
 

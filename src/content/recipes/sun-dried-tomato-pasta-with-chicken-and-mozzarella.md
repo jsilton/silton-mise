@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to this 30-minute quick meal is **The Tomato-Oil Sear Method**. You must use the oil reserved from the sun-dried tomato jar to sear the chicken; this infuses the protein with a deep, concentrated tomato intensity _before_ the cream is added. We maintain **Textural Balance** through **The Mozzarella Bind**: by whisking the cheese directly into the simmering cream, we create a stable, tacky glaze that has the Texture to cling to the penne without needing a heavy flour roux. The red pepper flakes provide the mandatory savory **High Note**.
+Sun-dried tomatoes became hugely popular in Italian-American cooking during the 1990s. The oil from the jar is liquid gold—use it to sear the chicken so the protein absorbs intense tomato flavor before the cream goes in. Whisking shredded mozzarella directly into simmering cream creates a thick, clingy sauce without needing a flour roux. Red pepper flakes add a gentle heat that balances the rich, creamy base.
 
 ## Directions
 

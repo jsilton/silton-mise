@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" vegan pasta salad is **Textural Balance** through **The Layered Snap Method**. We use **Roasted Chickpeas** instead of croutons; their earthy, brittle crunch provides a necessary contrast to the soft Texture of the rotini. We maintain the Kitchen Standard by dressing the hot pasta _before_ adding the fresh greens; the residual heat of the noodle slightly absorbs the **Caesar Emulsion**, ensuring the flavor is locked into the starch. The avocado provides the final fatty **High Note**.
+Vegan Caesar dressings became mainstream in the 2010s, using cashews or tofu to replicate the creamy texture traditionally from anchovies and egg. Roasted chickpeas replace croutons for protein and crunch. The trick is dressing the warm pasta first—it absorbs more flavor than cold pasta would. Add the fresh romaine and avocado just before serving so they stay crisp and bright.
 
 ## Directions
 

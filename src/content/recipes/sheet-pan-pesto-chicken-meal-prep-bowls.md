@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate **Modularity** component for high-performance meal prep. The secret to Success is **The Double-Stage Roast Method**: we roast the chicken and mushrooms first to develop a Maillard "Snap," then add the delicate broccoli and zucchini for the final 10 minutes. This prevents the vegetables from turning into a mushy film. We use **The Pesto Emulsion** as a thermal guard: by tossing the chicken in pesto _before_ roasting, we create a fat barrier that keeps the lean breast meat succulent and "Bouncy."
+Sheet pan meal prep bowls became hugely popular in the 2010s for their simplicity and make-ahead convenience. The trick is staged roasting: cook the chicken and mushrooms first to develop color, then add the quicker-cooking vegetables like broccoli and zucchini for the final 10 minutes. Tossing the chicken in pesto before roasting creates a flavorful coating that keeps the lean breast meat moist. These bowls keep well for 5 days in the fridge.
 
 ## Directions
 

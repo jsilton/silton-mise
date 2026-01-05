@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-speed nutritious main. The secret to its Success is **The Boursin Melt Method**: we place a block of Boursin cheese directly in the center of the baking dish surrounded by the raw orzo and broth. As it bakes, the cheese emulsifies with the chicken juices to create a thick, garlic-herb Texture that standard cream cannot mimic. We maintain **Textural Balance** through **The Lemon Sizzle**: placing fresh lemon slices over the chicken provides a mandatory **Acid Balance** that keeps the rich cheese from feeling heavy.
+One-pan baked pastas became wildly popular in the 2010s, and this version uses Boursin cheese as a shortcut to creamy, garlicky flavor. Place the block of Boursin right in the center of the baking dish with the raw orzo and broth—as it bakes, the cheese melts and emulsifies with the chicken juices. Fresh lemon slices over the chicken add brightness to balance the rich cheese. Stir vigorously when it comes out of the oven to create a creamy sauce.
 
 ## Directions
 

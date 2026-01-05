@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 15-minute quick masterpiece. The secret to its elite flavor is **The Beurre Noisette Method**: we cook the butter until it foams and the milk solids turn a deep "peanut butter" brown _before_ adding the sage. This creates a nutty, toasted foundation that defines the dish. We use **The Broth-Cream Bind**: adding chicken broth to the brown butter prevents it from feeling greasy, while the heavy cream provides the mandatory Texture to the sauce. The lemon juice is the final **Acid Balance** needed to cut the rich squash.
+Brown butter and sage is a classic Northern Italian sauce, especially popular with filled pasta like ravioli or tortellini. The French call it beurre noisette ("hazelnut butter") for its nutty aroma. Cook the butter until golden-brown before adding sage—this deepens the flavor dramatically. Adding broth and cream to brown butter prevents it from feeling too rich or greasy. A squeeze of lemon juice at the end brightens the sweet squash filling.
 
 ## Directions
 
