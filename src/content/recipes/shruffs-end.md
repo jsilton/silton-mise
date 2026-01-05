@@ -16,18 +16,14 @@ equipment: ['mixing-glass', 'cocktail-shaker', 'strainer']
 cookingMethods: ['no-cook']
 advancePrep: []
 pairsWith: ['charcuterie-board', 'aged-cheese', 'dark-chocolate']
+ingredients:
+  - 1 oz Laphroaig 10-Year Islay Single-Malt Scotch
+  - 1 oz Laird's 100 Proof Straight Apple Brandy
+  - 0.5 oz Bénédictine
+  - 2 dashes Peychaud's bitters
+  - Ice for stirring
+  - Orange peel or lemon peel for garnish (optional)
 ---
-
-A sophisticated spirit-forward cocktail that beautifully balances the peaty smoke of Islay Scotch with the apple sweetness of brandy, rounded out with herbal complexity from Bénédictine and a touch of anise from Peychaud's bitters.
-
-## Ingredients
-
-- 1 oz Laphroaig 10-Year Islay Single-Malt Scotch
-- 1 oz Laird's 100 Proof Straight Apple Brandy
-- 0.5 oz Bénédictine
-- 2 dashes Peychaud's bitters
-- Ice for stirring
-- Orange peel or lemon peel for garnish (optional)
 
 ## Directions
 

@@ -16,19 +16,15 @@ equipment: ['mixing-glass', 'strainer']
 cookingMethods: ['no-cook']
 advancePrep: []
 pairsWith: ['oysters', 'cajun-food', 'charcuterie-board']
+ingredients:
+  - 2 oz rye whiskey (or Cognac for the original recipe)
+  - 1/4 oz simple syrup
+  - 3 dashes Peychaud's bitters
+  - 1-2 dashes Angostura bitters (optional, but traditional)
+  - Absinthe or Herbsaint for rinsing
+  - Lemon peel for garnish
+  - Ice
 ---
-
-The official cocktail of New Orleans, the Sazerac dates back to the 1830s and is one of America's oldest cocktails. This complex, spirit-forward drink features rye whiskey, absinthe, and Peychaud's bitters for a uniquely aromatic experience.
-
-## Ingredients
-
-- 2 oz rye whiskey (or Cognac for the original recipe)
-- 1/4 oz simple syrup
-- 3 dashes Peychaud's bitters
-- 1-2 dashes Angostura bitters (optional, but traditional)
-- Absinthe or Herbsaint for rinsing
-- Lemon peel for garnish
-- Ice
 
 ## Directions
 

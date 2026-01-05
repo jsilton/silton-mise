@@ -16,17 +16,13 @@ equipment: ['mixing-glass', 'strainer']
 cookingMethods: ['no-cook']
 advancePrep: []
 pairsWith: ['steak', 'charcuterie-board', 'pasta']
+ingredients:
+  - 1.5 oz bourbon or rye whiskey
+  - 1 oz Campari
+  - 1 oz sweet vermouth
+  - Ice for stirring
+  - Orange peel for garnish
 ---
-
-Created in 1920s Paris by American expat Erskine Gwynne, the Boulevardier is essentially a whiskey Negroni. This sophisticated cocktail combines bourbon with Campari and sweet vermouth for a bold, bittersweet drink perfect for whiskey lovers.
-
-## Ingredients
-
-- 1.5 oz bourbon or rye whiskey
-- 1 oz Campari
-- 1 oz sweet vermouth
-- Ice for stirring
-- Orange peel for garnish
 
 ## Directions
 

@@ -16,18 +16,14 @@ equipment: ['mixing-glass', 'muddler']
 cookingMethods: ['no-cook']
 advancePrep: []
 pairsWith: ['steak', 'bbq-ribs', 'dark-chocolate']
+ingredients:
+  - 2 oz bourbon or rye whiskey
+  - 1 sugar cube (or 1/4 oz simple syrup)
+  - 2-3 dashes Angostura bitters
+  - Orange peel
+  - Maraschino cherry (optional)
+  - Large ice cube
 ---
-
-The Old Fashioned is arguably the original cocktail, dating back to the early 1800s. This timeless drink showcases quality whiskey enhanced with just a touch of sugar and bitters, built directly in the glass over ice.
-
-## Ingredients
-
-- 2 oz bourbon or rye whiskey
-- 1 sugar cube (or 1/4 oz simple syrup)
-- 2-3 dashes Angostura bitters
-- Orange peel
-- Maraschino cherry (optional)
-- Large ice cube
 
 ## Directions
 

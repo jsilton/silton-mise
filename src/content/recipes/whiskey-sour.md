@@ -16,19 +16,15 @@ equipment: ['cocktail-shaker', 'strainer']
 cookingMethods: ['no-cook']
 advancePrep: []
 pairsWith: ['fried-chicken', 'bbq', 'grilled-fish']
+ingredients:
+  - 2 oz bourbon or rye whiskey
+  - 3/4 oz fresh lemon juice
+  - 1/2 oz simple syrup
+  - 1/2 oz egg white (optional but recommended)
+  - Ice
+  - Angostura bitters for garnish (optional)
+  - Maraschino cherry and orange slice (optional)
 ---
-
-The Whiskey Sour is a classic American cocktail from the 1860s that perfectly balances whiskey, citrus, and sweetness. The addition of egg white creates a silky texture and beautiful foam, elevating this simple drink to something special.
-
-## Ingredients
-
-- 2 oz bourbon or rye whiskey
-- 3/4 oz fresh lemon juice
-- 1/2 oz simple syrup
-- 1/2 oz egg white (optional but recommended)
-- Ice
-- Angostura bitters for garnish (optional)
-- Maraschino cherry and orange slice (optional)
 
 ## Directions
 

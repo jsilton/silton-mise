@@ -16,18 +16,14 @@ equipment: ['mixing-glass', 'strainer']
 cookingMethods: ['no-cook']
 advancePrep: []
 pairsWith: ['steak', 'charcuterie-board', 'aged-cheese']
+ingredients:
+  - 2 oz rye whiskey (or bourbon for a sweeter Manhattan)
+  - 1 oz sweet vermouth
+  - 2 dashes Angostura bitters
+  - Ice for stirring
+  - Maraschino cherry for garnish
+  - Orange peel (optional)
 ---
-
-The Manhattan, created in the 1870s, is one of the most iconic American cocktails. This spirit-forward classic combines whiskey, sweet vermouth, and bitters for a perfectly balanced, sophisticated drink.
-
-## Ingredients
-
-- 2 oz rye whiskey (or bourbon for a sweeter Manhattan)
-- 1 oz sweet vermouth
-- 2 dashes Angostura bitters
-- Ice for stirring
-- Maraschino cherry for garnish
-- Orange peel (optional)
 
 ## Directions
 
