@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed nutritious masterpiece that solves the problem of soggy tofu. We use **Culinary Technique** through **The Cornstarch Guard Method**: by dredging the tofu in starch before searing, we create a barrier that ensures a shatteringly crisp "Snap." We maintain **Textural Balance** through **The Perimeter Sear**: we char the broccoli in the same pan to pick up the tofu's crispiness. The combination of miso and lemon provides the mandatory **Acid Balance** that bridges the earthy soy and bright citrus.
+This is a quick, nutritious dish that solves the problem of soggy tofu. By dredging the tofu in cornstarch before searing, we create a barrier that ensures a shatteringly crisp exterior. We char the broccoli in the same pan to pick up the tofu's crispiness. The combination of miso and lemon provides the essential brightness that bridges the earthy soy and citrus flavors.
 
 ## Directions
 

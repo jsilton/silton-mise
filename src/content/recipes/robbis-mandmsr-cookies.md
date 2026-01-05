@@ -35,5 +35,5 @@ Folding only 3/4 of the M&M's into the dough, then pressing the remaining candie
 4.  **Shape:** Preheat oven to 350°F. Drop teaspoon-sized balls of dough onto ungreased sheets.
 5.  **Press:** Press 3-4 of the remaining M&M's into the top of each ball.
 6.  **Bake:** Bake for 9-11 minutes until the edges are just golden. Do not over-bake; they will set on the pan.
-7.  **Cool:** Let rest on the pan for 5 minutes to ensure **Textural Balance**.
+7.  **Cool:** Let rest on the pan for 5 minutes to ensure proper texture.
 

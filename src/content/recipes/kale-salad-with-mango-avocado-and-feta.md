@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to kale that isn't tough or bitter is **Culinary Technique** through **The Massage Method**. You must drizzle the raw kale with olive oil and salt and massage the leaves vigorously with your hands for 2 minutes; this breaks down the fibrous cellulose, resulting in a tender Texture similar to cooked greens. We maintain **Textural Balance** through **The Avocado Set**: we add the avocado only at the very end to prevent it from smashing into a paste, ensuring every bite has a distinct, creamy "Snap."
+The secret to kale that isn't tough or bitter is the massage technique. You must drizzle the raw kale with olive oil and salt and massage the leaves vigorously with your hands for 2 minutes; this breaks down the fibrous cellulose, resulting in a tender texture similar to cooked greens. We add the avocado only at the very end to prevent it from smashing into a paste, ensuring every bite has distinct, creamy pieces.
 
 ## Directions
 

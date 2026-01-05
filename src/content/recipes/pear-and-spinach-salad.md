@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline quick side that relies on **Culinary Technique**. The secret to Success is **The Onion Shock Method**: you must soak the red onion slices in ice water for 10 minutes before adding them to the salad. This removes the harsh sulfurous "bite," leaving only a sweet Crunch that won't overpower the delicate Bosc pear. We use **The Emulsion Method**: whisking the Dijon and vinegar with honey creates a stable, thick binding that has the Texture to coat the spinach leaves without weighing them down.
+This is a quick side salad with bright flavors. The secret is soaking the red onion slices in ice water for 10 minutes before adding them to the salad. This removes the harsh sulfurous bite, leaving only sweet crunch that won't overpower the delicate Bosc pear. Whisking the Dijon and vinegar with honey creates a stable, thick dressing that coats the spinach leaves without weighing them down.
 
 ## Directions
 
