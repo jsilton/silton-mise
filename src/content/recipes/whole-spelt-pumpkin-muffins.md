@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to spelt muffins that aren't dry is **Culinary Technique** through **The High-Hydration Method**. Spelt has a more fragile gluten structure than wheat; by using a full cup of pumpkin and 1/2 cup of honey, we create a moisture guard that results in a tender, cake-like "Bounce." We use **Pumpkin Pie Spice** as the mandatory aromatic **High Note**—it defines the autumnal profile. Do not over-mix once the flour is added, as the muffins will deflate and lose their vertical rise.
+The key to spelt muffins that aren't dry is high hydration. Spelt has a more fragile gluten structure than wheat; by using a full cup of pumpkin and 1/2 cup of honey, we create a moisture guard that results in a tender, cake-like texture. Pumpkin pie spice defines the autumnal profile. Do not over-mix once the flour is added, as the muffins will deflate and lose their vertical rise.
 
 ## Directions
 

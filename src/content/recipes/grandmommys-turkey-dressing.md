@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the soul of the Executive Thanksgiving. The secret to its elite texture is **The Crumble Method**: we bake a fresh tray of cornbread from scratch and then combine it with crumbled stale white bread. This mix of grain structures ensures the dressing has both Texture and Crunch rather than turning into a uniform mush. We have upgraded the legacy margarine to **Unsalted Butter** for a cleaner, holiday-worthy flavor. The "Golden Rule" is the broth addition: pour just until it reaches the top of the bread—any more and you'll lose the **Textural Balance**.
+This is the soul of Thanksgiving. The key to its texture is combining freshly baked cornbread with crumbled stale white bread. This mix of grain structures ensures the dressing has both texture and crunch rather than turning into a uniform mush. We use unsalted butter for a cleaner, holiday-worthy flavor. The golden rule is the broth addition: pour just until it reaches the top of the bread—any more and you'll lose the proper texture.
 
 ## Directions
 

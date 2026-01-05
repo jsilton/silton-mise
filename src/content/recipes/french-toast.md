@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to restaurant-quality French toast is the **Updated Classic** bread choice. We exclusively use **Challah or Brioche** for their high egg and butter content, which creates a custardy Texture that regular white bread cannot mimic. We use the **quick-Dip Method**: because these breads are porous, you must only dip them for 2-3 seconds per side. Over-soaking will cause the structural gluten to collapse, leading to a soggy center. The warm honey provides the mandatory **High Note** sweetness.
+The secret to restaurant-quality French toast is the bread choice. We exclusively use challah or brioche for their high egg and butter content, which creates a custardy texture that regular white bread cannot mimic. Because these breads are porous, you must only dip them for 2-3 seconds per side. Over-soaking will cause the structural gluten to collapse, leading to a soggy center. The warm honey provides sweetness.
 
 ## Directions
 

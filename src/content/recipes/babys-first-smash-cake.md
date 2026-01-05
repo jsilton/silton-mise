@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Updated Classic" recipe designed for a baby's first birthday. It contains **No Refined Sugar**; we rely entirely on the natural fructose of over-ripe bananas and apple juice concentrate for sweetness. The secret to a successful smash cake is the **Oat Flour**: it provides a soft, "easy-to-smash" texture that is safer and more digestible for toddlers than a heavy dense cake.
+This recipe is designed for a baby's first birthday. It contains no refined sugar; we rely entirely on the natural fructose of over-ripe bananas and apple juice concentrate for sweetness. The key to a successful smash cake is the oat flour: it provides a soft, easy-to-smash texture that is safer and more digestible for toddlers than a heavy dense cake.
 
 ## Directions
 

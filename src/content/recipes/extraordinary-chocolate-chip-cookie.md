@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to the "Extraordinary" label is **Textural Balance** through the **24-Hour Chill Method**. Refrigerating the dough overnight is mandatory; it allows the starch to fully hydrate and the sugars to undergo enzymatic breakdown, resulting in a cookie with a deep, butterscotch-like "Bounce." We use **Dark Brown Sugar** instead of light to provide a richer moisture profile and a more pronounced chewy center. This recipe utilizes the "Maximum Chocolate" ratio—4.5 cups ensure that every single bite is dominated by molten chocolate.
+The secret to extraordinary texture is chilling the dough for 24 hours. Refrigerating the dough overnight is mandatory; it allows the starch to fully hydrate and the sugars to undergo enzymatic breakdown, resulting in a cookie with deep, butterscotch-like flavor. We use dark brown sugar instead of light to provide a richer moisture profile and a more pronounced chewy center. This recipe uses a generous chocolate ratio—4.5 cups ensure that every single bite is dominated by molten chocolate.
 
 ## Directions
 

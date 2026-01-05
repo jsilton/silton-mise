@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for a high-performance nutritious smoothie. The secret to its elite flavor is **The "Trust Me" Salt Pinch**: a tiny amount of salt suppresses the bitterness of the raw spinach while amplifying the tropical sweetness of the mango. We use **The Thermal Blender Method**: by using frozen fruit as our "ice," we maintain a thick, creamy Texture without diluting the nutrients. The lime juice provides the mandatory **Acid Balance** that keeps the drink refreshing rather than heavy.
+This is a nutritious green smoothie. The secret to its flavor is a tiny pinch of salt: it suppresses the bitterness of the raw spinach while amplifying the tropical sweetness of the mango. By using frozen fruit as our ice, we maintain a thick, creamy texture without diluting the nutrients. The lime juice keeps the drink refreshing rather than heavy.
 
 ## Directions
 

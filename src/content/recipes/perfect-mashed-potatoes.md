@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the definitive "Kitchen Standard" mashed potatoes. To ensure **Textural Balance**, we use the **Dry-Steam Method**: after draining the potatoes, you must return them to the hot pot for 2 minutes to cook off every drop of surface water. This ensures the starch is "thirsty" and ready to absorb **The Triple Cream Emulsion** (Butter, Cream, and Cream Cheese). We use an **Electric Mixer** for exactly 60 seconds to create a Texture that is light and aerated rather than heavy and leaden.
+These are classic mashed potatoes. To ensure the best texture, after draining the potatoes, return them to the hot pot for 2 minutes to cook off every drop of surface water. This ensures the starch is ready to absorb the butter, cream, and cream cheese. We use an electric mixer for exactly 60 seconds to create a texture that is light and aerated rather than heavy and leaden.
 
 ## Directions
 

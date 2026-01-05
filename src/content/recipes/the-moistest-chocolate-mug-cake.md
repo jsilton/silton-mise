@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for high-speed **Modularity**. The secret to a mug cake that isn't a rubbery brick is **Culinary Technique** through **The Molten Core Method**. By dropping a spoonful of hazelnut spread into the center _without stirring_, we create a thermal guard that keeps the cake moist from the inside out. We use **The Steam-Rise Method**: the high-heat microwave gelatinizes the starch in 70 seconds, providing an immediate "Bounce." The tiny pinch of salt is the mandatory **High Note** that bridge the dark cocoa and rich hazelnut.
+This is a quick microwave mug cake. The secret to a mug cake that isn't a rubbery brick is dropping a spoonful of hazelnut spread into the center without stirring. This creates a molten core that keeps the cake moist from the inside out. The high-heat microwave gelatinizes the starch in 70 seconds, providing an immediate rise. The tiny pinch of salt bridges the dark cocoa and rich hazelnut.
 
 ## Directions
 

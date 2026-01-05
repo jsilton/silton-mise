@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for all holiday baking. The secret to a professional Crunch is **Culinary Technique** through **The Sifting Method**. You must sift the flour, salt, and baking powder together; this breaks up any starch clumps and ensures a uniform, delicate crumb. We maintain **Textural Balance** through **The 2-Hour Chill**: you must refrigerate the dough until stone-cold before rolling; this prevents the butter from melting too quickly, resulting in a cookie that holds its sharp edges and has a resilient "Bounce."
+These are classic sugar cookies for holiday baking. The secret to crisp edges is sifting the flour, salt, and baking powder together; this breaks up any starch clumps and ensures a uniform, delicate crumb. Refrigerate the dough for at least 2 hours until stone-cold before rolling; this prevents the butter from melting too quickly, resulting in a cookie that holds its sharp edges.
 
 ## Directions
 

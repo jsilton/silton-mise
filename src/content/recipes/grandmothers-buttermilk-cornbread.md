@@ -25,7 +25,7 @@ ingredients:
 
 ## Chef's Note
 
-The difference between average cornbread and the Kitchen Standard is **Culinary Technique** through **The Skillet Sizzle Method**. You must preheat your cast-iron skillet _with_ the butter inside until it is screaming hot and foaming. When you pour the cold batter into the hot oil, it creates an immediate deep-gold Crunch on the bottom crust that is unattainable in a cold baking dish. The **Buttermilk and Baking Soda** reaction provides the necessary Texture and lift.
+The difference between average cornbread and exceptional cornbread is the skillet method. You must preheat your cast-iron skillet with the butter inside until it is screaming hot and foaming. When you pour the cold batter into the hot oil, it creates an immediate deep-gold crust on the bottom that is unattainable in a cold baking dish. The buttermilk and baking soda reaction provides the necessary texture and lift.
 
 ## Directions
 

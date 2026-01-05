@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-Kalbi is the ultimate expression of **Culinary Technique** in Korean barbecue. The secret to meat that is tender yet has a resilient Crunch is **The Sake-Sugar Rub Method**: you must rub the ribs with sake and sugar for 15 minutes _before_ adding the soy sauce. This allows the alcohol and large sugar crystals to penetrate the tough flanken-style fibers, ensuring a succulent "Bounce." We use **The High-Heat Char Method**: grilling directly over charcoal for exactly 2 minutes per side to develop the mandatory smoky lacquer that defines the Kitchen Standard.
+Kalbi is Korean barbecue short ribs. The secret to tender meat with crisp edges is rubbing the ribs with sake and sugar for 15 minutes before adding the soy sauce. This allows the alcohol and sugar crystals to penetrate the tough flanken-style fibers, ensuring succulent meat. Grill directly over charcoal for exactly 2 minutes per side to develop the smoky lacquered char.
 
 ## Directions
 

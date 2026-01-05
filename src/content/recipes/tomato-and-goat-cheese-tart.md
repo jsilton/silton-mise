@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate holiday **Project**. The secret to its Success is **Textural Balance** through **The Dehydrated Tomato Method**: you must roast the sliced heirloom tomatoes at 425°F for 40 minutes _before_ adding them to the tart. This concentrates their flavor into a Crunch tender consistency and prevents the bottom crust from turning into a soggy mess. We use **Culinary Technique** for the crust: the addition of **Cider Vinegar** provides a mandatory **Acid Balance** that inhibits gluten development, resulting in a tart shell that is "Shatteringly Soft."
+This is the ultimate holiday tart. The key is roasting the sliced heirloom tomatoes at 425°F for 40 minutes before adding them to the tart. This concentrates their flavor into a tender consistency and prevents the bottom crust from turning into a soggy mess. For the crust, adding cider vinegar inhibits gluten development, resulting in a tart shell that is shatteringly tender.
 
 ## Directions
 

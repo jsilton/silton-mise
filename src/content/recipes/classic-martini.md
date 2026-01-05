@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The Kitchen Standard for a Martini is built on **Culinary Technique** and the **Thermal Method**. We stir, never shake, to preserve the silkiness of the gin without introducing air bubbles or excessive dilution. The secret is **Cracked Ice**: by hand-cracking a large cube, we increase the surface area, allowing the drink to reach sub-zero temperatures in exactly 50 stirs. The final "High Note" is the **Expressed Lemon Oil**—rubbing the peel on the rim ensures the aroma precedes the flavor.
+A classic Martini is built on technique and temperature. We stir, never shake, to preserve the silkiness of the gin without introducing air bubbles or excessive dilution. The secret is cracked ice: by hand-cracking a large cube, we increase the surface area, allowing the drink to reach sub-zero temperatures in exactly 50 stirs. The finishing touch is expressed lemon oil—rubbing the peel on the rim ensures the aroma precedes the flavor.
 
 ## Directions
 

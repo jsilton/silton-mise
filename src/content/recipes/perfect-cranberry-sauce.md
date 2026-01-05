@@ -22,7 +22,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for the Executive holiday table. The secret to its Success is **The Reserve Burst Method**: we cook 3/4 of the cranberries until they burst and release their pectin, then stir in the remaining whole berries at the very end. This ensures the sauce has a thick, jammy Texture while maintaining the textural Crunch of whole fruit. The orange zest provides the mandatory **Acid Balance** that balances the tart berries and sweet sugar.
+This is classic cranberry sauce for the holiday table. The technique is to cook 3/4 of the cranberries until they burst and release their pectin, then stir in the remaining whole berries at the very end. This ensures the sauce has a thick, jammy texture while maintaining the crunch of whole fruit. The orange zest balances the tart berries and sweet sugar.
 
 ## Directions
 
