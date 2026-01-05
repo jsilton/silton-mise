@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-The danger of slow-cooker curries is "flat" flavor and mushy meat. We solve this with **Textural Balance** and **The Bloom Method**. We whisk the spices directly into the coconut milk and tomato paste before adding to the pot; this ensures the fat-soluble spices are fully distributed. The inclusion of **Fresh Mango** on the side isn't just a garnish—it's the mandatory **Acid Balance** that provides a bright "High Note" to cut through the rich, earthy coconut base.
+This slow-cooker adaptation of Thai-style coconut curry keeps flavors from becoming flat by whisking spices directly into coconut milk and tomato paste before cooking, ensuring even distribution of fat-soluble aromatics. Fresh mango served alongside adds bright, sweet-tart contrast to the rich, earthy coconut base - a common Thai practice of balancing flavors.
 
 ## Directions
 

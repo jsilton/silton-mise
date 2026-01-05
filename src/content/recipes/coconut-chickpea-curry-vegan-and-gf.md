@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute quick hero. The secret to a rich, non-watery vegan curry is **Textural Balance** through the **Tomato Reduction Method**. We sauté the onions and tomatoes together for 10 minutes _before_ adding the coconut milk—this releases the tomatoes' natural sugars and thickens their juices. The **Acid Balance** from the fresh lime juice is mandatory; it provides the "High Note" that brightens the earthy chickpeas and rich coconut fat.
+This quick Thai-inspired vegan curry builds depth by sautéing onions and tomatoes together for 10 minutes before adding coconut milk, allowing the tomatoes' sugars to concentrate and their juices to thicken. Fresh lime juice stirred in at the end brightens the earthy chickpeas and rich coconut.
 
 ## Directions
 

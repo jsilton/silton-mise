@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-The key to this 30-minute nutritious dish is **Culinary Technique** through **Velveting**. By massaging water and cornstarch into the chicken breast, we create a barrier that keeps the lean meat succulent during the high-heat stir-fry. We maintain **Textural Balance** through **The Perimeter Sear Method**: we sear the eggplant in an oiled wok with the lid on—this "dry-steams" the interior while the skin gets a golden-brown "Snap." The Thai basil provides the mandatory aromatic **High Note**.
+This Thai-style stir-fry uses velveting - massaging water and cornstarch into chicken breast - to keep lean meat tender during high-heat cooking. Japanese eggplant is seared covered in an oiled wok, which steams the interior while the skin gets golden-brown. Thai basil added at the end provides aromatic, peppery lift.
 
 ## Directions
 

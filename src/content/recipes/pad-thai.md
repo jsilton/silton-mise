@@ -39,7 +39,7 @@ In the 1930s, Thai Prime Minister Plaek Phibunsongkhram launched a cultural camp
 3.  **Aromatics:** Heat 1 tbsp oil. Sauté garlic and shallots until fragrant. Add the drained noodles and the tamarind mixture (sugar, fish sauce, chili).
 4.  **Toss:** Stir-fry over high heat. If the noodles feel too firm, add 1 tbsp of water at a time until they are chewy and translucent.
 5.  **The Egg:** Push noodles to the side. Scramble the egg until set, then fold into the noodles.
-6.  **Combine:** Add the shrimp and cooked tofu. Toss for 2 minutes until shrimp are pink and just opaque (The Shrimp Snap).
+6.  **Combine:** Add the shrimp and cooked tofu. Toss for 2 minutes until shrimp are pink and just opaque.
 7.  **Finish:** Fold in the bean sprouts and chives. Toss for 15 seconds.
-8.  **Serve:** Mound on a plate. Top with crushed peanuts, extra sprouts, and a lime wedge for the final **High Note**.
+8.  **Serve:** Mound on a plate. Top with crushed peanuts, extra sprouts, and a lime wedge.
 

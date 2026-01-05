@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a 25-minute quick masterclass. The secret to the Kitchen Standard here is the **Shrimp Snap Method**: we sear the shrimp in butter first and remove them _before_ building the sauce. This ensures they don't overcook into rubbery curls while the sauce simmers. We maintain **Textural Balance** by adding the zucchini only at the very end—it should be crispy and bright green, providing a textural contrast to the silky, honey-sweetened coconut glaze.
+This Thai-inspired coconut curry sears shrimp in butter first, then removes them before building the sauce to prevent overcooking. Zucchini added at the very end stays crisp and bright green, providing textural contrast to the silky, honey-sweetened coconut sauce. Fresh basil finishes the dish with aromatic lift.
 
 ## Directions
 

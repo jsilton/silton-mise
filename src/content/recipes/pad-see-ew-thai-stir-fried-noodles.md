@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a authentic Pad See Ew is **The Scorch Method**. To achieve the mandatory **Wok Hei** (breath of the wok), you must sear the rice noodles over the highest possible heat without moving them for 30 seconds; this allows the dark soy sauce to caramelize and "scorch" against the noodle, creating that smoky, slightly charred "Snap." We maintain **Textural Balance** by separating the Chinese broccoli leaves and stems, adding the stems first to ensure they are tender while the leaves stay vibrant green.
+Pad see ew is a Thai stir-fried noodle dish characterized by its dark color and slightly charred flavor. The key is searing fresh wide rice noodles undisturbed over highest heat for 30 seconds, allowing dark soy sauce to caramelize and scorch against the noodle - creating wok hei (breath of the wok). Chinese broccoli stems are added before leaves so they cook evenly.
 
 ## Directions
 

@@ -36,7 +36,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to authentic pad kee mao is **Culinary Technique** through **Velveting**. By working water and cornstarch into the chicken, we ensure it stays succulent even at the "Highest Heat" needed for the noodles. We maintain **Textural Balance** through **The Scrape Method**: wide rice noodles tend to stick and tear; you must use a metal spatula to scrape the bottom of the wok aggressively during the final sauce reduction to create those slightly charred, chewy edges known as "Wok Hei."
+Pad kee mao ('drunken noodles') is a Thai stir-fry known for its bold, spicy flavors and charred edges. Velveting the chicken in cornstarch and water keeps it tender during high-heat cooking. Wide rice noodles are scraped vigorously with a metal spatula during the final toss to create slightly charred, chewy edges and prevent sticking - the hallmark of good wok hei (breath of the wok).
 
 ## Directions
 

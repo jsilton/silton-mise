@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the lighter, high-fiber cousin of Pad Thai. The secret to working with **Glass Noodles** is **The Hot-Soak Method**: you must soak them in hot (not boiling) water for exactly 10 minutes; this allows them to reach their maximum Texture while remaining completely translucent. We use **The Veggie Char Method**: we sauté the cabbage and peppers on high heat until they develop blackened edges before adding the noodles—this ensures **Textural Balance** and provides a smoky "Snap."
+Pad woon sen is a Thai glass noodle stir-fry that's lighter than pad thai. Mung bean glass noodles should be soaked in hot (not boiling) water for exactly 10 minutes to reach their optimal translucent texture. Sautéing cabbage and peppers over high heat until they develop charred edges before adding noodles creates smoky depth.
 
 ## Directions
 

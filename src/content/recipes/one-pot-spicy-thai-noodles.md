@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-speed nutritious meal that relies on **The Starch Bind Method**. The secret to Success is building the entire dish in the pasta pot; we use the residual heat of the cooked noodles to emulsify the **Sriracha-Ginger Glaze** without needing additional fat. We maintain **Textural Balance** by scrambling the eggs separately first—this ensures they provide a distinct, yellow Texture in every bite rather than turning the sauce into a muddy film. The fresh lime and cilantro provide the mandatory aromatic **High Note**.
+This Thai-inspired one-pot noodle dish builds the sauce directly in the pasta pot, using residual heat to emulsify the sriracha-ginger glaze without extra fat. Scrambling eggs separately first keeps them distinct with bright yellow texture rather than forming a coating. Fresh cilantro and lime add brightness.
 
 ## Directions
 
