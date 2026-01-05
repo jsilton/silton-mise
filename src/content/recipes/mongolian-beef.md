@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-Mongolian Beef is not a stew; it is a **Dry Sear**. To achieve the restaurant-quality "crispy" edges, we coat the beef in cornstarch and sear it at extreme heat until it develops a crust. We then toss it in a ginger-heavy glaze that should be thick enough to coat the meat, not pool in the bottom of the bowl. This is the **Culinary Technique** of velveting in action.
+Mongolian beef is a Chinese-American restaurant creation (nothing to do with Mongolia). The key is coating beef slices in cornstarch and searing them at extreme heat until crispy-edged. The ginger-heavy glaze should be thick enough to coat the meat without pooling. Green onions add color and mild bite. Velveting the beef with cornstarch keeps it tender while creating texture.
 
 ## Directions
 

@@ -34,7 +34,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for Mongolian stir-fry. The secret to its elite texture is **Culinary Technique** through **The Velvet Crust Method**: we dredge the chicken in a thick layer of cornstarch and let it sit; if the starch becomes moist, we dredge it _again_. This ensures that when the chicken hits the high-heat oil, it develops a deep, crispy crust that can hold up to the heavy soy-sugar glaze. We use **The No-Liquid Glaze Method**: the final sauce should be so thick that it clings entirely to the meat, leaving no pool of liquid in the bowl.
+Mongolian chicken follows the same Chinese-American formula as Mongolian beef. The trick to maximum crispiness: dredge chicken in cornstarch, let it sit until the starch absorbs moisture, then dredge again before frying. This creates a deep, crispy crust that holds up to the thick soy-sugar glaze. The final sauce should cling entirely to the meat with no liquid pooling in the bowl.
 
 ## Directions
 

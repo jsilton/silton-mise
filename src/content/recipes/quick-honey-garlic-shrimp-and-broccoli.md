@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for 15-minute "Fuel." The secret to its Success is **The Microwave Steam Method**: we steam the broccoli in the microwave for 2 minutes _before_ it hits the pan; this ensures it reaches a "tender-snap" consistency without needing a separate blanching pot. We maintain **Textural Balance** through **The Batch Sear**: we cook the shrimp in small batches on high heat to ensure a caramelized Crunch rather than steaming them in their own juices.
+This 15-minute meal uses smart shortcuts. Microwave the broccoli for 2 minutes with a bit of water before stir-frying—this pre-cooks it to tender-crisp without needing a separate pot. Sear the shrimp in small batches over high heat so they caramelize instead of steaming. The honey-soy-garlic sauce bubbles into a glossy glaze that coats everything. Simple and fast.
 
 ## Directions
 

@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate **Project** meal and a masterclass in **Culinary Technique**. The secret to the legendary "Shattering Skin" is **The 48-Hour Dehydration Method**: you must pour boiling water over the raw skin to tighten it, then brush with maltose and air-dry in the fridge, uncovered, for two full days. This separates the skin from the fat layer, ensuring it bakes into a glass-like Crunch rather than remaining chewy. We maintain **Textural Balance** by using a wire rack to ensure hot air circulates 360 degrees around the bird.
+Peking duck from Beijing is famous for its crackling-crisp skin. The secret: pour boiling water over the raw duck to tighten the skin, brush with maltose syrup, then air-dry uncovered in the fridge for 24-48 hours. This separates the skin from the fat layer so it bakes into a glass-like, shatteringly crisp texture. Roast on a wire rack for even air circulation. Serve the skin and meat separately with thin pancakes, scallions, cucumber, and sweet bean sauce.
 
 ## Directions
 

@@ -39,7 +39,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for technical Chinese soups. The name is literal: the "Hot" comes from white pepper, not just chilies, and the "Sour" from rice vinegar. The secret to its elite texture is **Culinary Technique** through **The Egg Current Method**: you must stir the soup in one direction to create a vortex, then slowly stream the egg into the moving liquid—this ensures the egg forms long, silken "ribbons" rather than clumps. We use **The Cornstarch Bind** to create a thick, glossy Texture that suspends the pork and wood ears uniformly.
+Hot and sour soup is a Sichuan/Hunan classic. The name is literal: "hot" from white pepper (not just chilies) and "sour" from rice vinegar. To get long, silken egg ribbons instead of clumps, stir the soup vigorously in one direction to create a vortex, then slowly stream in beaten egg while the liquid is moving. Cornstarch thickens the broth and helps suspend the pork and mushrooms evenly. Wood ear mushrooms and bamboo shoots add traditional texture.
 
 ## Directions
 
