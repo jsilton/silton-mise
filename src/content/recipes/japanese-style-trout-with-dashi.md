@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Updated Classic** aesthetics. The secret to its professional finish is **Textural Balance** through **The Dashi Lacquer Method**: we reduce the soy-mirin-vinegar mixture until it becomes a heavy syrup, then brush it onto the trout in multiple layers while under the broiler. This creates a mahogany-colored, crispy skin that contrasts the delicate, flaky meat. We use **The Dashi Bath**: the julienned vegetables are poached in dashi for exactly 1 minute, ensuring they provide a clean, oceanic **High Note** to balance the rich glaze.
+Reducing soy-mirin-vinegar until it becomes heavy syrup, then brushing it onto trout in multiple layers under the broiler creates a mahogany-colored, crispy glaze that contrasts delicate, flaky meat. Poaching julienned vegetables in dashi for exactly 1 minute keeps them crisp while infusing them with clean, oceanic flavor that balances the rich glaze.
 
 ## Directions
 

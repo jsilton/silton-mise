@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to a recipe from my Grandpa. The secret to its elite silkiness is **Culinary Technique** through **The Allium Sweat Method**: you must sauté the leeks in butter and oil until they are completely soft and translucent _before_ adding the flour and broth. This ensures the leeks' sugars are fully developed, which provides the Texture to the puree. We use **White Pepper** and a pinch of **Nutmeg** as the mandatory high notes to bridge the gap between the earthy potatoes and the rich cream.
+This modern update to my Grandpa's recipe achieves silky texture by sautéing leeks in butter and oil until completely soft and translucent before adding flour and broth—this fully develops their natural sugars. White pepper and nutmeg bridge the gap between earthy potatoes and rich cream, classic French seasonings for potato-leek soup.
 
 ## Directions
 

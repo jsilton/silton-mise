@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for Executive comfort. The secret to the sandwich is **Culinary Technique** through **The Mayo Crust Method**: we use mayonnaise instead of butter on the exterior of the bread. Mayo has a higher smoke point and creates a perfectly uniform, golden Crunch that butter alone can't achieve. For the soup, we use **Updated Classic**: instead of a thin watery broth, we simmer San Marzano tomatoes with heavy cream and then emulsify until velvety. The avocado provides the Texture inside the sandwich to contrast the sharp cheese.
+Mayonnaise on the bread's exterior creates a more evenly golden crust than butter—mayo's higher smoke point prevents burning and delivers uniform browning. For the soup, simmering San Marzano tomatoes with heavy cream before blending creates a velvety texture far superior to thin, watery versions. Sliced avocado inside the sandwich provides creamy contrast to sharp cheese.
 
 ## Directions
 

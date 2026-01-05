@@ -39,7 +39,7 @@ ingredients:
 
 ## Chef's Note
 
-These muffins are the "Kitchen Standard" for breakfast fuel. The secret to a professional-grade carrot muffin is **Textural Balance** through the **Fine Shred Method**: you must use the smallest holes on your grater for the carrots so they "melt" into the batter, providing moisture without large, distracting chunks. We use **Applesauce** to reduce the oil content while maintaining a dense "Bounce." The cream cheese glaze provides the mandatory **Acid Balance**—dip the tops while cold for a clean, professional "Snap."
+Using the finest holes on your grater for the carrots allows them to melt into the batter, providing moisture without large, distracting chunks. Applesauce reduces oil content while maintaining dense texture. The cream cheese glaze adds welcome tanginess—dip muffin tops while cold for clean coating.
 
 ## Directions
 

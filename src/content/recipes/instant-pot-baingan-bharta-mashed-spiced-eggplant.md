@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-Baingan Bharta is traditionally made by roasting eggplant over an open flame for smokiness. In the Instant Pot, we replicate this depth with **Culinary Technique** through **The Post-Pressure Sauté Method**. After the high-pressure cycle, we use the "Sauté" function to boil off excess water and "fry" the eggplant mash against the bottom of the pot; this develops the Maillard sweetness and concentrated umami found in the traditional version. The fresh lemon juice is the mandatory **Acid Balance** to brighten the heavy spices.
+Baingan bharta is traditionally made by roasting eggplant over an open flame for smokiness. In the Instant Pot, using the Sauté function after pressure cooking to fry the mashed eggplant against the pot bottom develops the Maillard sweetness and concentrated umami found in the traditional version. Fresh lemon juice brightens the heavy spices.
 
 ## Directions
 

@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to the classic holiday side, elevated into a main dish with savory ham. The secret to success is **Textural Balance** through **The Par-Boil Method**: we boil the beans in chicken broth for exactly 5 minutes _before_ baking; this ensures they are "tender-crisp" rather than the squeaky, rubbery texture found in traditional versions. We use **The Cheese Snap Method**: by reserving half a cup of cheddar and half the fried onions for the final 10 minutes of baking, we create a multi-textured crust that holds its "Bounce."
+This modern update transforms the classic holiday side into a main dish by adding savory ham. Par-boiling the beans in chicken broth for exactly 5 minutes before baking ensures they turn tender-crisp rather than squeaky and rubbery. Reserving half the cheddar and fried onions for the final 10 minutes creates a properly browned, crispy crust.
 
 ## Directions
 

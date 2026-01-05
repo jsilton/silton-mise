@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for autumn comfort. The secret to its depth is **Updated Classic** through **The Bacon Fond Method**: we sauté the bacon in the pot first, remove it for garnish, and then cook the aromatics directly in the rendered fat. This infuses the entire soup with a smoky umami backbone. We maintain **Textural Balance** by including a **Granny Smith Apple**; its natural acidity prevents the squash from becoming overly cloying, providing the necessary "High Note" finish within the puree itself.
+Sautéing bacon first, removing it for garnish, then cooking aromatics in the rendered fat infuses this soup with smoky umami backbone. Including a Granny Smith apple prevents the squash from becoming overly sweet—the apple's acidity balances the soup's natural sugars and provides brightness within the puree itself.
 
 ## Directions
 

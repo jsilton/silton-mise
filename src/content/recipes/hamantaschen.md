@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-Hamantaschen are the ultimate test of **Culinary Technique** in Jewish baking. The secret to a cookie that doesn't "blow out" in the oven is **The Pinwheel Fold Method**: when folding the three sides, you must tuck one corner under the next flap to create a self-locking triangle. We maintain **Textural Balance** through **The Overnight Chill**: the dough must be stone-cold before rolling. This prevents the butter from melting too quickly, ensuring a Crunch that is delicate and shortbread-like rather than bready. Always use exactly 1 tsp of filling—overfilling is the Kitchen Standard error that leads to leakage.
+These triangular Jewish cookies for Purim require careful technique to prevent blowouts during baking. When folding the three sides, tuck one corner under the next flap to create a self-locking triangle. Chilling the dough until stone-cold before rolling prevents butter from melting too quickly, producing delicate, shortbread-like cookies rather than bready ones. Use exactly 1 teaspoon filling—overfilling causes leakage.
 
 ## Directions
 

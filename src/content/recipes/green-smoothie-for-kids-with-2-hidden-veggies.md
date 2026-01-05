@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-performance nutritious for young palates. The secret to a kid-approved green smoothie is **Culinary Technique** through **The Thermal Blender Method**: by using frozen mango and fresh avocado together, we achieve a thick, creamy Texture that masks the texture of the raw spinach. We use a **Double Hidden Veggie Method**: the avocado provides healthy fats and creaminess (Hidden Veggie #2), while the oats provide the complex carbohydrates needed for long-lasting energy. The vanilla extract is the mandatory **High Note** that creates the aroma of a milkshake.
+Frozen mango and fresh avocado blend together into a thick, creamy smoothie that masks spinach's leafy texture. The avocado provides healthy fats and silkiness, while oats add complex carbohydrates for sustained energy. Vanilla extract creates milkshake-like aroma that makes this green smoothie appealing to young palates.
 
 ## Directions
 

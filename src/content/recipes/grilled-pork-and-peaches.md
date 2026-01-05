@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is a masterclass in **Updated Classic** flavor pairing. The secret to succulent pork butt on the grill is **The Mallet Method**: you must pound the pork to a uniform 3/4-inch thickness; this breaks down tough connective tissue and ensures it sears at the same rate as the fruit. We maintain **Textural Balance** through **The Peach Char**: we grill the peaches in butter and their own juices until just soft and slightly blackened—this creates a natural **Acid Balance** that cuts through the rich, rosemary-crusted pork.
+Pounding pork butt to uniform 3/4-inch thickness breaks down tough connective tissue and ensures it sears at the same rate as the fruit. Grilling peaches in butter until soft and slightly charred caramelizes their sugars while developing acidity that cuts through the rich, rosemary-crusted pork. This classic American summer pairing showcases stone fruit at peak season.
 
 ## Directions
 

@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" quiche is **Culinary Technique** through **The Blind Bake Method**. You must pre-bake the crust for 5 minutes before adding the wet custard; this creates a moisture barrier that prevents the dreaded "soggy bottom." We use **The Silk Custard Ratio** (5 eggs to 1/2 cup cream) to ensure a firm, sliceable Texture that remains creamy rather than rubbery. The minced onions are sautéed in butter first to develop their sweetness, providing a natural **Acid/Sugar Finish** to contrast the salty ham.
+Pre-baking the crust for 5 minutes creates a moisture barrier that prevents soggy bottom—essential for any quiche. A ratio of 5 eggs to 1/2 cup cream produces firm, sliceable custard that remains creamy rather than rubbery. Sautéing the onions in butter first develops their natural sweetness, providing contrast to salty ham.
 
 ## Directions
 

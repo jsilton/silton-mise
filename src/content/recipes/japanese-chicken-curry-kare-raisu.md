@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive "from scratch" method for Japanese Curry using the professional **Yoshoku Technique**. The secret to its depth is **The Darkness Roux Method**: we cook the butter and flour for 20 minutes until it reaches a "milk chocolate" brown—this provides the nutty, roasted backbone that cubes cannot replicate. We maintain **Textural Balance** by using the **Rangiri Cut** for carrots, ensuring they hold their Crunch through the long simmer. The grated apple is the mandatory **High Note** that balances the intensity of the S&B powder.
+Japanese curry (kare raisu) is yoshoku—Western-influenced Japanese cuisine that emerged in the Meiji era. The secret to depth when making it from scratch is cooking butter and flour for 20 minutes until milk-chocolate brown, creating a nutty, roasted roux that curry cubes cannot replicate. The rangiri cut (rolling wedges) for carrots ensures they hold texture through long simmering. Grated apple balances the intensity of curry powder—a common yoshoku trick.
 
 ## Directions
 

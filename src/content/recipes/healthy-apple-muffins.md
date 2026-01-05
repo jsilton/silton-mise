@@ -36,7 +36,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-fiber nutritious muffin. The secret to its incredible moistness is **Updated Classic** techniques: we use a combination of **Applesauce** and **Greek Yogurt** to provide a dense, cake-like Texture without excessive oil. We maintain **Textural Balance** through **The Grated-Cubed Method**: by including both grated apple (for moisture) and cubed apple (for Crunch), we ensure every bite has distinct structural personality. Always finish with a dusting of **Turbinado Sugar** to create a crystalline "High Note" crust.
+Combining applesauce and Greek yogurt creates incredibly moist muffins without excessive oil—a healthier approach that maintains dense, cake-like texture. Including both grated apple (for moisture) and cubed apple (for textural crunch) ensures every bite has distinct character. Turbinado sugar sprinkled on top creates a crystalline, crunchy crust.
 
 ## Directions
 

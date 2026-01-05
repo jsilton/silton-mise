@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-Turkey meatballs are the ultimate nutritious but often lack the Texture of beef or lamb. We solve this with **Textural Balance** through **The Spinach-Moisture Guard Method**: by folding in a massive cup of chopped fresh spinach, we create internal moisture pockets that keep the turkey succulent during the high-heat sear. The tzatziki provides the mandatory **Acid Balance**; the secret is squeezing the grated cucumber in a towel until **bone-dry** before adding to the yogurt—this ensures the sauce is thick and creamy rather than a watery mess.
+Turkey meatballs can turn dry, but folding in a full cup of chopped spinach creates moisture pockets that keep them succulent during searing. For proper tzatziki, squeeze grated cucumber in a towel until bone-dry before mixing with yogurt—wet cucumber produces a thin, watery sauce instead of the thick, tangy consistency tzatziki should have.
 
 ## Directions
 

@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for a fresh vegetable side. The secret to the vibrant green color and perfect Crunch is **Culinary Technique** through **The Blanch-and-Shock Method**. You must boil the beans for exactly 3 minutes and then plunge them into an ice bath—this locks in the chlorophyll and prevents them from turning into mushy brown pods. We use a **Honey-Lemon Glaze**: the sweetness of the honey balances the sharp **Acid Balance** of the lemon, ensuring the shallots are glazed rather than just sautéed.
+Blanching green beans for exactly 3 minutes, then shocking them in ice water locks in their chlorophyll and prevents them from overcooking into mushy brown pods. The honey-lemon glaze balances sweetness against sharp citrus acidity, glazing the shallots with sticky-sweet caramelization rather than leaving them merely sautéed.
 
 ## Directions
 

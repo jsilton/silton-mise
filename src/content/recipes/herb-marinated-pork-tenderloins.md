@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for a 25-minute weeknight main. The secret to its elite juiciness is **Culinary Technique** through **The 137°F Standard**. Most recipes overcook pork to 160°F; we sear the meat to develop a Maillard crust and then roast until it hits 137°F. The residual heat during the mandatory **10-Minute Rest** will bring it to a perfect 145°F, resulting in a succulent, blush-pink "Bounce." The lemon and Dijon provide the mandatory **Acid Balance** that cuts through the rich pork fat.
+Most recipes overcook pork to 160°F, producing dry meat. Searing to develop a crust, then roasting until internal temperature hits 137°F allows residual heat during the 10-minute rest to bring it to 145°F—resulting in succulent, blush-pink pork. The lemon and Dijon marinade provides acidity that cuts through rich pork fat.
 
 ## Directions
 

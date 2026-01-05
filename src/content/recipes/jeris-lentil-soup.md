@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a "Traditional Recipe" with a theatrical soul. To elevate this soup to the **Kitchen Standard**, we add a splash of **Sherry Vinegar** at the very end. Lentils are earthy and dense; the vinegar provides the "high note" that wakes up the palate. For a creamier texture without dairy, use an immersion blender to pulse the soup 3-4 times before serving—this releases some lentil starch while keeping the "copper penny" carrots intact.
+This traditional recipe was a wedding gift from Pat Miller and Sean Kilpatrick, passed down from Jeri, a Broadway dancer turned nutritionist. Adding sherry vinegar at the end brightens earthy lentils—the acidity wakes up the palate. For creamier texture without dairy, pulse with an immersion blender a few times before serving, releasing lentil starch while keeping the carrot slices intact.
 
 ## Directions
 

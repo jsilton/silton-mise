@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a versatile side dish that pairs with a wide variety of mains. The key to its flavor is **The Orzo Toasting Method**: toasting the dry orzo in butter until it reaches a deep "mahogany" brown develops the nutty complexity that defines the dish. Turmeric provides the characteristic golden glow. Letting the rice steam after cooking is essential for **Textural Balance**—it ensures every grain is distinct and has a resilient texture.
+This versatile Middle Eastern-inspired side dish gains its nutty complexity from toasting dry orzo in butter until deep mahogany brown. Turmeric provides the characteristic golden glow. Letting the rice steam with lid on after cooking ensures every grain stays distinct and resilient.
 
 ## Directions
 

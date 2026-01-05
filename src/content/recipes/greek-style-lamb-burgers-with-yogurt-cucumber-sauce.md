@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-The lamb burger is a masterclass in flavor balancing. Because lamb is naturally fatty, we use **The Long-Oval Method**: we shape the patties into ovals rather than rounds to maximize the surface area for the **High-Heat Sear**, which renders the external fat into a crispy crust. We maintain **Textural Balance** by using finely diced cucumber in the sauce rather than grated; this provides a Crunch that contrasts the rich meat. The yogurt sauce provides the mandatory **Acid Balance** to cut the gaminess of the lamb.
+Because lamb is naturally fatty, shaping patties into ovals rather than rounds maximizes surface area for searing, rendering external fat into a crispy crust. Finely diced cucumber in the sauce provides textural crunch that contrasts the rich meat—grated cucumber releases too much water. The cool yogurt sauce cuts through lamb's gaminess with welcome acidity.
 
 ## Directions
 

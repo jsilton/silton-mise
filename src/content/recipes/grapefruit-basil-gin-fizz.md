@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" herbal cocktail is **Culinary Technique** through **The Aromatic Muddle Method**. You must muddle the basil _before_ adding the liquid; this releases the chlorophyll and essential oils into the base of the glass, creating a botanical Texture that defines the drink. The fresh grapefruit provides the mandatory **Acid Balance**, which we amplify with Angostura bitters to bridge the gap between the bitter tonic and the sweet juice.
+Muddling the basil before adding liquids releases its chlorophyll and essential oils, creating the botanical foundation of this cocktail. Fresh pink grapefruit provides bright acidity, amplified with Angostura bitters to bridge the gap between bitter tonic and sweet citrus. The result is a refreshing, herbaceous drink perfect for warm weather.
 
 ## Directions
 

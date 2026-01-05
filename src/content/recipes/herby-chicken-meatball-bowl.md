@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the ultimate high-performance nutritious bowl. The secret to chicken meatballs that aren't dry is **Culinary Technique** through **The Ricotta Bounce Hack**: by folding whole-milk ricotta into the ground chicken, we create a fat-moisture barrier that ensures the meatballs remain succulent even after searing. We use **The Cylindrical Sear Method**: shaping the meat into small logs rather than balls provides more Maillard surface area, resulting in a deeper savory Crunch against the bright, herbal yogurt dressing.
+Folding whole-milk ricotta into ground chicken creates a fat-moisture barrier that keeps meatballs succulent even after searing—a technique borrowed from Italian polpette. Shaping the meat into small logs rather than balls provides more surface area for browning, developing deeper savory flavor that contrasts beautifully with the bright, herbal yogurt dressing.
 
 ## Directions
 

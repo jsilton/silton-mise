@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for winter **Modularity**. The secret to a professional-grade mulch is **The Low-Simmer Infusion Method**: you must never boil the cider once the spices are added, as high heat can turn the cinnamon bitter. We use a tiny pinch of **Sea Salt** as the complex flavor to amplify the natural sweetness of the apples. The mandatory **Acid/Aromatic Finish** comes from studding fresh orange wedges with cloves—this releases essential oils directly into the mug as you serve.
+Never let mulled cider reach a rolling boil once spices are added—high heat turns cinnamon bitter. A tiny pinch of sea salt amplifies the natural sweetness of apples. Studding fresh orange wedges with cloves releases essential oils directly into the mug when served, adding aromatic complexity.
 
 ## Directions
 

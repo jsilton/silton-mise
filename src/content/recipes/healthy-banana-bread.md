@@ -33,7 +33,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline for high-performance **Fuel** breakfasts. We use **Updated Classic** techniques to replace heavy butter with **Extra-Virgin Olive Oil**; the oil's grassy notes amplify the sweetness of the bananas while ensuring a moist, open crumb. The secret to the Kitchen Standard is **The Blender Method**: we blend the wet ingredients until perfectly emulsified before folding in the flour—this prevents over-mixing the gluten and guarantees a tender Texture in every slice.
+Replacing butter with extra-virgin olive oil creates a healthier banana bread while maintaining moist, tender crumb—the oil's grassy notes amplify banana sweetness. Blending wet ingredients until perfectly emulsified before folding in flour prevents over-mixing the gluten, ensuring tender texture in every slice.
 
 ## Directions
 
