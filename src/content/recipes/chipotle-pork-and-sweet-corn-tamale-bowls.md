@@ -36,7 +36,7 @@ ingredients:
 
 ## Chef's Note
 
-This dish is a masterclass in **Modularity**. Instead of the labor-intensive process of steaming tamales, we deconstruct the flavors into a high-speed nutritious bowl. The secret to the **Textural Balance** is the **Staged Polenta**: we stir the frozen corn and cheese into the hot polenta at the very end so the corn stays crispy while the base becomes creamy. The **Acid Balance** from the lime-tossed avocado is mandatory to cut through the smoky heat of the chipotle.
+This deconstructed tamale bowl captures traditional flavors without the labor of steaming corn husks. Creamy polenta stands in for masa, cooked in chicken broth and finished with frozen corn stirred in at the end so it stays crisp while the base becomes creamy. Chipotle peppers in adobo provide smoky heat, balanced by lime-tossed avocado.
 
 ## Directions
 

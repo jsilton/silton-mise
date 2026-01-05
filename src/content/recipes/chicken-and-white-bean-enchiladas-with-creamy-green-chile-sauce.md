@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a high-protein, nutritious focused take on Enchiladas Suizas. By adding **White Beans** to the shredded chicken filling, we increase the fiber and satiety of the dish. The secret to the sauce is blending the green chiles and cilantro directly into the sour cream—this creates a vibrant, tangy, and creamy "Suiza" glaze that is lighter than traditional versions but hits the same flavor notes.
+Enchiladas Suizas (Swiss-style enchiladas) originated in Mexico City in the 1950s at Sanborns restaurant, named for their creamy, dairy-rich green tomatillo sauce. This version adds white beans to the chicken filling for extra protein and fiber. Blending green chiles and cilantro directly into sour cream creates a lighter, tangy version of the traditional cream-based sauce.
 
 ## Directions
 

@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the essential base for tacos, bowls, and shrimp. The secret is to **Fold at the End**: never boil the cilantro or lime juice with the rice, as it will turn the herbs gray and the juice bitter. By folding them into the hot, steamed rice at the very end, you preserve the vibrant color and the sharp, acidic punch of the lime.
+This Mexican-style rice is a staple for tacos, burrito bowls, and grain bowls. The key is adding cilantro and lime juice after cooking—never during—to preserve the herbs' vibrant green color and the lime's bright, acidic punch. Folding them into hot steamed rice gently releases their aromatics without cooking them.
 
 ## Directions
 

@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-Chicken Tinga is defined by its smoky, earthy sauce. To get the best result without "mushy" vegetables, we use the **Tatemar** technique: charring the tomatoes and garlic first to deepen their flavor before blending them into a smooth, velvety sauce. This is the perfect taco meat for kids—it's saucy, tender, and deeply savory.
+Tinga is a Pueblan dish of shredded meat in smoky chipotle-tomato sauce. The key technique is tatemar—charring tomatoes and garlic directly on a hot skillet or comal to deepen their flavor before blending into a smooth sauce. This creates the characteristic smoky, earthy base. A squeeze of lime at the end brightens the rich, savory flavors.
 
 ## Directions
 

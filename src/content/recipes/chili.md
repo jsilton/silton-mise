@@ -32,7 +32,7 @@ vibe: comfort
 
 ## Chef's Note
 
-This is the "Secret Weapon" chili for families. The **Sweet Potatoes** serve a dual purpose: they provide a natural sweetness that kids love, and as they simmer, they release starches that thicken the chili into a rich, hearty stew without needing a flour roux. By using ground turkey and black beans, we keep it high-protein and lower in saturated fat than traditional beef chili. Always finish with **Apple Cider Vinegar** or **Lime**—the acid is the "high note" that makes the earthy spices pop.
+This Tex-Mex style chili uses sweet potatoes for natural sweetness and body—as they simmer, their starches help thicken the stew without needing a roux. Ground turkey and black beans keep it high in protein and lower in saturated fat than traditional beef chili. A splash of apple cider vinegar or lime juice at the end brightens the earthy spices.
 
 ## Directions
 

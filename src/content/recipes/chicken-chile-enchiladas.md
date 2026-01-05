@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to a "Kitchen Standard" enchilada is the **Tortilla Prep**. If you roll cold tortillas, they will crack; if you don't coat them in fat, they will turn to mush. We lightly sear each tortilla in a little oil for 5 seconds before dipping in the sauce—this creates a barrier that holds the structure during baking. This version focuses on the classic earthy, red-chile profile.
+Traditional Mexican enchiladas briefly fry corn tortillas before dipping them in sauce to prevent them from becoming soggy during baking. Searing each tortilla in a little oil for just 5 seconds makes them pliable enough to roll without cracking while creating a protective layer that holds their structure. Red chile enchilada sauce delivers the classic earthy, deeply spiced profile.
 
 ## Directions
 
