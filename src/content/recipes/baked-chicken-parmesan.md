@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The common flaw in Baked Chicken Parm is the "Soggy Bottom." We solve this with **Textural Balance**: we bread the chicken with Panko and Parmesan and bake it at high heat until it's a crispy cutlet _before_ adding the sauce. By only spooning the sauce over the center of the chicken, we keep the edges shatteringly crisp. Always serve with a bright acid-forward salad to cut the heavy cheese.
+Chicken Parmesan is a purely American invention, created by Italian immigrants in the early 1900s who adapted eggplant parmigiana using the abundant and affordable chicken in America. It became a red-sauce restaurant staple by the 1950s, especially in Italian-American neighborhoods from New York to New Haven. The dish doesn't exist in Italy, where 'parmigiana' traditionally refers to eggplant layered with tomato and cheese. To keep the breading crispy, add the sauce only to the center of the chicken, leaving the edges exposed.
 
 ## Directions
 

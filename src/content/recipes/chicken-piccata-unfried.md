@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-We skip the traditional flour dredging to keep this dish light and the flavors clean. The secret to a restaurant-quality piccata without the mess is the **Culinary Technique** of the **Monter au Beurre** (The Butter Mount). By whisking cold butter into the hot lemon broth off the heat, we create a stable, glossy emulsion that clings to the chicken. The capers and lemon provide the mandatory **High Note** finish to cut through the richness.
+Piccata comes from the Italian word 'piccato,' meaning 'larded' or 'pounded thin,' though the lemon-caper sauce preparation is more associated with Italian-American cooking than traditional Italian cuisine. It became popular in American trattorias in the mid-20th century as a lighter alternative to heavier cream-based dishes. The key to a glossy, restaurant-quality sauce is whisking cold butter into the hot pan off the heat - this creates an emulsion that clings to the chicken rather than separating into oil.
 
 ## Directions
 

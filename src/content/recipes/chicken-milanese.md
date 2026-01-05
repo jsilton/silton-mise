@@ -35,7 +35,7 @@ ingredients:
 
 ## Chef's Note
 
-Chicken Milanese is the sophisticated older cousin of the chicken nugget. It is defined by its massive surface area and shatteringly crisp crust. The secret is the **Standard Breading Procedure** (Flour -> Egg -> Breadcrumbs) and using **Panko** mixed with Parmesan for maximum crunch and flavor. We always serve this "North End Style," which means piling a fresh, acidic salad directly on top of the piping hot chicken.
+Milanese-style breaded cutlets originated in Milan and traditionally use veal, though chicken became the American adaptation. The name comes from the city of Milan, and the dish is closely related to Austrian Wiener Schnitzel, reflecting the historical connection between northern Italy and Austria. In Milan, it's often served 'alla Milanese' with a simple lemon wedge, but in America, piling arugula salad on top became the signature presentation. Pound the chicken very thin - the large, flat surface area is what creates the signature crispy edges.
 
 ## Directions
 

@@ -40,7 +40,7 @@ ingredients:
 
 ## Chef's Note
 
-Anelletti al Forno is the crown jewel of Sicilian Sunday dinners. Unlike American pasta bakes, this relies on a **Long-Simmered Ragu** flavored with a hint of cinnamon and nutmeg. The secret to **Textural Balance** is the eggplant: it must be salted, drained, and fried separately to become meaty nuggets that don't disappear into the sauce. The inclusion of chopped eggs and ham creates a treasure-chest effect in every bite.
+Anelletti al Forno is a traditional Sicilian pasta bake, often served on special occasions and holidays, particularly New Year's Day. The name comes from 'anelletti,' meaning 'little rings,' the small ring-shaped pasta traditional to Sicily. This dish reflects Sicily's complex culinary history - the cinnamon and nutmeg hint at Arab influence, while the cheese and meat sauce show Italian traditions. Unlike American baked ziti, this is a structured dish that's sliced like a cake, with a crispy exterior and creamy interior. The hard-boiled eggs throughout are traditional and add richness.
 
 ## Directions
 

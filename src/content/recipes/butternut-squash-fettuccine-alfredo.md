@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a sophisticated "Comfort" dish that avoids the typical mushy vegetable pitfalls. We use **Textural Balance** by **Roasting** the squash at high heat (425°F) before blending; this caramelizes the natural sugars and creates a deeper, nuttier flavor than boiling ever could. The secret is the **Nutmeg Finish**: a tiny pinch provides the "High Note" that bridges the sweetness of the squash with the richness of the Parmesan cream.
+This is a modern riff on Fettuccine Alfredo, the Roman dish created by Alfredo di Lelio in 1908 for his pregnant wife who couldn't keep food down. The original was simply butter and Parmesan tossed with hot pasta - no cream. American versions added heavy cream in the 1960s, and this butternut squash variation is a 21st-century attempt to lighten it while maintaining richness. Roast the squash until deeply caramelized rather than boiling it - this concentrates the sugars and prevents a watery sauce.
 
 ## Directions
 
