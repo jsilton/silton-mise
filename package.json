@@ -13,7 +13,7 @@
     "validate-recipes": "node ./scripts/validate-recipes.mjs",
     "qa": "node ./scripts/qa-test.mjs",
     "deploy": "npm run qa && npm run build && echo 'Ready to deploy - push /dist/ to production'",
-    "prepare": "husky"
+    "prepare": "husky || true"
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.0",
