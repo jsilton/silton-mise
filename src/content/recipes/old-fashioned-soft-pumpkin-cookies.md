@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the baseline for autumn "Comfort." The secret to their incredible Texture is **Culinary Technique** through **The Hydration Method**: pumpkin puree adds significant weight; by whisking it directly into the creamed butter and sugar, we ensure the moisture is fully emulsified before the flour is added. We finish with a **Butter-Sugar Glaze** to provide the mandatory "High Note" of sweetness that balances the earthy spices. Do not over-bake; these cookies should be "Shatteringly Soft."
+These autumn cookies achieve incredible softness by whisking pumpkin puree directly into creamed butter and sugar, ensuring moisture is fully emulsified before flour is added. The butter-sugar glaze adds sweetness that balances earthy spices. Don't over-bake—these cookies should be remarkably soft.
 
 ## Directions
 

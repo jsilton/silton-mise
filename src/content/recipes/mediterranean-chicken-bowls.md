@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Modularity**. Instead of a single dish, we treat this as a "Component Platter." The secret to the Kitchen Standard is **The Souvlaki Sear Method**: we marinate the chicken thighs in heavy oregano and lemon, then sear them over high heat to develop a charred, crispy crust. We maintain **Textural Balance** by layering the creamy hummus at the base to act as a "thermal guard" for the fresh cucumbers and tomatoes above. The mandatory **Acid Balance** comes from our [Pickled Red Onions](/silton-mise/recipes/pickled-red-onions).
+This modular grain bowl treats each component as an independent element. Marinating chicken thighs in oregano and lemon, then searing over high heat develops a charred, crispy crust characteristic of Greek souvlaki. Layering creamy hummus at the bowl's base prevents fresh cucumbers and tomatoes from becoming soggy. Pickled red onions provide bright acidity.
 
 ## Directions
 

@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is our baseline **Modularity** component for all Executive chili nights. The secret to its Success is **Culinary Technique** through **The Skillet Sizzle Method**: for the most elite, crispy crust, preheat a 9-inch cast-iron skillet _with_ the butter inside until it is foaming. We use a combination of **Honey and Brown Sugar** to ensure a moist, dense Texture that never turns crumbly. The buttermilk provides the mandatory **Acid Balance** needed to activate the baking soda for a tall, airy rise.
+This Southern-style cornbread pairs perfectly with chili. For the crispiest crust, preheat a 9-inch cast-iron skillet with butter inside until foaming. Combining honey and brown sugar ensures moist, dense texture that never turns crumbly. Buttermilk's acidity activates baking soda for tall, airy rise.
 
 ## Directions
 

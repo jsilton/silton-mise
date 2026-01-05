@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Textural Balance** through **Staged Roasting**. The secret to the Kitchen Standard is **The Crispy Chickpea Method**: we roast the chickpeas at high heat (400°F) until they develop a Crunch that contrasts the soft orzo and succulent salmon. We use **The Emulsion Method**: whisking lemon juice and honey into olive oil creates a thick, glossy "High Note" finish that we drizzle over the salmon _after_ searing to preserve its clean flavor.
+This dish builds textural contrast through staged roasting. Roasting chickpeas at 400°F until crispy creates crunch that contrasts soft orzo and succulent salmon. Whisking lemon juice and honey into olive oil creates a thick, glossy dressing that's drizzled over seared salmon to preserve its clean flavor rather than baking it in.
 
 ## Directions
 

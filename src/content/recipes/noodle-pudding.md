@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the definitive Executive **Updated Classic** recipe for a Jewish comfort classic. The secret to its elite texture is **The Triple Cream Method**: by utilizing sour cream, cottage cheese, and cream cheese together, we create a multi-dimensional Texture that is rich but has structural integrity. We maintain **Textural Balance** through **The Corn Flake Snap**: we top the pudding with a mixture of crushed corn flakes and brown sugar, which creates a shatteringly crisp crust that contrasts the custardy interior.
+This Jewish comfort classic (kugel) achieves rich yet structurally sound texture by combining sour cream, cottage cheese, and cream cheese together. Topping with crushed corn flakes mixed with brown sugar creates shatteringly crisp crust that contrasts the custardy interior. Letting it rest 15 minutes after baking allows the custard to set firm.
 
 ## Directions
 

@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-While not edible, this is a baseline **Modularity** component for family productivity. The secret to a playdough that isn't sticky and has a professional Texture is **Culinary Technique** through **The Cream of Tartar Method**. The acid in the cream of tartar acts as a preservative and a gluten-stiffener, ensuring the dough remains soft and pliable for months. We use **The Boiling Water Method** to instantly gelatinize the flour starch, eliminating the need for stovetop cooking.
+While not edible, this no-cook playdough stays soft and pliable for months. Cream of tartar acts as preservative and stiffener, preventing stickiness. Boiling water instantly gelatinizes flour starch, eliminating the need for stovetop cooking.
 
 ## Directions
 

@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-These are the ultimate high-speed **Modularity** components for lunches or appetizers. The secret to a pinwheel that doesn't fall apart is **Culinary Technique** through **The Cream Cheese Emulsion Method**: we blend the cream cheese with the flavored oil from the sun-dried tomato jar—this creates a tacky, flavor-rich "glue" that ensures **Textural Balance**. You must squeeze the spinach until it is **bone-dry** to prevent the tortillas from becoming soggy.
+These quick appetizers or lunch components require proper technique to avoid falling apart. Blending cream cheese with flavored oil from sun-dried tomatoes creates a tacky, flavor-rich spread that binds the fillings to the tortilla. Squeeze spinach until bone-dry—wet spinach makes tortillas soggy and causes rolls to unravel.
 
 ## Directions
 

@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to restaurant-quality strawberry ice cream is **The Maceration Method**. You must let the sliced strawberries sit in lemon juice and sugar for several hours before churning; this draws out the natural syrup and softens the fruit, preventing them from freezing into "icy bullets." We use **The Yolk Emulsion Method**: tempering the yolks with hot milk and vanilla bean ensures a dense, custardy Texture that provides a perfect stage for the bright strawberry **High Note**.
+Sliced strawberries macerated in lemon juice and sugar for several hours draw out natural syrup and soften the fruit, preventing them from freezing into icy chunks. Tempering yolks with hot milk and vanilla bean ensures dense, custardy texture that showcases bright strawberries perfectly.
 
 ## Directions
 

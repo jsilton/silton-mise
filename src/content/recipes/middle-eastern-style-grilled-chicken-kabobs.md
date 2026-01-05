@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to restaurant-quality kabobs is **Culinary Technique** through **The Yogurt Tenderizer Method**. The lactic acid in full-fat Greek yogurt gently breaks down the chicken's muscle fibers, while the lemon juice provides a secondary **Enzyme Tenderizer**. This results in a Texture that is unattainable with oil-based marinades. We use a pinch of **Cinnamon** as the complex flavor—it bridges the gap between the smoky paprika and the bright citrus. You must marinate for at least 8 hours to achieve the Kitchen Standard texture.
+Full-fat Greek yogurt's lactic acid gently breaks down chicken's muscle fibers, while lemon juice provides additional tenderizing enzymes—a double-action marinade that oil-based versions can't match. A pinch of cinnamon bridges smoky paprika and bright citrus, a common Middle Eastern seasoning approach. Marinate at least 8 hours for proper texture.
 
 ## Directions
 

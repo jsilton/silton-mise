@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Kitchen Standard" fruit ice cream is **The Maceration Method**. You must toss the peaches in lemon juice and sugar for 30 minutes before mashing; this draws out the natural juices and creates a syrup that prevents the fruit from freezing into icy chunks. We use **The Yolk Emulsion Method**: by tempering the egg yolks with hot cream, we create a rich, stable custard Texture that provides a silky mouthfeel. Always add the mashed fruit in the final 30 seconds of churning to maintain **Textural Balance**.
+For fruit ice cream without icy chunks, macerate peaches in lemon juice and sugar for 30 minutes before mashing—this draws out natural juices and creates syrup that prevents fruit from freezing solid. Tempering egg yolks with hot cream creates rich, stable custard that provides silky mouthfeel. Add mashed fruit in the final 30 seconds of churning to maintain texture.
 
 ## Directions
 

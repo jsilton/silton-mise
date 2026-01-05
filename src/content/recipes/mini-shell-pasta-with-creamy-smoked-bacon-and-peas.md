@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a spring variation on Roman pasta alla carbonara, adding peas which come into season in Italy in April and May. The traditional Roman combination of cured pork (usually guanciale or pancetta) with pasta water creates a creamy emulsion without needing cream. Mini-shells are perfect here because the sauce gets trapped inside each shell. Fresh mint with peas is a classic Italian combination - you'll find it in dishes like "pasta e piselli" (pasta and peas). Render the bacon fat slowly so it becomes your cooking fat, then use it with pasta water and cheese to create the sauce. The lemon juice cuts through the richness.
+This spring pasta variation adds peas, which come into season in Italy in April and May. The traditional Italian combination of cured pork with pasta water creates creamy emulsion without needing cream—though this version adds a touch of crème fraîche. Mini-shells trap sauce inside each piece. Fresh mint with peas is a classic Italian pairing found in "pasta e piselli." Render bacon fat slowly so it becomes your cooking fat, then combine with pasta water and cheese to create the sauce. Lemon juice cuts through richness.
 
 ## Directions
 

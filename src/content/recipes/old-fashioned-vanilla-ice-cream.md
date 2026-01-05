@@ -28,7 +28,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Modularity** component for all Executive desserts. The secret to its incredible Texture is **Culinary Technique** through **The Tempering Method**: you must slowly whisk the hot milk into the egg yolks to ensure a stable emulsion without scrambling the proteins. We use **Vanilla Bean Paste** instead of extract to provide the mandatory visual "High Note" of black seeds and a deeper, more resinous aroma. The longer you chill the base (up to 24 hours), the creamier the final snap will be.
+This classic custard-based vanilla ice cream forms the foundation for countless desserts. Slowly whisking hot milk into egg yolks prevents scrambling while creating stable emulsion. Vanilla bean paste provides deeper, more resinous aroma than extract, plus visual flecks of black seeds. Chilling the base up to 24 hours produces creamier final texture.
 
 ## Directions
 

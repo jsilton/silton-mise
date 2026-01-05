@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-To keep a "Healthy" meatloaf juicy when using lean meats, we use a **Panade**: a mixture of breadcrumbs and milk that creates a moisture reservoir inside the loaf. We also "hide" a massive amount of vegetables (carrots and zucchini) to provide bulk and nutrition. The secret to the Kitchen Standard is **Squeezing the Zucchini**: if you don't remove the excess water from the zucchini, the loaf will be mushy and fall apart.
+To keep lean meat meatloaf juicy, use a panade—breadcrumbs soaked in milk that creates a moisture reservoir inside the loaf. This recipe also incorporates substantial vegetables (carrots and zucchini) for bulk and nutrition. Squeeze grated zucchini until bone-dry before adding—wet zucchini produces mushy meatloaf that falls apart.
 
 ## Directions
 

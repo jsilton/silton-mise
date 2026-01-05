@@ -26,7 +26,7 @@ ingredients:
 
 ## Chef's Note
 
-The challah is the ultimate test of **Culinary Technique** in the Executive bakery. The secret to its incredible Texture is **The Slow-Development Method**: we use a massive 5-egg base to ensure a rich, brioche-like crumb. We maintain **Textural Balance** through **The 6-Braid Method**: braiding the strands tightly creates internal tension that forces the bread to rise vertically, resulting in a tall, majestic loaf with a crispy golden crust. Always let the dough rise in a warm, draft-free spot (The Thermal Rise) to ensure the yeast fully activates.
+Challah is traditional Jewish bread for Shabbat and holidays. Using five eggs creates rich, brioche-like crumb. Braiding strands tightly creates internal tension that forces the bread to rise vertically, producing tall, majestic loaves with crispy golden crust. Let dough rise in a warm, draft-free spot to ensure yeast fully activates.
 
 ## Directions
 

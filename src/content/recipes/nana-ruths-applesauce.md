@@ -24,7 +24,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Updated Classic** recipe traditional for Rosh Hashanah, Thanksgiving, and Hanukkah. The secret to its elite flavor is the **McIntosh Standard**: McIntosh apples have a thin skin and a high water content, allowing them to break down into a naturally velvety Texture without the need for a blender. We maintain **Textural Balance** through **The Low-Slow Moisture Method**: we simmer the apples in their own juices with just a splash of water, resulting in a concentrated apple intensity that commercial brands cannot match. The lemon provide the mandatory **Acid Balance**.
+This traditional applesauce appears on Jewish holiday tables for Rosh Hashanah, Thanksgiving, and Hanukkah. McIntosh apples have thin skin and high water content, allowing them to break down into naturally velvety texture without needing a blender. Simmering apples in their own juices with just a splash of water produces concentrated apple intensity that commercial brands can't match. Lemon provides acidity.
 
 ## Directions
 

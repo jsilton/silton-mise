@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a masterclass in **Textural Balance** through **The Single-Layer Roast Method**. The secret to Success is placing the butter-topped chicken directly onto the beets; as the chicken fat renders, it emulsifies with the orange juice and chili to create a vibrant, earthy glaze for the vegetables. We use **The Acid Balance** (fresh orange juice) to cut through the sweetness of the beets and the richness of the skin-on thighs, ensuring a bright "High Note" in every bite.
+This one-pan roast builds flavor by placing butter-topped chicken directly onto beets—as chicken fat renders, it emulsifies with orange juice and chili to create vibrant, earthy glaze for the vegetables. Fresh orange juice cuts through beets' sweetness and rich skin-on thighs, ensuring brightness in every bite.
 
 ## Directions
 
