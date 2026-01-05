@@ -36,7 +36,7 @@ ingredients:
 
 ## Chef's Note
 
-The challenge with gluten-free baking is preventing a gritty or dry texture. We solve this with **Culinary Technique** through **The Emulsion Beat Method**: we beat the oil and sugar for a full minute _before_ adding eggs, which creates a stable fat-sugar network that traps moisture. The **Acid Balance** is doubled here: we use both juice and zest in the batter, then finish with a sharp lemon buttercream. This provides the mandatory "High Note" that ensures the cupcakes taste fresh rather than heavy.
+Beat oil and sugar for a full minute before adding eggs - this creates a stable fat-sugar network that traps moisture in gluten-free flour. Use both lemon juice and zest in the batter, then finish with sharp lemon buttercream for bright, fresh flavor. Cool completely before frosting - GF cakes are fragile while warm.
 
 ## Directions
 

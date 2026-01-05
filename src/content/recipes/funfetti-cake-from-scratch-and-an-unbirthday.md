@@ -37,7 +37,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the "Kitchen Standard" for celebratory baking. We use **Culinary Technique** through **The Egg White Fold Method**: instead of beating whole eggs into the batter, we whip the whites separately and fold them in at the end. This ensures a light, airy Texture that contrasts the rich buttercream. To maintain **Textural Balance**, you must use "Jimmies" (the long cylinders) rather than nonpareils (the tiny balls); nonpareils will bleed their color and turn the batter gray, while jimmies provide the mandatory "High Note" pops of color.
+Whipping egg whites separately and folding them in at the end creates light, airy texture. Use long cylindrical jimmies rather than round nonpareils - nonpareils bleed their color and turn batter gray, while jimmies provide colorful pops throughout. Apply a thin crumb coat first, freeze briefly, then add final frosting layer for cleanest finish.
 
 ## Directions
 

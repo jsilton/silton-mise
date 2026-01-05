@@ -30,7 +30,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a **Updated Classic** update to a classic Passover staple. We replace the boiled grey "loaves" with a baked salmon-carp terrine. The secret to the Kitchen Standard is **The Coarse Grind Method**: we pulse the fish in a food processor just until ground, rather than a paste; this ensures a meaty Texture in every slice. We use a **Bain-Marie** (water bath) during baking to ensure the heavy cream and eggs set into a silky, souffle-like structure without drying out.
+This baked salmon-carp terrine modernizes traditional Passover gefilte fish. Pulse fish in food processor just until coarsely ground, not paste - this ensures meaty texture. Baking in a water bath (bain-marie) helps cream and eggs set into silky, souffle-like structure. Serve chilled with fresh horseradish salad for brightness.
 
 ## Directions
 

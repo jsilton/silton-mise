@@ -23,7 +23,7 @@ ingredients:
 
 ## Chef's Note
 
-Toum is the ultimate test of **Culinary Technique** in the condiment category. The secret to its incredible Texture is the **Molecular Emulsion Method**: you must add the oil in the thinnest possible stream, literally drop by drop for the first cup. This allows the garlic's natural lecithin to bind the oil and water into a stable, fluffy foam that mimics egg whites. If you rush, the emulsion will "break" and turn into an oily soup. The lemon juice provides the mandatory **Acid Balance** that keeps the garlic's heat in check.
+This Lebanese garlic sauce requires patience - add oil in the thinnest possible stream, literally drop by drop for the first cup. This allows garlic's natural lecithin to bind oil and water into stable, fluffy foam. Rushing breaks the emulsion into oily soup. Lemon juice keeps garlic's heat in check while refrigeration mellows its bite.
 
 ## Directions
 

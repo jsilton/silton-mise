@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the **Kitchen Standard** for rustic mashed potatoes. To ensure **Textural Balance**, we use the **Skin-on Standard**: leaving the red skins provides a textural Crunch and earthy nutritious that peeled potatoes lack. The secret to the Kitchen Standard is **The Infused Boil**: we boil the whole garlic cloves directly with the potatoes. This mellows the garlic's bite and allows its oils to penetrate the starch as it cooks, resulting in a deeper, more integrated flavor than adding raw garlic at the end.
+Leaving red skins on provides texture and earthy flavor that peeled potatoes lack. Boiling whole garlic cloves with the potatoes mellows garlic's bite and infuses its oils into the starch as it cooks - more integrated flavor than adding raw garlic at the end. Return drained potatoes to hot pot for 1 minute to steam off surface moisture.
 
 ## Directions
 

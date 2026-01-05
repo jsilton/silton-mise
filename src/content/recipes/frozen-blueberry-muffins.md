@@ -32,7 +32,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Bakery Quality" muffins using frozen fruit is **Textural Balance** through **The Frozen Berry Fold**. You must never thaw the berries before adding them to the batter; adding them frozen ensures they maintain their Crunch and prevents the juice from bleeding, which would turn the entire muffin a muddy purple. We finish with a **Nutmeg Sugar Dusting**—this provides the mandatory "High Note" aroma that defines a professional-grade breakfast muffin.
+Keep blueberries frozen when folding into batter - thawed berries bleed juice that turns muffins muddy purple. Frozen berries also maintain better texture during baking. Nutmeg sugar dusting adds warm, aromatic finish that defines bakery-style muffins.
 
 ## Directions
 

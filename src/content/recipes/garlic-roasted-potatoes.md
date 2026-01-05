@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Kitchen Standard" roasted potatoes is **Textural Balance** through the **Steam-Off Method**. Most recipes roast potatoes raw; we roast them at high heat (400°F) and ensure they are **bone-dry** before hitting the oil. The critical Chef move is adding the **minced garlic** only during the final 10 minutes or as a fresh toss at the end; this prevents the garlic from burning and turning bitter, ensuring a sweet, aromatic "High Note" finish.
+Roast potatoes at 400°F, cut-side down for maximum crust. Add minced garlic only during the final 10 minutes or toss with fresh garlic at the end - this prevents burning and keeps garlic sweet and aromatic. Toss with fresh parsley while oil is still hot to release herb oils.
 
 ## Directions
 

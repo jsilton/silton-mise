@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-The secret to "Kitchen Standard" glazed carrots is **Culinary Technique** through **The Monter au Beurre Method** (The Butter Mount). Instead of just boiling carrots in sugar water, we par-boil them in just 1 inch of water, drain, and then mount the butter and sugar into the hot pan. This creates a thick, velvet-like emulsion that clings to the **Stick Cut** carrots rather than pooling at the bottom. The **White Pepper** is the mandatory "High Note" that prevents the glaze from being one-dimensional.
+Par-boil carrots in minimal water, then drain and return to the hot pan. Melt butter and sugar directly in the warm pan to create a thick emulsion that clings to carrots - the French call this "monter au beurre" (mounting with butter). White pepper adds complexity without overwhelming sweetness.
 
 ## Directions
 

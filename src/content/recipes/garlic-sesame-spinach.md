@@ -27,7 +27,7 @@ ingredients:
 
 ## Chef's Note
 
-This is a baseline **Modularity** component for Korean bowls and a masterclass in **Culinary Technique**. The secret to the "Restaurant Bounce" is the **Dry Squeeze Method**: after blanching and shocking the spinach, you must squeeze it with your hands until it is **bone-dry**. This concentrates the flavor and ensures the sesame-garlic dressing coats the fibers rather than pooling in water. The raw garlic provides the mandatory sharp **High Note**.
+This Korean side dish (sigeumchi namul) blanches spinach for 30 seconds, then shocks it in ice water. After chilling, squeeze the spinach ball bone-dry with your hands - this concentrates flavor and ensures sesame-garlic dressing coats the fibers rather than pooling in water. Raw garlic adds sharp punch.
 
 ## Directions
 

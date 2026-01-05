@@ -29,7 +29,7 @@ ingredients:
 
 ## Chef's Note
 
-This is the baseline **Updated Classic** update for a low-carb nutritious side. The secret to a non-watery cauliflower mash is **Textural Balance** through the **Dry-Steam Method**. You must drain the cauliflower and then pat it **bone-dry** with paper towels before pureeing. Any residual water will turn the mash into a soup. We use **The Better Than Bouillon Hack**: a tiny amount of concentrated base provides the savory depth usually found in real potatoes.
+This low-carb cauliflower mash prevents wateriness by draining and pressing cooked florets bone-dry with paper towels before pureeing. Any residual water turns mash into soup. Better Than Bouillon base adds concentrated savory depth similar to real potatoes. Garnish with fresh chives.
 
 ## Directions
 

@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-Brown butter (beurre noisette in French, literally "hazelnut butter") is a classic Italian and French technique where you cook butter until the milk solids turn golden brown and release a nutty aroma. This 20-minute dish showcases that technique beautifully. Use a vegetable peeler to shave the zucchini into paper-thin ribbons so they wilt in seconds rather than becoming waterlogged. The cherry tomatoes release just enough moisture to help the brown butter form a light sauce that coats the gnocchi. A pinch of nutmeg is traditional in Italian cooking to complement both the butter and the fresh herbs.
+Brown butter (beurre noisette in French, literally "hazelnut butter") is a classic Italian and French technique where you cook butter until milk solids turn golden and release nutty aroma. Use a vegetable peeler to shave zucchini into paper-thin ribbons so they wilt quickly. Cherry tomatoes release just enough moisture to help brown butter coat the gnocchi. Nutmeg is traditional in Italian cooking with butter and herbs.
 
 ## Directions
 

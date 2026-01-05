@@ -31,7 +31,7 @@ ingredients:
 
 ## Chef's Note
 
-The Golden Veil is a masterclass in **Culinary Technique** and flavor layering. The secret to its aromatic complexity is **The Slap Method**: you must place the thyme sprig in your palm and slap it sharply before garnishing; this ruptures the oil glands, releasing the herb's essence without the bitterness of muddling. We use **The Effervescence Layering Method**: the Prosecco is added only after the base is shaken and strained, ensuring the Texture of the bubbles is preserved to cut through the smoky mezcal and rich cognac.
+Slap the thyme sprig sharply in your palm before garnishing - this ruptures oil glands and releases the herb's essence without the bitterness of muddling. Add Prosecco only after shaking and straining the base so bubbles stay effervescent, cutting through smoky mezcal and rich cognac. Express lemon peel over the rim for aromatic oils.
 
 ## Directions
 
