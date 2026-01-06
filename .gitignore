@@ -8,6 +8,7 @@ public/recipes/kitchen-context/
 public/recipes/kitchen-reviews/
 public/recipes/index.json
 public/recipes/validation-report.json
+analysis_report.json
 stats.json
 stats-output.json
 

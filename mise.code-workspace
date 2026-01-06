@@ -1,44 +1,23 @@
 {
   "folders": [
     {
-      "path": ".",
-    },
+      "path": "."
+    }
   ],
   "settings": {
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": "explicit",
-    },
-    "[astro]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
-    },
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
-    },
-    "[typescript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
-    },
-    "[json]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
-    },
-    "files.associations": {
-      "*.astro": "astro",
-    },
-    "astro.content-intellisense": true,
     "search.exclude": {
       "**/node_modules": true,
       "**/dist": true,
       "**/.astro": true,
       "**/public/recipes/kitchen-context": true,
-      "**/public/recipes/kitchen-reviews": true,
+      "**/public/recipes/kitchen-reviews": true
     },
     "files.exclude": {
       "**/.git": true,
       "**/.DS_Store": true,
       "**/node_modules": false,
-      "**/.astro": true,
-    },
+      "**/.astro": true
+    }
   },
   "extensions": {
     "recommendations": [
@@ -46,7 +25,7 @@
       "esbenp.prettier-vscode",
       "dbaeumer.vscode-eslint",
       "bradlc.vscode-tailwindcss",
-      "github.copilot",
-    ],
-  },
+      "github.copilot"
+    ]
+  }
 }
