@@ -1,0 +1,46 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const calendars = await getCollection('calendars');
+// Sort by weekStart date descending (newest first)
+calendars.sort((a, b) => {
+  const dateA = a.data.weekStart || new Date('1970-01-01');
+  const dateB = b.data.weekStart || new Date('1970-01-01');
+  return dateB.getTime() - dateA.getTime();
+});
+
+function formatDateRange(start: Date, end: Date): string {
+  const options: Intl.DateTimeFormatOptions = { month: 'short', day: 'numeric' };
+  return `${start.toLocaleDateString('en-US', options)} - ${end.toLocaleDateString('en-US', options)}`;
+}
+---
+
+<Layout title="Meal Calendar | Mise">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-slate-900">Meal Calendar</h1>
+    <p class="text-slate-500 mt-1">Weekly meal plans for easy planning and shopping.</p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+    {calendars.map(week => (
+      <a 
+        href={`${import.meta.env.BASE_URL}calendar/${week.slug}`}
+        class="block bg-white rounded-lg border border-slate-200 p-5 hover:border-indigo-300 hover:shadow-md transition-all"
+      >
+        <h2 class="font-semibold text-slate-900 text-lg">{week.data.title}</h2>
+        {week.data.weekStart && week.data.weekEnd && (
+          <p class="text-sm text-slate-500 mt-1">
+            {formatDateRange(week.data.weekStart, week.data.weekEnd)}
+          </p>
+        )}
+      </a>
+    ))}
+  </div>
+
+  {calendars.length === 0 && (
+    <div class="text-center py-12 text-slate-500">
+      No meal plans scheduled yet.
+    </div>
+  )}
+</Layout>

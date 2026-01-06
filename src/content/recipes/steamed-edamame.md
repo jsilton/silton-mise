@@ -20,8 +20,8 @@ pairsWith: [miso-salmon-with-bok-choy, honey-sriracha-salmon-bowls, pad-thai]
 ingredients:
   - 1 lb Frozen Edamame (in pods)
   - 1 tsp Flaky Sea Salt (Maldon or similar)
-  - Optional: 1/2 tsp Toasted Sesame Oil
-  - Optional: 1/4 tsp Red Pepper Flakes
+  - 1/2 tsp Toasted Sesame Oil (optional)
+  - 1/4 tsp Red Pepper Flakes (optional)
 ---
 
 ## Chef's Note

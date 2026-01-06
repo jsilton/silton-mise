@@ -25,7 +25,7 @@ ingredients:
   - 2 cloves Garlic, minced
   - 1 Green Onion, thinly sliced
   - 1 tsp Sugar
-  - Optional: 1/2 tsp Chili Garlic Sauce or Sriracha
+  - 1/2 tsp Chili Garlic Sauce or Sriracha (optional)
 ---
 
 ## Chef's Note

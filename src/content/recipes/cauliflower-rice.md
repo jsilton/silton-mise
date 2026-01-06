@@ -22,8 +22,8 @@ ingredients:
   - 2 tbsp Olive Oil or Avocado Oil
   - 1/2 tsp Salt
   - 1/4 tsp Black Pepper
-  - Optional: 2 cloves Garlic, minced
-  - Optional: 2 tbsp Fresh Herbs (parsley, cilantro, or chives)
+  - 2 cloves Garlic, minced (optional)
+  - 2 tbsp Fresh Herbs such as parsley, cilantro, or chives (optional)
 ---
 
 ## Chef's Note

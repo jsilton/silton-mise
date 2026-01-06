@@ -113,8 +113,19 @@ const mealHistoryCollection = defineCollection({
   }),
 });
 
+// Weekly calendar plans
+const calendarsCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    weekStart: z.coerce.date().optional(), // ISO date YYYY-MM-DD
+    weekEnd: z.coerce.date().optional(), // ISO date YYYY-MM-DD
+  }),
+});
+
 export const collections = {
   recipes: recipesCollection,
   meals: mealsCollection,
   'meal-history': mealHistoryCollection,
+  calendars: calendarsCollection,
 };
