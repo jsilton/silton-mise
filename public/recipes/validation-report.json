@@ -1,18 +1,18 @@
 {
-  "totalRecipes": 480,
+  "totalRecipes": 481,
   "missingCounts": {
     "title": 0,
     "role": 6,
     "vibe": 6,
-    "ingredients": 6,
+    "ingredients": 0,
     "prepTime": 0,
     "cookTime": 0,
     "totalTime": 0,
     "servings": 0,
-    "image": 480,
+    "image": 481,
     "chefNote": 0,
     "directions": 0,
-    "directionsFormatting": 209
+    "directionsFormatting": 210
   },
   "invalidValuesCount": {
     "role": 0,
@@ -53,7 +53,7 @@
       "apple-cider-cream-pie",
       "apple-pie",
       "arugula-and-feta-salad-with-strawberry-vinaigrette",
-      "asian-glazed-turkey-meatballs",
+      "asian-glazed-meatballs",
       "avgolemono-soup",
       "avocado-kale-caesar-salad",
       "babys-first-smash-cake",
@@ -71,7 +71,7 @@
     "brokenInternalLinks": [],
     "brokenWikiLinks": []
   },
-  "suggestionsCount": 1585,
+  "suggestionsCount": 1586,
   "sampleSuggestions": [
     {
       "slug": "almond-zucchini-bread",
@@ -206,27 +206,27 @@
       "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
     },
     {
-      "slug": "asian-glazed-turkey-meatballs",
+      "slug": "asian-glazed-meatballs",
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
     },
     {
-      "slug": "asian-glazed-turkey-meatballs",
+      "slug": "asian-glazed-meatballs",
       "ruleId": "kb.low-temp-poultry",
       "title": "Poultry low-temperature safety note",
       "severity": "warn",
       "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
     },
     {
-      "slug": "asian-glazed-turkey-meatballs",
+      "slug": "asian-glazed-meatballs",
       "ruleId": "kb.maillard-note",
       "title": "Maillard note: dry surface for browning",
       "severity": "hint",
       "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
     },
     {
-      "slug": "asian-glazed-turkey-meatballs",
+      "slug": "asian-glazed-meatballs",
       "ruleId": "kb.plating-suggestion",
       "title": "Plating: add color or height when absent",
       "severity": "hint",

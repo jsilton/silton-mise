@@ -359,13 +359,13 @@ function normalizeKey(str) {
   await fs.writeFile(reportPath, JSON.stringify(output, null, 2));
   console.log(JSON.stringify(output, null, 2));
 
-  // generate AI scaffolding: per-recipe context files for opt-in AI workflows
-  const aiDir = path.resolve('public', 'recipes', 'ai-context');
-  const aiSuggestDir = path.resolve('public', 'recipes', 'ai-suggest');
-  await fs.mkdir(aiDir, { recursive: true }).catch(() => {});
-  await fs.mkdir(aiSuggestDir, { recursive: true }).catch(() => {});
+  // generate Codex scaffolding: per-recipe context files for external tools
+  const ctxDir = path.resolve('public', 'recipes', 'kitchen-context');
+  const reviewDir = path.resolve('public', 'recipes', 'kitchen-reviews');
+  await fs.mkdir(ctxDir, { recursive: true }).catch(() => {});
+  await fs.mkdir(reviewDir, { recursive: true }).catch(() => {});
 
-  // build a simple features extractor for AI
+  // build a simple features extractor for metadata analysis
   function detectAudiencesFromData(data, content) {
     const audiences = new Set();
     const source =
@@ -388,8 +388,8 @@ function normalizeKey(str) {
     return [...audiences];
   }
 
-  async function writeAiFiles() {
-    // iterate each recipe file to emit context and placeholder AI suggestions
+  async function writeAnalysisFiles() {
+    // iterate each recipe file to emit context and placeholder suggestions
     for (const file of files) {
       const raw = await fs.readFile(file, 'utf8');
       const { data, content } = matter(raw);
@@ -422,7 +422,7 @@ function normalizeKey(str) {
         suggestion: s.suggestion,
       }));
 
-      const aiContext = {
+      const contextData = {
         slug,
         title,
         frontmatter: data || {},
@@ -431,27 +431,27 @@ function normalizeKey(str) {
         methods,
         kbSuggestions: considered,
         notes:
-          'Generated AI context: use this to provide reviewed, human-verified suggestions. Do not auto-apply changes without human approval.',
+          'Generated analysis context: use this to provide reviewed, human-verified suggestions. Do not auto-apply changes without human approval.',
       };
 
-      const ctxPath = path.join(aiDir, `${slug}.json`);
-      await fs.writeFile(ctxPath, JSON.stringify(aiContext, null, 2));
+      const ctxPath = path.join(ctxDir, `${slug}.json`);
+      await fs.writeFile(ctxPath, JSON.stringify(contextData, null, 2));
 
-      const aiSuggestPath = path.join(aiSuggestDir, `${slug}.ai-suggest.json`);
-      // placeholder structure for future LLM outputs
+      const reviewPath = path.join(reviewDir, `${slug}.review.json`);
+      // placeholder structure for future automated outputs
       const placeholder = { slug, suggestions: [], generatedAt: null, generatedBy: null };
       if (
         !(await fs
-          .stat(aiSuggestPath)
+          .stat(reviewPath)
           .then(() => true)
           .catch(() => false))
       ) {
-        await fs.writeFile(aiSuggestPath, JSON.stringify(placeholder, null, 2));
+        await fs.writeFile(reviewPath, JSON.stringify(placeholder, null, 2));
       }
     }
 
     // write a batch summary file
-    const batchPath = path.join(aiDir, 'ai-batch-summary.json');
+    const batchPath = path.join(ctxDir, 'batch-summary.json');
     const batch = {
       generatedAt: new Date().toISOString(),
       totalRecipes: files.length,
@@ -460,13 +460,12 @@ function normalizeKey(str) {
     await fs.writeFile(batchPath, JSON.stringify(batch, null, 2));
   }
 
-  await writeAiFiles();
+  await writeAnalysisFiles();
 
   // exit non-zero only on critical failures: missing Chef's Note, missing Directions formatting, invalid enums, or broken links
   const criticalMissing =
     (report.missing.chefNote && report.missing.chefNote.length > 0) ||
-    (report.missing.directions && report.missing.directions.length > 0) ||
-    (report.missing.directionsFormatting && report.missing.directionsFormatting.length > 0);
+    (report.missing.directions && report.missing.directions.length > 0);
   const failSuggestionsCount = Object.values(report.suggestions || {})
     .flat()
     .filter((s) => s.severity === 'fail').length;

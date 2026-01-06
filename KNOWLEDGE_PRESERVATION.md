@@ -1,6 +1,6 @@
-# Knowledge Preservation & Future Model Guidance
+# Knowledge Preservation & Future Guidance
 
-**For AI Models Reading This Repository**
+**For Automated Assistants Reading This Repository**
 
 This document explains how to access and follow the established development practices, standards, and testing procedures for this project.
 

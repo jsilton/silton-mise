@@ -4,8 +4,8 @@ dist/
 .astro/
 
 # Build artifacts & generated files
-public/recipes/ai-context/
-public/recipes/ai-suggest/
+public/recipes/kitchen-context/
+public/recipes/kitchen-reviews/
 public/recipes/index.json
 public/recipes/validation-report.json
 stats.json

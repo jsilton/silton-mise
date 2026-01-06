@@ -16,7 +16,14 @@ seasons: [year-round]
 nutritionalDensity: moderate
 leftovers: excellent
 equipment: []
-pairsWith: [thai-chicken-curry, coconut-curry-shrimp, grilled-fish, sticky-peking-meatballs, stir-fried-vegetables]
+pairsWith:
+  [
+    thai-chicken-curry,
+    coconut-curry-shrimp,
+    grilled-fish,
+    sticky-peking-meatballs,
+    stir-fried-vegetables,
+  ]
 ingredients:
   - 2 cups Jasmine Rice
   - 1 can (13.5 oz) Coconut Milk (full-fat)
@@ -45,4 +52,3 @@ Coconut rice is a staple throughout Southeast Asia, appearing in Thai, Indonesia
 6.  **Rest:** After 15 minutes (stovetop) or when the rice cooker switches to warm, turn off the heat and let the rice rest, covered, for 5-10 minutes. This allows the rice to finish steaming and absorb any remaining liquid.
 
 7.  **Fluff and Serve:** Remove pandan leaves if used. Fluff the rice gently with a fork or rice paddle. Serve warm as a base for curries, stir-fries, grilled proteins, or as part of a rice bowl.
-

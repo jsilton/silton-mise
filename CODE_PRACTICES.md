@@ -2,7 +2,7 @@
 
 **Version:** 1.0 | **Last Updated:** January 4, 2026
 
-This document defines the coding standards, architectural patterns, and best practices for the Mise recipe codex. All contributors and future AI models should follow these guidelines to maintain consistency and sustainability.
+This document defines the coding standards, architectural patterns, and best practices for the Mise recipe codex. All contributors should follow these guidelines to maintain consistency and sustainability.
 
 ---
 

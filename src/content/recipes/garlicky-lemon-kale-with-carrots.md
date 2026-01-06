@@ -16,7 +16,13 @@ seasons: [year-round, fall, winter]
 nutritionalDensity: light
 leftovers: good
 equipment: []
-pairsWith: [asian-glazed-beef-meatballs, grilled-chicken, roasted-salmon, garlic-butter-roasted-salmon-with-potatoes-and-asparagus]
+pairsWith:
+  [
+    asian-glazed-beef-meatballs,
+    grilled-chicken,
+    roasted-salmon,
+    garlic-butter-roasted-salmon-with-potatoes-and-asparagus,
+  ]
 ingredients:
   - 1 large bunch Kale (about 8 cups chopped, stems removed)
   - 3 medium Carrots, sliced into thin coins
@@ -57,4 +63,3 @@ Kale has experienced a massive surge in popularity over the past decade, transfo
 **Asian Style:** Use sesame oil instead of olive oil, add 1 tbsp soy sauce in step 6, and garnish with sesame seeds.
 
 **Spicy Style:** Double the red pepper flakes or add 1 tsp sriracha sauce in step 6.
-

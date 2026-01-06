@@ -44,8 +44,8 @@
     "aliases": []
   },
   {
-    "slug": "asian-glazed-turkey-meatballs",
-    "title": "Asian Glazed Turkey Meatballs",
+    "slug": "asian-glazed-meatballs",
+    "title": "Asian-Glazed Meatballs",
     "aliases": []
   },
   {
@@ -595,6 +595,11 @@
     "aliases": []
   },
   {
+    "slug": "coconut-jasmine-rice",
+    "title": "Coconut Jasmine Rice",
+    "aliases": []
+  },
+  {
     "slug": "coq-au-vin-slow-cooker-v2",
     "title": "Coq au Vin",
     "aliases": []
@@ -941,6 +946,11 @@
   {
     "slug": "garlic-sesame-spinach",
     "title": "Sigeumchi Namul",
+    "aliases": []
+  },
+  {
+    "slug": "garlicky-lemon-kale-with-carrots",
+    "title": "Garlicky Lemon Kale with Carrots",
     "aliases": []
   },
   {
@@ -2125,11 +2135,6 @@
   {
     "slug": "sticky-miso-salmon-bowl",
     "title": "Sticky Miso Salmon Bowls",
-    "aliases": []
-  },
-  {
-    "slug": "sticky-peking-meatballs-and-coconut-jasmine-rice",
-    "title": "Sticky Peking Meatballs",
     "aliases": []
   },
   {

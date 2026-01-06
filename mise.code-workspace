@@ -30,8 +30,8 @@
       "**/node_modules": true,
       "**/dist": true,
       "**/.astro": true,
-      "**/public/recipes/ai-context": true,
-      "**/public/recipes/ai-suggest": true,
+      "**/public/recipes/kitchen-context": true,
+      "**/public/recipes/kitchen-reviews": true,
     },
     "files.exclude": {
       "**/.git": true,
