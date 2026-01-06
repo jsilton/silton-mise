@@ -20,7 +20,7 @@ ingredients:
   - 1/2 cup Dark Chocolate Chips (60% cacao or higher)
   - 3/4 tsp Sea Salt
   - 2 large Eggs
-  - 1/2 cup Extra-Virgin Olive Oil (Chef Kriger Secret)
+  - 1/2 cup Extra-Virgin Olive Oil
   - 2 tbsp Water
   - 1/2 tsp Vanilla Extract
 ---

@@ -39,8 +39,6 @@ ingredients:
 
 Cantonese wontons from Guangdong province have been made for centuries, traditionally served in clear broth. The key to the bouncy texture is stirring the meat mixture vigorously in one direction until it becomes sticky and emulsified—this develops the protein structure. Using a mix of finely chopped and chunky shrimp gives you both flavor and textural contrast. Water chestnuts add crunch; if you don't like them, finely minced celery or Fuji apple work as substitutes.
 
-**Chef Kriger Twist:** If you dislike the texture of water chestnuts, you can substitute an equal amount of **finely minced celery or Fuji apple**. It provides the same crunch without the chalkiness.
-
 ## Directions
 
 1.  **The Paste:** In a large bowl, combine the pork, the **finely chopped** half of the shrimp, ginger, garlic, soy sauce, Shaoxing wine, sesame oil, sugar, white pepper, salt, and egg.
