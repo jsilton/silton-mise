@@ -23,24 +23,26 @@ function formatDateRange(start: Date, end: Date): string {
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-    {calendars.map(week => (
-      <a 
-        href={`${import.meta.env.BASE_URL}calendar/${week.slug}`}
-        class="block bg-white rounded-lg border border-slate-200 p-5 hover:border-indigo-300 hover:shadow-md transition-all"
-      >
-        <h2 class="font-semibold text-slate-900 text-lg">{week.data.title}</h2>
-        {week.data.weekStart && week.data.weekEnd && (
-          <p class="text-sm text-slate-500 mt-1">
-            {formatDateRange(week.data.weekStart, week.data.weekEnd)}
-          </p>
-        )}
-      </a>
-    ))}
+    {
+      calendars.map((week) => (
+        <a
+          href={`${import.meta.env.BASE_URL}calendar/${week.slug}`}
+          class="block bg-white rounded-lg border border-slate-200 p-5 hover:border-indigo-300 hover:shadow-md transition-all"
+        >
+          <h2 class="font-semibold text-slate-900 text-lg">{week.data.title}</h2>
+          {week.data.weekStart && week.data.weekEnd && (
+            <p class="text-sm text-slate-500 mt-1">
+              {formatDateRange(week.data.weekStart, week.data.weekEnd)}
+            </p>
+          )}
+        </a>
+      ))
+    }
   </div>
 
-  {calendars.length === 0 && (
-    <div class="text-center py-12 text-slate-500">
-      No meal plans scheduled yet.
-    </div>
-  )}
+  {
+    calendars.length === 0 && (
+      <div class="text-center py-12 text-slate-500">No meal plans scheduled yet.</div>
+    )
+  }
 </Layout>

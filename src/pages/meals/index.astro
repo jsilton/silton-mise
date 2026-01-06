@@ -6,62 +6,79 @@ const meals = await getCollection('meals');
 meals.sort((a, b) => a.data.title.localeCompare(b.data.title));
 
 // Group by template
-const mealsByTemplate = meals.reduce((acc, meal) => {
-  const template = meal.data.template || 'other';
-  if (!acc[template]) acc[template] = [];
-  acc[template].push(meal);
-  return acc;
-}, {} as Record<string, typeof meals>);
+const mealsByTemplate = meals.reduce(
+  (acc, meal) => {
+    const template = meal.data.template || 'other';
+    if (!acc[template]) acc[template] = [];
+    acc[template].push(meal);
+    return acc;
+  },
+  {} as Record<string, typeof meals>
+);
 
 const templateLabels: Record<string, string> = {
-  'plate': 'Plates',
-  'bowl': 'Bowls',
+  plate: 'Plates',
+  bowl: 'Bowls',
   'pasta-night': 'Pasta Nights',
   'soup-and-side': 'Soup & Sides',
   'one-pot': 'One-Pot Meals',
-  'grazing': 'Grazing & Feasts',
-  'other': 'Other'
+  grazing: 'Grazing & Feasts',
+  other: 'Other',
 };
 
-const templateOrder = ['plate', 'bowl', 'pasta-night', 'soup-and-side', 'one-pot', 'grazing', 'other'];
+const templateOrder = [
+  'plate',
+  'bowl',
+  'pasta-night',
+  'soup-and-side',
+  'one-pot',
+  'grazing',
+  'other',
+];
 ---
 
 <Layout title="Meals | Mise">
   <div class="mb-8">
     <h1 class="text-3xl font-bold text-slate-900">Meal Compositions</h1>
-    <p class="text-slate-500 mt-1">Complete meals combining recipes for balanced, delicious dining.</p>
+    <p class="text-slate-500 mt-1">
+      Complete meals combining recipes for balanced, delicious dining.
+    </p>
   </div>
 
-  {templateOrder.filter(t => mealsByTemplate[t]?.length).map(template => (
-    <section class="mb-10">
-      <h2 class="text-xl font-semibold text-slate-800 mb-4 border-b border-slate-200 pb-2">
-        {templateLabels[template]}
-      </h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {mealsByTemplate[template].map(meal => (
-          <a 
-            href={`${import.meta.env.BASE_URL}meals/${meal.slug}`}
-            class="block bg-white rounded-lg border border-slate-200 p-4 hover:border-indigo-300 hover:shadow-md transition-all"
-          >
-            <h3 class="font-semibold text-slate-900">{meal.data.title}</h3>
-            {meal.data.main && (
-              <p class="text-sm text-slate-500 mt-1">
-                Main: {meal.data.main}
-              </p>
-            )}
-            {meal.data.totalTime && (
-              <p class="text-xs text-slate-400 mt-2">{meal.data.totalTime}</p>
-            )}
-            {meal.data.bestFor && meal.data.bestFor.length > 0 && (
-              <div class="flex gap-1 mt-2">
-                {meal.data.bestFor.slice(0, 3).map(day => (
-                  <span class="text-xs bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded">{day}</span>
-                ))}
-              </div>
-            )}
-          </a>
-        ))}
-      </div>
-    </section>
-  ))}
+  {
+    templateOrder
+      .filter((t) => mealsByTemplate[t]?.length)
+      .map((template) => (
+        <section class="mb-10">
+          <h2 class="text-xl font-semibold text-slate-800 mb-4 border-b border-slate-200 pb-2">
+            {templateLabels[template]}
+          </h2>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {mealsByTemplate[template].map((meal) => (
+              <a
+                href={`${import.meta.env.BASE_URL}meals/${meal.slug}`}
+                class="block bg-white rounded-lg border border-slate-200 p-4 hover:border-indigo-300 hover:shadow-md transition-all"
+              >
+                <h3 class="font-semibold text-slate-900">{meal.data.title}</h3>
+                {meal.data.main && (
+                  <p class="text-sm text-slate-500 mt-1">Main: {meal.data.main}</p>
+                )}
+                {meal.data.totalTime && (
+                  <p class="text-xs text-slate-400 mt-2">{meal.data.totalTime}</p>
+                )}
+                {meal.data.bestFor && meal.data.bestFor.length > 0 && (
+                  <div class="flex gap-1 mt-2">
+                    {meal.data.bestFor.slice(0, 3).map((day) => (
+                      <span class="text-xs bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded">
+                        {day}
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </a>
+            ))}
+          </div>
+        </section>
+      ))
+  }
 </Layout>
