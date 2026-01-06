@@ -1,5 +1,5 @@
 ---
-title: Asian-Glazed Beef Meatballs
+title: Asian-Glazed Meatballs
 difficulty: easy
 cookingMethods: [bake, sauté, simmer]
 dietary: []
@@ -20,8 +20,9 @@ advancePrep: [make-ahead-sauce]
 pairsWith: [coconut-jasmine-rice, basmati-rice, steamed-broccoli, stir-fried-vegetables, garlic-sesame-spinach]
 ingredients:
   - 'For the Meatballs:'
-  - 1.5 lbs Ground Beef (80/20 blend)
+  - 1.5 lbs Ground Beef (80/20 blend) or Ground Turkey (93% lean)
   - 1/3 cup Panko Breadcrumbs
+  - 3 tbsp Whole Milk (if using turkey, for moisture)
   - 1 Egg, beaten
   - 2 cloves Garlic, minced
   - 1 tbsp Fresh Ginger, grated
@@ -49,7 +50,7 @@ ingredients:
 These meatballs bridge Chinese and American flavors - the hoisin and Peking duck sauce glaze is authentic to Chinese-American restaurant cuisine, while the meatball technique comes from Italian-American cooking. Peking duck sauce, originally created for Beijing's famous lacquered duck, became a Chinese-American pantry staple in the 1970s. It's sweeter and more complex than standard hoisin, with hints of five-spice and fruit. The key to a great glaze is reducing it until it's thick enough to cling to the meatballs - if it's too thin, it will just run off.
 
 ## Directions
-
+f using turkey, first soak the panko in milk for 5 minutes to create a panade (moisture reservoir). In a large bowl, combine ground meat, panko mixture (or dry panko if using beef)
 1.  **Make the Meatballs:** In a large bowl, combine ground beef, panko, egg, garlic, ginger, soy sauce, green onions, pepper, and salt. Mix gently with your hands just until combined - don't overmix or the meatballs will be tough. Roll into 24 meatballs (about 1.5 inches each, roughly 1 oz each).
 
 2.  **Bake the Meatballs:** Preheat oven to 400°F. Line a baking sheet with parchment paper. Arrange meatballs on the sheet with space between them. Bake for 15-18 minutes until browned and cooked through (internal temp 160°F).
