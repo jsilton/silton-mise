@@ -2,8 +2,8 @@
 title: Shrimp Stir-Fry Express
 template: plate
 main: garlic-honey-lime-shrimp
-base: basmati-rice
-sides: [steamed-broccoli]
+base: coconut-jasmine-rice
+sides: [steamed-bok-choy-with-oyster-sauce]
 totalPrepTime: 10 min
 totalCookTime: 20 min
 totalActiveTime: 20 min

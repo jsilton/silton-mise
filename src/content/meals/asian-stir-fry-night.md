@@ -2,8 +2,8 @@
 title: Asian Stir-Fry Night
 template: plate
 main: mongolian-beef
-base: basmati-rice
-sides: [steamed-broccoli, garlic-sesame-spinach]
+base: steamed-white-rice
+sides: [steamed-bok-choy-with-oyster-sauce, garlic-sesame-spinach]
 totalPrepTime: 30 min
 totalCookTime: 25 min
 totalActiveTime: 35 min

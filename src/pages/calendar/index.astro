@@ -14,9 +14,7 @@ calendars.sort((a, b) => {
 // Determine current week number based on today's date
 const today = new Date();
 const startOfYear = new Date(today.getFullYear(), 0, 1);
-const daysSinceStart = Math.floor(
-  (today.getTime() - startOfYear.getTime()) / (1000 * 60 * 60 * 24)
-);
+const daysSinceStart = Math.floor((today.getTime() - startOfYear.getTime()) / (1000 * 60 * 60 * 24));
 const currentWeekNumber = Math.ceil((daysSinceStart + startOfYear.getDay() + 1) / 7);
 
 function formatDateRange(start: Date, end: Date): string {
@@ -26,18 +24,13 @@ function formatDateRange(start: Date, end: Date): string {
 
 function getWeekNumber(date: Date): number {
   const startOfYear = new Date(date.getFullYear(), 0, 1);
-  const daysSinceStart = Math.floor(
-    (date.getTime() - startOfYear.getTime()) / (1000 * 60 * 60 * 24)
-  );
+  const daysSinceStart = Math.floor((date.getTime() - startOfYear.getTime()) / (1000 * 60 * 60 * 24));
   return Math.ceil((daysSinceStart + startOfYear.getDay() + 1) / 7);
 }
 
 function isCurrentWeek(weekStart: Date | undefined): boolean {
   if (!weekStart) return false;
-  return (
-    getWeekNumber(weekStart) === currentWeekNumber &&
-    weekStart.getFullYear() === today.getFullYear()
-  );
+  return getWeekNumber(weekStart) === currentWeekNumber && weekStart.getFullYear() === today.getFullYear();
 }
 
 function isPastWeek(weekStart: Date | undefined): boolean {
@@ -53,9 +46,7 @@ function isPastWeek(weekStart: Date | undefined): boolean {
     <header class="mb-10">
       <h1 class="text-3xl font-bold text-slate-900 mb-2">Meal Calendar</h1>
       <p class="text-lg text-slate-600">
-        Weekly meal plans for easy cooking and shopping. Currently on <span
-          class="font-medium text-indigo-600">Week {currentWeekNumber}</span
-        >.
+        Weekly meal plans for easy cooking and shopping. Currently on <span class="font-medium text-indigo-600">Week {currentWeekNumber}</span>.
       </p>
     </header>
 
@@ -68,114 +59,83 @@ function isPastWeek(weekStart: Date | undefined): boolean {
 
     {/* Calendar List */}
     <ol class="space-y-3">
-      {
-        calendars.map((week) => {
-          const isCurrent = isCurrentWeek(week.data.weekStart);
-          const isPast = isPastWeek(week.data.weekStart);
-          const isPlaceholder = week.data.isPlaceholder;
-
-          return (
-            <li>
-              <a
-                href={
-                  isPlaceholder ? undefined : `${import.meta.env.BASE_URL}calendar/${week.slug}`
+      {calendars.map((week) => {
+        const isCurrent = isCurrentWeek(week.data.weekStart);
+        const isPast = isPastWeek(week.data.weekStart);
+        const isPlaceholder = week.data.isPlaceholder;
+        
+        return (
+          <li>
+            <a
+              href={isPlaceholder ? undefined : `${import.meta.env.BASE_URL}calendar/${week.slug}`}
+              class:list={[
+                'block rounded-xl border-2 p-5 transition-all',
+                {
+                  'bg-indigo-50 border-indigo-300 shadow-sm': isCurrent && !isPlaceholder,
+                  'bg-white border-slate-200 hover:border-indigo-300 hover:shadow-md cursor-pointer': !isCurrent && !isPlaceholder && !isPast,
+                  'bg-slate-50 border-slate-200 opacity-60': isPast && !isCurrent,
+                  'bg-amber-50 border-amber-200 border-dashed cursor-default': isPlaceholder,
                 }
-                class:list={[
-                  'block rounded-xl border-2 p-5 transition-all',
-                  {
-                    'bg-indigo-50 border-indigo-300 shadow-sm': isCurrent && !isPlaceholder,
-                    'bg-white border-slate-200 hover:border-indigo-300 hover:shadow-md cursor-pointer':
-                      !isCurrent && !isPlaceholder && !isPast,
-                    'bg-slate-50 border-slate-200 opacity-60': isPast && !isCurrent,
-                    'bg-amber-50 border-amber-200 border-dashed cursor-default': isPlaceholder,
-                  },
-                ]}
-              >
-                <div class="flex items-start justify-between gap-4">
-                  <div class="flex-1 min-w-0">
-                    <div class="flex items-center gap-3 mb-1">
-                      <h2
-                        class:list={[
-                          'font-semibold text-lg',
-                          { 'text-indigo-900': isCurrent && !isPlaceholder },
-                          { 'text-slate-900': !isCurrent && !isPlaceholder },
-                          { 'text-amber-800': isPlaceholder },
-                        ]}
-                      >
-                        {week.data.title}
-                      </h2>
-                      {isCurrent && !isPlaceholder && (
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-600 text-white">
-                          This Week
-                        </span>
-                      )}
-                      {isPlaceholder && (
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-amber-200 text-amber-800">
-                          Coming Soon
-                        </span>
-                      )}
-                    </div>
-                    {week.data.weekStart && week.data.weekEnd && (
-                      <p
-                        class:list={[
-                          'text-sm',
-                          { 'text-indigo-700': isCurrent && !isPlaceholder },
-                          { 'text-slate-500': !isCurrent },
-                        ]}
-                      >
-                        {formatDateRange(week.data.weekStart, week.data.weekEnd)}
-                      </p>
+              ]}
+            >
+              <div class="flex items-start justify-between gap-4">
+                <div class="flex-1 min-w-0">
+                  <div class="flex items-center gap-3 mb-1">
+                    <h2 class:list={[
+                      'font-semibold text-lg',
+                      { 'text-indigo-900': isCurrent && !isPlaceholder },
+                      { 'text-slate-900': !isCurrent && !isPlaceholder },
+                      { 'text-amber-800': isPlaceholder },
+                    ]}>
+                      {week.data.title}
+                    </h2>
+                    {isCurrent && !isPlaceholder && (
+                      <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-600 text-white">
+                        This Week
+                      </span>
+                    )}
+                    {isPlaceholder && (
+                      <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-amber-200 text-amber-800">
+                        Coming Soon
+                      </span>
                     )}
                   </div>
-
-                  {!isPlaceholder && (
-                    <div class="flex-shrink-0">
-                      <svg
-                        class="w-5 h-5 text-slate-400"
-                        fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
-                      >
-                        <path
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          stroke-width="2"
-                          d="M9 5l7 7-7 7"
-                        />
-                      </svg>
-                    </div>
+                  {week.data.weekStart && week.data.weekEnd && (
+                    <p class:list={[
+                      'text-sm',
+                      { 'text-indigo-700': isCurrent && !isPlaceholder },
+                      { 'text-slate-500': !isCurrent },
+                    ]}>
+                      {formatDateRange(week.data.weekStart, week.data.weekEnd)}
+                    </p>
                   )}
                 </div>
-              </a>
-            </li>
-          );
-        })
-      }
+                
+                {!isPlaceholder && (
+                  <div class="flex-shrink-0">
+                    <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                )}
+              </div>
+            </a>
+          </li>
+        );
+      })}
     </ol>
 
     {/* Empty State */}
-    {
-      calendars.length === 0 && (
-        <div class="text-center py-16">
-          <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-slate-100 flex items-center justify-center">
-            <svg
-              class="w-8 h-8 text-slate-400"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
-              />
-            </svg>
-          </div>
-          <p class="text-slate-500 text-lg">No meal plans scheduled yet.</p>
-          <p class="text-slate-400 text-sm mt-1">Check back soon for weekly meal ideas.</p>
+    {calendars.length === 0 && (
+      <div class="text-center py-16">
+        <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-slate-100 flex items-center justify-center">
+          <svg class="w-8 h-8 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+          </svg>
         </div>
-      )
-    }
+        <p class="text-slate-500 text-lg">No meal plans scheduled yet.</p>
+        <p class="text-slate-400 text-sm mt-1">Check back soon for weekly meal ideas.</p>
+      </div>
+    )}
   </div>
 </Layout>

@@ -2,9 +2,9 @@
 title: Taco Tuesday
 template: plate
 main: tacos
-base: basmati-rice
+base: cilantro-lime-rice
 sides: [quick-seasoned-black-beans]
-salad: everyday-arugula-salad
+salad: mexican-street-corn-salad
 totalPrepTime: 20 min
 totalCookTime: 25 min
 totalActiveTime: 30 min

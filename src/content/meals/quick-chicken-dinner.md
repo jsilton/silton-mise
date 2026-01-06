@@ -2,7 +2,7 @@
 title: Quick Chicken Dinner
 template: plate
 main: buttermilk-baked-chicken
-sides: [perfect-mashed-potatoes, steamed-broccoli]
+sides: [perfect-mashed-potatoes, green-beans-with-shallots-and-lemon]
 totalPrepTime: 15 min
 totalCookTime: 45 min
 totalActiveTime: 25 min

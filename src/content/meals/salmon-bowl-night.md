@@ -2,8 +2,8 @@
 title: Salmon Bowl Night
 template: bowl
 main: honey-sriracha-salmon-bowls
-base: basmati-rice
-sides: [steamed-edamame]
+base: steamed-white-rice
+sides: [steamed-edamame, quick-pickled-carrots-and-daikon]
 totalPrepTime: 15 min
 totalCookTime: 20 min
 totalActiveTime: 20 min

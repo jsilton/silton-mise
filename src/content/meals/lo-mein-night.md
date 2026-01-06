@@ -2,7 +2,7 @@
 title: Lo Mein Night
 template: bowl
 main: doc-cheys-chinese-lomein
-sides: [smashed-cucumber-salad, steamed-broccoli]
+sides: [smashed-cucumber-salad, steamed-edamame]
 totalPrepTime: 20 min
 totalCookTime: 15 min
 totalActiveTime: 25 min

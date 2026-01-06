@@ -2,8 +2,8 @@
 title: Thai Curry Bowl
 template: bowl
 main: coconut-chicken-curry
-base: basmati-rice
-sides: [steamed-broccoli]
+base: coconut-jasmine-rice
+sides: [smashed-cucumber-salad]
 totalPrepTime: 20 min
 totalCookTime: 30 min
 totalActiveTime: 25 min

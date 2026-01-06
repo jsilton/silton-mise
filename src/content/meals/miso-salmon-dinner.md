@@ -1,24 +1,24 @@
 ---
-title: Mediterranean Salmon Dinner
+title: Miso Salmon Dinner
 template: plate
 main: miso-salmon-with-bok-choy
-base: basmati-rice
-salad: everyday-arugula-salad
+base: steamed-white-rice
+sides: [smashed-cucumber-salad]
 totalPrepTime: 15 min
 totalCookTime: 20 min
 totalActiveTime: 20 min
 overallDifficulty: easy
-cuisines: [Japanese, Mediterranean]
+cuisines: [Japanese]
 occasions: [weeknight, date-night, light-and-fresh]
 seasons: [year-round]
 nutritionalDensity: moderate
 servings: '4'
-bestFor: [monday, tuesday, wednesday, thursday]
+bestFor: [monday, tuesday, wednesday, thursday, friday]
 ---
 
 ## Meal Overview
 
-A light but satisfying weeknight dinner featuring miso-glazed salmon that caramelizes beautifully under the broiler. The Japanese-Mediterranean fusion works because both cuisines value simplicity and quality ingredients. Quick enough for any weeknight, elegant enough for date night.
+A light but satisfying weeknight dinner featuring miso-glazed salmon that caramelizes beautifully under the broiler. The umami-rich glaze creates a sweet-savory crust while keeping the fish moist. The smashed cucumber salad adds a cool, crunchy contrast that complements the rich fish. Quick enough for any weeknight, elegant enough for date night.
 
 ## Cooking Strategy
 

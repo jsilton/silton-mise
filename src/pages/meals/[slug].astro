@@ -51,13 +51,12 @@ const templateColors: Record<string, string> = {
   <div class="max-w-3xl mx-auto">
     {/* Breadcrumb */}
     <nav class="mb-6">
-      <a
-        href={`${import.meta.env.BASE_URL}meals`}
+      <a 
+        href={`${import.meta.env.BASE_URL}meals`} 
         class="inline-flex items-center gap-2 text-sm text-slate-500 hover:text-indigo-600 transition-colors"
       >
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"
-          ></path>
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
         </svg>
         Back to Meals
       </a>
@@ -67,285 +66,164 @@ const templateColors: Record<string, string> = {
     <header class="mb-8 pb-6 border-b border-slate-200">
       <div class="flex items-start gap-4 mb-4">
         <h1 class="text-3xl font-bold text-slate-900 flex-1">{meal.data.title}</h1>
-        {
-          meal.data.template && (
-            <span
-              class={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ${templateColors[meal.data.template] || 'bg-slate-100 text-slate-700'}`}
-            >
-              {templateLabels[meal.data.template] || meal.data.template}
-            </span>
-          )
-        }
+        {meal.data.template && (
+          <span class={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ${templateColors[meal.data.template] || 'bg-slate-100 text-slate-700'}`}>
+            {templateLabels[meal.data.template] || meal.data.template}
+          </span>
+        )}
       </div>
 
       {/* Time Info */}
-      {
-        (meal.data.totalPrepTime || meal.data.totalCookTime || meal.data.totalActiveTime) && (
-          <div class="flex flex-wrap gap-4 text-sm">
-            {meal.data.totalActiveTime && (
-              <div class="flex items-center gap-2 text-slate-600">
-                <svg
-                  class="w-4 h-4 text-slate-400"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
-                  />
-                </svg>
-                <span>
-                  <strong>Active:</strong> {meal.data.totalActiveTime}
-                </span>
-              </div>
-            )}
-            {meal.data.totalPrepTime && (
-              <div class="flex items-center gap-2 text-slate-600">
-                <span>
-                  <strong>Prep:</strong> {meal.data.totalPrepTime}
-                </span>
-              </div>
-            )}
-            {meal.data.totalCookTime && (
-              <div class="flex items-center gap-2 text-slate-600">
-                <span>
-                  <strong>Cook:</strong> {meal.data.totalCookTime}
-                </span>
-              </div>
-            )}
-          </div>
-        )
-      }
+      {(meal.data.totalPrepTime || meal.data.totalCookTime || meal.data.totalActiveTime) && (
+        <div class="flex flex-wrap gap-4 text-sm">
+          {meal.data.totalActiveTime && (
+            <div class="flex items-center gap-2 text-slate-600">
+              <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              <span><strong>Active:</strong> {meal.data.totalActiveTime}</span>
+            </div>
+          )}
+          {meal.data.totalPrepTime && (
+            <div class="flex items-center gap-2 text-slate-600">
+              <span><strong>Prep:</strong> {meal.data.totalPrepTime}</span>
+            </div>
+          )}
+          {meal.data.totalCookTime && (
+            <div class="flex items-center gap-2 text-slate-600">
+              <span><strong>Cook:</strong> {meal.data.totalCookTime}</span>
+            </div>
+          )}
+        </div>
+      )}
     </header>
 
     {/* Recipe Components */}
     <section class="mb-8">
-      <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-4">
-        Recipes in This Meal
-      </h2>
-      <div
-        class="bg-white rounded-xl border border-slate-200 divide-y divide-slate-100 overflow-hidden"
-      >
-        {
-          meal.data.main && (
-            <a
-              href={`${import.meta.env.BASE_URL}recipes/${meal.data.main}`}
-              class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
-            >
-              <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">
-                Main
-              </span>
-              <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
-                {getRecipeTitle(meal.data.main)}
-              </span>
-              <svg
-                class="w-4 h-4 text-slate-300 group-hover:text-indigo-400"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </a>
-          )
-        }
+      <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-4">Recipes in This Meal</h2>
+      <div class="bg-white rounded-xl border border-slate-200 divide-y divide-slate-100 overflow-hidden">
+        {meal.data.main && (
+          <a 
+            href={`${import.meta.env.BASE_URL}recipes/${meal.data.main}`}
+            class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
+          >
+            <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">Main</span>
+            <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
+              {getRecipeTitle(meal.data.main)}
+            </span>
+            <svg class="w-4 h-4 text-slate-300 group-hover:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        )}
+        
+        {meal.data.sides && meal.data.sides.map((side) => (
+          <a 
+            href={`${import.meta.env.BASE_URL}recipes/${side}`}
+            class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
+          >
+            <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">Side</span>
+            <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
+              {getRecipeTitle(side)}
+            </span>
+            <svg class="w-4 h-4 text-slate-300 group-hover:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        ))}
 
-        {
-          meal.data.sides &&
-            meal.data.sides.map((side) => (
-              <a
-                href={`${import.meta.env.BASE_URL}recipes/${side}`}
-                class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
-              >
-                <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">
-                  Side
-                </span>
-                <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
-                  {getRecipeTitle(side)}
-                </span>
-                <svg
-                  class="w-4 h-4 text-slate-300 group-hover:text-indigo-400"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 5l7 7-7 7"
-                  />
-                </svg>
-              </a>
-            ))
-        }
+        {meal.data.base && (
+          <a 
+            href={`${import.meta.env.BASE_URL}recipes/${meal.data.base}`}
+            class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
+          >
+            <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">Base</span>
+            <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
+              {getRecipeTitle(meal.data.base)}
+            </span>
+            <svg class="w-4 h-4 text-slate-300 group-hover:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        )}
 
-        {
-          meal.data.base && (
-            <a
-              href={`${import.meta.env.BASE_URL}recipes/${meal.data.base}`}
-              class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
-            >
-              <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">
-                Base
-              </span>
-              <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
-                {getRecipeTitle(meal.data.base)}
-              </span>
-              <svg
-                class="w-4 h-4 text-slate-300 group-hover:text-indigo-400"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </a>
-          )
-        }
+        {meal.data.salad && (
+          <a 
+            href={`${import.meta.env.BASE_URL}recipes/${meal.data.salad}`}
+            class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
+          >
+            <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">Salad</span>
+            <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
+              {getRecipeTitle(meal.data.salad)}
+            </span>
+            <svg class="w-4 h-4 text-slate-300 group-hover:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        )}
 
-        {
-          meal.data.salad && (
-            <a
-              href={`${import.meta.env.BASE_URL}recipes/${meal.data.salad}`}
-              class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
-            >
-              <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">
-                Salad
-              </span>
-              <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
-                {getRecipeTitle(meal.data.salad)}
-              </span>
-              <svg
-                class="w-4 h-4 text-slate-300 group-hover:text-indigo-400"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </a>
-          )
-        }
+        {meal.data.sauce && (
+          <a 
+            href={`${import.meta.env.BASE_URL}recipes/${meal.data.sauce}`}
+            class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
+          >
+            <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">Sauce</span>
+            <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
+              {getRecipeTitle(meal.data.sauce)}
+            </span>
+            <svg class="w-4 h-4 text-slate-300 group-hover:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        )}
 
-        {
-          meal.data.sauce && (
-            <a
-              href={`${import.meta.env.BASE_URL}recipes/${meal.data.sauce}`}
-              class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
-            >
-              <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">
-                Sauce
-              </span>
-              <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
-                {getRecipeTitle(meal.data.sauce)}
-              </span>
-              <svg
-                class="w-4 h-4 text-slate-300 group-hover:text-indigo-400"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </a>
-          )
-        }
-
-        {
-          meal.data.dessert && (
-            <a
-              href={`${import.meta.env.BASE_URL}recipes/${meal.data.dessert}`}
-              class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
-            >
-              <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">
-                Dessert
-              </span>
-              <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
-                {getRecipeTitle(meal.data.dessert)}
-              </span>
-              <svg
-                class="w-4 h-4 text-slate-300 group-hover:text-indigo-400"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </a>
-          )
-        }
+        {meal.data.dessert && (
+          <a 
+            href={`${import.meta.env.BASE_URL}recipes/${meal.data.dessert}`}
+            class="flex items-center gap-4 p-4 hover:bg-slate-50 transition-colors group"
+          >
+            <span class="w-20 flex-shrink-0 text-xs font-semibold text-slate-400 uppercase tracking-wider">Dessert</span>
+            <span class="flex-1 font-medium text-slate-900 group-hover:text-indigo-600 transition-colors">
+              {getRecipeTitle(meal.data.dessert)}
+            </span>
+            <svg class="w-4 h-4 text-slate-300 group-hover:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        )}
       </div>
     </section>
 
     {/* Best For Days */}
-    {
-      meal.data.bestFor && meal.data.bestFor.length > 0 && (
-        <section class="mb-8">
-          <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">
-            Best For
-          </h2>
-          <div class="flex flex-wrap gap-2">
-            {meal.data.bestFor.map((day) => (
-              <span class="inline-flex items-center px-3 py-1.5 bg-indigo-50 text-indigo-700 text-sm font-medium rounded-lg">
-                {day}
-              </span>
-            ))}
-          </div>
-        </section>
-      )
-    }
+    {meal.data.bestFor && meal.data.bestFor.length > 0 && (
+      <section class="mb-8">
+        <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">Best For</h2>
+        <div class="flex flex-wrap gap-2">
+          {meal.data.bestFor.map((day) => (
+            <span class="inline-flex items-center px-3 py-1.5 bg-indigo-50 text-indigo-700 text-sm font-medium rounded-lg">
+              {day}
+            </span>
+          ))}
+        </div>
+      </section>
+    )}
 
     {/* Cuisines */}
-    {
-      meal.data.cuisines && meal.data.cuisines.length > 0 && (
-        <section class="mb-8">
-          <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">
-            Cuisines
-          </h2>
-          <div class="flex flex-wrap gap-2">
-            {meal.data.cuisines.map((cuisine) => (
-              <span class="inline-flex items-center px-3 py-1.5 bg-purple-50 text-purple-700 text-sm font-medium rounded-lg">
-                {cuisine}
-              </span>
-            ))}
-          </div>
-        </section>
-      )
-    }
+    {meal.data.cuisines && meal.data.cuisines.length > 0 && (
+      <section class="mb-8">
+        <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">Cuisines</h2>
+        <div class="flex flex-wrap gap-2">
+          {meal.data.cuisines.map((cuisine) => (
+            <span class="inline-flex items-center px-3 py-1.5 bg-purple-50 text-purple-700 text-sm font-medium rounded-lg">
+              {cuisine}
+            </span>
+          ))}
+        </div>
+      </section>
+    )}
 
     {/* Notes from markdown body */}
-    <section
-      class="prose prose-slate max-w-none prose-headings:text-slate-900 prose-p:text-slate-600 prose-p:leading-relaxed"
-    >
+    <section class="prose prose-slate max-w-none prose-headings:text-slate-900 prose-p:text-slate-600 prose-p:leading-relaxed">
       <Content />
     </section>
   </div>

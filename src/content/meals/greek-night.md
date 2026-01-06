@@ -2,8 +2,7 @@
 title: Greek Night
 template: plate
 main: greek-style-lamb-burgers-with-yogurt-cucumber-sauce
-sides: [greek-salad]
-base: basmati-rice
+sides: [greek-salad, homemade-naan]
 totalPrepTime: 20 min
 totalCookTime: 15 min
 totalActiveTime: 25 min

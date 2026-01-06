@@ -2,8 +2,13 @@
 title: Korean BBQ Night
 template: plate
 main: kalbi-grilled-korean-style-short-ribs
-base: basmati-rice
-sides: [garlic-sesame-spinach, fresh-cabbage-cucumber-and-radish-kimchi]
+base: steamed-white-rice
+sides:
+  [
+    simply-seasoned-korean-spinach-salad,
+    fresh-cabbage-cucumber-and-radish-kimchi,
+    korean-pickled-cucumbers,
+  ]
 totalPrepTime: 30 min
 totalCookTime: 15 min
 totalActiveTime: 30 min
