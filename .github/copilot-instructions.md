@@ -15,8 +15,11 @@ You are assisting with **Mise**, a statically generated recipe codex built with 
 ## Critical Workflows
 
 - **Recipe Validation**: ALWAYS run `npm run validate-recipes` after modifying content or schema.
-- **QA Testing**: Run `npm run qa` before finalizing changes. This checks links, images, and content integrity.
-- **Verification**: `npm run build` is the source of truth. If it fails, the task is incomplete.
+- **QA Testing**: Run `npm run qa` before finalizing changes to check links, images, and content integrity.
+- **Deployment Protocol**:
+  1. **QA**: `npm run qa` (Must pass).
+  2. **Build**: `npm run build` (Must pass).
+  3. **Commit & Push**: Never leave changes in a "staged" state. If the user asked for a change, deploy it.
 - **Git**: Commits must be atomic. Push immediately after successful build (CI/CD relies on this).
 
 ## Code & Content Conventions
