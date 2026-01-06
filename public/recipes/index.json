@@ -39,7 +39,7 @@
     "aliases": []
   },
   {
-    "slug": "arugula-and-feta-salad-with-strawberry-vinaigrette",
+    "slug": "arugula-feta-salad",
     "title": "Arugula & Feta Salad with Strawberry Vinaigrette",
     "aliases": []
   },
@@ -84,17 +84,12 @@
     "aliases": []
   },
   {
-    "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
-    "title": "Spanish Rice with Chorizo and Chickpeas",
-    "aliases": []
-  },
-  {
     "slug": "bakery-style-chocolate-chip-muffins",
     "title": "Bakery Style Chocolate Chip Muffins",
     "aliases": []
   },
   {
-    "slug": "balsamic-peach-pork-chops-with-feta-and-basil",
+    "slug": "balsamic-peach-pork",
     "title": "Balsamic Peach Pork Chops",
     "aliases": []
   },
@@ -138,11 +133,6 @@
   {
     "slug": "beef-tenderloin-dogs-with-corn-relish",
     "title": "Beef Hot Dogs with Corn Relish",
-    "aliases": []
-  },
-  {
-    "slug": "bernards-style-char-siu",
-    "title": "Char Siu",
     "aliases": []
   },
   {
@@ -311,8 +301,8 @@
     "aliases": []
   },
   {
-    "slug": "char-siu-chinese-bbq-pork",
-    "title": "Char Siu",
+    "slug": "char-siu",
+    "title": "Char Siu (Chinese BBQ Pork)",
     "aliases": []
   },
   {
@@ -1991,11 +1981,6 @@
     "aliases": []
   },
   {
-    "slug": "slow-cooker-creamy-tortellini-spinach-and-chicken-soup",
-    "title": "Tortellini Soup",
-    "aliases": []
-  },
-  {
     "slug": "slow-cooker-general-tsos-chicken",
     "title": "Slow Cooker General Tso's Chicken",
     "aliases": []
@@ -2008,6 +1993,11 @@
   {
     "slug": "slow-cooker-korean-beef",
     "title": "Slow Cooker Korean Beef",
+    "aliases": []
+  },
+  {
+    "slug": "slow-cooker-tortellini-soup",
+    "title": "Tortellini Soup",
     "aliases": []
   },
   {
@@ -2068,6 +2058,11 @@
     "aliases": []
   },
   {
+    "slug": "spanish-rice-chorizo",
+    "title": "Spanish Rice with Chorizo and Chickpeas",
+    "aliases": []
+  },
+  {
     "slug": "spiced-butternut-squash-puree",
     "title": "Butternut Squash Purée",
     "aliases": []
@@ -2113,13 +2108,18 @@
     "aliases": []
   },
   {
-    "slug": "steamed-mussels-with-tomato-and-chorizo-broth",
+    "slug": "steamed-mussels-chorizo",
     "title": "Mussels with Chorizo Broth",
     "aliases": []
   },
   {
     "slug": "steamed-noodles-with-green-beans",
     "title": "Noodles with Green Beans",
+    "aliases": []
+  },
+  {
+    "slug": "steamed-white-rice",
+    "title": "Steamed White Rice (Short Grain)",
     "aliases": []
   },
   {

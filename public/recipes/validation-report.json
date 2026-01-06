@@ -12,7 +12,7 @@
     "image": 481,
     "chefNote": 0,
     "directions": 0,
-    "directionsFormatting": 210
+    "directionsFormatting": 211
   },
   "invalidValuesCount": {
     "role": 0,
@@ -52,7 +52,7 @@
       "apple-chai-oatmeal-cups",
       "apple-cider-cream-pie",
       "apple-pie",
-      "arugula-and-feta-salad-with-strawberry-vinaigrette",
+      "arugula-feta-salad",
       "asian-glazed-meatballs",
       "avgolemono-soup",
       "avocado-kale-caesar-salad",
@@ -61,17 +61,17 @@
       "baked-chicken-parmesan",
       "baked-cod-with-lemon-panko",
       "baked-macaroni-and-pimento-cheese",
-      "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
       "bakery-style-chocolate-chip-muffins",
-      "balsamic-peach-pork-chops-with-feta-and-basil",
-      "banana-egg-oat-pancakes"
+      "balsamic-peach-pork",
+      "banana-egg-oat-pancakes",
+      "banana-nut-bread"
     ],
     "invalidRoles": [],
     "invalidVibes": [],
     "brokenInternalLinks": [],
     "brokenWikiLinks": []
   },
-  "suggestionsCount": 1586,
+  "suggestionsCount": 1585,
   "sampleSuggestions": [
     {
       "slug": "almond-zucchini-bread",
@@ -193,13 +193,13 @@
       "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
     },
     {
-      "slug": "arugula-and-feta-salad-with-strawberry-vinaigrette",
+      "slug": "arugula-feta-salad",
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
     },
     {
-      "slug": "arugula-and-feta-salad-with-strawberry-vinaigrette",
+      "slug": "arugula-feta-salad",
       "ruleId": "kb.plating-suggestion",
       "title": "Plating: add color or height when absent",
       "severity": "hint",
@@ -380,31 +380,30 @@
       "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
     },
     {
-      "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
+      "slug": "bakery-style-chocolate-chip-muffins",
       "ruleId": "architecture-and-practices",
       "title": "Development Standards & Architecture",
       "severity": "high"
     },
     {
-      "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
-      "ruleId": "kb.low-temp-poultry",
-      "title": "Poultry low-temperature safety note",
-      "severity": "warn",
-      "suggestion": "This recipe references low-temperature cooking for poultry. Ensure it includes safe time/temperature notes (e.g., 60°C for 2 hours for pasteurization) or use higher temperatures to guarantee safety."
-    },
-    {
-      "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
-      "ruleId": "kb.maillard-note",
-      "title": "Maillard note: dry surface for browning",
+      "slug": "bakery-style-chocolate-chip-muffins",
+      "ruleId": "kb.missing-salt",
+      "title": "Recommend tasting and seasoning",
       "severity": "hint",
-      "suggestion": "For better browning, pat proteins dry and avoid overcrowding the pan; use a hot pan and enough fat to reach Maillard temperatures."
+      "suggestion": "Consider adding a step to taste and adjust seasoning (salt and acid) before serving."
     },
     {
-      "slug": "baked-spanish-rice-with-chorizo-chickpeas-and-raisins",
+      "slug": "bakery-style-chocolate-chip-muffins",
       "ruleId": "kb.plating-suggestion",
       "title": "Plating: add color or height when absent",
       "severity": "hint",
       "suggestion": "Consider a bright finishing garnish (herbs, citrus zest, pickles) or a crunchy element to add color and texture."
+    },
+    {
+      "slug": "balsamic-peach-pork",
+      "ruleId": "architecture-and-practices",
+      "title": "Development Standards & Architecture",
+      "severity": "high"
     }
   ]
 }
