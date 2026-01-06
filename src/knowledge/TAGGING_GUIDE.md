@@ -144,6 +144,60 @@ Example: `difficulty: intermediate`
 
 ---
 
+### 7. **seasons** (Array)
+
+Best time of year to cook this recipe.
+
+- `spring` — asparagus, peas, spring onions, lamb, lighter dishes
+- `summer` — tomatoes, zucchini, berries, corn, grilling, refreshing
+- `fall` — squash, apples, sweet potatoes, warming spices
+- `winter` — root vegetables, hearty greens, citrus, comfort
+- `year-round` — no seasonal dependencies, pantry/frozen ingredients
+
+Example: `seasons: [summer, fall]`
+
+---
+
+### 8. **nutritionalDensity** (Single Value)
+
+Meal weight and perceived heaviness.
+
+- `light` — salads, seafood, veg-forward (<500 cal feel)
+- `moderate` — balanced protein + starch + veg (500-700 cal feel)
+- `hearty` — pasta, stews, rich sauces, casseroles (>700 cal feel)
+
+Example: `nutritionalDensity: moderate`
+
+---
+
+### 9. **leftovers** (Single Value)
+
+Reheating quality.
+
+- `poor` — texture degrades (crispy, delicate fish, dressed salads)
+- `good` — reheats okay, minimal quality loss
+- `excellent` — improves with time or perfect reheat (stews, curries)
+
+Example: `leftovers: excellent`
+
+---
+
+### 10. **advancePrep** (Array)
+
+Preparation steps required hours or days before cooking.
+
+- `marinate-overnight` — proteins need 4+ hours
+- `make-ahead-sauce` — sauce can be prepped early
+- `dough-rest` — needing resting time
+- `brine` — require brining
+- `pickle` — pickling time
+- `chill-overnight` — setting time (desserts)
+- `freeze-ahead` — can be frozen before cooking
+
+Example: `advancePrep: [marinate-overnight]`
+
+---
+
 ## Schema Example
 
 ```yaml

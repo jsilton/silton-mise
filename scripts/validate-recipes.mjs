@@ -1,4 +1,5 @@
 import fs from 'fs/promises';
+/* eslint-disable no-console */
 import path from 'path';
 import matter from 'gray-matter';
 
@@ -77,7 +78,7 @@ function normalizeKey(str) {
           }
         }
       }
-    } catch (err) {
+    } catch {
       // no KB yet; that's fine
     }
   }
@@ -89,7 +90,7 @@ function normalizeKey(str) {
 
   for (const file of files) {
     const raw = await fs.readFile(file, 'utf8');
-    const { data, content } = matter(raw);
+    const { data } = matter(raw);
     const slug = path.basename(file, '.md');
 
     // Collect meta

@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* eslint-disable no-console */
 
 /**
  * QA & Regression Testing Suite
@@ -10,10 +11,6 @@
 import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 // Color codes for terminal output
 const colors = {
@@ -143,15 +140,6 @@ checks.forEach((check) => {
 // ============================================================================
 
 section('4. COMPONENT INTEGRITY');
-
-function checkComponentImports(filePath, requiredImports = []) {
-  try {
-    const content = fs.readFileSync(filePath, 'utf-8');
-    return requiredImports.every((imp) => content.includes(imp));
-  } catch {
-    return false;
-  }
-}
 
 // Check homepage imports components
 const homeContent = fs.readFileSync(path.join(process.cwd(), 'src/pages/index.astro'), 'utf-8');
